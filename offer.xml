@@ -1,0 +1,202 @@
+<yml_catalog date="2019-07-02 23:16">
+  <shop>
+    <name>PC parts</name>
+    <company>Kozatchok</company>
+    <url>https://kozatchok.prom.ua/</url>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="2">Компьютеры и ноутбуки</category>
+      <category id="21" parentId="2">Компьютерные комплектующие</category>
+      <category id="211" parentId="21">Видеокарты</category>
+      <category id="212" parentId="21">Системы охлаждения</category>
+    </categories>
+    <offers>
+      <offer available="true" id="995405630">
+        <url>https://kozatchok.prom.ua/p995405630-videokarty-xfx-radeon.html</url>
+        <price>1390</price>
+        <currencyId>UAH</currencyId>
+            <picture>https://images.ua.prom.st/1856814036_videokarty-xfx-radeon.jpg</picture>
+        <picture>https://images.ua.prom.st/1856814037_videokarty-xfx-radeon.jpg</picture>
+        <picture>https://images.ua.prom.st/1856814039_videokarty-xfx-radeon.jpg</picture>
+        <picture>https://images.ua.prom.st/1856814040_videokarty-xfx-radeon.jpg</picture>
+        <picture>https://images.ua.prom.st/1856814038_videokarty-xfx-radeon.jpg</picture>
+        <name>Видеокарты XFX Radeon HD7770 2Gb GDDR5 128 Bit Б/У</name>
+        <vendor>XFX</vendor>
+        <state>used</state>
+        <categoryId>211</categoryId>
+        <description>
+          <![CDATA[ <h3><span style="font-size:14px;">Состояние хорошее.</span></h3> <h3><span style="font-size:14px;">Все видеокарты с заводскими пломбами.</span></h3> <h3><span style="font-size:14px;">Следов ремонта нет.<br /> Все видеокарты протестированы в стресс тесте FurMark при длительной нагрузке.<br /> По требованию, на все видеокарты можем предоставить видео теста.<br /> <br /> <br /> Максимальное энергопотребление, Вт:&nbsp; ~80</span></h3> <h3><span style="font-size:14px;">Требуется дополнительное питание 6-pin</span></h3> <h3><span style="font-size:14px;">Минимальные требования к блоку питания, Вт: 450</span></h3> <h3><span style="font-size:14px;">Тип упаковки: ОЕМ</span></h3> <h3><span style="font-size:14px;">Комплектация: видеокарта, кабель питания 6-pin<br /> </span></h3> <h2>&nbsp;</h2> <p>&nbsp;</p>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Тип памяти">GDDR5</param>
+        <param name="Разрядность шины памяти">128 бит</param>
+        <param name="Разъемы">DVI|HDMI|VGA (D-sub)</param>
+        <param name="Частота памяти">4000.0 МГц</param>
+        <param name="Частота ядра">1000.0 МГц</param>
+        <param name="Объем памяти">2048 MB</param>
+        <param name="Тип системы охлаждения">Активная</param>
+        <param name="Дополнительное питание">6-pin</param>
+        <param name="Гарантия">1 месяц</param>
+      </offer>
+      <offer available="true" id="995429684">
+        <url>https://kozatchok.prom.ua/p995429684-videokarty-gigabyte-geforce.html</url>
+        <price>1150</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/1856842272_videokarty-gigabyte-geforce.jpg</picture>
+        <picture>https://images.ua.prom.st/1856842365_videokarty-gigabyte-geforce.jpg</picture>
+        <picture>https://images.ua.prom.st/1856842366_videokarty-gigabyte-geforce.jpg</picture>
+        <picture>https://images.ua.prom.st/1856842372_videokarty-gigabyte-geforce.jpg</picture>
+        <picture>https://images.ua.prom.st/1856842295_videokarty-gigabyte-geforce.jpg</picture>
+        <name>Видеокарты Gigabyte GeForce GTX650 1Gb GDDR5 128 Bit Б/У</name>
+        <vendor>Gigabyte</vendor>
+        <state>used</state>
+        <categoryId>211</categoryId>
+        <description>
+          <![CDATA[ <h3><span style="font-size:14px;">Состояние хорошее.</span></h3> <h3><span style="font-size:14px;">У некоторых на задней панели и крепежных винтах есть небольшие точки коррозии.</span></h3> <h3><span style="font-size:14px;">Следов ремонта нет.<br /> Все видеокарты протестированы в стресс тесте FurMark при длительной нагрузке.<br /> По требованию, на все видеокарты можем предоставить видео теста.<br /> <br /> <br /> Максимальное энергопотребление, Вт:&nbsp; ~ 65</span></h3> <h3><span style="font-size:14px;">Требуется дополнительное питание 6-pin</span></h3> <h3><span style="font-size:14px;">Минимальные требования к блоку питания, Вт: 400</span></h3> <h3><span style="font-size:14px;">Тип упаковки: ОЕМ</span></h3> <h3><span style="font-size:14px;">Комплектация: видеокарта, кабель питания 6-pin</span><br style="box-sizing: border-box" /> </h3> <h2>&nbsp;</h2> <p>&nbsp;</p>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Тип памяти">GDDR5</param>
+        <param name="Разрядность шины памяти">128 бит</param>
+        <param name="Разъемы">DVI|HDMI|VGA (D-sub)</param>
+        <param name="Частота памяти">4000.0 МГц</param>
+        <param name="Частота ядра">1000.0 МГц</param>
+        <param name="Объем памяти">2048 MB</param>
+        <param name="Тип системы охлаждения">Активная</param>
+        <param name="Дополнительное питание">6 pin</param>
+        <param name="Гарантия">1 месяц</param>
+      </offer>
+      <offer available="true" id="995435471">
+        <url>https://kozatchok.prom.ua/p995435471-kuler-dlya-protsessora.html</url>
+        <price>390</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/1856859159_kuler-dlya-protsessora.jpg</picture>
+        <picture>https://images.ua.prom.st/1856859160_kuler-dlya-protsessora.jpg</picture>
+        <picture>https://images.ua.prom.st/1856859162_kuler-dlya-protsessora.jpg</picture>
+        <picture>https://images.ua.prom.st/1856859161_kuler-dlya-protsessora.jpg</picture>
+        <picture>https://images.ua.prom.st/1856859164_kuler-dlya-protsessora.jpg</picture>
+        <picture>https://images.ua.prom.st/1856859163_kuler-dlya-protsessora.jpg</picture>
+        <picture>https://images.ua.prom.st/1856859158_kuler-dlya-protsessora.jpg</picture>
+        <name>Кулер для процессора Ashura Extreme 300 (№225)</name>
+        <vendor>Ashura</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2>&nbsp;</h2> <p>Активное охлаждение для процессора.&nbsp;Три тепловые медные трубки.</p> <p>Качественный недорогой кулер, работает тихо. Все проверены.<br /> Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA <strong>775/1150/1155/1156/1366&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD <strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 92&nbsp;* 64&nbsp;* 138&nbsp;мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 92 * 92 * 25 мм&nbsp;<br /> Вес: 420 грамм&nbsp;<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 2200&nbsp;&plusmn; 10% об / мин&nbsp;<br /> Максимальный объем воздуха: 36 CFM&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: <strong>4-pin</strong></p> <p>&nbsp;</p> <span></span>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Тип">Активная (кулер)</param>
+        <param name="Частота вращения">2200 об/мин</param>
+        <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366</param>
+        <param
+        name="Питание и тип коннектора">4-pin</param>
+          <param name="Размер вентилятора">92 мм</param>
+          <param name="Назначение">Для процессора</param>
+          <param name="Тип подшипника">Гидродинамический</param>
+          <param name="Материал радиатора">Алюминий - медь</param>
+          <param name="Гарантия">6 месяцев</param>
+      </offer>
+      <offer available="true" id="995438568">
+        <url>https://kozatchok.prom.ua/p995438568-ventilyatory-everflow-dlya.html</url>
+        <price>540</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/1856869460_ventilyatory-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/1856869355_ventilyatory-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/1856869356_ventilyatory-everflow-dlya.jpg</picture>
+        <name>Вентиляторы Everflow для видеокарты Gigabyte T129215SU (№131)</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;">Цена указана за комплект - 2 вентилятора + кабель подключения к видеокарте</span></h3> <h3><span style="font-size:14px;">Совместимость с видеокартами</span></h3> <h3><strong><span style="font-size:14px;">GTX 1060<br /> GTX 1070<br /> GTX 1070Ti</span></strong></h3> <h3><strong><span style="font-size:14px;">RX 470<br /> RX 480<br /> RX 570<br /> RX 580<br /> RX 590</span></strong></h3> <h3><span style="font-size:14px;">Маркировка - T129215SU</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 87 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: 0.5 A<br /> Интерфейс вентилятора: плата 4-pin&nbsp;интерфейс (интеллектуальная функция контроля температуры</span></h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+      </offer>
+      <offer available="true" id="996993973">
+        <url>https://kozatchok.prom.ua/p996993973-ventilyator-everflow-dlya.html</url>
+        <price>290</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/1861145447_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/1861145654_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/1861145487_ventilyator-everflow-dlya.jpg</picture>
+        <name>Вентилятор Everflow для видеокарты Gigabyte Mini ITX T129215SU №133</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h3>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;Mini ITX</strong></h3> <h3><strong>GTX 1050<br /> GTX 1050Ti<br /> GTX 1060<br /> GTX 1070</strong></h3> <h3><strong>RX 550<br /> RX 560</strong></h3> <h3>Маркировка - T129215SU&nbsp;</h3> <h3>Диаметр вентилятора: 87&nbsp;мм&nbsp;<br /> Винтовые отверстия: 40 мм</h3> <h3>Высота:&nbsp; 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: 0,5 А<br /> Интерфейс вентилятора: подключение 4-pin (интеллектуальная функция контроля температуры)</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+      </offer>
+      <offer available="true" id="997014736">
+        <url>https://kozatchok.prom.ua/p997014736-ventilyator-apistek-dlya.html</url>
+        <price>290</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/1861167584_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/1861167585_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/1861167586_ventilyator-apistek-dlya.jpg</picture>
+        <name>Вентилятор Apistek для видеокарты Zotac GA81S2U GA91S2H №78</name>
+        <vendor>Apistek</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac</strong></span></h3> <h3><strong><span style="font-size:14px;">GTX 960<br /> GTX 970<br /> GTX 980<br /> GTX 1060</span></strong></h3> <h3><span style="font-size:14px;">Возможно список видеокарт&nbsp;неполный.&nbsp;</span></h3> <h3><span style="font-size:14px;">Маркировка -&nbsp;GA81S2U / GA91S2H</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 75 мм<br /> Винтовые отверстия: 83 мм х 16 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: 0.35A<br /> Интерфейс вентилятора: подключение 4-pin&nbsp;интерфейс (интеллектуальная функция контроля температуры)</span></h3> <h3><span style="font-size:14px;">По требованию, бесплатно укомплектуем кабелем удлинителем&nbsp;4-pin</span></h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Размер вентилятора">75 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+      </offer>
+      <offer available="true" id="997038782">
+        <url>https://kozatchok.prom.ua/p997038782-kuler-dlya-protsessora.html</url>
+        <price>290</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/1861216427_kuler-dlya-protsessora.jpg</picture>
+        <picture>https://images.ua.prom.st/1861216431_kuler-dlya-protsessora.jpg</picture>
+        <picture>https://images.ua.prom.st/1861216451_kuler-dlya-protsessora.jpg</picture>
+        <picture>https://images.ua.prom.st/1861216453_kuler-dlya-protsessora.jpg</picture>
+        <picture>https://images.ua.prom.st/1861216454_kuler-dlya-protsessora.jpg</picture>
+        <picture>https://images.ua.prom.st/1861216428_kuler-dlya-protsessora.jpg</picture>
+        <name>Кулер для процессора Tianjifeng Ice Zun 300 (№223)</name>
+        <vendor>Tianjifeng</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2>&nbsp;</h2> <p>Активное охлаждение для процессора.&nbsp;Две тепловые медные трубки.</p> <p>Качественный недорогой кулер, работает тихо. Все проверены.</p> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/1150/1155/1156&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 92&nbsp;* 65 * 129 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 92 * 92 * 25 мм&nbsp;<br /> Вес: 330 грамм&nbsp;<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 2200&nbsp;&plusmn; 10% об / мин&nbsp;<br /> Максимальный объем воздуха: 25.5 CFM&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: 3-pin</p> <p>&nbsp;</p> <span></span>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Частота вращения">2200 об/мин</param>
+        <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366</param>
+        <param
+        name="Питание и тип коннектора">3-pin</param>
+          <param name="Размер вентилятора">92 мм</param>
+          <param name="Назначение">Для процессора</param>
+          <param name="Тип подшипника">Гидродинамический</param>
+          <param name="Материал радиатора">Алюминий - медь</param>
+          <param name="Тип">Воздушное охлаждение (кулер)</param>
+          <param name="Гарантия">6 месяцев</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
