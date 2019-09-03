@@ -58,6 +58,7 @@
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">HD 7770</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA (D-sub)</param>
@@ -111,6 +112,7 @@
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GTX 650</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA (D-sub)</param>
@@ -278,6 +280,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">HD 6770</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA (D-sub)</param>
@@ -332,6 +335,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">HD 7750</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA (D-sub)</param>
@@ -386,6 +390,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GTX 650</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA (D-sub)</param>
@@ -440,6 +445,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GTX 650</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA (D-sub)</param>
@@ -495,6 +501,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GTX 650</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA (D-sub)</param>
@@ -548,6 +555,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GT 730</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">64 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA (D-sub)</param>
@@ -600,6 +608,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">HD 7770</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|DisplayPort</param>
@@ -652,6 +661,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">HD 7770</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|DisplayPort</param>
@@ -703,6 +713,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">R7 360</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|DisplayPort</param>
@@ -754,6 +765,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GTX 750</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA</param>
@@ -806,6 +818,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">R7 260X</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA</param>
@@ -857,6 +870,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">RX 460</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|DisplayPort</param>
@@ -906,6 +920,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">R7 360</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|DisplayPort</param>
@@ -957,6 +972,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GTX 750Ti</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA</param>
@@ -4248,6 +4264,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">R9 370X</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">256 бит</param>
         <param name="Разъемы">DVI|HDMI</param>
@@ -4297,6 +4314,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">R7 265</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">256 бит</param>
         <param name="Разъемы">DVI|HDMI|DisplayPort</param>
@@ -4345,6 +4363,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GTX 750Ti</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|VGA</param>
@@ -4393,6 +4412,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GTX 750Ti</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|DisplayPort</param>
@@ -4423,6 +4443,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GTX 960</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|DisplayPort</param>
@@ -5550,6 +5571,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GTX 950</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
         <param name="Разъемы">DVI|HDMI|DisplayPort</param>
@@ -5632,6 +5654,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
+        <param name="Графический чип">GTX 660</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">192 бит</param>
         <param name="Разъемы">DVI|HDMI|DisplayPort</param>
