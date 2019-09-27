@@ -1810,7 +1810,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1000839544">
+      <offer available="false" id="1000839544">
         <url>https://kozatchok.prom.ua/p1000839544-protsessor-amd-athlon.html</url>
         <price>200</price>
         <currencyId>UAH</currencyId>
@@ -1826,7 +1826,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Внутренняя тактовая частота">3.2 ГГц</param>
         <param name="Мощность TDP">65.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
