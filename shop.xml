@@ -4227,7 +4227,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1005733451">
+      <offer available="false" id="1005733451">
         <url>https://kozatchok.prom.ua/p1005733451-videokarta-sapphire-370x.html</url>
         <price>2180</price>
         <currencyId>UAH</currencyId>
@@ -4264,7 +4264,7 @@ RX 560</strong></h3>
 <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Графический чип">R9 370X</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">256 бит</param>
