@@ -1400,7 +1400,8 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1000660659">
         <url>https://kozatchok.prom.ua/p1000660659-protsessor-amd-phenom.html</url>
-        <price>360</price>
+        <price>320</price>
+        <price_old>360</price_old>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1871207430_protsessor-amd-phenom.jpg</picture>
         <name>Процессор AMD Phenom X4 9150e 1,8GHz sAM2+ Tray (HD9150ODJ4BGH) Agena
