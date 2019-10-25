@@ -6091,7 +6091,7 @@ RX 560</strong></h3>
         <param name="Дополнительное питание">6 pin</param>
         <param name="Гарантия">3 месяца</param>
       </offer>
-      <offer available="true" id="1035846040">
+      <offer available="false" id="1035846040">
         <url>https://kozatchok.prom.ua/p1035846040-videokarta-maxsun-radeon.html</url>
         <price>1170</price>
         <currencyId>UAH</currencyId>
@@ -6107,7 +6107,7 @@ RX 560</strong></h3>
           <![CDATA[ <h3><span style="font-size:14px;">Состояние хорошее.</span></h3> <h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <h3><span style="font-size:14px;">Следов ремонта нет.<br /> Все видеокарты протестированы в стресс тесте FurMark при длительной нагрузке.<br /> По требованию, на все видеокарты можем предоставить видео теста.</span><br /> &nbsp;</h3> <h3><span style="font-size:14px;">Все видеокарты с разборки системных блоков из&nbsp;бизнес сферы (офисные, интернет клубы, интернет кафе и т.д.). Достоверной информации сколько времени были в работе и при каких условиях работали, к сожалению, нет.<br /> <br /> <br /> Максимальное энергопотребление, Вт:&nbsp; ~ 30</span></h3> <h3><span style="font-size:14px;"><span style="font-size:14px;"><span style="font-size:14px;">Дополнительное питание не т<span style="font-size:14px;"><span style="font-size:14px;">ребуется</span></span></span></span></span></h3> <h3><span style="font-size:14px;">Минимальные требования к блоку питания, Вт: 300</span></h3> <h3><span style="font-size:14px;">Тип упаковки: ОЕМ</span></h3> <h3><span style="font-size:14px;">Комплектация: видеокарта</span></h3>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Графический чип ">R7 240</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
