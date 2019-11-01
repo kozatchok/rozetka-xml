@@ -6119,7 +6119,7 @@ RX 560</strong></h3>
         <param name="Дополнительное питание">Нет</param>
         <param name="Гарантия">3 месяца</param>
       </offer>
-      <offer available="true" id="1035859558">
+      <offer available="false" id="1035859558">
         <url>https://kozatchok.prom.ua/p1035859558-videokarta-msi-270.html</url>
         <price>1860</price>
         <currencyId>UAH</currencyId>
@@ -6135,7 +6135,7 @@ RX 560</strong></h3>
           <![CDATA[ <h3><span style="font-size:14px;">Состояние хорошее.&nbsp;</span></h3> <h3><span style="font-size:14px;">У некоторых на задней панели и крепежных винтах есть небольшие точки коррозии</span></h3> <p><span style="font-size:14px;">Следов ремонта нет.<br /> Все видеокарты протестированы в стресс тесте FurMark при длительной нагрузке.<br /> По требованию, на все видеокарты можем предоставить видео теста.</span><br /> &nbsp;</p> <h3><span style="font-size:14px;">Все видеокарты с разборки системных блоков из&nbsp;бизнес сферы (офисные, интернет клубы, интернет кафе и т.д.). Достоверной информации сколько времени были в работе и при каких условиях работали, к сожалению, нет.<br /> <br /> <br /> Максимальное энергопотребление, Вт:&nbsp; ~ 150</span></h3> <h3>Т<span style="font-size:14px;"><span style="font-size:14px;"><span style="font-size:14px;"><span style="font-size:14px;"><span style="font-size:14px;">ребуется д<span style="font-size:14px;"><span style="font-size:14px;"><span style="font-size:14px;">ополнительное питание 6-pin</span></span></span></span></span></span></span></span></h3> <h3><span style="font-size:14px;">Минимальные требования к блоку питания, Вт: 450</span></h3> <h3><span style="font-size:14px;">Тип упаковки: ОЕМ</span></h3> <h3><span style="font-size:14px;">Комплектация: видеокарта, кабель питания Molex-6pin, переходник DVI-VGA</span></h3>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Графический чип ">R9 270</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">256 бит</param>
