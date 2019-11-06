@@ -4815,7 +4815,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1023582361">
+      <offer available="true" id="1023582361">
         <url>https://kozatchok.prom.ua/p1023582361-ventilyator-powerlogic-dlya.html</url>
         <price>170</price>
         <currencyId>UAH</currencyId>
@@ -4830,7 +4830,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт </span><span style="font-size:18px;"><strong>Gigabyte</strong></span></h2> <p><strong>GT 240&nbsp;<br /> GT 430&nbsp;<br /> GT 440&nbsp;<br /> GT 630&nbsp;<br /> GT 730</strong></p> <h3>Маркировка -&nbsp;&nbsp;PLD08010S12H (T128010SM)</h3> <h3>Диаметр вентилятора: <strong>75 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм x 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,25 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 3-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -4993,7 +4993,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1023613061">
+      <offer available="true" id="1023613061">
         <url>https://kozatchok.prom.ua/p1023613061-ventilyator-everflow-dlya.html</url>
         <price>180</price>
         <currencyId>UAH</currencyId>
@@ -5007,7 +5007,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт </span><span style="font-size:18px;"><strong>ASUS</strong></span></h2> <h2>GTX 660&nbsp;<br /> GTX 670&nbsp;<br /> GTX 750 TI&nbsp;<br /> GTX 760&nbsp;<br /> GTX 770&nbsp;<br /> GTX 950<br /> HD 7790<br /> HD 7850<br /> HD 7870<br /> R7 260X<br /> R7 265<br /> R9 270<br /> R9 270X</h2> <p>Возможно список видеокарт неполный</p> <h3>Маркировка -&nbsp;&nbsp;T128010SH (FD7010H12S)</h3> <h3>Диаметр вентилятора: <strong>75 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм х 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,25 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
