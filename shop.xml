@@ -832,7 +832,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="999876421">
+      <offer available="false" id="999876421">
         <url>https://kozatchok.prom.ua/p999876421-videokarta-xfx-460.html</url>
         <price>1680</price>
         <currencyId>UAH</currencyId>
@@ -870,7 +870,7 @@ RX 560</strong></h3>
 <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Графический чип">RX 460</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
