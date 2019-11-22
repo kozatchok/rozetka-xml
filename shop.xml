@@ -934,7 +934,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="999885016">
+      <offer available="false" id="999885016">
         <url>https://kozatchok.prom.ua/p999885016-videokarta-msi-gtx.html</url>
         <price>1940</price>
         <currencyId>UAH</currencyId>
@@ -972,7 +972,7 @@ RX 560</strong></h3>
 <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Графический чип">GTX 750Ti</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
