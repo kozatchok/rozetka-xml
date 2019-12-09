@@ -1166,7 +1166,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1000647505">
+      <offer available="false" id="1000647505">
         <url>https://kozatchok.prom.ua/p1000647505-protsessor-amd-athlon.html</url>
         <price>220</price>
         <currencyId>UAH</currencyId>
@@ -1186,7 +1186,7 @@ RX 560</strong></h3>
 <p><strong><span style="font-size:14px;">С процессорами на ядре&nbsp;Brisbane существует проблема неправильных показаний термодатчика процессора. Проблема проявляется примерно на 5-7% материнских плат.&nbsp;При нагрузке температура процессора растет до 80-120 градусов и система выключается. Есть предположение, что проблема связана с тем, что у процессоров&nbsp;Brisbane геометрическое расположение ножек немного отличается от других процессоров сокета АМ2.</span></strong></p>
 <span></span>]]>
         </description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Внутренняя тактовая частота">2.8 ГГц</param>
         <param name="Мощность TDP">65.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
