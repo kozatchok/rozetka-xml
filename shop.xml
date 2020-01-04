@@ -5887,11 +5887,11 @@ RX 560</strong></h3>
         <vendor>Feichuan</vendor>
         <categoryId>212</categoryId>
         <description>
-          <![CDATA[ <p>Универсальное крепление для установки кулера на процессоры AMD под сокеты АМ1, AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+.</p> <p>Состоит из рамки, подложки и винтов<br /> Материал: пластик</p> <p>Тип упаковки: ОЕМ (без коробки)</p> <p>&nbsp;</p> <span></span>
+          <![CDATA[ <p>Универсальное крепление для установки кулера на процессоры AMD под сокеты AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+.</p> <p>Состоит из рамки, подложки и винтов<br /> Материал: пластик</p> <p>Тип упаковки: ОЕМ (без коробки)</p> <p>&nbsp;</p> <span></span>
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Совместимость">AM2+|AM3+|AM1|AM2|AM3|FM2+|AM2+/AM3+/ FM1/FM2</param>
+        <param name="Совместимость">AM2+|AM3+|AM2|AM3|FM2+|AM2+/AM3+/ FM1/FM2</param>
         <param name="Назначение">Для процессора</param>
         <param name="Тип">Кронштейны</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
