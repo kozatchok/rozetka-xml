@@ -2516,7 +2516,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1002761454">
+      <offer available="true" id="1002761454">
         <url>https://kozatchok.prom.ua/p1002761454-protsessor-amd-phenom.html</url>
         <price>1040</price>
         <currencyId>UAH</currencyId>
@@ -2532,7 +2532,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Внутренняя тактовая частота">3.2 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -5273,7 +5273,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1023925330">
+      <offer available="true" id="1023925330">
         <url>https://kozatchok.prom.ua/p1023925330-protsessor-amd-4100.html</url>
         <price>740</price>
         <price_old>790.00</price_old>
@@ -5287,7 +5287,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Внутренняя тактовая частота">3.6 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -6444,7 +6444,7 @@ RX 560</strong></h3>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="false" id="1049274305">
+      <offer available="true" id="1049274305">
         <url>https://kozatchok.prom.ua/p1049274305-protsessor-amd-8120.html</url>
         <price>1460</price>
         <currencyId>UAH</currencyId>
@@ -6457,7 +6457,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2><h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Внутренняя тактовая частота">3.1 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
