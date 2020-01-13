@@ -17,7 +17,7 @@
       <category id="214" parentId="21">Оперативная память</category>
     </categories>
     <offers>
-      <offer available="true" id="995405630">
+      <offer available="false" id="995405630">
         <url>https://kozatchok.prom.ua/p995405630-videokarta-xfx-radeon.html</url>
         <price>1390</price>
         <currencyId>UAH</currencyId>
@@ -58,7 +58,7 @@
 <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Графический чип">HD 7770</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
