@@ -5854,7 +5854,7 @@ RX 560</strong></h3>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1025216503">
+      <offer available="true" id="1025216503">
         <url>https://kozatchok.prom.ua/p1025216503-ramka-perehodnik-dlya.html</url>
         <price>60</price>
         <currencyId>UAH</currencyId>
@@ -5870,7 +5870,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2>Крепление позволяет установить кулер с креплением для сокета AMD на материнскую плату сокет Intel.</h2> <h2>Совместимость с платформами: LGA 115Х/1366/2011</h2> <h2>Винты M3&nbsp;для крепления LGA 1150/1151/1155/1156/1366&nbsp;</h2> <h2>Винты M4&nbsp;для крепления LGA 2011</h2> <h2>Тип упаковки: ОЕМ (без коробки)</h2> <h2>Внутренние размеры рамки: 70 мм х 78 мм. Некоторые боксовые кулера AMD с широким основанием могут не поместиться в рамку.</h2><span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Совместимость">LGA1150|LGA1155|LGA1156|LGA1366|LGA1151|LGA2011</param>
         <param name="Назначение">Для процессора</param>
         <param name="Тип">Кронштейны</param>
