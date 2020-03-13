@@ -4635,7 +4635,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1022437756">
+      <offer available="false" id="1022437756">
         <url>https://kozatchok.prom.ua/p1022437756-ventilyator-everflow-dlya.html</url>
         <price>950</price>
         <currencyId>UAH</currencyId>
@@ -4650,7 +4650,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS &nbsp;STRIX</strong><br /> Цена указана за комплект - 3 вентилятора<br /> &nbsp;<br /> Совместимость с видеокартами<br /> <strong>GTX 1060<br /> GTX 1070<br /> GTX 1070 TI<br /> GTX 1080<br /> GTX 1080 TI<br /> RX 480<br /> RX 580<br /> R9 390<br /> R9 Fury</strong></span></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка -&nbsp;</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 28 мм x 28 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А (средний 0,25 А)</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 6-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
