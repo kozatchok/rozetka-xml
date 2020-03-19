@@ -7058,7 +7058,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
-      <offer available="true" id="1086490023">
+      <offer available="false" id="1086490023">
         <url>https://kozatchok.prom.ua/p1086490023-videokarta-sapphire-550.html</url>
         <price>1450</price>
         <currencyId>UAH</currencyId>
@@ -7075,7 +7075,7 @@ RX 560</strong></h3>
           <![CDATA[ <h3><span style="font-size:14px;">Состояние отличное.&nbsp;</span></h3> <h3><span style="font-size:14px;">Присутствуют следы использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h3> <p><span style="font-size:14px;">Следов ремонта нет.<br /> Все видеокарты протестированы в стресс тесте FurMark при длительной нагрузке.<br /> По требованию, на все видеокарты можем предоставить видео теста.</span><br /> &nbsp;</p> <h3><span style="font-size:14px;">Все видеокарты с разборки системных блоков из&nbsp;бизнес сферы (офисные, интернет клубы, интернет кафе и т.д.). Достоверной информации сколько времени были в работе и при каких условиях работали, к сожалению, нет.<br /> <br /> Максимальное энергопотребление, Вт:&nbsp; ~ 50</span></h3> <h3>Д<span style="font-size:14px;">ополнительное питание не т<span style="font-size:14px;">ребуется</span></span></h3> <h3><span style="font-size:14px;">Минимальные требования к блоку питания, Вт: 400</span></h3> <h3><span style="font-size:14px;">Тип упаковки: ОЕМ</span></h3> <h3><span style="font-size:14px;">Комплектация: видеокарта<br /> </span></h3> <h3><strong>Обратите внимание!&nbsp;</strong>Разъем DVI - типа DVI-D (24+1).&nbsp;Для подключения монитора с разъемом VGA обычный переходник DVI-VGA не подойдет,&nbsp;требуется конвертер цифрового сигнала в аналоговый.&nbsp;</h3> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Графический чип">RX 550</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
