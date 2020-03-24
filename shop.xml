@@ -7181,7 +7181,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
-      <offer available="false" id="1092618872">
+      <offer available="true" id="1092618872">
         <url>https://kozatchok.prom.ua/p1092618872-ventilyator-champion-dlya.html</url>
         <price>280</price>
         <currencyId>UAH</currencyId>
@@ -7196,7 +7196,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Sapphire&nbsp;</strong></h2> <h3><strong><span style="font-size:14px;">Совместимость с видеокартами</span></strong></h3> <h2>RX 470<br /> RX 480<br /> RX 570<br /> RX 580<br /> RX 590<br /> Vega 56<br /> Vega 64</h2> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - CF1015H12D (FD10015M12D)</h3> <h3>Диаметр вентилятора: 95<strong>&nbsp;мм&nbsp;</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,42 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
