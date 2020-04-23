@@ -6552,7 +6552,7 @@ RX 560</strong></h3>
         <param name="Наименование ядра">Vishera</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="true" id="999835644">
+      <offer available="false" id="999835644">
         <url>https://kozatchok.prom.ua/p999835644-videokarta-sapphire-radeon.html</url>
         <price>1480</price>
         <currencyId>UAH</currencyId>
@@ -6568,7 +6568,7 @@ RX 560</strong></h3>
           <![CDATA[ <h3><span style="font-size:14px;">Состояние хорошее.&nbsp;</span></h3> <h3><span style="font-size:14px;">Присутствуют следы использования. Могут быть мелкие потертости и царапины, не влияющие на работу устройства.</span></h3> <p>&nbsp;</p> <h3><span style="font-size:14px;">Следов ремонта нет.<br /> Все видеокарты протестированы в стресс тесте FurMark при длительной нагрузке.<br /> По требованию, на все видеокарты можем предоставить видео теста.</span><br /> &nbsp;</h3> <h3><span style="font-size:14px;">Все видеокарты с разборки системных блоков из&nbsp;бизнес сферы (офисные, интернет клубы, интернет кафе и т.д.). Достоверной информации сколько времени были в работе и при каких условиях работали, к сожалению, нет.<br /> <br /> Максимальное энергопотребление, Вт:&nbsp; ~ 100</span></h3> <h3>Требуется дополнительное питание 6-pin<span style="font-size:14px;"><span style="font-size:14px;"></span></span></h3> <h3><span style="font-size:14px;">Минимальные требования к блоку питания, Вт: 450</span></h3> <h3><span style="font-size:14px;">Тип упаковки: ОЕМ</span></h3> <h3><span style="font-size:14px;">Комплектация: видеокарта, кабель питания&nbsp;6-pin, переходник DVI-VGA<br /> </span></h3> <h2>&nbsp;</h2> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Графический чип">R7 360</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
