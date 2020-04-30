@@ -1462,9 +1462,9 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1000663487">
+      <offer available="true" id="1000663487">
         <url>https://kozatchok.prom.ua/p1000663487-protsessor-amd-phenom.html</url>
-        <price>320</price>
+        <price>410</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1871214800_protsessor-amd-phenom.jpg</picture>
         <name>Процессор AMD Phenom X4 9650 2,3GHz sAM2+ Tray (HD9650WCJ4BGH) Agena Б/У</name>
@@ -1477,7 +1477,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Внутренняя тактовая частота">2.3 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -2996,7 +2996,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1004982995">
+      <offer available="true" id="1004982995">
         <url>https://kozatchok.prom.ua/p1004982995-protsessor-amd-phenom.html</url>
         <price>1980</price>
         <currencyId>UAH</currencyId>
@@ -3012,7 +3012,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <param name="Внутренняя тактовая частота">3.0 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -6417,9 +6417,9 @@ RX 560</strong></h3>
         <param name="Наименование ядра">Vishera</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="false" id="1049273629">
+      <offer available="true" id="1049273629">
         <url>https://kozatchok.prom.ua/p1049273629-protsessor-amd-6200.html</url>
-        <price>1280</price>
+        <price>1340</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1996360847_protsessor-amd-fx-6200.jpg</picture>
         <name>Процессор AMD FX-6200 3.8GHz sAM3+ Tray 125w (FD6200FRW6KGU) Zambezi Б/У</name>
@@ -6430,7 +6430,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2> <h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Внутренняя тактовая частота">3.8 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
