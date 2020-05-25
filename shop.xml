@@ -7646,7 +7646,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1132758477">
+      <offer available="false" id="1132758477">
         <url>https://kozatchok.prom.ua/p1132758477-operativnaya-pamyat-hynix.html</url>
         <price>160</price>
         <currencyId>UAH</currencyId>
@@ -7659,7 +7659,7 @@ RX 560</strong></h3>
           <![CDATA[ <p><span style="font-size:14px;">Платы оперативной памяти<strong> Hynix&nbsp;DDR2 2Gb 800MHz PC2-6400</strong><br /> Все планки памяти&nbsp;протестированы.<br /> <br /> Возможны небольшие отличия от фото в описании.&nbsp;</span></p> <p><span style="font-size:14px;">Присутствуют следы использования. Могут присутствовать потертости, не влияющие на работу устройства.</span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Частота памяти">800 МГц</param>
         <param name="Количество планок">1</param>
         <param name="Назначение">Для настольного ПК</param>
