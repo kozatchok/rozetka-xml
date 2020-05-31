@@ -5531,7 +5531,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1021417584">
         <url>https://kozatchok.prom.ua/p1021417584-protsessor-amd-6100.html</url>
-        <price>1340</price>
+        <price>1240</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1925758982_protsessor-amd-fx-6100.jpg</picture>
         <name>Процессор AMD FX-6100 3.3GHz sAM3+ Tray 95w (FD6100WMW6KGU) Zambezi Б/У</name>
@@ -5542,7 +5542,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Внутренняя тактовая частота">3.3 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
