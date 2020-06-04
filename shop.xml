@@ -8118,7 +8118,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1134858718">
+      <offer available="true" id="1134858718">
         <url>https://kozatchok.prom.ua/p1134858718-operativnaya-pamyat-saniter.html</url>
         <price>340</price>
         <currencyId>UAH</currencyId>
@@ -8130,7 +8130,7 @@ RX 560</strong></h3>
           <![CDATA[ <p>Память совместима только с процессорами AMD сокет&nbsp;&nbsp;AM3/AM3+. С другими процессорами память будет работать не корректно или&nbsp;не будет работать вовсе.</p> <p>Интегрированный контроллер памяти процессоров AMD поддерживает нестандартную адресацию, поэтому позволяет использовать оперативную память более эффективно.</p> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>20</stock_quantity>
         <param name="Частота памяти">1333 МГц</param>
         <param name="Количество планок">1</param>
         <param name="Назначение">Для настольного ПК</param>
