@@ -8208,7 +8208,7 @@ RX 560</strong></h3>
           <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 2 ГБ</li> <li>Пропускная способность &mdash; 6400 МБит/с</li> <li>Частота памяти &mdash; 800 МГц</li> <li>Тип памяти &mdash; DDR2</li> </ul> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <param name="Частота памяти">800 МГц</param>
         <param name="Количество планок">1</param>
         <param name="Назначение">Для настольного ПК</param>
