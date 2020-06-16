@@ -3815,7 +3815,7 @@ R9 Fury</strong></span></h2>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
