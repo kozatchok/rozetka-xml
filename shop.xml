@@ -2420,7 +2420,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1002760157">
+      <offer available="true" id="1002760157">
         <url>https://kozatchok.prom.ua/p1002760157-protsessor-amd-phenom.html</url>
         <price>960</price>
         <currencyId>UAH</currencyId>
@@ -2436,7 +2436,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Внутренняя тактовая частота">3.0 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -3326,7 +3326,7 @@ RX 590</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1005052295">
+      <offer available="true" id="1005052295">
         <url>https://kozatchok.prom.ua/p1005052295-ventilyator-everflow-dlya.html</url>
         <price>150</price>
         <currencyId>UAH</currencyId>
@@ -3368,7 +3368,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>20</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Для видеокарты</param>
@@ -3379,7 +3379,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1005053206">
+      <offer available="true" id="1005053206">
         <url>https://kozatchok.prom.ua/p1005053206-ventilyator-everflow-dlya.html</url>
         <price>430</price>
         <currencyId>UAH</currencyId>
@@ -3427,7 +3427,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>20</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Для видеокарты</param>
@@ -6857,7 +6857,7 @@ RX 560</strong></h3>
         <param name="Дополнительное питание">6 pin</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="false" id="1064489949">
+      <offer available="true" id="1064489949">
         <url>https://kozatchok.prom.ua/p1064489949-protsessor-amd-8100.html</url>
         <price>1780</price>
         <currencyId>UAH</currencyId>
@@ -6870,7 +6870,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты.&nbsp;</span></h2> <h2><span style="font-size:14px;">Присутствуют следы использования. Могут быть мелкие потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Внутренняя тактовая частота">2.8 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -7196,7 +7196,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Sapphire&nbsp;</strong></h2> <h3><strong><span style="font-size:14px;">Совместимость с видеокартами</span></strong></h3> <h2>RX 470<br /> RX 480<br /> RX 570<br /> RX 580<br /> RX 590<br /> Vega 56<br /> Vega 64</h2> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - CF1015H12D (FD10015M12D)</h3> <h3>Диаметр вентилятора: 95<strong>&nbsp;мм&nbsp;</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,42 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>20</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -7253,7 +7253,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
-      <offer available="false" id="1092638259">
+      <offer available="true" id="1092638259">
         <url>https://kozatchok.prom.ua/p1092638259-ventilyator-firstd-dlya.html</url>
         <price>560</price>
         <currencyId>UAH</currencyId>
@@ -7269,7 +7269,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за двойной вентилятор</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Palit GameRock&nbsp;</strong></h2> <h2>GTX 1080&nbsp;Ti</h2> <h2>&nbsp;</h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - FD10010H12S&nbsp;</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:&nbsp;<strong>109&nbsp;мм х 11 мм</strong><br /> Напряжение: DC 12V<br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -8142,4 +8142,942 @@ RX 560</strong></h3>
         <param name="Гарантия">24 месяца</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
-        <param na
+        <param name="Страна-производитель">Китай</param>
+      </offer>
+      <offer available="true" id="1134859263">
+        <url>https://kozatchok.prom.ua/p1134859263-operativnaya-pamyat-saniter.html</url>
+        <price>420</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2245648634_operativnaya-pamyat-saniter.jpg</picture>
+        <name>Оперативная память Saniter DDR3 4Gb 1333MHz PC3-10600 (№758)</name>
+        <vendor>Saniter</vendor>
+        <categoryId>214</categoryId>
+        <description>
+          <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <p><span style="font-size:14px;"></span></p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 4 ГБ</li> <li>Пропускная способность &mdash; 10600 МБит/с</li> <li>Частота памяти &mdash; 1333 МГц</li> <li>Тип памяти &mdash; DDR3</li> </ul> <p>&nbsp;</p>
+]]>
+        </description>
+        <stock_quantity>10</stock_quantity>
+        <param name="Частота памяти">1333 МГц</param>
+        <param name="Количество планок">1</param>
+        <param name="Назначение">Для настольного ПК</param>
+        <param name="Объем памяти">4.0 GB</param>
+        <param name="Тип памяти">DDR3</param>
+        <param name="Радиаторы на планках">нет</param>
+        <param name="Эффективная пропускная способность">10600 Мб/с</param>
+        <param name="Схема таймингов памяти">CL-9</param>
+        <param name="Гарантия">24 месяца</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+        <param name="Страна-производитель">Китай</param>
+      </offer>
+      <offer available="true" id="1134873833">
+        <url>https://kozatchok.prom.ua/p1134873833-operativnaya-pamyat-saniter.html</url>
+        <price>440</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2245674239_operativnaya-pamyat-saniter.jpg</picture>
+        <name>Оперативная память Saniter DDR3 4Gb 1600 MHz PC3-12800 (№759)</name>
+        <vendor>Saniter</vendor>
+        <categoryId>214</categoryId>
+        <description>
+          <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <p><span style="font-size:14px;"></span></p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 4 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> </ul> <p>&nbsp;</p>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Частота памяти">1600 МГц</param>
+        <param name="Количество планок">1</param>
+        <param name="Назначение">Для настольного ПК</param>
+        <param name="Объем памяти">4.0 GB</param>
+        <param name="Тип памяти">DDR3</param>
+        <param name="Радиаторы на планках">нет</param>
+        <param name="Эффективная пропускная способность">12800</param>
+        <param name="Схема таймингов памяти">CL-11</param>
+        <param name="Гарантия">24 месяца</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+        <param name="Страна-производитель">Китай</param>
+      </offer>
+      <offer available="false" id="1134878369">
+        <url>https://kozatchok.prom.ua/p1134878369-operativnaya-pamyat-saniter.html</url>
+        <price>190</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2245697800_operativnaya-pamyat-saniter.jpg</picture>
+        <name>Оперативная память Saniter DDR2 2Gb 800MHz PC3-6400 (№760)</name>
+        <vendor>Saniter</vendor>
+        <categoryId>214</categoryId>
+        <description>
+          <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 2 ГБ</li> <li>Пропускная способность &mdash; 6400 МБит/с</li> <li>Частота памяти &mdash; 800 МГц</li> <li>Тип памяти &mdash; DDR2</li> </ul> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <p>&nbsp;</p>
+]]>
+        </description>
+        <stock_quantity>0</stock_quantity>
+        <param name="Частота памяти">800 МГц</param>
+        <param name="Количество планок">1</param>
+        <param name="Назначение">Для настольного ПК</param>
+        <param name="Объем памяти">2.0 GB</param>
+        <param name="Тип памяти">DDR2</param>
+        <param name="Радиаторы на планках">нет</param>
+        <param name="Эффективная пропускная способность">6400 Мб/с</param>
+        <param name="Схема таймингов памяти">CL-6</param>
+        <param name="Гарантия">24 месяца</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+        <param name="Страна-производитель">Китай</param>
+      </offer>
+      <offer available="true" id="1134938765">
+        <url>https://kozatchok.prom.ua/p1134938765-ventilyator-everflow-dlya.html</url>
+        <price>530</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2245890225_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2245890205_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2245890224_ventilyator-everflow-dlya.jpg</picture>
+        <name>Вентилятор Everflow для видеокарты ASUS T129215SM (FDC10M12S9-C) комплект
+          2 шт (№135)</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>GTX 1050 Strix<br /> GTX 1050 Ti Strix<br /> GTX 1070Ti Cerberus<br /> GTX 1080 Ti Poseidon</strong></p> <p><strong>RX 470 Strix<br /> RX 470 Mining Edition<br /> RX 570 Strix<br /> RX 580 Dual</strong></p> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - T129215SM (FDC10M12S9-C)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм х 28 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,25 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">95 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1136577667">
+        <url>https://kozatchok.prom.ua/p1136577667-ventilyator-everflow-dlya.html</url>
+        <price>990</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2253055809_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2253079330_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2253079329_ventilyator-everflow-dlya.jpg</picture>
+        <name>Вентилятор Everflow для видеокарты ASUS Strix T129215SU (PLD09210S12H)
+          комплект 3 шт (№175)</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS &nbsp;STRIX</strong><br /> Цена указана за комплект - 3 вентилятора<br /> &nbsp;<br /> Совместимость с видеокартами</span></h2> <p><strong>GTX 1660 Ti<br /> RTX 2070<br /> RTX 2080<br /> RTX 2080 Ti</strong></p> <p><strong>RX 5600<br /> RX 5700</strong></p> <h2><span style="font-size:14px;"></span></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка -&nbsp;T129215SU (PLD09210S12H)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 32 мм x 32 мм х 32 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 6-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Питание и тип коннектора">6-pin</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1136645544">
+        <url>https://kozatchok.prom.ua/p1136645544-ventilyator-powerlogic-dlya.html</url>
+        <price>140</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2253227600_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2253227599_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2253227601_ventilyator-powerlogic-dlya.jpg</picture>
+        <name>Вентилятор PowerLogic для видеокарты ATI Radeon PLB05710S12HH (№84)</name>
+        <vendor>PowerLogic</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт </span><span style="font-size:18px;">ATI Radeon</span></h2> <p><strong>HD 5550<br /> HD 5570<br /> HD 5670<br /> FirePro V800</strong></p> <h3>Маркировка -&nbsp;&nbsp;PLB05710S12HH</h3> <h3>Диаметр вентилятора: <strong>50 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 35&nbsp;мм x 35 мм х 27 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,3&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">50 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1136687974">
+        <url>https://kozatchok.prom.ua/p1136687974-ventilyator-apistek-dlya.html</url>
+        <price>360</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2253341824_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2253341836_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2253341838_ventilyator-apistek-dlya.jpg</picture>
+        <name>Вентилятор Apistek для видеокарты Zotac GA91O2H (GA91S2H GFY09010E12SPA)
+          комплект 2 шт (№37)</name>
+        <vendor>Apistek</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Цена указана за комплект - 2 вентилятора</span></h2> <p><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac</strong></span></p> <h2><strong><span style="font-size:14px;">GTX 1060</span></strong></h2> <h2><strong><span style="font-size:14px;">GTX 1070</span></strong></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка - GA91O2H (GA91S2H GFY09010E12SPA)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;39&nbsp;мм x&nbsp;39 мм x&nbsp;39 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1136704330">
+        <url>https://kozatchok.prom.ua/p1136704330-turbina-firstd-dlya.html</url>
+        <price>240</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2253375595_turbina-firstd-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2253375601_turbina-firstd-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2253375600_turbina-firstd-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2253375597_turbina-firstd-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2253375602_turbina-firstd-dlya.jpg</picture>
+        <name>Турбина FirstD для видеокарты ATI Radeon XFX Sapphire FD7525U12D (FD9238H12S
+          CF1275-B30H BASA0725R2U) №160</name>
+        <vendor>FirstD</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Турбина (кулер) для систем охлаждения видеокарт</h2> <p><strong><span style="font-size:14px;"></span><span style="font-size:14px;"><u>ATI Radeon</u></span><span style="font-size:14px;"><u> (референсные модели)</u></span></strong></p> <h3>HD 4850<br /> HD 4870<br /> HD 5870<br /> HD 5970</h3> <p><strong><span style="font-size:14px;"></span></strong></p> <h3><strong>XFX&nbsp;</strong><br /> HD 4870<br /> HD 4890<br /> HD 5870</h3> <h3><strong>Sapphire</strong><br /> HD 6950<br /> HD 6970<br /> HD 7950<br /> HD 7970<br /> R9 290</h3> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - FD7525U12D (FD9238H12S CF1275-B30H BASA0725R2U)</h3> <h3>Диаметр вентилятора:&nbsp;<strong>75 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;37 мм x 37 мм х 37 мм</strong><br /> Высота крыльчатки: <strong>15 мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>1,7 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">75 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Шариковый</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1137405248">
+        <url>https://kozatchok.prom.ua/p1137405248-ventilyator-powerlogic-dlya.html</url>
+        <price>290</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2255826672_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2255834061_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2255834069_ventilyator-powerlogic-dlya.jpg</picture>
+        <name>Вентилятор PowerLogic для видеокарты Gigabyte Mini ITX PLD09210S12HH (T129215SU)
+          №133.1</name>
+        <vendor>PowerLogic</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h3>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;Mini ITX</strong></h3> <h3><strong>GTX 1050<br /> GTX 1050Ti<br /> GTX 1060<br /> GTX 1070</strong></h3> <h3><strong>RX 550<br /> RX 560</strong></h3> <h3>Маркировка - PLD09210S12HH (T129215SU)</h3> <h3>Диаметр вентилятора: <strong>87&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin</strong></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1138467471">
+        <url>https://kozatchok.prom.ua/p1138467471-ventilyator-firstd-dlya.html</url>
+        <price>690</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2259185388_ventilyator-firstd-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2259185392_ventilyator-firstd-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2259185390_ventilyator-firstd-dlya.jpg</picture>
+        <name>Вентилятор FirstD для видеокарты Palit FD10015H12S (GAA8S2H GAA8S2U) комплект
+          2 шт (№165)</name>
+        <vendor>FirstD</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Palit</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2><strong>GTX 980 Super Jetstream<br /> GTX 980 Ti Super Jetstream<br /> GTX 1070 GameRock Premium Edition<br /> GTX 1070 GameRock<br /> GTX 1070 Super JetStream<br /> GTX 1070 JetStream<br /> GTX 1070 Ti Super JetStream<br /> GTX 1070 Ti JetStream<br /> GTX 1080 GameRock Premium Edition<br /> GTX 1080 GameRock<br /> GTX 1080 JetStream<br /> GTX 1080 Super JetStream<br /> GTX 1080 Ti JetStream<br /> GTX 1080 Ti Super JetStream</strong></h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - FD10015H12S (GAA8S2H GAA8S2U)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;83 мм х 12 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,55 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">95 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1138485190">
+        <url>https://kozatchok.prom.ua/p1138485190-ventilyator-apistek-dlya.html</url>
+        <price>530</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2259285939_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2259285940_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2259285941_ventilyator-apistek-dlya.jpg</picture>
+        <name>Вентилятор Apistek для видеокарты Palit GA92S2H (FD9015H12S) комплект
+          2 шт (№112)</name>
+        <vendor>Apistek</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Palit</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>Palit<br /> GTX 960<br /> GTX 970<br /> GTX 1060<br /> GTX 1070</strong></p> <p><strong>Gainward<br /> GTX 970<br /> GTX 1060<br /> GTX 1070</strong></p> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2H (FD9015H12S)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;83 мм х 12 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <h3><strong>LED-подсветка белого цвета</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1138516307">
+        <url>https://kozatchok.prom.ua/p1138516307-ventilyator-apistek-dlya.html</url>
+        <price>1090</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2259452070_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2259452071_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2259452072_ventilyator-apistek-dlya.jpg</picture>
+        <name>Вентилятор Apistek для видеокарты Zotac AMP Extreme GA92S2U комплект 3
+          шт (№136)</name>
+        <vendor>Apistek</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 3 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;AMP</strong>&nbsp;<strong>Extreme</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 980Ti<br /> GTX 1070<br /> GTX 1070Ti<br /> GTX 1080</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2U</h3> <h3>Диаметр вентилятора: <strong>87 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;71&nbsp;мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,46 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1138566847">
+        <url>https://kozatchok.prom.ua/p1138566847-ventilyator-apistek-dlya.html</url>
+        <price>380</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2259471571_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2259471572_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2259471573_ventilyator-apistek-dlya.jpg</picture>
+        <name>Вентилятор Apistek для видеокарты Zotac AMP Extreme GA92S2U (№88)</name>
+        <vendor>Apistek</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;AMP</strong>&nbsp;<strong>Extreme</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 980Ti<br /> GTX 1070<br /> GTX 1070Ti<br /> GTX 1080</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2U</h3> <h3>Диаметр вентилятора: <strong>87 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;71&nbsp;мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,46 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1138583199">
+        <url>https://kozatchok.prom.ua/p1138583199-ventilyator-everflow-dlya.html</url>
+        <price>360</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2259499809_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2259499704_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2259499760_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2260471553_ventilyator-everflow-dlya.jpg</picture>
+        <name>Вентилятор Everflow для видеокарты Gigabyte Aorus T129215BU (PLD10015B12H)
+          №162</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte Aorus&nbsp;Xtreme Edition</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>GTX 1060<br /> GTX 1070<br /> GTX 1080<br /> GTX 1080Ti<br /> RTX 2060</strong></p> <p><strong>RX 580</strong></p> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - T129215BU (PLD10015B12H)</h3> <h3>Диаметр вентилятора: <strong>95 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,55&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">95 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Шариковый</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1138600027">
+        <url>https://kozatchok.prom.ua/p1138600027-ventilyator-everflow-dlya.html</url>
+        <price>360</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2260465703_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2260465704_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2260465705_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2260470980_ventilyator-everflow-dlya.jpg</picture>
+        <name>Вентилятор Everflow для видеокарты Gigabyte Aorus T129215BU (PLD10015B12H)
+          №161</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte Aorus&nbsp;Xtreme Edition</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>GTX 1060<br /> GTX 1070<br /> GTX 1080<br /> GTX 1080Ti<br /> RTX 2060</strong></p> <p><strong>RX 580</strong></p> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - T129215BU (PLD10015B12H)</h3> <h3>Диаметр вентилятора: <strong>95 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,55&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">95 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Шариковый</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1139039818">
+        <url>https://kozatchok.prom.ua/p1139039818-ventilyator-apistek-dlya.html</url>
+        <price>450</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2260867435_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2260867436_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2260882787_ventilyator-apistek-dlya.jpg</picture>
+        <name>Вентилятор Apistek для видеокарты Zotac PowerColor GA91S2H (GA91S2U) комплект
+          2 шт (№58.1)</name>
+        <vendor>Apistek</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт</h2> <p><strong>Zotac&nbsp;</strong><br /> GTX 960 AMP<br /> GTX 1050Ti X-Gaming<br /> GTX 1060 X-Gaming<br /> GTX 1070<br /> GTX 1080</p> <p><strong>PowerColor</strong><br /> RX 470<br /> RX 480<br /> RX 580</p> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - GA91S2H (GA91S2U)</h3> <h3>Диаметр вентилятора:&nbsp;<strong>86 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;72 мм x 24 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">86 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же д��нь. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1140753030">
+        <url>https://kozatchok.prom.ua/p1140753030-ventilyator-powerlogic-dlya.html</url>
+        <price>490</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2266252406_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2266252407_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2266252408_ventilyator-powerlogic-dlya.jpg</picture>
+        <name>Вентилятор PowerLogic для видеокарты Gigabyte Aorus PLD08010S12HH (T128010SU)
+          комплект 3 шт (№16.2)</name>
+        <vendor>PowerLogic</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;Aorus, Gaming</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Цена указана за комплект - 3 вентилятора + кабель подключения к видеокарте</h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;">GTX 1060<br /> GTX 1070<br /> GTX 1070Ti<br /> GTX 1080<br /> GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - PLD08010S12HH (T128010SU)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.35 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Размер вентилятора">77 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1148645588">
+        <url>https://kozatchok.prom.ua/p1148645588-ventilyator-apistek-dlya.html</url>
+        <price>320</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2288464110_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2288464108_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2288464109_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2288464111_ventilyator-apistek-dlya.jpg</picture>
+        <name>Вентилятор Apistek для видеокарты Zotac GA92S2U (GA92B2U) №171</name>
+        <vendor>Apistek</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт</h2> <h2><strong>Zotac&nbsp;GTX 1080Ti&nbsp;</strong>AMP Extreme Edition</h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>&nbsp;</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2U&nbsp;</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1148647732">
+        <url>https://kozatchok.prom.ua/p1148647732-ventilyator-apistek-dlya.html</url>
+        <price>930</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2288479996_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2288479581_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2288479998_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2288479997_ventilyator-apistek-dlya.jpg</picture>
+        <name>Вентилятор Apistek для видеокарты Zotac GA92S2U комплект 3 шт (№171.1)</name>
+        <vendor>Apistek</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 3 вентилятора</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт</h2> <h2><strong>Zotac&nbsp;GTX 1080Ti&nbsp;</strong>AMP Extreme Edition</h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>&nbsp;</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2U&nbsp;</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1148663524">
+        <url>https://kozatchok.prom.ua/p1148663524-ventilyator-powerlogic-dlya.html</url>
+        <price>340</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2288607284_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2288607285_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2288607286_ventilyator-powerlogic-dlya.jpg</picture>
+        <name>Вентилятор PowerLogic для видеокарты MSI PLD08010S12HH (№176)</name>
+        <vendor>PowerLogic</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>MSI</strong></span></h2> <h2><strong><span style="font-size:14px;"></span></strong></h2> <p><strong>GTX 460 V2<br /> GTX 560 SE<br /> GTX 560<br /> GTX 560 Ti</strong></p> <p><strong>HD 7770</strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка -&nbsp;PLD08010S12HH</h3> <h3>Диаметр вентилятора: <strong>75 мм&nbsp;</strong><br /> Размеры корпуса: <strong>208 мм х 87 мм</strong><br /> Винтовые отверстия: <strong>65 мм х 73 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Размер вентилятора">75 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1148666025">
+        <url>https://kozatchok.prom.ua/p1148666025-ventilyator-powerlogic-dlya.html</url>
+        <price>480</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2288630137_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2288630145_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2288630139_ventilyator-powerlogic-dlya.jpg</picture>
+        <name>Вентилятор PowerLogic для видеокарты Gigabyte PLD08010S12H (T128010SM)
+          комплект 3 шт (№70.1)</name>
+        <vendor>PowerLogic</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Цена указана за комплект - 3 вентилятора + кабель подключения к видеокарте</h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 960 G1 Gaming<br /> GTX 970 G1 Gaming<br /> GTX 970 Windforce<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming<br /> GTX 980 Ti Windforce</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 G1 Rock<br /> GTX 1070 G1 Rock<br /> GTX 1080 G1 Rock</span></strong></p> <p><strong><span style="font-size:14px;">R9 270X Windforce<br /> R9 280 Windforce<br /> R9 280X Windforce</span></strong></p> <p><strong>Возможно список видеокарт неполный</strong></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - T128010SM (PLD08010S12H)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.25 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 3-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>5</stock_quantity>
+        <param name="Питание и тип коннектора">3-pin</param>
+        <param name="Размер вентилятора">77 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1149654275">
+        <url>https://kozatchok.prom.ua/p1149654275-ventilyator-powerlogic-dlya.html</url>
+        <price>360</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2291695014_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2291695008_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2291695016_ventilyator-powerlogic-dlya.jpg</picture>
+        <name>Вентилятор PowerLogic для видеокарты Gigabyte PLD10010S12H (T129215SM)
+          комплект 2 шт (№101)</name>
+        <vendor>PowerLogic</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;<strong>Gigabyte&nbsp;</strong></h2> <h2>&nbsp;</h2> <h2><strong>GTX 550Ti<br /> GTX 560<br /> GTX 560Ti<br /> GTX 650Ti<br /> GTX 660<br /> GTX 660Ti<br /> GTX 670<br /> GTX 760&nbsp;</strong></h2> <h2><br /> <strong>HD 7790<br /> HD 7850<br /> HD 7870<br /> R7 260X<br /> R7 265<br /> R9 270<br /> R7 370</strong></h2> <p><span style="font-size:16px;"></span><span style="font-size:14px;"></span></p> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - PLD10010S12H (T129215SM)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;40 мм х 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,3 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 3-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">95 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">3-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1142427407">
+        <url>https://kozatchok.prom.ua/p1142427407-ventilyator-everflow-dlya.html</url>
+        <price>300</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2270962357_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2270962356_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2270961620_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2270961623_ventilyator-everflow-dlya.jpg</picture>
+        <name>Вентилятор Everflow для видеокарты ASUS T129215SM (FDC10M12S9-C) (№134.2)</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>GTX 1050 Strix<br /> GTX 1050 Ti Strix<br /> GTX 1070Ti Cerberus<br /> GTX 1080 Ti Poseidon</strong></p> <p><strong>RX 470 Strix<br /> RX 470 Mining Edition<br /> RX 570 Strix<br /> RX 580 Dual</strong></p> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - T129215SM (FDC10M12S9-C)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм х 28 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,25 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">95 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1143354432">
+        <url>https://kozatchok.prom.ua/p1143354432-ventilyator-apistek-dlya.html</url>
+        <price>340</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2273739729_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2273738177_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2273738185_ventilyator-apistek-dlya.jpg</picture>
+        <name>Вентилятор Apistek для видеокарты Zotac AMP GAA8S2U (GFM10012H12SPA) №89</name>
+        <vendor>Apistek</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;AMP</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 1070<br /> GTX 1070Ti<br /> GTX 1080</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GAA8S2U (GFM10012H12SPA)</h3> <h3>Диаметр вентилятора: <strong>95 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;72&nbsp;мм х 24 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,45 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">95 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1143356194">
+        <url>https://kozatchok.prom.ua/p1143356194-ventilyator-apistek-dlya.html</url>
+        <price>660</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2273745814_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2273745813_ventilyator-apistek-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2273745812_ventilyator-apistek-dlya.jpg</picture>
+        <name>Вентилятор Apistek для видеокарты Zotac AMP GAA8S2U (GFM10012H12SPA) комплект
+          2 шт №89.1</name>
+        <vendor>Apistek</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;AMP</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 1070<br /> GTX 1070Ti<br /> GTX 1080</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GAA8S2U (GFM10012H12SPA)</h3> <h3>Диаметр вентилятора: <strong>95 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;72&nbsp;мм х 24 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,45 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">95 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1143361819">
+        <url>https://kozatchok.prom.ua/p1143361819-ventilyator-everflow-dlya.html</url>
+        <price>590</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2273765010_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2273765013_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2273765014_ventilyator-everflow-dlya.jpg</picture>
+        <name>Вентилятор Everflow для видеокарты ASUS T129215SM (FDC10M12S9-C) комплект
+          2 шт (№135.3)</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>GTX 1050 Strix<br /> GTX 1050 Ti Strix<br /> GTX 1070Ti Cerberus<br /> GTX 1080 Ti Poseidon</strong></p> <p><strong>RX 470 Strix<br /> RX 470 Mining Edition<br /> RX 570 Strix<br /> RX 580 Dual</strong></p> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - T129215SM (FDC10M12S9-C)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм х 28 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,25 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">95 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1143392564">
+        <url>https://kozatchok.prom.ua/p1143392564-ventilyator-everflow-dlya.html</url>
+        <price>480</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2273852570_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2273852568_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2273852569_ventilyator-everflow-dlya.jpg</picture>
+        <name>Вентилятор Everflow для видеокарты Gigabyte T128010SM (PLD08010S12H) комплект
+          3 шт (№70)</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Цена указана за комплект - 3 вентилятора + кабель подключения к видеокарте</h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 960 G1 Gaming<br /> GTX 970 G1 Gaming<br /> GTX 970 Windforce<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming<br /> GTX 980 Ti Windforce</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 G1 Rock<br /> GTX 1070 G1 Rock<br /> GTX 1080 G1 Rock</span></strong></p> <p><strong><span style="font-size:14px;">R9 270X Windforce<br /> R9 280 Windforce<br /> R9 280X Windforce</span></strong></p> <p><strong>Возможно список видеокарт неполный</strong></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - T128010SM (PLD08010S12H)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.2 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 3-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Питание и тип коннектора">3-pin</param>
+        <param name="Размер вентилятора">77 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1143632920">
+        <url>https://kozatchok.prom.ua/p1143632920-ventilyator-ecotherm-dlya.html</url>
+        <price>360</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2274620837_ventilyator-ecotherm-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2274620844_ventilyator-ecotherm-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2274620839_ventilyator-ecotherm-dlya.jpg</picture>
+        <name>Вентилятор Ecotherm для видеокарты Zotac GFY09010E12SPA (GA91S2H GA91O2H)
+          комплект 2 шт (№37.2)</name>
+        <vendor>Ecotherm</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Цена указана за комплект - 2 вентилятора</span></h2> <p><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac</strong></span></p> <h2><strong><span style="font-size:14px;">GTX 1060</span></strong></h2> <h2><strong><span style="font-size:14px;">GTX 1070</span></strong></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка - GFY09010E12SPA (GA91S2H GA91O2H)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм x&nbsp;42 мм x&nbsp;42 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1144398469">
+        <url>https://kozatchok.prom.ua/p1144398469-ventilyator-powerlogic-dlya.html</url>
+        <price>150</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2276434467_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2276434466_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2276434465_ventilyator-powerlogic-dlya.jpg</picture>
+        <name>Вентилятор PowerLogic для видеокарты Zotac PLD05010S12L (PLD05010S12H
+          FD5010U12S) №61.1</name>
+        <vendor>PowerLogic</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac</strong></span></h2> <h3><strong>8500GT<br /> 8600GT<br /> 9400GT<br /> 9500GT<br /> 9600GT<br /> GT210<br /> GT220<br /> GT240<br /> GT430<br /> GT520<br /> GT610<br /> GT620</strong></h3> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка - PLD05010S12L (PLD05010S12H FD5010U12S)</h3> <h3>Диаметр вентилятора: <strong>47 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 39 мм x 39&nbsp;мм x 39&nbsp;мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,1 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Размер вентилятора">47 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1141415184">
+        <url>https://kozatchok.prom.ua/p1141415184-ventilyator-lixue-dlya.html</url>
+        <price>140</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2267984847_ventilyator-lixue-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2267984846_ventilyator-lixue-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2267984848_ventilyator-lixue-dlya.jpg</picture>
+        <name>Вентилятор Lixue для видеокарты 45 мм 4010HS (YD124510HB) №182</name>
+        <vendor>Lixue</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;</span></h2> <p>Маркировка -&nbsp;&nbsp;4010HS (YD124510HB)</p> <h3>Диаметр вентилятора: <strong>45 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 27 мм x 27 мм х 27 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,1&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">45 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1142380505">
+        <url>https://kozatchok.prom.ua/p1142380505-ventilyator-everflow-dlya.html</url>
+        <price>590</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2270884330_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2270884359_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2273764515_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2273764516_ventilyator-everflow-dlya.jpg</picture>
+        <name>Вентилятор Everflow для видеокарты ASUS T129215SM (FDC10M12S9-C) комплект
+          2 шт (№135.2)</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>GTX 1050 Strix<br /> GTX 1050 Ti Strix<br /> GTX 1070Ti Cerberus<br /> GTX 1080 Ti Poseidon</strong></p> <p><strong>RX 470 Strix<br /> RX 470 Mining Edition<br /> RX 570 Strix<br /> RX 580 Dual</strong></p> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - FDC10M12S9-C (T129215SM)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм х 28 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,25 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">95 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1142422914">
+        <url>https://kozatchok.prom.ua/p1142422914-ventilyator-everflow-dlya.html</url>
+        <price>300</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2270959054_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2270960635_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2270959070_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2270959053_ventilyator-everflow-dlya.jpg</picture>
+        <name>Вентилятор Everflow для видеокарты ASUS T129215SM (FDC10M12S9-C) (№134.1)</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>GTX 1050 Strix<br /> GTX 1050 Ti Strix<br /> GTX 1070Ti Cerberus<br /> GTX 1080 Ti Poseidon</strong></p> <p><strong>RX 470 Strix<br /> RX 470 Mining Edition<br /> RX 570 Strix<br /> RX 580 Dual</strong></p> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - T129215SM (FDC10M12S9-C)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм х 28 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,25 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">95 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1141015128">
+        <url>https://kozatchok.prom.ua/p1141015128-ventilyator-ecotherm-dlya.html</url>
+        <price>360</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2266974572_ventilyator-ecotherm-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2266974631_ventilyator-ecotherm-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2266974573_ventilyator-ecotherm-dlya.jpg</picture>
+        <name>Вентилятор Ecotherm для видеокарты Zotac GFY09010E12SPA (GA91S2H GA91O2H)
+          комплект 2 шт (№37.1)</name>
+        <vendor>Ecotherm</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Цена указана за комплект - 2 вентилятора</span></h2> <p><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac</strong></span></p> <h2><strong><span style="font-size:14px;">GTX 1060</span></strong></h2> <h2><strong><span style="font-size:14px;">GTX 1070</span></strong></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка - GFY09010E12SPA (GA91S2H GA91O2H)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;39&nbsp;мм x&nbsp;39 мм x&nbsp;39 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1141402446">
+        <url>https://kozatchok.prom.ua/p1141402446-ventilyator-lixue-dlya.html</url>
+        <price>140</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2267972052_ventilyator-lixue-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2267972050_ventilyator-lixue-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2267972049_ventilyator-lixue-dlya.jpg</picture>
+        <name>Вентилятор Lixue для видеокарты ASUS 4010HS (T124010DL EFB0412HHA) №180</name>
+        <vendor>Lixue</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт </span><span style="font-size:18px;">ASUS</span></h2> <p><strong>HD 4550<br /> HD 5450<br /> HD 5550<br /> HD 5570<br /> HD 6570<br /> R7 240</strong></p> <p><strong>GT 210<br /> GT 220<br /> GT 430<br /> GT 520<br /> GT 620<br /> GT 640<br /> GT 710<br /> GT 730</strong></p> <h3>Маркировка -&nbsp;&nbsp;4010HS (T124010DL EFB0412HHA)</h3> <h3>Диаметр вентилятора: <strong>36 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 26 мм x 26 мм х 26 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,1&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">36 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1141413338">
+        <url>https://kozatchok.prom.ua/p1141413338-ventilyator-lixue-dlya.html</url>
+        <price>140</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2267983864_ventilyator-lixue-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2267983886_ventilyator-lixue-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2267983866_ventilyator-lixue-dlya.jpg</picture>
+        <name>Вентилятор Lixue для видеокарты 36 мм 4010HS (T124010DL EFB0412HHA) №181</name>
+        <vendor>Lixue</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;</span></h2> <p>Маркировка -&nbsp;&nbsp;4010HS (T124010DL EFB0412HHA)</p> <h3>Диаметр вентилятора: <strong>36 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 27 мм x 27 мм х 27 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,1&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">36 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+      <offer available="true" id="1140760989">
+        <url>https://kozatchok.prom.ua/p1140760989-ventilyator-everflow-dlya.html</url>
+        <price>560</price>
+        <currencyId>UAH</currencyId>
+        <picture>https://images.ua.prom.st/2266276807_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2266276967_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.ua.prom.st/2266276966_ventilyator-everflow-dlya.jpg</picture>
+        <name>Вентилятор Everflow для видеокарты ASUS Expedition T129215BU (PLD09210B12HH)
+          комплект 2 шт (№119.2)</name>
+        <vendor>Everflow</vendor>
+        <categoryId>212</categoryId>
+        <description>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт ASUS&nbsp;Expedition, Mining,&nbsp;Dual</h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>Совместимость с видеокартами</h2> <p><strong>GTX 1060 Dual<br /> GTX 1060 Expedition<br /> GTX 1070 Dual<br /> GTX 1070 Expedition</strong></p> <p><strong>RX 470 Mining<br /> RX 480 Dual<br /> RX 570 Expedition<br /> RX 570 Arez Expedition</strong></p> <p>Возможно список видеокарт неполный</p> <h3>Маркировка -&nbsp;T129215BU (PLD09210S12HH)</h3> <h3>Диаметр вентилятора: <strong>87&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм x 28&nbsp;мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
+]]>
+        </description>
+        <stock_quantity>100</stock_quantity>
+        <param name="Размер вентилятора">87 мм</param>
+        <param name="Назначение">Для видеокарты</param>
+        <param name="Тип подшипника">Шариковый</param>
+        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Дополнительно">Упаковка ОЕМ</param>
+        <param name="Гарантия">15 дней</param>
+        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
+        менее 50 грн.</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
