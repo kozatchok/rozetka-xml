@@ -6012,7 +6012,7 @@ RX 560</strong></h3>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
       </offer>
-       <offer available="true" id="1023998306">
+       <offer available="false" id="1023998306">
         <url>https://kozatchok.prom.ua/p1023998306-ventilyator-everflow-dlya.html</url>
         <price>270</price>
         <currencyId>UAH</currencyId>
@@ -6026,7 +6026,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт ASUS</h2> <h2>Совместимость с видеокартами</h2> <h2><strong>GTX 1060<br /> GTX 1070</strong></h2> <h2><br /> <strong>RX 470<br /> RX 480<br /> RX 570</strong></h2> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - T129215SU (T129215BU)&nbsp;</h3> <h3>Диаметр вентилятора: <strong>87&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм x 28&nbsp;мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
