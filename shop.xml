@@ -5305,7 +5305,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1023925547">
         <url>https://kozatchok.prom.ua/p1023925547-protsessor-amd-4130.html</url>
-        <price>840</price>
+        <price>690</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1930968937_protsessor-amd-fx-4130.jpg</picture>
         <name>Процессор AMD FX-4130 3.8GHz sAM3+ Tray 125w (FD4130FRW4MGU) Zambezi Б/У</name>
@@ -5531,7 +5531,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1021417584">
         <url>https://kozatchok.prom.ua/p1021417584-protsessor-amd-6100.html</url>
-        <price>1240</price>
+        <price>1090</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1925758982_protsessor-amd-fx-6100.jpg</picture>
         <name>Процессор AMD FX-6100 3.3GHz sAM3+ Tray 95w (FD6100WMW6KGU) Zambezi Б/У</name>
@@ -6392,7 +6392,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1049272789">
         <url>https://kozatchok.prom.ua/p1049272789-protsessor-amd-6300.html</url>
-        <price>1540</price>
+        <price>1290</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1996355106_protsessor-amd-fx-6300.jpg</picture>
         <name>Процессор AMD FX-6300 3.5GHz sAM3+ Tray 95w (FD6300WMW6KHK) Vishera Б/У</name>
@@ -6419,7 +6419,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1049273629">
         <url>https://kozatchok.prom.ua/p1049273629-protsessor-amd-6200.html</url>
-        <price>1340</price>
+        <price>1180</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1996360847_protsessor-amd-fx-6200.jpg</picture>
         <name>Процессор AMD FX-6200 3.8GHz sAM3+ Tray 125w (FD6200FRW6KGU) Zambezi Б/У</name>
@@ -6500,7 +6500,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1049290361">
         <url>https://kozatchok.prom.ua/p1049290361-protsessor-amd-8300.html</url>
-        <price>2190</price>
+        <price>2090</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1996380117_protsessor-amd-fx-8300.jpg</picture>
         <name>Процессор AMD FX-8300 3.3GHz sAM3+ Tray 95w (FD8300WMW8KHK) Vishera Б/У</name>
@@ -6525,9 +6525,9 @@ RX 560</strong></h3>
         <param name="Наименование ядра">Vishera</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="false" id="1049291916">
+      <offer available="true" id="1049291916">
         <url>https://kozatchok.prom.ua/p1049291916-protsessor-amd-8320.html</url>
-        <price>1990</price>
+        <price>2240</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1996381845_protsessor-amd-fx-8320.jpg</picture>
         <name>Процессор AMD FX-8320 3.5GHz sAM3+ Tray 125w (FD8320FRW8KHK) Vishera Б/У</name>
@@ -6538,7 +6538,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2> <h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Внутренняя тактовая частота">3.5 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
