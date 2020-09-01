@@ -2740,7 +2740,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1002764243">
+      <offer available="true" id="1002764243">
         <url>https://kozatchok.prom.ua/p1002764243-protsessor-amd-phenom.html</url>
         <price>1640</price>
         <currencyId>UAH</currencyId>
@@ -2756,7 +2756,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Внутренняя тактовая частота">2.8 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -2932,9 +2932,9 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1004940419">
+      <offer available="true" id="1004940419">
         <url>https://kozatchok.prom.ua/p1004940419-protsessor-amd-phenom.html</url>
-        <price>2250</price>
+        <price>2260</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1881905188_protsessor-amd-phenom.jpg</picture>
         <name>Процессор AMD Phenom II X6 1090T Black Edition 3,2GHz sAM3 Tray 125w (HDT90ZFBK6DGR)
@@ -2948,7 +2948,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Внутренняя тактовая частота">3.2 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -2996,9 +2996,9 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1004982995">
+      <offer available="true" id="1004982995">
         <url>https://kozatchok.prom.ua/p1004982995-protsessor-amd-phenom.html</url>
-        <price>1980</price>
+        <price>2040</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1881988084_protsessor-amd-phenom.jpg</picture>
         <name>Процессор AMD Phenom II X6 1075T 3,0GHz sAM3 Tray 125w (HDT75TFBK6DGR)
@@ -3012,7 +3012,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Внутренняя тактовая частота">3.0 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
