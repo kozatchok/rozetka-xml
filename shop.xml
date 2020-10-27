@@ -5044,7 +5044,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1023618558">
+      <offer available="false" id="1023618558">
         <url>https://kozatchok.prom.ua/p1023618558-ventilyator-powerlogic-dlya.html</url>
         <price>190</price>
         <currencyId>UAH</currencyId>
@@ -5058,7 +5058,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>MSI</strong></span></h2> <p><strong>HD 5850<br /> HD 6750<br /> HD 6770<br /> HD 6790<br /> HD 6850<br /> HD 6870<br /> HD 7750<br /> HD 7770<br /> HD 7790<br /> HD 7850</strong></p> <p><strong>GTS 450<br /> GTX 550Ti<br /> GTX 650<br /> GTX 650Ti<br /> GTX 660<br /> GTX 660Ti<br /> GTX 560<br /> GTX 570<br /> GTX 580</strong></p> <p>Возможно список видеокарт неполный</p> <h3>Маркировка -&nbsp;&nbsp;<strong>PLA09215B12H</strong></h3> <h3>Диаметр вентилятора: <strong>87&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <b>0,55 A</b><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Шариковый</param>
