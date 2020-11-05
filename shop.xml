@@ -2516,7 +2516,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1002761454">
+      <offer available="false" id="1002761454">
         <url>https://kozatchok.prom.ua/p1002761454-protsessor-amd-phenom.html</url>
         <price>810</price>
         <currencyId>UAH</currencyId>
@@ -2532,7 +2532,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Внутренняя тактовая частота">3.2 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -5820,7 +5820,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1025208456">
+      <offer available="false" id="1025208456">
         <url>https://kozatchok.prom.ua/p1025208456-kuler-dlya-protsessora.html</url>
         <price>260</price>
         <currencyId>UAH</currencyId>
@@ -5838,7 +5838,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2>&nbsp;</h2> <p>Активное охлаждение для процессора.&nbsp;Две тепловые медные трубки.</p> <p>Работает тихо. Все проверены.</p> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/1150/1155/1156/1366&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 92&nbsp;* 60 * 120 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 92 * 92 * 25 мм&nbsp;<br /> Вес: 260 грамм<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 2000 &plusmn; 10% об / мин&nbsp;<br /> Максимальный объем воздуха: 36.5 CFM&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: 3-pin</p> <p>&nbsp;</p> <span></span>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Частота вращения">2000 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366</param>
         <param
