@@ -2452,7 +2452,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="false">
+      <offer available="true" id="1002760616">
         <url>https://kozatchok.prom.ua/p1002760616-protsessor-amd-phenom.html</url>
         <price>790</price>
         <currencyId>UAH</currencyId>
