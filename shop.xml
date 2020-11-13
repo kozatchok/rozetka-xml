@@ -8141,7 +8141,7 @@ RX 560</strong></h3>
         менее 50 грн.</param>
         <param name="Страна-производитель">Китай</param>
       </offer>
-      <offer available="true" id="1134859263">
+      <offer available="false" id="1134859263">
         <url>https://kozatchok.prom.ua/p1134859263-operativnaya-pamyat-saniter.html</url>
         <price>420</price>
         <currencyId>UAH</currencyId>
@@ -8153,7 +8153,7 @@ RX 560</strong></h3>
           <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <p><span style="font-size:14px;"></span></p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 4 ГБ</li> <li>Пропускная способность &mdash; 10600 МБит/с</li> <li>Частота памяти &mdash; 1333 МГц</li> <li>Тип памяти &mdash; DDR3</li> </ul> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Частота памяти">1333 МГц</param>
         <param name="Количество планок">1</param>
         <param name="Назначение">Для настольного ПК</param>
