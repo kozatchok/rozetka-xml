@@ -6389,7 +6389,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1049272789">
         <url>https://kozatchok.prom.ua/p1049272789-protsessor-amd-6300.html</url>
-        <price>1290</price>
+        <price>1370</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1996355106_protsessor-amd-fx-6300.jpg</picture>
         <name>Процессор AMD FX-6300 3.5GHz sAM3+ Tray 95w (FD6300WMW6KHK) Vishera Б/У</name>
@@ -6400,7 +6400,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2><h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Внутренняя тактовая частота">3.5 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
