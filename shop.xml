@@ -9874,7 +9874,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1218309107">
+      <offer available="false" id="1218309107">
         <url>https://kozatchok.prom.ua/p1218309107-ramka-kreplenie-kulera.html</url>
         <price>60</price>
         <currencyId>UAH</currencyId>
@@ -9887,7 +9887,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <p>Рамка крепление&nbsp;охлаждения для&nbsp;процессора&nbsp;AMD.&nbsp;</p> <p>Совместима с материнскими платами сокет AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+.</p> <p>Состоит из рамки, подложки и винтов<br /> Материал: пластик</p> <p>Тип упаковки: ОЕМ (без коробки)</p> <p>&nbsp;</p> <span></span> ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Для процессора</param>
         <param name="Совместимость">AM2|AM3|FM2+|AM2+/AM3+/ FM1/FM2</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
