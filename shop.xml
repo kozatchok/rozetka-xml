@@ -2580,7 +2580,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1002762369">
+      <offer available="false" id="1002762369">
         <url>https://kozatchok.prom.ua/p1002762369-protsessor-amd-phenom.html</url>
         <price>690</price>
         <currencyId>UAH</currencyId>
@@ -2596,7 +2596,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Внутренняя тактовая частота">3.2 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -7903,7 +7903,7 @@ RX 560</strong></h3>
         менее 50 грн.</param>
         <param name="Страна-производитель">Китай</param>
       </offer>
-      <offer available="true" id="1132767657">
+      <offer available="false" id="1132767657">
         <url>https://kozatchok.prom.ua/p1132767657-operativnaya-pamyat-tigo.html</url>
         <price>150</price>
         <currencyId>UAH</currencyId>
@@ -7916,7 +7916,7 @@ RX 560</strong></h3>
           <![CDATA[ <p><span style="font-size:14px;">Платы оперативной памяти<strong> </strong><strong>Tigo&nbsp;DDR2 2Gb 800MHz PC2-6400</strong><br /> Все планки памяти&nbsp;протестированы.<br /> <br /> Возможны небольшие отличия от фото в описании.&nbsp;</span></p> <p><span style="font-size:14px;">Присутствуют следы использования. Могут присутствовать потертости, не влияющие на работу устройства.</span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Частота памяти">800 МГц</param>
         <param name="Количество планок">1</param>
         <param name="Назначение">Для настольного ПК</param>
