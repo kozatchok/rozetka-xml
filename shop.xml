@@ -10075,7 +10075,7 @@ RX 560</strong></h3>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1220150502">
+      <offer available="false" id="1220150502">
         <url>https://kozatchok.prom.ua/p1220150502-kuler-dlya-protsessora.html</url>
         <price>560</price>
         <currencyId>UAH</currencyId>
@@ -10105,7 +10105,7 @@ RX 560</strong></h3>
           <p>Разъем подключения:&nbsp;<strong>3-pin</strong>
           </p>
           <p>&nbsp;</p> <span></span> ]]></description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Для процессора</param>
         <param name="Тип">Активная (кулер)</param>
         <param name="Размер вентилятора">90 мм</param>
