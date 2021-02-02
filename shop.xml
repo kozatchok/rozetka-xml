@@ -2580,7 +2580,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1002762369">
+      <offer available="true" id="1002762369">
         <url>https://kozatchok.prom.ua/p1002762369-protsessor-amd-phenom.html</url>
         <price>690</price>
         <currencyId>UAH</currencyId>
@@ -2596,7 +2596,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Внутренняя тактовая частота">3.2 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -5345,7 +5345,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Внутренняя тактовая частота">3.8 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -5529,7 +5529,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1021417584">
         <url>https://kozatchok.prom.ua/p1021417584-protsessor-amd-6100.html</url>
-        <price>1090</price>
+        <price>1160</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1925758982_protsessor-amd-fx-6100.jpg</picture>
         <name>Процессор AMD FX-6100 3.3GHz sAM3+ Tray 95w (FD6100WMW6KGU) Zambezi Б/У</name>
@@ -5540,7 +5540,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Внутренняя тактовая частота">3.3 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -5868,7 +5868,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2>Крепление позволяет установить кулер с креплением для сокета AMD на материнскую плату сокет Intel.</h2> <h2>Совместимость с платформами: LGA 115Х/1366/2011</h2> <h2>Винты M3&nbsp;для крепления LGA 1150/1151/1155/1156/1366&nbsp;</h2> <h2>Винты M4&nbsp;для крепления LGA 2011</h2> <h2>Тип упаковки: ОЕМ (без коробки)</h2> <h2>Внутренние размеры рамки: 70 мм х 78 мм. Некоторые боксовые кулера AMD с широким основанием могут не поместиться в рамку.</h2><span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Совместимость">LGA1150|LGA1155|LGA1156|LGA1366|LGA1151|LGA2011</param>
         <param name="Назначение">Для процессора</param>
         <param name="Тип">Кронштейны</param>
@@ -5895,9 +5895,9 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1025267680">
+      <offer available="true" id="1025267680">
         <url>https://kozatchok.prom.ua/p1025267680-ramka-perehodnik-dlya.html</url>
-        <price>40</price>
+        <price>50</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2490505101_ramka-perehodnik-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/2490505109_ramka-perehodnik-dlya.jpg</picture>
@@ -5909,7 +5909,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2>Крепление позволяет установить кулер с креплением для сокета AMD на материнскую плату сокет Intel.</h2> <h2>Совместимость с платформами: LGA 2011&nbsp;</h2> <h2>Тип упаковки: ОЕМ (без коробки)&nbsp;</h2> <h2>&nbsp;</h2> <h2>Внутренние размеры рамки: 85 мм х 77&nbsp;мм. Некоторые боксовые кулера AMD с широким основанием могут не поместиться в рамку.</h2> <p>&nbsp;</p> <span></span> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Совместимость">LGA2011</param>
         <param name="Назначение">Для процессора</param>
         <param name="Тип">Кронштейны</param>
@@ -6416,7 +6416,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1049273629">
         <url>https://kozatchok.prom.ua/p1049273629-protsessor-amd-6200.html</url>
-        <price>1180</price>
+        <price>1230</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1996360847_protsessor-amd-fx-6200.jpg</picture>
         <name>Процессор AMD FX-6200 3.8GHz sAM3+ Tray 125w (FD6200FRW6KGU) Zambezi Б/У</name>
@@ -6427,7 +6427,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2> <h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Внутренняя тактовая частота">3.8 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -6468,9 +6468,9 @@ RX 560</strong></h3>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="false" id="1049282582">
+      <offer available="true" id="1049282582">
         <url>https://kozatchok.prom.ua/p1049282582-protsessor-amd-8150.html</url>
-        <price>1760</price>
+        <price>1890</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1996378061_protsessor-amd-fx-8150.jpg</picture>
         <name>Процессор AMD FX-8150 3.6GHz sAM3+ Tray 125w (FD8150FRW8KGU) Zambezi Б/У</name>
@@ -6481,7 +6481,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2> <h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Внутренняя тактовая частота">3.6 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -6524,7 +6524,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1049291916">
         <url>https://kozatchok.prom.ua/p1049291916-protsessor-amd-8320.html</url>
-        <price>2240</price>
+        <price>2330</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1996381845_protsessor-amd-fx-8320.jpg</picture>
         <name>Процессор AMD FX-8320 3.5GHz sAM3+ Tray 125w (FD8320FRW8KHK) Vishera Б/У</name>
@@ -6535,7 +6535,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2> <h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Внутренняя тактовая частота">3.5 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -6854,9 +6854,9 @@ RX 560</strong></h3>
         <param name="Дополнительное питание">6 pin</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="false" id="1064489949">
+      <offer available="true" id="1064489949">
         <url>https://kozatchok.prom.ua/p1064489949-protsessor-amd-8100.html</url>
-        <price>1780</price>
+        <price>1790</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2038212245_protsessor-amd-fx-8100.jpg</picture>
         <name>Процессор AMD FX-8100 2.8GHz sAM3+ Tray 95w (FD8100WMW8KGU) Zambezi Б/У</name>
@@ -6867,7 +6867,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты.&nbsp;</span></h2> <h2><span style="font-size:14px;">Присутствуют следы использования. Могут быть мелкие потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Внутренняя тактовая частота">2.8 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
