@@ -7585,7 +7585,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1132746923">
         <url>https://kozatchok.prom.ua/p1132746923-protsessor-amd-phenom.html</url>
-        <price>990</price>
+        <price>880</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2237065699_protsessor-amd-phenom.jpg</picture>
         <name>Процессор AMD Phenom II X4 B97 3,2GHz sAM3 Tray 95w (HDXB97WFK4DGM) Deneb
@@ -7597,7 +7597,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты.&nbsp;</span></h2> <h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <p>&nbsp;</p> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Внутренняя тактовая частота">3.2 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
