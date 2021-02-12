@@ -4474,7 +4474,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Цена указана за комплект - 2 вентилятора</span></h2> <p><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac</strong></span></p> <h2><strong><span style="font-size:14px;">GTX 1060</span></strong></h2> <h2><strong><span style="font-size:14px;">GTX 1070</span></strong></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка - GFY09010E12SPA (GA91S2H)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 42&nbsp;мм x&nbsp;42&nbsp;мм x&nbsp;42&nbsp;мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,4 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
@@ -6351,7 +6351,7 @@ RX 560</strong></h3>
           <![CDATA[ <p><strong>Память совместима только с процессорами AMD. </strong></p> <p>Интегрированный контроллер памяти процессоров AMD поддерживает нестандартную адресацию, поэтому позволяет использовать оперативную память более эффективно.&nbsp;С другими процессорами память будет работать не корректно или&nbsp;не будет работать вовсе.</p> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Частота памяти">800 МГц</param>
         <param name="Количество планок">1</param>
         <param name="Назначение">Для настольного ПК</param>
@@ -9895,7 +9895,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1218369013">
         <url>https://kozatchok.prom.ua/p1218369013-operativnaya-pamyat-saniter.html</url>
-        <price>590</price>
+        <price>670</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2490691617_operativnaya-pamyat-saniter.jpg</picture>
         <name>Оперативная память Saniter DDR3 8Gb 1600MHz PC3-12800 AMD (№761)</name>
@@ -9904,7 +9904,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <p>Память совместима только с процессорами AMD. С другими процессорами память будет работать не корректно или&nbsp;не будет работать вовсе.</p> <p>Интегрированный контроллер памяти процессоров AMD поддерживает нестандартную адресацию, поэтому позволяет использовать оперативную память более эффективно.</p> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 8 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> <li>Совместимость с процессорами&nbsp;&mdash; socket АМ3, АМ3+, FM1, FM2, FM2+</li> </ul> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Назначение">Для настольного ПК</param>
         <param name="Тип памяти">DDR3</param>
         <param name="Объем памяти">8 GB</param>
