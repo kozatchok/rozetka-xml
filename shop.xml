@@ -9941,7 +9941,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1218393078">
+      <offer available="false" id="1218393078">
         <url>https://kozatchok.prom.ua/p1218393078-operativnaya-pamyat-saniter.html</url>
         <price>1090</price>
         <currencyId>UAH</currencyId>
@@ -9952,7 +9952,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <p>Память совместима только с процессорами AMD. С другими процессорами память будет работать не корректно или&nbsp;не будет работать вовсе.</p> <p>Интегрированный контроллер памяти процессоров AMD поддерживает нестандартную адресацию, поэтому позволяет использовать оперативную память более эффективно.</p> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 16 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> <li>Совместимость с процессорами&nbsp;&mdash; socket АМ3, АМ3+, FM1, FM2, FM2+</li> </ul> ]]>
         </description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Для настольного ПК</param>
         <param name="Тип памяти">DDR3</param>
         <param name="Объем памяти">16 GB</param>
