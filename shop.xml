@@ -8560,7 +8560,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же д��нь. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1140753030">
+      <offer available="false" id="1140753030">
         <url>https://kozatchok.prom.ua/p1140753030-ventilyator-powerlogic-dlya.html</url>
         <price>490</price>
         <currencyId>UAH</currencyId>
@@ -8575,7 +8575,7 @@ RX 560</strong></h3>
           <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;Aorus, Gaming</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Цена указана за комплект - 3 вентилятора + кабель подключения к видеокарте</h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;">GTX 1060<br /> GTX 1070<br /> GTX 1070Ti<br /> GTX 1080<br /> GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - PLD08010S12HH (T128010SU)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.35 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Для видеокарты</param>
