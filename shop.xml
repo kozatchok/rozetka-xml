@@ -1366,7 +1366,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1000658097">
+      <offer available="false" id="1000658097">
         <url>https://kozatchok.prom.ua/p1000658097-protsessor-amd-phenom.html</url>
         <price>250</price>
         <currencyId>UAH</currencyId>
@@ -1382,7 +1382,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Внутренняя тактовая частота">2.4 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -6979,7 +6979,7 @@ RX 560</strong></h3>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="true" id="1085999822">
+      <offer available="false" id="1085999822">
         <url>https://kozatchok.prom.ua/p1085999822-protsessor-amd-phenom.html</url>
         <price>280</price>
         <currencyId>UAH</currencyId>
@@ -6993,7 +6993,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты.&nbsp;</span></h2> <h2><span style="font-size:14px;">Присутствуют следы использования. Могут быть мелкие потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Внутренняя тактовая частота">2.4 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
