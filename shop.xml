@@ -8663,7 +8663,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1148666025">
+      <offer available="false" id="1148666025">
         <url>https://kozatchok.prom.ua/p1148666025-ventilyator-powerlogic-dlya.html</url>
         <price>480</price>
         <currencyId>UAH</currencyId>
