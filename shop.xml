@@ -6144,9 +6144,9 @@ RX 560</strong></h3>
         <param name="Дополнительное питание">6 pin</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="false" id="1041035654">
+      <offer available="true" id="1041035654">
         <url>https://kozatchok.prom.ua/p1041035654-kuler-dlya-protsessora.html</url>
-        <price>340</price>
+        <price>380</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1976485578_kuler-dlya-protsessora.jpg</picture>
         <picture>https://images.ua.prom.st/1976485574_kuler-dlya-protsessora.jpg</picture>
@@ -6162,7 +6162,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2>Активное охлаждение для процессора.&nbsp;Две тепловые медные трубки. Два вентилятора.</h2> <p>Работает тихо. Все проверены.<br /> Крепление для &nbsp;сокета&nbsp;</p> <p>Intel LGA&nbsp;<strong>775/115Х/1366&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 130 * 95 * 87 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 * 90 * 25 мм&nbsp;<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 1800&plusmn; 10% об / мин&nbsp;<br /> Максимальный объем воздуха: 60.75 CFM&nbsp;<br /> Шум: 30 dBA</p> <p>Интерфейс подключения:&nbsp;<strong>3-pin</strong></p> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Тип">Активная (кулер)</param>
         <param name="Частота вращения">1800 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|LGA1366</param>
@@ -6174,9 +6174,9 @@ RX 560</strong></h3>
           <param name="Материал радиатора">Алюминий - медь</param>
           <param name="Гарантия">12 месяцев</param>
       </offer>
-      <offer available="false" id="1041036027">
+      <offer available="true" id="1041036027">
         <url>https://kozatchok.prom.ua/p1041036027-kuler-dlya-protsessora.html</url>
-        <price>380</price>
+        <price>420</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1976486996_kuler-dlya-protsessora.jpg</picture>
         <picture>https://images.ua.prom.st/1976487001_kuler-dlya-protsessora.jpg</picture>
@@ -6194,7 +6194,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2>Активное охлаждение для процессора.&nbsp;Две тепловые медные трубки. Два вентилятора.</h2> <p>Все проверены.<br /> Крепление для &nbsp;сокета&nbsp;</p> <p>Intel LGA&nbsp;<strong>775/115Х/1366&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 130 * 95 * 87 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 * 90 * 25 мм&nbsp;<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 600-2000 &plusmn; 10% об / мин&nbsp;<br /> Максимальный объем воздуха: 60.75 CFM&nbsp;<br /> Шум: макс 40 dBA</p> <p>Интерфейс подключения:&nbsp;<strong>4-pin</strong></p> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Тип">Активная (кулер)</param>
         <param name="Частота вращения">2000 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|LGA1366</param>
@@ -10015,7 +10015,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1218408495">
         <url>https://kozatchok.prom.ua/p1218408495-kuler-dlya-protsessora.html</url>
-        <price>590</price>
+        <price>640</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2490822977_kuler-dlya-protsessora.jpg</picture>
         <picture>https://images.ua.prom.st/2490823024_kuler-dlya-protsessora.jpg</picture>
@@ -10031,7 +10031,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2>&nbsp;</h2> <p>Активное охлаждение для процессора.&nbsp;Шесть тепловых&nbsp;медных&nbsp;трубок.</p> <p>Работает тихо. Все проверены.</p> <p>Крепление для &nbsp;сокета&nbsp;<br /> Intel LGA 775/115Х/1366&nbsp;(рамка переходник в комплекте)<br /> AMD AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Размер В х Ш х Г : 135 х 110 х 95 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90&nbsp;х&nbsp;90&nbsp;х 25&nbsp;мм&nbsp;<br /> Номинальное напряжение: 12V<br /> Максимальная скорость: 600 - 2000 об / мин&nbsp;<br /> Шум: 0-40 dBA&nbsp;</p> <p>Разъем подключения:&nbsp;<strong>4-pin</strong></p> <p>&nbsp;</p> <span></span> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Назначение">Для процессора</param>
         <param name="Тип">Активная (кулер)</param>
         <param name="Размер вентилятора">90 мм</param>
