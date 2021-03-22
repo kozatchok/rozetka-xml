@@ -5979,7 +5979,7 @@ RX 560</strong></h3>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1025553188">
+      <offer available="false" id="1025553188">
         <url>https://kozatchok.prom.ua/p1025553188-kuler-dlya-protsessora.html</url>
         <price>140</price>
         <currencyId>UAH</currencyId>
@@ -5995,7 +5995,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2>&nbsp;</h2> <h2>Охлаждение для процессора LanShuo Goldwind</h2> <p>Работает тихо. Все проверены.&nbsp;</p> <p><br /> Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA 775/1150/1155/1156 - через рамку переходник (в комплекте)</p> <p>AMD &nbsp;AM2/AM2+/AM3/AM3+, FM1/FM2/FM2+, AM4</p> <p><br /> Габаритные размеры: 115* 115* 58 мм&nbsp;<br /> Диаметр вентилятора: 85 мм<br /> Тип подшипника: гидродинамический<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 2200 &plusmn; 10% об / мин&nbsp;<br /> Срок службы: 50 000 часов<br /> Шум: 22dBA &nbsp;&plusmn; 10%</p> <p>Разъем подключения: 3-pin</p> <p>&nbsp;</p> <span></span>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Тип">Активная (кулер)</param>
         <param name="Частота вращения">2200 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1151</param>
