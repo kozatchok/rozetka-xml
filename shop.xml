@@ -185,7 +185,7 @@ RX 590</span></strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="996993973">
+      <offer available="true" id="996993973">
         <url>https://kozatchok.prom.ua/p996993973-ventilyator-everflow-dlya.html</url>
         <price>290</price>
         <currencyId>UAH</currencyId>
@@ -229,7 +229,7 @@ RX 560</strong></h3>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
@@ -7031,7 +7031,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
-      <offer available="false" id="1086473666">
+      <offer available="true" id="1086473666">
         <url>https://kozatchok.prom.ua/p1086473666-ventilyator-powerlogic-dlya.html</url>
         <price>520</price>
         <currencyId>UAH</currencyId>
@@ -7046,7 +7046,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт ASUS Dual,&nbsp;Expedition,&nbsp;Mining</h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>Совместимость с видеокартами</h2> <h2><strong>GTX 1060<br /> GTX 1070</strong></h2> <h2><strong>RX 470<br /> RX 480<br /> RX 570</strong></h2> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - PLD09210S12HH (T129215SU T129215BU)&nbsp;</h3> <h3>Диаметр вентилятора: <strong>87&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм x 28&nbsp;мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,4&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -7351,7 +7351,7 @@ RX 560</strong></h3>
         <param name="Наименование ядра">Windsor</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="false" id="1064902562">
+      <offer available="true" id="1064902562">
         <url>https://kozatchok.prom.ua/p1064902562-ventilyator-ong-hua.html</url>
         <price>220</price>
         <currencyId>UAH</currencyId>
@@ -7365,7 +7365,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>MSI&nbsp;</strong></h2> <p><strong>GTX 1050<br /> GTX 1050Ti</strong></p> <h2>&nbsp;</h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - HA9010H12F-Z</h3> <h3>Диаметр вентилятора: <strong>87&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;40 мм х 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,57 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -8663,7 +8663,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1148666025">
+      <offer available="true" id="1148666025">
         <url>https://kozatchok.prom.ua/p1148666025-ventilyator-powerlogic-dlya.html</url>
         <price>480</price>
         <currencyId>UAH</currencyId>
@@ -8678,7 +8678,7 @@ RX 560</strong></h3>
           <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Цена указана за комплект - 3 вентилятора + кабель подключения к видеокарте</h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 960 G1 Gaming<br /> GTX 970 G1 Gaming<br /> GTX 970 Windforce<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming<br /> GTX 980 Ti Windforce</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 G1 Rock<br /> GTX 1070 G1 Rock<br /> GTX 1080 G1 Rock</span></strong></p> <p><strong><span style="font-size:14px;">R9 270X Windforce<br /> R9 280 Windforce<br /> R9 280X Windforce</span></strong></p> <p><strong>Возможно список видеокарт неполный</strong></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - T128010SM (PLD08010S12H)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.25 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 3-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Для видеокарты</param>
@@ -8818,7 +8818,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1143392564">
+      <offer available="true" id="1143392564">
         <url>https://kozatchok.prom.ua/p1143392564-ventilyator-everflow-dlya.html</url>
         <price>480</price>
         <currencyId>UAH</currencyId>
@@ -8833,7 +8833,7 @@ RX 560</strong></h3>
           <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Цена указана за комплект - 3 вентилятора + кабель подключения к видеокарте</h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 960 G1 Gaming<br /> GTX 970 G1 Gaming<br /> GTX 970 Windforce<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming<br /> GTX 980 Ti Windforce</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 G1 Rock<br /> GTX 1070 G1 Rock<br /> GTX 1080 G1 Rock</span></strong></p> <p><strong><span style="font-size:14px;">R9 270X Windforce<br /> R9 280 Windforce<br /> R9 280X Windforce</span></strong></p> <p><strong>Возможно список видеокарт неполный</strong></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - T128010SM (PLD08010S12H)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.2 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 3-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Для видеокарты</param>
@@ -9430,7 +9430,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1195081461">
+      <offer available="true" id="1195081461">
         <url>https://kozatchok.prom.ua/p1195081461-ventilyator-everflow-dlya.html</url>
         <price>180</price>
         <currencyId>UAH</currencyId>
@@ -9446,7 +9446,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 960 G1 Gaming<br /> GTX 970 G1 Gaming<br /> GTX 970 Windforce<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming<br /> GTX 980 Ti Windforce</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 G1 Rock<br /> GTX 1070 G1 Rock<br /> GTX 1080 G1 Rock</span></strong></p> <p><strong><span style="font-size:14px;">R9 270X Windforce<br /> R9 280 Windforce<br /> R9 280X Windforce</span></strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - T128010SM (PLD08010S12H)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.2 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Назначение">Для видеокарты</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -9457,7 +9457,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1195119518">
+      <offer available="true" id="1195119518">
         <url>https://kozatchok.prom.ua/p1195119518-ventilyator-everflow-dlya.html</url>
         <price>180</price>
         <currencyId>UAH</currencyId>
@@ -9473,7 +9473,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 960 G1 Gaming<br /> GTX 970 G1 Gaming<br /> GTX 970 Windforce<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming<br /> GTX 980 Ti Windforce</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 G1 Rock<br /> GTX 1070 G1 Rock<br /> GTX 1080 G1 Rock</span></strong></p> <p><strong><span style="font-size:14px;">R9 270X Windforce<br /> R9 280 Windforce<br /> R9 280X Windforce</span></strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - T128010SM (PLD08010S12H)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.2 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 3-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Назначение">Для видеокарты</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -9773,9 +9773,9 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1207720607">
+      <offer available="true" id="1207720607">
         <url>https://kozatchok.prom.ua/p1207720607-ventilyator-powerlogic-dlya.html</url>
-        <price>240</price>
+        <price>270</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2459088984_ventilyator-powerlogic-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/2459088983_ventilyator-powerlogic-dlya.jpg</picture>
@@ -9787,7 +9787,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;<strong>MSI</strong><br /> &nbsp;</h2> <h2><strong>GTX 1070 Aero</strong></h2> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - PLD10010S12HH&nbsp;&nbsp;</h3> <h3>Диаметр вентилятора:&nbsp;<strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;40 мм x 40 мм x 40 мм</strong></h3> <h3>Высота:&nbsp;&nbsp;<strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>0,4 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Назначение">Для видеокарты</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
