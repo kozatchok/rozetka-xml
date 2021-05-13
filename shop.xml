@@ -174,7 +174,7 @@ RX 590</span></strong></h3>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>20</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
@@ -3076,7 +3076,7 @@ RX 590</strong></h3>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
@@ -3087,7 +3087,7 @@ RX 590</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1005045816">
+      <offer available="true" id="1005045816">
         <url>https://kozatchok.prom.ua/p1005045816-ventilyator-everflow-dlya.html</url>
         <price>280</price>
         <currencyId>UAH</currencyId>
@@ -3135,7 +3135,7 @@ RX 590</strong></h3>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
@@ -7299,7 +7299,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
-      <offer available="false" id="1092700373">
+      <offer available="true" id="1092700373">
         <url>https://kozatchok.prom.ua/p1092700373-ventilyator-everflow-dlya.html</url>
         <price>560</price>
         <currencyId>UAH</currencyId>
@@ -7314,7 +7314,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт ASUS DirectCU II</h2> <h2>Совместимость с видеокартами</h2> <p><strong>GTX780-DC2-3GD5</strong></p> <p><strong>GTX780-DC2OC-3GD5</strong></p> <p><strong>GTX780TI-DC2OC-3GD5</strong></p> <p><strong>R9 280-DC2T-3GD5</strong></p> <p><strong>R9 280X-DC2-3GD5</strong></p> <p><strong>R9 280X-DC2T-3GD5</strong></p> <p><strong>R9 290-DC2-4GD5</strong></p> <p><strong>R9 290X-DC2-4GD5</strong></p> <p><strong>R9 290-DC2OC-4GD5</strong></p> <p><strong>R9 290X-DC2OC-4GD5</strong></p> <p><strong>MATRIX-R9290X-P-4GD5</strong></p> <p><strong>MATRIX-GTX780TI-P-3GD5</strong></p> <p><strong>ROG Matrix-GTX980-P-4GD5</strong></p> <p><strong>Dragon GTX970-DC2T-4GD5</strong></p> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - T129215SU (FD10015H12S</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм x 28&nbsp;мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;5-pin&nbsp;</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -9327,7 +9327,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1187976872">
+      <offer available="true" id="1187976872">
         <url>https://kozatchok.prom.ua/p1187976872-ventilyator-firstd-dlya.html</url>
         <price>380</price>
         <currencyId>UAH</currencyId>
@@ -9341,7 +9341,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Sapphire</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>HD 7870 Toxic<br /> HD 7870 Flex<br /> HD 7870 Dual-X<br /> HD 7870 Overclock Edition<br /> HD 7950 OC Version<br /> HD 7950 Flex<br /> HD 7950 Dual-X<br /> HD 7970 Dual-X</strong></p> <p><strong>R9 270X Dual-X<br /> R9 270X Vapor-X<br /> R9 280 Dual-X<br /> R9 280X Dual-X<br /> R9 285 Dual-X<br /> R9 370 Dual-X<br /> R9 380 Dual-X</strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3>Маркировка - T128010SH (FD7010H12S)</h3> <h3>Диаметр вентилятора: <strong>87 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;39 мм х 39 мм х 39 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Назначение">Для видеокарты</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
