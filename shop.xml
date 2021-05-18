@@ -8141,9 +8141,9 @@ RX 560</strong></h3>
         менее 50 грн.</param>
         <param name="Страна-производитель">Китай</param>
       </offer>
-      <offer available="false" id="1134859263">
+      <offer available="true" id="1134859263">
         <url>https://kozatchok.prom.ua/p1134859263-operativnaya-pamyat-saniter.html</url>
-        <price>460</price>
+        <price>540</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2245648634_operativnaya-pamyat-saniter.jpg</picture>
         <name>Оперативная память Saniter DDR3 4Gb 1333MHz PC3-10600 (№758)</name>
@@ -8153,7 +8153,7 @@ RX 560</strong></h3>
           <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <p><span style="font-size:14px;"></span></p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 4 ГБ</li> <li>Пропускная способность &mdash; 10600 МБит/с</li> <li>Частота памяти &mdash; 1333 МГц</li> <li>Тип памяти &mdash; DDR3</li> </ul> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Частота памяти">1333 МГц</param>
         <param name="Количество планок">1</param>
         <param name="Назначение">Для настольного ПК</param>
@@ -8167,9 +8167,9 @@ RX 560</strong></h3>
         менее 50 грн.</param>
         <param name="Страна-производитель">Китай</param>
       </offer>
-      <offer available="false" id="1134873833">
+      <offer available="true" id="1134873833">
         <url>https://kozatchok.prom.ua/p1134873833-operativnaya-pamyat-saniter.html</url>
-        <price>440</price>
+        <price>550</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2245674239_operativnaya-pamyat-saniter.jpg</picture>
         <name>Оперативная память Saniter DDR3 4Gb 1600 MHz PC3-12800 (№759)</name>
@@ -8179,7 +8179,7 @@ RX 560</strong></h3>
           <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <p><span style="font-size:14px;"></span></p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 4 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> </ul> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Частота памяти">1600 МГц</param>
         <param name="Количество планок">1</param>
         <param name="Назначение">Для настольного ПК</param>
@@ -9965,9 +9965,9 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1218402478">
+      <offer available="true" id="1218402478">
         <url>https://kozatchok.prom.ua/p1218402478-operativnaya-pamyat-saniter.html</url>
-        <price>850</price>
+        <price>990</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2490803911_operativnaya-pamyat-saniter.jpg</picture>
         <name>Оперативная память Saniter DDR3 8Gb 1600 MHz PC3-12800 LP (№763)</name>
@@ -9976,7 +9976,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <p><span style="font-size:14px;"></span></p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 8 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> </ul> <p>&nbsp;</p> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Назначение">Для настольного ПК</param>
         <param name="Тип памяти">DDR3</param>
         <param name="Объем памяти">8 GB</param>
