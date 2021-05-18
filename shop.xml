@@ -6339,7 +6339,7 @@ RX 560</strong></h3>
         <param name="Схема таймингов памяти">CL-9</param>
         <param name="Гарантия">24 месяца</param>
       </offer>
-      <offer available="false" id="1042277323">
+      <offer available="true" id="1042277323">
         <url>https://kozatchok.prom.ua/p1042277323-operativnaya-pamyat-saniter.html</url>
         <price>320</price>
         <currencyId>UAH</currencyId>
@@ -6351,7 +6351,7 @@ RX 560</strong></h3>
           <![CDATA[ <p><strong>Память совместима только с процессорами AMD. </strong></p> <p>Интегрированный контроллер памяти процессоров AMD поддерживает нестандартную адресацию, поэтому позволяет использовать оперативную память более эффективно.&nbsp;С другими процессорами память будет работать не корректно или&nbsp;не будет работать вовсе.</p> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Частота памяти">800 МГц</param>
         <param name="Количество планок">1</param>
         <param name="Назначение">Для настольного ПК</param>
