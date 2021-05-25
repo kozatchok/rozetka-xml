@@ -8193,7 +8193,7 @@ RX 560</strong></h3>
         менее 50 грн.</param>
         <param name="Страна-производитель">Китай</param>
       </offer>
-      <offer available="true" id="1134878369">
+      <offer available="false" id="1134878369">
         <url>https://kozatchok.prom.ua/p1134878369-operativnaya-pamyat-saniter.html</url>
         <price>190</price>
         <currencyId>UAH</currencyId>
@@ -8205,7 +8205,7 @@ RX 560</strong></h3>
           <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 2 ГБ</li> <li>Пропускная способность &mdash; 6400 МБит/с</li> <li>Частота памяти &mdash; 800 МГц</li> <li>Тип памяти &mdash; DDR2</li> </ul> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Частота памяти">800 МГц</param>
         <param name="Количество планок">1</param>
         <param name="Назначение">Для настольного ПК</param>
