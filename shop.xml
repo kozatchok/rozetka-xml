@@ -8322,7 +8322,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1136704330">
+      <offer available="false" id="1136704330">
         <url>https://kozatchok.prom.ua/p1136704330-turbina-firstd-dlya.html</url>
         <price>240</price>
         <currencyId>UAH</currencyId>
@@ -8339,7 +8339,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Турбина (кулер) для систем охлаждения видеокарт</h2> <p><strong><span style="font-size:14px;"></span><span style="font-size:14px;"><u>ATI Radeon</u></span><span style="font-size:14px;"><u> (референсные модели)</u></span></strong></p> <h3>HD 4850<br /> HD 4870<br /> HD 5870<br /> HD 5970</h3> <p><strong><span style="font-size:14px;"></span></strong></p> <h3><strong>XFX&nbsp;</strong><br /> HD 4870<br /> HD 4890<br /> HD 5870</h3> <h3><strong>Sapphire</strong><br /> HD 6950<br /> HD 6970<br /> HD 7950<br /> HD 7970<br /> R9 290</h3> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - FD7525U12D (FD9238H12S CF1275-B30H BASA0725R2U)</h3> <h3>Диаметр вентилятора:&nbsp;<strong>75 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;37 мм x 37 мм х 37 мм</strong><br /> Высота крыльчатки: <strong>15 мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>1,7 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Шариковый</param>
