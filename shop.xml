@@ -126,7 +126,7 @@
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="995438568">
+      <offer available="true" id="995438568">
         <url>https://kozatchok.prom.ua/p995438568-ventilyator-everflow-dlya.html</url>
         <price>540</price>
         <currencyId>UAH</currencyId>
@@ -3028,7 +3028,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1005040999">
+      <offer available="true" id="1005040999">
         <url>https://kozatchok.prom.ua/p1005040999-ventilyator-everflow-dlya.html</url>
         <price>280</price>
         <currencyId>UAH</currencyId>
