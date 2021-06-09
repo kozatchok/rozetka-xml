@@ -5875,7 +5875,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1025231275">
+      <offer available="false" id="1025231275">
         <url>https://kozatchok.prom.ua/p1025231275-ramka-kreplenie-kulera.html</url>
         <price>70</price>
         <currencyId>UAH</currencyId>
@@ -5888,7 +5888,7 @@ RX 560</strong></h3>
           <![CDATA[ <p>Универсальное крепление для установки кулера на процессоры AMD под сокеты AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+.</p> <p>Состоит из рамки, подложки и винтов<br /> Материал: пластик</p> <p>Тип упаковки: ОЕМ (без коробки)</p> <p>&nbsp;</p> <span></span>
 ]]>
         </description>
-        <stock_quantity>20</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Совместимость">AM2+|AM3+|AM2|AM3|FM2+|AM2+/AM3+/ FM1/FM2</param>
         <param name="Назначение">Для процессора</param>
         <param name="Тип">Кронштейны</param>
