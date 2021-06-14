@@ -562,50 +562,6 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="999837284">
-        <url>https://kozatchok.prom.ua/p999837284-videokarta-asus-geforce.html</url>
-        <price>1640</price>
-        <currencyId>UAH</currencyId>
-        <picture>https://images.ua.prom.st/1869111913_videokarta-asus-geforce.jpg</picture>
-        <picture>https://images.ua.prom.st/1869111903_videokarta-asus-geforce.jpg</picture>
-        <picture>https://images.ua.prom.st/1869111921_videokarta-asus-geforce.jpg</picture>
-        <picture>https://images.ua.prom.st/1869111920_videokarta-asus-geforce.jpg</picture>
-        <name>Видеокарта ASUS GeForce GTX 750 2Gb GDDR5 128 Bit Б/У</name>
-        <vendor>Asus</vendor>
-        <state>used</state>
-        <categoryId>211</categoryId>
-        <description>
-          <![CDATA[<h3><span style="font-size:14px;">Состояние хорошее.</span></h3>
-<h3><span style="font-size:14px;">Следов ремонта нет.<br />
-Все видеокарты протестированы в стресс тесте FurMark при длительной нагрузке.<br />
-По требованию, на все видеокарты можем предоставить видео теста.</span><br />
-&nbsp;</h3>
-<h3><span style="font-size:14px;">Все видеокарты с разборки системных блоков из&nbsp;бизнес сферы (офисные, интернет клубы, интернет кафе и т.д.). Достоверной информации сколько времени были в работе и при каких условиях работали, к сожалению, нет.<br />
-<br />
-Максимальное энергопотребление, Вт:&nbsp; ~ 55</span></h3>
-<h3>Дополнительное питание не требуется<span style="font-size:14px;"><span style="font-size:14px;"></span></span></h3>
-<h3><span style="font-size:14px;">Минимальные требования к блоку питания, Вт: 300</span></h3>
-<h3><span style="font-size:14px;">Тип упаковки: ОЕМ</span></h3>
-<h3><span style="font-size:14px;">Комплектация: видеокарта<br />
-</span></h3>
-<h2>&nbsp;</h2>
-<p>&nbsp;</p>
-]]>
-        </description>
-        <stock_quantity>0</stock_quantity>
-        <param name="Графический чип">GTX 750</param>
-        <param name="Тип памяти">GDDR5</param>
-        <param name="Разрядность шины памяти">128 бит</param>
-        <param name="Разъемы">DVI|HDMI|VGA</param>
-        <param name="Частота памяти">5012.0 МГц</param>
-        <param name="Частота ядра">1020.0 МГц</param>
-        <param name="Объем памяти">2048 MB</param>
-        <param name="Тип системы охлаждения">Активная</param>
-        <param name="Дополнительное питание">Нет</param>
-        <param name="Гарантия">1 месяц</param>
-        <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
-        менее 50 грн.</param>
-      </offer>
       <offer available="false" id="999837525">
         <url>https://kozatchok.prom.ua/p999837525-videokarta-xfx-radeon.html</url>
         <price>1490</price>
