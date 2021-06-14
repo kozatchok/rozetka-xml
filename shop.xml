@@ -4274,7 +4274,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1023578900">
+      <offer available="false" id="1023578900">
         <url>https://kozatchok.prom.ua/p1023578900-ventilyator-powerlogic-dlya.html</url>
         <price>160</price>
         <currencyId>UAH</currencyId>
@@ -6614,7 +6614,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
-      <offer available="true" id="1086589439">
+      <offer available="false" id="1086589439">
         <url>https://kozatchok.prom.ua/p1086589439-ventilyator-powerlogic-dlya.html</url>
         <price>190</price>
         <currencyId>UAH</currencyId>
@@ -7520,7 +7520,7 @@ RX 560</strong></h3>
         менее 50 грн.</param>
         <param name="Страна-производитель">Китай</param>
       </offer>
-      <offer available="true" id="1132772606">
+      <offer available="false" id="1132772606">
         <url>https://kozatchok.prom.ua/p1132772606-operativnaya-pamyat-micron.html</url>
         <price>150</price>
         <currencyId>UAH</currencyId>
@@ -8228,7 +8228,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1143354432">
+      <offer available="false" id="1143354432">
         <url>https://kozatchok.prom.ua/p1143354432-ventilyator-apistek-dlya.html</url>
         <price>340</price>
         <currencyId>UAH</currencyId>
@@ -9101,7 +9101,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1207560062">
+      <offer available="false" id="1207560062">
         <url>https://kozatchok.prom.ua/p1207560062-ventilyator-ecotherm-dlya.html</url>
         <price>430</price>
         <currencyId>UAH</currencyId>
@@ -9663,7 +9663,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1220433922">
+      <offer available="false" id="1220433922">
         <url>https://kozatchok.prom.ua/p1220433922-protsessor-amd-phenom.html</url>
         <price>360</price>
         <currencyId>UAH</currencyId>
