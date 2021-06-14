@@ -855,7 +855,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM2</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Brisbane</param>
         <param name="Гарантия">1 месяц</param>
@@ -888,7 +887,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM2</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Brisbane</param>
         <param name="Гарантия">1 месяц</param>
@@ -921,7 +919,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM2</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Brisbane</param>
         <param name="Гарантия">1 месяц</param>
@@ -954,7 +951,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM2</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Brisbane</param>
         <param name="Гарантия">1 месяц</param>
@@ -987,7 +983,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM2</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Brisbane</param>
         <param name="Гарантия">1 месяц</param>
@@ -1020,7 +1015,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM2</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Brisbane</param>
         <param name="Гарантия">1 месяц</param>
@@ -1053,7 +1047,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM2</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Brisbane</param>
         <param name="Гарантия">1 месяц</param>
@@ -1084,7 +1077,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM2+|Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Regor</param>
         <param name="Гарантия">1 месяц</param>
@@ -1115,7 +1107,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Kuma</param>
         <param name="Гарантия">1 месяц</param>
@@ -1146,7 +1137,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Toliman</param>
         <param name="Гарантия">1 месяц</param>
@@ -1177,7 +1167,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Toliman</param>
         <param name="Гарантия">1 месяц</param>
@@ -1208,7 +1197,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Toliman</param>
         <param name="Гарантия">1 месяц</param>
@@ -1240,7 +1228,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Agena</param>
         <param name="Гарантия">1 месяц</param>
@@ -1270,7 +1257,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Agena</param>
         <param name="Гарантия">1 месяц</param>
@@ -1300,7 +1286,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Agena</param>
         <param name="Гарантия">1 месяц</param>
@@ -1331,7 +1316,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Agena</param>
         <param name="Гарантия">1 месяц</param>
@@ -1362,7 +1346,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Agena</param>
         <param name="Гарантия">1 месяц</param>
@@ -1393,7 +1376,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Agena</param>
         <param name="Гарантия">1 месяц</param>
@@ -1423,7 +1405,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Sempron</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Regor</param>
         <param name="Гарантия">1 месяц</param>
@@ -1454,7 +1435,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Regor</param>
         <param name="Гарантия">1 месяц</param>
@@ -1485,7 +1465,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Regor</param>
         <param name="Гарантия">1 месяц</param>
@@ -1516,7 +1495,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Regor</param>
         <param name="Гарантия">1 месяц</param>
@@ -1547,7 +1525,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Regor</param>
         <param name="Гарантия">1 месяц</param>
@@ -1578,7 +1555,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Regor</param>
         <param name="Гарантия">1 месяц</param>
@@ -1609,7 +1585,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Regor</param>
         <param name="Гарантия">1 месяц</param>
@@ -1640,7 +1615,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Regor</param>
         <param name="Гарантия">1 месяц</param>
@@ -1671,7 +1645,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Regor</param>
         <param name="Гарантия">1 месяц</param>
@@ -1702,7 +1675,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Regor</param>
         <param name="Гарантия">1 месяц</param>
@@ -1733,7 +1705,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Rana</param>
         <param name="Гарантия">1 месяц</param>
@@ -1764,7 +1735,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Rana</param>
         <param name="Гарантия">1 месяц</param>
@@ -1795,7 +1765,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Rana</param>
         <param name="Гарантия">1 месяц</param>
@@ -1826,7 +1795,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Rana</param>
         <param name="Гарантия">1 месяц</param>
@@ -1857,7 +1825,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Rana</param>
         <param name="Гарантия">1 месяц</param>
@@ -1888,7 +1855,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Rana</param>
         <param name="Гарантия">1 месяц</param>
@@ -1919,7 +1885,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Rana</param>
         <param name="Гарантия">1 месяц</param>
@@ -1950,7 +1915,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Callisto</param>
         <param name="Гарантия">1 месяц</param>
@@ -1981,7 +1945,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Callisto</param>
         <param name="Гарантия">1 месяц</param>
@@ -2012,7 +1975,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Callisto</param>
         <param name="Гарантия">1 месяц</param>
@@ -2043,7 +2005,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Propus</param>
         <param name="Гарантия">1 месяц</param>
@@ -2074,7 +2035,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Propus</param>
         <param name="Гарантия">1 месяц</param>
@@ -2105,7 +2065,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Propus</param>
         <param name="Гарантия">1 месяц</param>
@@ -2136,7 +2095,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Propus</param>
         <param name="Гарантия">1 месяц</param>
@@ -2167,7 +2125,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2198,7 +2155,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2229,7 +2185,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2260,7 +2215,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2291,7 +2245,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2322,7 +2275,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2353,7 +2305,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2384,7 +2335,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2415,7 +2365,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Zosma</param>
         <param name="Гарантия">1 месяц</param>
@@ -2446,7 +2395,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2477,7 +2425,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">6</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Thuban</param>
         <param name="Гарантия">1 месяц</param>
@@ -2508,7 +2455,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">6</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Thuban</param>
         <param name="Гарантия">1 месяц</param>
@@ -2539,7 +2485,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">6</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Thuban</param>
         <param name="Гарантия">1 месяц</param>
@@ -2570,7 +2515,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Heka</param>
         <param name="Гарантия">1 месяц</param>
@@ -2601,7 +2545,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2632,7 +2575,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2663,7 +2605,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -2694,7 +2635,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Propus</param>
         <param name="Гарантия">1 месяц</param>
@@ -2725,7 +2665,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">6</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Thuban</param>
         <param name="Гарантия">1 месяц</param>
@@ -2756,7 +2695,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Propus</param>
         <param name="Гарантия">1 месяц</param>
@@ -2787,7 +2725,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">6</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Thuban</param>
         <param name="Гарантия">1 месяц</param>
@@ -4780,7 +4717,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
@@ -4809,7 +4745,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
@@ -4838,7 +4773,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Vishera</param>
         <param name="Гарантия">1 месяц</param>
@@ -5033,7 +4967,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">6</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
@@ -5237,7 +5170,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Propus</param>
         <param name="Гарантия">1 месяц</param>
@@ -5267,7 +5199,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Propus</param>
         <param name="Гарантия">1 месяц</param>
@@ -5297,7 +5228,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Propus</param>
         <param name="Гарантия">1 месяц</param>
@@ -5893,7 +5823,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">6</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Vishera</param>
         <param name="Гарантия">1 месяц</param>
@@ -5920,7 +5849,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">6</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
@@ -5947,7 +5875,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">8</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
@@ -5974,7 +5901,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">8</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
@@ -6001,7 +5927,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">8</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Vishera</param>
         <param name="Гарантия">1 месяц</param>
@@ -6028,7 +5953,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">8</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Vishera</param>
         <param name="Гарантия">1 месяц</param>
@@ -6112,7 +6036,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">6</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Thuban</param>
         <param name="Гарантия">1 месяц</param>
@@ -6140,7 +6063,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Agena</param>
         <param name="Гарантия">1 месяц</param>
@@ -6167,7 +6089,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">6</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Vishera</param>
         <param name="Гарантия">1 месяц</param>
@@ -6194,7 +6115,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">8</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
@@ -6222,7 +6142,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Zosma</param>
         <param name="Гарантия">1 месяц</param>
@@ -6250,7 +6169,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">6</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Thuban</param>
         <param name="Гарантия">1 месяц</param>
@@ -6360,7 +6278,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">8</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
@@ -6458,7 +6375,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">8</param>
         <param name="Семейство процессора">FX-Series</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
@@ -6486,7 +6402,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">3</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM2+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Toliman</param>
         <param name="Гарантия">1 месяц</param>
@@ -6832,7 +6747,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM2</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Windsor</param>
         <param name="Гарантия">1 месяц</param>
@@ -7093,7 +7007,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -7123,7 +7036,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">2</param>
         <param name="Семейство процессора">Athlon</param>
         <param name="Тип разъема">Socket AM2</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Brisbane</param>
         <param name="Гарантия">1 месяц</param>
@@ -7595,7 +7507,6 @@ RX 560</strong></h3>
         <param name="Количество ядер">4</param>
         <param name="Семейство процессора">Phenom</param>
         <param name="Тип разъема">Socket AM3</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Deneb</param>
         <param name="Гарантия">1 месяц</param>
@@ -9656,7 +9567,6 @@ RX 560</strong></h3>
         <param name="Внутренняя тактовая частота">3.6 ГГц</param>
         <param name="Мощность TDP">95 Вт</param>
         <param name="Тип разъема">Socket AM3+</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Да</param>
         <param name="Наименование ядра">Vishera</param>
         <param name="Гарантия">1 месяц</param>
@@ -9684,7 +9594,6 @@ RX 560</strong></h3>
         <param name="Интегрированная графика">Нет</param>
         <param name="Внутренняя тактовая частота">2.3 ГГц</param>
         <param name="Мощность TDP">95 Вт</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Agena</param>
         <param name="Гарантия">1 месяц</param>
@@ -9713,7 +9622,6 @@ RX 560</strong></h3>
         <param name="Интегрированная графика">Нет</param>
         <param name="Внутренняя тактовая частота">2.3 ГГц</param>
         <param name="Мощность TDP">95 Вт</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Agena</param>
         <param name="Гарантия">1 месяц</param>
@@ -9741,7 +9649,6 @@ RX 560</strong></h3>
         <param name="Интегрированная графика">Нет</param>
         <param name="Внутренняя тактовая частота">2.5 ГГц</param>
         <param name="Мощность TDP">125 Вт</param>
-        <param name="Тип упаковки">Tray</param>
         <param name="Разблокированный множитель">Нет</param>
         <param name="Наименование ядра">Agena</param>
         <param name="Гарантия">1 месяц</param>
