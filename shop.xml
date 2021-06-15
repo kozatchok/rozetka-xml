@@ -3374,7 +3374,7 @@ RX 580</strong></p>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1005080047">
+      <offer available="true" id="1005080047">
         <url>https://kozatchok.prom.ua/p1005080047-ventilyator-firstd-dlya.html</url>
         <price>340</price>
         <currencyId>UAH</currencyId>
@@ -3417,7 +3417,7 @@ RX 580</strong></p>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
