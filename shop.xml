@@ -5168,7 +5168,7 @@ RX 560</strong></h3>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1025290125">
+      <offer available="false" id="1025290125">
         <url>https://kozatchok.prom.ua/p1025290125-kuler-dlya-protsessora.html</url>
         <price>550</price>
         <currencyId>UAH</currencyId>
@@ -5185,7 +5185,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2>&nbsp;</h2> <h2>Охлаждение для процессора Cold State Extreme 601</h2> <p>Активное охлаждение для процессора.&nbsp;</p> <p>Шесть&nbsp;медных&nbsp;тепловых&nbsp;трубок.</p> <p>Работает тихо. Все проверены.</p> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA 775/115x/1366&nbsp;&nbsp;- через рамку переходник (в комплекте)</p> <p>AMD AM2/AM2+/AM1/AM3/AM3+/AM4&nbsp;&nbsp;FM1/FM2/FM2+</p> <p>&nbsp;</p> <p>Размер В х Ш х Г : 135 х 90 х 95 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90&nbsp;х&nbsp;90&nbsp;х 25&nbsp;мм&nbsp;<br /> Номинальное напряжение: 12V<br /> Максимальная скорость:&nbsp; 800&nbsp;-2000 &plusmn; 10% об / мин&nbsp;<br /> Шум: 10-35 dBA&nbsp;</p> <p>Разъем подключения:&nbsp;<strong>4-pin</strong></p> <p>&nbsp;</p> <span></span>
 ]]>
         </description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Тип">Активная (кулер)</param>
         <param name="Частота вращения">2000 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
