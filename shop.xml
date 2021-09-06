@@ -4027,7 +4027,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1023574057">
+      <offer available="true" id="1023574057">
         <url>https://kozatchok.prom.ua/p1023574057-ventilyator-everflow-dlya.html</url>
         <price>270</price>
         <currencyId>UAH</currencyId>
@@ -4042,7 +4042,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт </span><span style="font-size:18px;"><strong>MSI Twin Frozr II</strong></span><span style="font-size:14px;"><br /> Цена указана за комплект - 2 вентилятора<br /> &nbsp;<br /> Совместимость с видеокартами</span></h2> <h2>R6850Hawk<br /> R6790 Twin Frozr II<br /> R6870 Twin Frozr II/OC<br /> N460GTX Hawk<br /> N560GTX Twin Frozr II 2GD5<br /> N560GTX-Ti Twin Frozr II/OC<br /> N570GTX Twin Frozr II/OC<br /> N580GTX Twin Frozr II&nbsp;&nbsp;<br /> R6770 Twin Frozr II&nbsp;<br /> R6950 Twin Frozr II<br /> R5850 Twin Frozr II<br /> R5830 Twin Frozr II</h2> <h2><span style="font-size:14px;"></span></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка -&nbsp;&nbsp;T128010SU (PLD08010S12HH)</h3> <h3>Диаметр вентилятора: <strong>75&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм x 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Для видеокарты</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -5108,7 +5108,7 @@ RX 560</strong></h3>
           <![CDATA[ <p>Универсальное крепление для установки кулера на процессоры AMD под сокеты AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+.</p> <p>Состоит из рамки, подложки и винтов<br /> Материал: пластик</p> <p>Тип упаковки: ОЕМ (без коробки)</p> <p>&nbsp;</p> <span></span>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Совместимость">AM2+|AM3+|AM2|AM3|FM2+|AM2+/AM3+/ FM1/FM2</param>
         <param name="Назначение">Для процессора</param>
         <param name="Тип">Кронштейны</param>
