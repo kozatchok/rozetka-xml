@@ -5591,7 +5591,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2><h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <param name="Внутренняя тактовая частота">3.1 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -5604,7 +5604,7 @@ RX 560</strong></h3>
         <param name="Наименование ядра">Zambezi</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="false" id="1049282582">
+      <offer available="true" id="1049282582">
         <url>https://kozatchok.prom.ua/p1049282582-protsessor-amd-8150.html</url>
         <price>1890</price>
         <currencyId>UAH</currencyId>
@@ -5617,7 +5617,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2> <h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Внутренняя тактовая частота">3.6 ГГц</param>
         <param name="Мощность TDP">125.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -5632,7 +5632,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1049290361">
         <url>https://kozatchok.prom.ua/p1049290361-protsessor-amd-8300.html</url>
-        <price>2080</price>
+        <price>1990</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1996380117_protsessor-amd-fx-8300.jpg</picture>
         <name>Процессор AMD FX-8300 3.3GHz sAM3+ Tray 95w (FD8300WMW8KHK) Vishera Б/У</name>
@@ -5981,7 +5981,7 @@ RX 560</strong></h3>
         <param name="Дополнительное питание">6 pin</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="false" id="1064489949">
+      <offer available="true" id="1064489949">
         <url>https://kozatchok.prom.ua/p1064489949-protsessor-amd-8100.html</url>
         <price>1790</price>
         <currencyId>UAH</currencyId>
@@ -5994,7 +5994,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты.&nbsp;</span></h2> <h2><span style="font-size:14px;">Присутствуют следы использования. Могут быть мелкие потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <param name="Внутренняя тактовая частота">2.8 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -8991,7 +8991,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1218369013">
+      <offer available="true" id="1218369013">
         <url>https://kozatchok.prom.ua/p1218369013-operativnaya-pamyat-saniter.html</url>
         <price>670</price>
         <currencyId>UAH</currencyId>
@@ -9002,7 +9002,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <p>Память совместима только с процессорами AMD. С другими процессорами память будет работать не корректно или&nbsp;не будет работать вовсе.</p> <p>Интегрированный контроллер памяти процессоров AMD поддерживает нестандартную адресацию, поэтому позволяет использовать оперативную память более эффективно.</p> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 8 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> <li>Совместимость с процессорами&nbsp;&mdash; socket АМ3, АМ3+, FM1, FM2, FM2+</li> </ul> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Назначение">Для настольного ПК</param>
         <param name="Тип памяти">DDR3</param>
         <param name="Объем памяти">8 GB</param>
@@ -9039,7 +9039,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1218393078">
+      <offer available="true" id="1218393078">
         <url>https://kozatchok.prom.ua/p1218393078-operativnaya-pamyat-saniter.html</url>
         <price>1430</price>
         <currencyId>UAH</currencyId>
@@ -9050,7 +9050,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <p>Память совместима только с процессорами AMD. С другими процессорами память будет работать не корректно или&nbsp;не будет работать вовсе.</p> <p>Интегрированный контроллер памяти процессоров AMD поддерживает нестандартную адресацию, поэтому позволяет использовать оперативную память более эффективно.</p> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 16 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> <li>Совместимость с процессорами&nbsp;&mdash; socket АМ3, АМ3+, FM1, FM2, FM2+</li> </ul> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Назначение">Для настольного ПК</param>
         <param name="Тип памяти">DDR3</param>
         <param name="Объем памяти">16 GB</param>
