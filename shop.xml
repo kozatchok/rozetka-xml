@@ -5129,7 +5129,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2>Крепление позволяет установить кулер с креплением для сокета AMD на материнскую плату сокет Intel.</h2> <h2>Совместимость с платформами: LGA 2011&nbsp;</h2> <h2>Тип упаковки: ОЕМ (без коробки)&nbsp;</h2> <h2>&nbsp;</h2> <h2>Внутренние размеры рамки: 85 мм х 77&nbsp;мм. Некоторые боксовые кулера AMD с широким основанием могут не поместиться в рамку.</h2> <p>&nbsp;</p> <span></span> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>20</stock_quantity>
         <param name="Совместимость">LGA2011</param>
         <param name="Назначение">Для процессора</param>
         <param name="Тип">Кронштейны</param>
