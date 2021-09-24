@@ -147,7 +147,7 @@ RX 590</span></strong></h3>
         <stock_quantity>20</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -191,7 +191,7 @@ RX 560</strong></h3>
         <stock_quantity>4</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -2679,7 +2679,7 @@ RX 590</strong></h3>
         <stock_quantity>100</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -2726,7 +2726,7 @@ RX 590</strong></h3>
         <stock_quantity>10</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -2773,7 +2773,7 @@ RX 590</strong></h3>
         <stock_quantity>10</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -2820,7 +2820,7 @@ RX 590</strong></h3>
         <stock_quantity>10</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -2869,7 +2869,7 @@ RX 590</strong></h3>
         <stock_quantity>10</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -2912,7 +2912,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
         <stock_quantity>0</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -2958,7 +2958,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
         <stock_quantity>10</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3001,7 +3001,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
         <stock_quantity>20</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3055,7 +3055,7 @@ GTX 1080Ti</span></strong></p>
         <stock_quantity>10</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3109,7 +3109,7 @@ GTX 1080Ti</span></strong></p>
         <stock_quantity>4</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3161,7 +3161,7 @@ RX 580</strong></p>
         <stock_quantity>5</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3216,7 +3216,7 @@ R9 Fury</strong></span></h2>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">6-pin</param>
@@ -3262,7 +3262,7 @@ R9 Fury</strong></span></h2>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -3311,7 +3311,7 @@ R7 360</strong></p>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">83 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -3365,7 +3365,7 @@ RX 580</strong></p>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -3419,7 +3419,7 @@ RX 580</strong></p>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -3471,7 +3471,7 @@ RTX 2060</strong></p>
         </description>
         <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -3536,7 +3536,7 @@ GTX 1080Ti</strong></p>
         <stock_quantity>0</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3580,7 +3580,7 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3765,7 +3765,7 @@ RX 560</strong></h3>
         <stock_quantity>4</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3790,7 +3790,7 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">47 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3815,7 +3815,7 @@ RX 560</strong></h3>
         <stock_quantity>10</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3840,7 +3840,7 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3865,7 +3865,7 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3890,7 +3890,7 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3915,7 +3915,7 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">85 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -3940,7 +3940,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">6-pin</param>
@@ -3966,7 +3966,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>3</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -3992,7 +3992,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4018,7 +4018,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4044,7 +4044,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4069,7 +4069,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">74 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4094,7 +4094,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">55 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">2-pin</param>
@@ -4120,7 +4120,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4145,7 +4145,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4171,7 +4171,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">2-pin</param>
@@ -4196,7 +4196,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>3</stock_quantity>
         <param name="Размер вентилятора">65 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4221,7 +4221,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4247,7 +4247,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4272,7 +4272,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">2-pin</param>
@@ -4297,7 +4297,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4323,7 +4323,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4348,7 +4348,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4373,7 +4373,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4398,7 +4398,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>2</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4424,7 +4424,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4450,7 +4450,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4476,7 +4476,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4501,7 +4501,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">86 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4527,7 +4527,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">66 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4552,7 +4552,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4663,7 +4663,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>6</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4687,7 +4687,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4713,7 +4713,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -4772,7 +4772,7 @@ RX 560</strong></h3>
         <stock_quantity>10</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -4857,7 +4857,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">5-pin</param>
@@ -4883,7 +4883,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">6-pin</param>
@@ -5245,7 +5245,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -5270,7 +5270,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -5915,7 +5915,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">6-pin</param>
@@ -6023,7 +6023,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6047,7 +6047,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6071,7 +6071,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6148,7 +6148,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6172,7 +6172,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6223,7 +6223,7 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6247,7 +6247,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6271,7 +6271,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6296,7 +6296,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">6-pin</param>
@@ -6320,7 +6320,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6345,7 +6345,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>2</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">5-pin (4 контакта)</param>
@@ -6369,7 +6369,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6394,7 +6394,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6418,7 +6418,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">47 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">2-pin</param>
@@ -6442,7 +6442,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">5-pin</param>
@@ -6492,7 +6492,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">2-pin</param>
@@ -6517,7 +6517,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>20</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6543,7 +6543,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6570,7 +6570,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6597,7 +6597,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6623,7 +6623,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">2-pin</param>
@@ -6649,7 +6649,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6675,7 +6675,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -6701,7 +6701,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7334,7 +7334,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7360,7 +7360,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">6-pin</param>
@@ -7385,7 +7385,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">50 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">2-pin</param>
@@ -7412,7 +7412,7 @@ RX 560</strong></h3>
         <stock_quantity>10</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -7439,7 +7439,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7466,7 +7466,7 @@ RX 560</strong></h3>
         <stock_quantity>5</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -7492,7 +7492,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7518,7 +7518,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>50</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7544,7 +7544,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>3</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7569,7 +7569,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7596,7 +7596,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7623,7 +7623,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7654,7 +7654,7 @@ RX 560</strong></h3>
 </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">86 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7681,7 +7681,7 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -7706,7 +7706,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7732,7 +7732,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7758,7 +7758,7 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">75 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -7784,7 +7784,7 @@ RX 560</strong></h3>
         <stock_quantity>5</stock_quantity>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Размер вентилятора">77 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -7809,7 +7809,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>2</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7835,7 +7835,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7860,7 +7860,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7886,7 +7886,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7912,7 +7912,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -7939,7 +7939,7 @@ RX 560</strong></h3>
         <stock_quantity>5</stock_quantity>
         <param name="Питание и тип коннектора">3-pin</param>
         <param name="Размер вентилятора">77 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -7965,7 +7965,7 @@ RX 560</strong></h3>
         <stock_quantity>100</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -7991,7 +7991,7 @@ RX 560</strong></h3>
         <stock_quantity>100</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">47 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -8015,7 +8015,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">45 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">2-pin</param>
@@ -8042,7 +8042,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -8068,7 +8068,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -8095,7 +8095,7 @@ RX 560</strong></h3>
         <stock_quantity>100</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
@@ -8119,7 +8119,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">36 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">2-pin</param>
@@ -8144,7 +8144,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">36 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
         <param name="Питание и тип коннектора">2-pin</param>
@@ -8170,7 +8170,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Шариковый</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -8196,7 +8196,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -8222,7 +8222,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 1070 Ti<br /> GTX 1080<br /> GTX 1080 Ti</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2H GAA8S2U (FD9015U12S FD10015H12S)</h3> <h3>Диаметр вентилятора: <strong>87 мм, 100 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А, 0,45 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8248,7 +8248,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;Mini&nbsp;</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 1070 Ti<br /> GTX 1080<br /> GTX 1080 Ti</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2H GAA8S2U (FD9015U12S FD10015H12S)</h3> <h3>Диаметр вентилятора: <strong>87 мм, 100 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А, 0,45 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8275,7 +8275,7 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">100 мм</param>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -8299,7 +8299,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;Mini&nbsp;</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 1070 Ti<br /> GTX 1080<br /> GTX 1080 Ti</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2H (FD9015U12S)</h3> <h3>Диаметр вентилятора: <strong>87 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8420,7 +8420,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS&nbsp;</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>GTX 750 Ti Strix<br /> GTX 950 Strix<br /> GTX 960 Strix<br /> GTX 1050 Expedition<br /> GTX 1050 Ti Expedition<br /> GTX 1060 OC Edition</strong></p> <p><strong>RX 460 Strix<br /> RX 560 Strix</strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3>Маркировка - T128010SH (FD7010H12S)</h3> <h3>Диаметр вентилятора: <strong>75 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;40 мм х 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,25 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8445,7 +8445,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Sapphire</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>HD 7870 Toxic<br /> HD 7870 Flex<br /> HD 7870 Dual-X<br /> HD 7870 Overclock Edition<br /> HD 7950 OC Version<br /> HD 7950 Flex<br /> HD 7950 Dual-X<br /> HD 7970 Dual-X</strong></p> <p><strong>R9 270X Dual-X<br /> R9 270X Vapor-X<br /> R9 280 Dual-X<br /> R9 280X Dual-X<br /> R9 285 Dual-X<br /> R9 370 Dual-X<br /> R9 380 Dual-X</strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3>Маркировка - T128010SH (FD7010H12S)</h3> <h3>Диаметр вентилятора: <strong>87 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;39 мм х 39 мм х 39 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8471,7 +8471,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>GTX 570<br /> GTX 580<br /> GTX 680</strong></p> <p><strong>HD 6950<br /> HD 6970<br /> HD 7950<br /> HD 7970</strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3>Маркировка - T129025SU</h3> <h3>Диаметр вентилятора: <strong>95 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;40 мм х 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,38&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 5-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>4</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">5-pin</param>
@@ -8497,7 +8497,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за один вентилятор.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>GTX 570<br /> GTX 580<br /> GTX 680</strong></p> <p><strong>HD 6950<br /> HD 6970<br /> HD 7950<br /> HD 7970</strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3>Маркировка - T129025SU</h3> <h3>Диаметр вентилятора: <strong>95 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;40 мм х 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,38&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8523,7 +8523,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Цена указана за комплект - 2 вентилятора</span></h2> <p><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac</strong></span></p> <h2><strong><span style="font-size:14px;">GTX 1060</span></strong></h2> <h2><strong><span style="font-size:14px;">GTX 1070</span></strong></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка - GFY09010E12SPA (GA91S2H)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 39,5 мм x&nbsp;39,5&nbsp;мм x&nbsp;39,5&nbsp;мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8550,7 +8550,7 @@ RX 560</strong></h3>
           <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 960 G1 Gaming<br /> GTX 970 G1 Gaming<br /> GTX 970 Windforce<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming<br /> GTX 980 Ti Windforce</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 G1 Rock<br /> GTX 1070 G1 Rock<br /> GTX 1080 G1 Rock</span></strong></p> <p><strong><span style="font-size:14px;">R9 270X Windforce<br /> R9 280 Windforce<br /> R9 280X Windforce</span></strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - T128010SM (PLD08010S12H)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.2 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>5</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -8577,7 +8577,7 @@ RX 560</strong></h3>
           <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 960 G1 Gaming<br /> GTX 970 G1 Gaming<br /> GTX 970 Windforce<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming<br /> GTX 980 Ti Windforce</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 G1 Rock<br /> GTX 1070 G1 Rock<br /> GTX 1080 G1 Rock</span></strong></p> <p><strong><span style="font-size:14px;">R9 270X Windforce<br /> R9 280 Windforce<br /> R9 280X Windforce</span></strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - T128010SM (PLD08010S12H)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.2 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 3-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>5</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">3-pin</param>
@@ -8605,7 +8605,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт </span><span style="font-size:18px;"><strong>ASUS</strong></span><span style="font-size:14px;"><br /> Цена указана за комплект - 2 вентилятора<br /> &nbsp;<br /> Совместимость с видеокартами</span><br /> HD 7790 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GTX 650Ti<br /> HD 7770 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GTX 750Ti<br /> R7 250 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GTX 760<br /> R7 260 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GTX 950<br /> R7 260X &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GTX 960<br /> R7 265<br /> R9 270<br /> R9 270X</h2> <h2><span style="font-size:14px;"></span></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;"><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></span></h2> <h3>Маркировка -&nbsp;&nbsp;T128010SH (FD7010H12S PLD08010S12HH)</h3> <h3>Диаметр вентилятора: <strong>75&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм x 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,25 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8629,7 +8629,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;<strong>MSI</strong><br /> &nbsp;</h2> <h2><strong>GT 710<br /> GT 730<br /> GT 740<br /> GTX 750<br /> GTX 750Ti<br /> GT 1030</strong></h2> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - HA8010H12F-Z (HA8010H12B-Z)</h3> <h3>Диаметр вентилятора:&nbsp;<strong>75 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;40 мм x 40 мм x 40 мм</strong></h3> <h3>Высота:&nbsp;&nbsp;<strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>0,5&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;2-pin</strong>&nbsp;</h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>100</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Тип">Воздушное охлаждение (кулер)</param>
@@ -8655,7 +8655,7 @@ RX 560</strong></h3>
           <![CDATA[ Edition&nbsp;</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 1070<br /> GTX 1070Ti<br /> GTX 1080<br /> GTX 1080Ti</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GFM10012H12SPA (GAA8S2U)</h3> <h3>Диаметр вентилятора: <strong>95 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8681,7 +8681,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;AMP Edition&nbsp;</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 1070<br /> GTX 1070Ti<br /> GTX 1080<br /> GTX 1080Ti</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GFM10012H12SPA (GAA8S2U)</h3> <h3>Диаметр вентилятора: <strong>95 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>100</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8707,7 +8707,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт </span><span style="font-size:18px;"><strong>MSI Twin Frozr II</strong></span><span style="font-size:14px;"><br /> Цена указана за комплект - 2 вентилятора<br /> &nbsp;<br /> Совместимость с видеокартами</span></h2> <h2>R6850Hawk<br /> R6790 Twin Frozr II<br /> R6870 Twin Frozr II/OC<br /> N460GTX Hawk<br /> N560GTX Twin Frozr II 2GD5<br /> N560GTX-Ti Twin Frozr II/OC<br /> N570GTX Twin Frozr II/OC<br /> N580GTX Twin Frozr II&nbsp;&nbsp;<br /> R6770 Twin Frozr II&nbsp;<br /> R6950 Twin Frozr II<br /> R5850 Twin Frozr II<br /> R5830 Twin Frozr II</h2> <h2><span style="font-size:14px;"></span></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;"><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></span></h2> <h3>Маркировка -&nbsp;&nbsp;PLD08010S12HH (T128010SU)</h3> <h3>Диаметр вентилятора: <strong>75&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм x 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8733,7 +8733,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>XFX</strong></h2> <p><strong>RX 470<br /> RX 480<br /> RX 560<br /> RX 570</strong></p> <h2><span style="font-size:14px;"><strong>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</strong></span></h2> <h3>Маркировка - GFY09010E12SPA (FDC10H12S9-C FY09010H12LPB)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;39 мм х 39 мм х 39 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,45&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8760,7 +8760,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>HIS</strong></h2> <h3><strong>RX 470 IceQ X&sup2; Turbo<br /> RX 470 IceQ X&sup2; OC<br /> RX 570 IceQ X&sup2; OC<br /> RX 580 XTR IceQ X&sup2; Roaring Turbo</strong></h3> <h2><span style="font-size:14px;"><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></span></h2> <h3>Маркировка - GFY09010E12SPA (FDC10U12S9-C FDC10H12S9-C CF9010H12S)</h3> <h3>Диаметр вентилятора: <strong>85 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;39 мм х 39 мм х 39 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,45&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">85 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8787,7 +8787,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>HIS</strong></h2> <h3><strong>RX 470 IceQ X&sup2; Turbo<br /> RX 470 IceQ X&sup2; OC<br /> RX 570 IceQ X&sup2; OC<br /> RX 580 XTR IceQ X&sup2; Roaring Turbo</strong></h3> <h2><span style="font-size:14px;"><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></span></h2> <h3>Маркировка - FDC10H12S9-C ( FDC10U12S9-CGFY09010E12SPA &nbsp;CF9010H12S)</h3> <h3>Диаметр вентилятора: <strong>85 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;39 мм х 39 мм х 39 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,45&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">85 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8814,7 +8814,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>HIS</strong></h2> <h3><strong>RX 470 IceQ X&sup2; Turbo<br /> RX 470 IceQ X&sup2; OC<br /> RX 570 IceQ X&sup2; OC<br /> RX 580 XTR IceQ X&sup2; Roaring Turbo</strong></h3> <h2><span style="font-size:14px;"><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></span></h2> <h3>Маркировка - CF9010H12S&nbsp;(FDC10U12S9-C FDC10H12S9-C GFY09010E12SPA )</h3> <h3>Диаметр вентилятора: <strong>85 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;39 мм х 39 мм х 39 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,42&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">85 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8840,7 +8840,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;AMP</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 1070<br /> GTX 1070Ti<br /> GTX 1080<br /> GTX 1080 Ti</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></span></h2> <h3>Маркировка - GFM10012H12SPA (GAA8S2U)</h3> <h3>Диаметр вентилятора: <strong>95 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;72&nbsp;мм х 24 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,45 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8866,7 +8866,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span>Цена указана за комплект - 2 вентилятора с&nbsp;корпусом в сборе</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт MSI LP&nbsp;low profile (низкопрофильные)</h2> <h2><b>GTX 1050 Ti LP</b></h2> <h2><span style="font-size:14px;"></span></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <p>Маркировка - HA5510M12F-Z</p> <h3>Диаметр вентилятора: <strong>50 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,2 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>100</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">50 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">2-pin</param>
@@ -8891,7 +8891,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;<strong>MSI</strong><br /> &nbsp;</h2> <h2><strong>GTX 1070 Aero</strong></h2> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - PLD10010S12HH&nbsp;&nbsp;</h3> <h3>Диаметр вентилятора:&nbsp;<strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;40 мм x 40 мм x 40 мм</strong></h3> <h3>Высота:&nbsp;&nbsp;<strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>0,4 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8917,7 +8917,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>HIS</strong></h2> <h3><strong>RX 580 IceQ X&sup2; OC<br /> RX 580 IceQ X&sup2; Turbo<br /> RX 590 IceQ X&sup2; OC</strong></h3> <h2><span style="font-size:14px;"><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></span></h2> <h3>Маркировка - FDC10H12S9-C (FDC10U12S9-C CF1015H12D)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;39 мм х 39 мм х 39 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>5</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8943,7 +8943,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>HIS</strong></h2> <h3><strong>RX 580 IceQ X&sup2; OC<br /> RX 580 IceQ X&sup2; Turbo<br /> RX 590 IceQ X&sup2; OC</strong></h3> <h2><span style="font-size:14px;"><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></span></h2> <h3>Маркировка - CF1015H12D (FDC10U12S9-C FDC10H12S9-C)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;39 мм х 39 мм х 39 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,42 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">4-pin</param>
@@ -8967,7 +8967,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;</span></h2> <p>Маркировка -&nbsp;&nbsp;4010HS (YD124510HB)</p> <h3>Диаметр вентилятора: <strong>45 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 26&nbsp;мм x 26&nbsp;мм х 26&nbsp;мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,1&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p><strong>Порядок размещения контактов в разъеме 2-пин не у всех видеокарт одинаковое. При подключении обращайте внимание на цвет проводов и правильную полярность в разъеме.</strong></p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Назначение">Для видеокарты</param>
+        <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">45 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Питание и тип коннектора">2-pin</param>
