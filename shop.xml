@@ -3169,7 +3169,7 @@ RX 580</strong></p>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1005064435">
+      <offer available="true" id="1005064435">
         <url>https://kozatchok.prom.ua/p1005064435-ventilyator-firstd-dlya.html</url>
         <price>950</price>
         <currencyId>UAH</currencyId>
@@ -3214,7 +3214,7 @@ R9 Fury</strong></span></h2>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -6030,7 +6030,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
-      <offer available="false" id="1064897347">
+      <offer available="true" id="1064897347">
         <url>https://kozatchok.prom.ua/p1064897347-ventilyator-apistek-dlya.html</url>
         <price>200</price>
         <currencyId>UAH</currencyId>
@@ -6045,7 +6045,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Palit Dual</strong></h2> <p><strong>GTX 1060<br /> GTX 1070<br /> GTX 1070Ti<br /> GTX 1080</strong></p> <h2>&nbsp;</h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GAA8S2U (GA91S2U, FDC10H12S9-C)</h3> <h3>Диаметр вентилятора: <strong>87&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;39 (40) мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,45 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -8770,9 +8770,9 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1207579969">
+      <offer available="true" id="1207579969">
         <url>https://kozatchok.prom.ua/p1207579969-ventilyator-firstd-dlya.html</url>
-        <price>390</price>
+        <price>420</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2458658032_ventilyator-firstd-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/2458658112_ventilyator-firstd-dlya.jpg</picture>
@@ -8786,7 +8786,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>HIS</strong></h2> <h3><strong>RX 470 IceQ X&sup2; Turbo<br /> RX 470 IceQ X&sup2; OC<br /> RX 570 IceQ X&sup2; OC<br /> RX 580 XTR IceQ X&sup2; Roaring Turbo</strong></h3> <h2><span style="font-size:14px;"><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></span></h2> <h3>Маркировка - FDC10H12S9-C ( FDC10U12S9-CGFY09010E12SPA &nbsp;CF9010H12S)</h3> <h3>Диаметр вентилятора: <strong>85 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;39 мм х 39 мм х 39 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,45&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">85 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
