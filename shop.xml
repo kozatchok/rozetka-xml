@@ -145,11 +145,11 @@ RX 590</span></strong></h3>
 ]]>
         </description>
         <stock_quantity>20</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -189,11 +189,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>4</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -2677,11 +2677,11 @@ RX 590</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -2724,11 +2724,11 @@ RX 590</strong></h3>
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -2771,11 +2771,11 @@ RX 590</strong></h3>
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -2818,11 +2818,11 @@ RX 590</strong></h3>
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -2867,11 +2867,11 @@ RX 590</strong></h3>
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -2910,11 +2910,11 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -2956,11 +2956,11 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -2999,11 +2999,11 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
 ]]>
         </description>
         <stock_quantity>20</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3053,11 +3053,11 @@ GTX 1080Ti</span></strong></p>
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3107,11 +3107,11 @@ GTX 1080Ti</span></strong></p>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3159,11 +3159,11 @@ RX 580</strong></p>
 ]]>
         </description>
         <stock_quantity>5</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3218,8 +3218,8 @@ R9 Fury</strong></span></h2>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">6-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">6-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3264,8 +3264,8 @@ R9 Fury</strong></span></h2>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3313,8 +3313,8 @@ R7 360</strong></p>
         <param name="Размер вентилятора">83 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3367,8 +3367,8 @@ RX 580</strong></p>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3421,8 +3421,8 @@ RX 580</strong></p>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3472,9 +3472,9 @@ RTX 2060</strong></p>
         <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3534,11 +3534,11 @@ GTX 1080Ti</strong></p>
 ]]>
         </description>
         <stock_quantity>3</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3578,11 +3578,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Питание и тип коннектора">3-pin</param>
+        <param name="Разъемы питания">3-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3763,11 +3763,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>4</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3788,11 +3788,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">47 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3813,11 +3813,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3838,11 +3838,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3863,11 +3863,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Питание и тип коннектора">3-pin</param>
+        <param name="Разъемы питания">3-pin</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3888,11 +3888,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3913,11 +3913,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">85 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3942,8 +3942,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">6-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">6-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3968,8 +3968,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -3994,8 +3994,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4019,9 +4019,9 @@ RX 560</strong></h3>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4046,8 +4046,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4071,8 +4071,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">74 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4096,8 +4096,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">55 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4122,8 +4122,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">3-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">3-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4147,8 +4147,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4173,8 +4173,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4198,8 +4198,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">65 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4222,9 +4222,9 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4249,8 +4249,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">3-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">3-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4273,9 +4273,9 @@ RX 560</strong></h3>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4299,8 +4299,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4325,8 +4325,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4349,9 +4349,9 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4374,9 +4374,9 @@ RX 560</strong></h3>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4400,8 +4400,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4426,8 +4426,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">3-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">3-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4452,8 +4452,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4478,8 +4478,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4503,8 +4503,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">86 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4528,9 +4528,9 @@ RX 560</strong></h3>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">66 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4554,8 +4554,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4665,8 +4665,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4689,8 +4689,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4715,8 +4715,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4742,13 +4742,13 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Вид">Кулеры</param>
         <param name="Частота вращения">1800 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
         <param
-        name="Питание и тип коннектора">3-pin</param>
+        name="Разъемы питания">3-pin</param>
           <param name="Размер вентилятора">90 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
           <param name="Гарантия">12 месяцев</param>
@@ -4770,11 +4770,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4802,12 +4802,12 @@ RX 560</strong></h3>
         <param name="Частота вращения">2200 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366</param>
         <param
-        name="Питание и тип коннектора">3-pin</param>
+        name="Разъемы питания">3-pin</param>
           <param name="Размер вентилятора">92 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
-          <param name="Тип">Воздушное охлаждение (кулер)</param>
+          <param name="Вид">Кулеры</param>
           <param name="Гарантия">12 месяцев</param>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
@@ -4859,8 +4859,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">5-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">5-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4885,8 +4885,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">6-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">6-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -4910,13 +4910,13 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Вид">Кулеры</param>
         <param name="Частота вращения">1800 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
         <param
-        name="Питание и тип коннектора">3-pin</param>
+        name="Разъемы питания">3-pin</param>
           <param name="Размер вентилятора">90 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
           <param name="Гарантия">12 месяцев</param>
@@ -4940,13 +4940,13 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Вид">Кулеры</param>
         <param name="Частота вращения">2000 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
         <param
-        name="Питание и тип коннектора">4-pin</param>
+        name="Разъемы питания">4-pin</param>
           <param name="Размер вентилятора">90 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
           <param name="Гарантия">12 месяцев</param>
@@ -5062,12 +5062,12 @@ RX 560</strong></h3>
         <param name="Частота вращения">2000 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366</param>
         <param
-        name="Питание и тип коннектора">3-pin</param>
+        name="Разъемы питания">3-pin</param>
           <param name="Размер вентилятора">92 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
-          <param name="Тип">Воздушное охлаждение (кулер)</param>
+          <param name="Вид">Кулеры</param>
           <param name="Гарантия">12 месяцев</param>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
@@ -5090,8 +5090,8 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Совместимость">LGA1150|LGA1155|LGA1156|LGA1366|LGA1151|LGA2011</param>
-        <param name="Назначение">Для процессора</param>
-        <param name="Тип">Кронштейны</param>
+        <param name="Назначение">Охлаждение для процессора</param>
+        <param name="Вид">Установочные модули и крепления </param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
@@ -5110,8 +5110,8 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Совместимость">AM2+|AM3+|AM2|AM3|FM2+|AM2+/AM3+/ FM1/FM2</param>
-        <param name="Назначение">Для процессора</param>
-        <param name="Тип">Кронштейны</param>
+        <param name="Назначение">Охлаждение для процессора</param>
+        <param name="Вид">Установочные модули и крепления </param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
@@ -5131,8 +5131,8 @@ RX 560</strong></h3>
         </description>
         <stock_quantity>20</stock_quantity>
         <param name="Совместимость">LGA2011</param>
-        <param name="Назначение">Для процессора</param>
-        <param name="Тип">Кронштейны</param>
+        <param name="Назначение">Охлаждение для процессора</param>
+        <param name="Вид">Установочные модули и крепления </param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
@@ -5155,13 +5155,13 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>4</stock_quantity>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Вид">Кулеры</param>
         <param name="Частота вращения">1800 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
         <param
-        name="Питание и тип коннектора">3-pin</param>
+        name="Разъемы питания">3-pin</param>
           <param name="Размер вентилятора">90 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
           <param name="Гарантия">12 месяцев</param>
@@ -5186,13 +5186,13 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Вид">Кулеры</param>
         <param name="Частота вращения">2000 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
         <param
-        name="Питание и тип коннектора">4-pin</param>
+        name="Разъемы питания">4-pin</param>
           <param name="Размер вентилятора">90 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
           <param name="Гарантия">12 месяцев</param>
@@ -5216,13 +5216,13 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Вид">Кулеры</param>
         <param name="Частота вращения">2200 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1151</param>
         <param
-        name="Питание и тип коннектора">3-pin</param>
+        name="Разъемы питания">3-pin</param>
           <param name="Размер вентилятора">85 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
           <param name="Гарантия">12 месяцев</param>
@@ -5247,8 +5247,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -5272,8 +5272,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -5383,13 +5383,13 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>5</stock_quantity>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Вид">Кулеры</param>
         <param name="Частота вращения">1800 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|LGA1366</param>
         <param
-        name="Питание и тип коннектора">3-pin</param>
+        name="Разъемы питания">3-pin</param>
           <param name="Размер вентилятора">90 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
           <param name="Гарантия">12 месяцев</param>
@@ -5415,13 +5415,13 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>5</stock_quantity>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Вид">Кулеры</param>
         <param name="Частота вращения">2000 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|LGA1366</param>
         <param
-        name="Питание и тип коннектора">4-pin</param>
+        name="Разъемы питания">4-pin</param>
           <param name="Размер вентилятора">90 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
           <param name="Гарантия">12 месяцев</param>
@@ -5917,8 +5917,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">6-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">6-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6024,9 +6024,9 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6049,8 +6049,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6072,9 +6072,9 @@ RX 560</strong></h3>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6150,8 +6150,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6174,8 +6174,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6225,8 +6225,8 @@ RX 560</strong></h3>
         <stock_quantity>4</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Размер вентилятора">870</param>
         <param name="Гарантия">15 дней</param>
@@ -6249,8 +6249,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6273,8 +6273,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">3-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">3-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6298,8 +6298,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">6-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">6-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6322,8 +6322,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6347,8 +6347,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">5-pin (4 контакта)</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">5-pin (4 контакта)</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6371,8 +6371,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6396,8 +6396,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6420,8 +6420,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">47 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6444,8 +6444,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">5-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">5-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
@@ -6494,8 +6494,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -6519,8 +6519,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -6545,8 +6545,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">3-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">3-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -6572,8 +6572,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -6599,8 +6599,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -6625,8 +6625,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -6651,8 +6651,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">3-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">3-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -6677,8 +6677,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -6703,8 +6703,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7336,8 +7336,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7362,8 +7362,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">6-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">6-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7387,8 +7387,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">50 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7410,11 +7410,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7440,9 +7440,9 @@ RX 560</strong></h3>
         <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7464,11 +7464,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>5</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7494,8 +7494,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7520,8 +7520,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7546,8 +7546,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7571,8 +7571,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7597,9 +7597,9 @@ RX 560</strong></h3>
         <stock_quantity>100</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7624,9 +7624,9 @@ RX 560</strong></h3>
         <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7656,8 +7656,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">86 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же д��нь. Предоплата 10-100%, но не
@@ -7679,11 +7679,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7708,8 +7708,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7734,8 +7734,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7756,11 +7756,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7782,11 +7782,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>5</stock_quantity>
-        <param name="Питание и тип коннектора">3-pin</param>
+        <param name="Разъемы питания">3-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7811,8 +7811,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">3-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">3-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7837,8 +7837,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7862,8 +7862,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7888,8 +7888,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7914,8 +7914,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7937,11 +7937,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>5</stock_quantity>
-        <param name="Питание и тип коннектора">3-pin</param>
+        <param name="Разъемы питания">3-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7963,11 +7963,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -7989,11 +7989,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">47 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8017,8 +8017,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">45 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8044,8 +8044,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8070,8 +8070,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8093,11 +8093,11 @@ RX 560</strong></h3>
 ]]>
         </description>
         <stock_quantity>100</stock_quantity>
-        <param name="Питание и тип коннектора">4-pin</param>
+        <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8121,8 +8121,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">36 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8146,8 +8146,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">36 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8171,9 +8171,9 @@ RX 560</strong></h3>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Шариковый</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8198,8 +8198,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8225,8 +8225,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8251,8 +8251,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8277,8 +8277,8 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">100 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8302,8 +8302,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8326,15 +8326,15 @@ RX 560</strong></h3>
           <![CDATA[ <h2>&nbsp;</h2> <p>Активное охлаждение для процессора.&nbsp;Четыре тепловые медные трубки.</p> <p>Работает тихо. Все проверены.</p> <p>Крепление для &nbsp;сокета&nbsp;<br /> Intel LGA 775/115Х/1366&nbsp;(рамка переходник в комплекте)<br /> AMD AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Размер В х Ш х Г : 135 х 115 х 95 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90&nbsp;х&nbsp;90&nbsp;х 25&nbsp;мм&nbsp;<br /> Номинальное напряжение: 12V<br /> Максимальная скорость: 600 - 2000 об / мин&nbsp;<br /> Шум: 0-40 dBA&nbsp;</p> <p>Разъем подключения:&nbsp;<strong>4-pin</strong></p> <p>&nbsp;</p> <span></span> ]]>
         </description>
         <stock_quantity>100</stock_quantity>
-        <param name="Назначение">Для процессора</param>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Назначение">Охлаждение для процессора</param>
+        <param name="Вид">Кулеры</param>
         <param name="Размер вентилятора">90 мм</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
         <param
         name="Частота вращения">600-2000 об/мин</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
-          <param name="Питание и тип коннектора">4-pin</param>
+          <param name="Разъемы питания">4-pin</param>
           <param name="Гарантия">12 месяцев</param>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
@@ -8357,13 +8357,13 @@ RX 560</strong></h3>
           <![CDATA[ <h2>&nbsp;</h2> <p>Активное охлаждение для процессора.&nbsp;Четыре тепловые медные трубки.</p> <p>Работает тихо. Все проверены.</p> <p>Крепление для &nbsp;сокета&nbsp;<br /> Intel LGA 775/115Х/1366&nbsp;(рамка переходник в комплекте)<br /> AMD AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Размер В х Ш х Г : 135 х 115 х 95 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90&nbsp;х&nbsp;90&nbsp;х 25&nbsp;мм&nbsp;<br /> Номинальное напряжение: 12V<br /> Максимальная скорость: 1800 об / мин&nbsp;<br /> Шум: 20 dBA&nbsp;</p> <p>Разъем подключения:&nbsp;<strong>3-pin</strong></p> <p>&nbsp;</p> <span></span> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Вид">Кулеры</param>
         <param name="Частота вращения">1800 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
         <param
-        name="Питание и тип коннектора">3-pin</param>
+        name="Разъемы питания">3-pin</param>
           <param name="Размер вентилятора">90 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
           <param name="Гарантия">12 месяцев</param>
@@ -8391,12 +8391,12 @@ RX 560</strong></h3>
         <param name="Частота вращения">2200 об/мин</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366</param>
         <param
-        name="Питание и тип коннектора">3-pin</param>
+        name="Разъемы питания">3-pin</param>
           <param name="Размер вентилятора">80 мм</param>
-          <param name="Назначение">Для процессора</param>
+          <param name="Назначение">Охлаждение для процессора</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
-          <param name="Тип">Воздушное охлаждение (кулер)</param>
+          <param name="Вид">Кулеры</param>
           <param name="Гарантия">12 месяцев</param>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
@@ -8423,8 +8423,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8448,8 +8448,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8474,8 +8474,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">5-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">5-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8500,8 +8500,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8526,8 +8526,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8553,8 +8553,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8580,8 +8580,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">3-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">3-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8608,8 +8608,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8632,8 +8632,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
-        <param name="Питание и тип коннектора">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
+        <param name="Разъемы питания">2-pin</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8658,8 +8658,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8684,8 +8684,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8710,8 +8710,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8736,8 +8736,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8763,8 +8763,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">85 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8790,8 +8790,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">85 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8817,8 +8817,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">85 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8843,8 +8843,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8869,8 +8869,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">50 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">2-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8894,8 +8894,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8920,8 +8920,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8946,8 +8946,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">4-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">4-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8970,8 +8970,8 @@ RX 560</strong></h3>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">45 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Питание и тип коннектора">2-pin</param>
-        <param name="Тип">Воздушное охлаждение (кулер)</param>
+        <param name="Разъемы питания">2-pin</param>
+        <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
@@ -8991,7 +8991,8 @@ RX 560</strong></h3>
           <![CDATA[ <p>Рамка крепление&nbsp;охлаждения для&nbsp;процессора&nbsp;AMD.&nbsp;</p> <p>Совместима с материнскими платами сокет AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+.</p> <p>Состоит из рамки, подложки и винтов<br /> Материал: пластик</p> <p>Тип упаковки: ОЕМ (без коробки)</p> <p>&nbsp;</p> <span></span> ]]>
         </description>
         <stock_quantity>10</stock_quantity>
-        <param name="Назначение">Для процессора</param>
+        <param name="Назначение">Охлаждение для процессора</param>
+        <param name="Вид">Установочные модули и крепления </param>
         <param name="Совместимость">AM2|AM3|FM2+|AM2+/AM3+/ FM1/FM2</param>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
@@ -9135,15 +9136,15 @@ RX 560</strong></h3>
           <![CDATA[ <h2>&nbsp;</h2> <p>Активное охлаждение для процессора.&nbsp;Шесть тепловых&nbsp;медных&nbsp;трубок.</p> <p>Работает тихо. Все проверены.</p> <p>Крепление для &nbsp;сокета&nbsp;<br /> Intel LGA 775/115Х/1366&nbsp;(рамка переходник в комплекте)<br /> AMD AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Размер В х Ш х Г : 135 х 110 х 95 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90&nbsp;х&nbsp;90&nbsp;х 25&nbsp;мм&nbsp;<br /> Номинальное напряжение: 12V<br /> Максимальная скорость: 600 - 2000 об / мин&nbsp;<br /> Шум: 0-40 dBA&nbsp;</p> <p>Разъем подключения:&nbsp;<strong>4-pin</strong></p> <p>&nbsp;</p> <span></span> ]]>
         </description>
         <stock_quantity>5</stock_quantity>
-        <param name="Назначение">Для процессора</param>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Назначение">Охлаждение для процессора</param>
+        <param name="Вид">Кулеры</param>
         <param name="Размер вентилятора">90 мм</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
         <param
         name="Частота вращения">600-2000 об/мин</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
-          <param name="Питание и тип коннектора">4-pin</param>
+          <param name="Разъемы питания">4-pin</param>
           <param name="Гарантия">12 месяцев</param>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
@@ -9166,14 +9167,14 @@ RX 560</strong></h3>
           <![CDATA[ <h2>&nbsp;</h2> <p>Активное охлаждение для процессора.&nbsp;Четыре тепловые медные трубки.</p> <p>Работает тихо. Все проверены.</p> <p>Крепление для &nbsp;сокета&nbsp;<br /> Intel LGA 775/115Х/1366&nbsp;(рамка переходник в комплекте)<br /> AMD AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Размер В х Ш х Г : 135 х 85х 95 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90&nbsp;х&nbsp;90&nbsp;х 25&nbsp;мм&nbsp;<br /> Номинальное напряжение: 12V<br /> Максимальная скорость: 1800 &plusmn; 10%&nbsp;об / мин&nbsp;<br /> Шум: 20 dBA&nbsp;</p> <p>Разъем подключения:&nbsp;<strong>3-pin</strong></p> <p>&nbsp;</p> <span></span> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для процессора</param>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Назначение">Охлаждение для процессора</param>
+        <param name="Вид">Кулеры</param>
         <param name="Размер вентилятора">90 мм</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
         <param name="Частота вращения">1800 об/мин</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
-          <param name="Питание и тип коннектора">3-pin</param>
+          <param name="Разъемы питания">3-pin</param>
           <param name="Гарантия">12 месяцев</param>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
@@ -9209,14 +9210,14 @@ RX 560</strong></h3>
           </p>
           <p>&nbsp;</p> <span></span> ]]></description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для процессора</param>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Назначение">Охлаждение для процессора</param>
+        <param name="Вид">Кулеры</param>
         <param name="Размер вентилятора">90 мм</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
         <param name="Частота вращения">1800 об/мин</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
-          <param name="Питание и тип коннектора">3-pin</param>
+          <param name="Разъемы питания">3-pin</param>
           <param name="Гарантия">12 месяцев</param>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
@@ -9239,14 +9240,14 @@ RX 560</strong></h3>
           <![CDATA[ <h2>&nbsp;</h2> <p>Активное охлаждение для процессора.&nbsp;Четыре тепловые медные трубки.</p> <p>Работает тихо. Все проверены.</p> <p>Крепление для &nbsp;сокета&nbsp;<br /> Intel LGA 775/115Х/1366&nbsp;(рамка переходник в комплекте)<br /> AMD AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Размер В х Ш х Г : 135 х 85х 95 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90&nbsp;х&nbsp;90&nbsp;х 25&nbsp;мм&nbsp;<br /> Номинальное напряжение: 12V<br /> Максимальная скорость: 800-2000 &plusmn; 10%&nbsp;об / мин&nbsp;<br /> Шум: 0-40 dBA&nbsp;</p> <p>Разъем подключения:&nbsp;<strong>4-pin</strong></p> <p>&nbsp;</p> <span></span> ]]>
         </description>
         <stock_quantity>100</stock_quantity>
-        <param name="Назначение">Для процессора</param>
-        <param name="Тип">Активная (кулер)</param>
+        <param name="Назначение">Охлаждение для процессора</param>
+        <param name="Вид">Кулеры</param>
         <param name="Размер вентилятора">90 мм</param>
         <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|AM1|LGA1366|LGA1151</param>
         <param name="Частота вращения">600-2000 об/мин</param>
           <param name="Тип подшипника">Гидродинамический</param>
           <param name="Материал радиатора">Алюминий - медь</param>
-          <param name="Питание и тип коннектора">4-pin</param>
+          <param name="Разъемы питания">4-pin</param>
           <param name="Гарантия">12 месяцев</param>
           <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
           менее 50 грн.</param>
