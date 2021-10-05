@@ -3480,7 +3480,7 @@ RTX 2060</strong></p>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1005083802">
+      <offer available="true" id="1005083802">
         <url>https://kozatchok.prom.ua/p1005083802-ventilyator-powerlogic-dlya.html</url>
         <price>520</price>
         <price_old>560</price_old>
@@ -3533,7 +3533,7 @@ GTX 1080Ti</strong></p>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
@@ -3823,7 +3823,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1022173589">
+      <offer available="true" id="1022173589">
         <url>https://kozatchok.prom.ua/p1022173589-ventilyator-firstd-dlya.html</url>
         <price>190</price>
         <currencyId>UAH</currencyId>
@@ -3837,7 +3837,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS</strong></span></h2> <p><strong>GTX 460<br /> GTX 550Ti<br /> GTX 560<br /> GTX 560Ti<br /> GTX 650<br /> GTX 650Ti<br /> GTX 750<br /> GTX 750Ti<br /> GT 740<br /> GTS 450<br /> GTS 250</strong></p> <p><br /> <strong>8600GT<br /> 9800GT<br /> 9600GT</strong></p> <p><br /> <strong>HD5830<br /> HD6670<br /> HD 6770<br /> HD 6850<br /> HD 7750<br /> HD 7770<br /> HD 7850</strong></p> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка - FD8015U12D (FD8015U12S)</h3> <h3>Диаметр вентилятора: <strong>75 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 43 мм x 43&nbsp;мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Питание и тип коннектора">4-pin</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
@@ -6376,7 +6376,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
-      <offer available="false" id="1092638259">
+      <offer available="true" id="1092638259">
         <url>https://kozatchok.prom.ua/p1092638259-ventilyator-firstd-dlya.html</url>
         <price>590</price>
         <currencyId>UAH</currencyId>
@@ -6392,7 +6392,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за двойной вентилятор</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Palit GameRock&nbsp;</strong></h2> <h2>GTX 1080&nbsp;Ti</h2> <h2>&nbsp;</h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - FD10010H12S&nbsp;</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:&nbsp;<strong>109&nbsp;мм х 11 мм</strong><br /> Напряжение: DC 12V<br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -8232,7 +8232,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1158546868">
+      <offer available="true" id="1158546868">
         <url>https://kozatchok.prom.ua/p1158546868-ventilyator-apistek-dlya.html</url>
         <price>470</price>
         <currencyId>UAH</currencyId>
@@ -8247,7 +8247,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;Mini&nbsp;</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 1070 Ti<br /> GTX 1080<br /> GTX 1080 Ti</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2H GAA8S2U (FD9015U12S FD10015H12S)</h3> <h3>Диаметр вентилятора: <strong>87 мм, 100 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А, 0,45 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -8258,7 +8258,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1158558697">
+      <offer available="true" id="1158558697">
         <url>https://kozatchok.prom.ua/p1158558697-ventilyator-apistek-dlya.html</url>
         <price>310</price>
         <currencyId>UAH</currencyId>
@@ -8273,7 +8273,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 1070 Ti<br /> GTX 1080<br /> GTX 1080 Ti</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GAA8S2U (FD10015H12S)</h3> <h3>Диаметр вентилятора: <strong>100 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,45 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">100 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -8430,7 +8430,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1187976872">
+      <offer available="true" id="1187976872">
         <url>https://kozatchok.prom.ua/p1187976872-ventilyator-firstd-dlya.html</url>
         <price>380</price>
         <currencyId>UAH</currencyId>
@@ -8444,7 +8444,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Sapphire</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>HD 7870 Toxic<br /> HD 7870 Flex<br /> HD 7870 Dual-X<br /> HD 7870 Overclock Edition<br /> HD 7950 OC Version<br /> HD 7950 Flex<br /> HD 7950 Dual-X<br /> HD 7970 Dual-X</strong></p> <p><strong>R9 270X Dual-X<br /> R9 270X Vapor-X<br /> R9 280 Dual-X<br /> R9 280X Dual-X<br /> R9 285 Dual-X<br /> R9 370 Dual-X<br /> R9 380 Dual-X</strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3>Маркировка - T128010SH (FD7010H12S)</h3> <h3>Диаметр вентилятора: <strong>87 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;39 мм х 39 мм х 39 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
