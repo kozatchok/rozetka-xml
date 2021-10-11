@@ -1143,7 +1143,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1000662952">
+      <offer available="true" id="1000662952">
         <url>https://kozatchok.prom.ua/p1000662952-protsessor-amd-phenom.html</url>
         <price>320</price>
         <currencyId>UAH</currencyId>
@@ -1157,7 +1157,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Внутренняя тактовая частота">2.2 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -1440,7 +1440,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1000838949">
+      <offer available="true" id="1000838949">
         <url>https://kozatchok.prom.ua/p1000838949-protsessor-amd-athlon.html</url>
         <price>160</price>
         <currencyId>UAH</currencyId>
@@ -1455,7 +1455,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Внутренняя тактовая частота">3.0 ГГц</param>
         <param name="Мощность TDP">65.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -2877,7 +2877,7 @@ RX 590</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1005052295">
+      <offer available="true" id="1005052295">
         <url>https://kozatchok.prom.ua/p1005052295-ventilyator-everflow-dlya.html</url>
         <price>180</price>
         <currencyId>UAH</currencyId>
@@ -2909,7 +2909,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>20</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
