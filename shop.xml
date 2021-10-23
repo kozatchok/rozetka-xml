@@ -4510,7 +4510,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1023644291">
+      <offer available="false" id="1023644291">
         <url>https://kozatchok.prom.ua/p1023644291-turbina-delta-dlya.html</url>
         <price>230</price>
         <currencyId>UAH</currencyId>
@@ -4525,7 +4525,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Турбина (кулер) для систем охлаждения видеокарт</h2> <p><strong><span style="font-size:14px;"><u>Nvidia (референсные модели)</u></span><br /> GTX 1050<br /> GTX 1050 Ti<br /> GTX 1060<br /> GTX 1070<br /> GTX 1070 Ti<br /> GTX 1080<br /> GTX 1080 Ti</strong></p> <p><strong><span style="font-size:14px;"><u>Zotac</u></span><br /> GTX 460<br /> GTX 470<br /> GTX 480<br /> GTX 560<br /> GTX 570<br /> GTX 580<br /> GTX 660Ti<br /> GTX 670<br /> GTX 680<br /> GTX 1060<br /> GTX 1070<br /> GTX 1080</strong></p> <p><br /> <strong><span style="font-size:14px;"><u>EVGA</u></span><br /> GTX 460<br /> GTX 470<br /> GTX 480<br /> GTX 570<br /> GTX 580<br /> GTX 660<br /> GTX 660Ti<br /> GTX 670<br /> GTX 680<br /> GTX 760<br /> GTX 770<br /> GTX 780</strong></p> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - BFB0712HF</h3> <h3>Диаметр вентилятора:&nbsp;<strong>66 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;37 мм x 37 мм х 37 мм</strong><br /> Высота крыльчатки: <strong>23 мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>1,8 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">66 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Подшипник качения</param>
