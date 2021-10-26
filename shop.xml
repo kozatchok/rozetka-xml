@@ -4561,7 +4561,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1023925330">
+      <offer available="true" id="1023925330">
         <url>https://kozatchok.prom.ua/p1023925330-protsessor-amd-4100.html</url>
         <price>640</price>
         <price_old>740.00</price_old>
@@ -4575,7 +4575,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Внутренняя тактовая частота">3.6 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -7448,7 +7448,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1137405248">
+      <offer available="false" id="1137405248">
         <url>https://kozatchok.prom.ua/p1137405248-ventilyator-powerlogic-dlya.html</url>
         <price>290</price>
         <currencyId>UAH</currencyId>
@@ -7463,7 +7463,7 @@ RX 560</strong></h3>
           <![CDATA[ <h3>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;Mini ITX</strong></h3> <h3><strong>GTX 1050<br /> GTX 1050Ti<br /> GTX 1060<br /> GTX 1070</strong></h3> <h3><strong>RX 550<br /> RX 560</strong></h3> <h3>Маркировка - PLD09210S12HH (T129215SU)</h3> <h3>Диаметр вентилятора: <strong>87&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin</strong></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
