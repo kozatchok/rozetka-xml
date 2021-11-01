@@ -8103,7 +8103,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1141402446">
+      <offer available="false" id="1141402446">
         <url>https://kozatchok.prom.ua/p1141402446-ventilyator-lixue-dlya.html</url>
         <price>140</price>
         <currencyId>UAH</currencyId>
@@ -8117,7 +8117,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт </span><span style="font-size:18px;">ASUS</span></h2> <p><strong>HD 4550<br /> HD 5450<br /> HD 5550<br /> HD 5570<br /> HD 6570<br /> R7 240</strong></p> <p><strong>GT 210<br /> GT 220<br /> GT 430<br /> GT 520<br /> GT 620<br /> GT 640<br /> GT 710<br /> GT 730</strong></p> <h3>Маркировка -&nbsp;&nbsp;4010HS (T124010DL EFB0412HHA)</h3> <h3>Диаметр вентилятора: <strong>36 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 26 мм x 26 мм х 26 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,1&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">36 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -10770,7 +10770,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer id="1381723204" available="true">
+      <offer id="1381723204" available="false">
         <url>https://kozatchok.prom.ua/p1381723204-ventilyator-everflow-dlya.html</url>
         <price>660</price>
         <currencyId>UAH</currencyId>
@@ -10785,7 +10785,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2><u><strong>Цена указана за комплект - 2 вентилятора.</strong></u><strong>&nbsp;</strong></h2> <h2>На вентиляторах оригинальные логотипы&nbsp;ASUS&nbsp;</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2><strong>RTX 2080 Ti Dual<br /> RTX 2080 Ti Dual Advanced edition</strong></h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</h2> <h3>Маркировка - T129215SH (FDC10U12S9-C PLD09210S12H)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;32&nbsp;мм х 32 мм х 32 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,3 А</strong><br /> Интерфейс вентилятора: <strong>разъем 14-pin (7 контактов)</strong></h3> <p>Тип подшипника: гидродинамический</p> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
@@ -11594,7 +11594,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за один вентилятор</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;<strong>Zotac&nbsp;</strong></h2> <h2>Совместимость с системами охлаждения видеокарт</h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong><span style="font-size:12px;"></span><span style="font-size:12px;">RTX 3060 Twin Edge<br /> RTX 3060 GAMING AMP White Edition<br /> RTX 3060 Ti Twin Edge<br /> RTX 3060 Ti AMP White Edition<br /> RTX 3070 Twin Edge OC<br /> RTX 3070 Twin Edge OC White Edition<br /> RTX 3070 Ti AMP Holo<br /> RTX 3080 Trinity<br /> RTX 3080 AMP Holo<br /> RTX 3080 Ti Trinity<br /> RTX 3080 Ti AMP Holo<br /> RTX 3090 Ti Trinity<br /> RTX 3090 Ti AMP Holo</span><span style="font-size:12px;"></span><span style="font-size:12px;"></span></strong></p> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2><strong>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</strong></h2> <h3>Маркировка - GA92S2U&nbsp;</h3> <h3>Диаметр вентилятора: <strong>89 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,46 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin (длинна провода 12 см)</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Вид">Вентиляторы</param>
         <param name="Размер вентилятора">89 мм</param>
@@ -11605,7 +11605,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer id="1491257247" available="true">
+      <offer id="1491257247" available="false">
         <url>https://kozatchok.prom.ua/p1491257247-ventilyator-apistek-dlya.html</url>
         <price>350</price>
         <currencyId>UAH</currencyId>
@@ -11624,7 +11624,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за один вентилятор</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;<strong>Zotac&nbsp;</strong></h2> <h2>Совместимость с системами охлаждения видеокарт</h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong><span style="font-size:12px;"></span><span style="font-size:12px;">RTX 3060 Twin Edge<br /> RTX 3060 GAMING AMP White Edition<br /> RTX 3060 Ti Twin Edge<br /> RTX 3060 Ti AMP White Edition<br /> RTX 3070 Twin Edge OC<br /> RTX 3070 Twin Edge OC White Edition<br /> RTX 3070 Ti AMP Holo<br /> RTX 3080 Trinity<br /> RTX 3080 AMP Holo<br /> RTX 3080 Ti Trinity<br /> RTX 3080 Ti AMP Holo<br /> RTX 3090 Ti Trinity<br /> RTX 3090 Ti AMP Holo</span><span style="font-size:12px;"></span><span style="font-size:12px;"></span></strong></p> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2><strong>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</strong></h2> <h3>Маркировка - GA92S2U&nbsp;</h3> <h3>Диаметр вентилятора: <strong>89 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,46 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin (длинна провода 12 см)</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Вид">Вентиляторы</param>
         <param name="Размер вентилятора">89 мм</param>
