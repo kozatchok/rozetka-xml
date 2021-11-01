@@ -5391,6 +5391,7 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">90 мм</param>
         <param name="Назначение">Охлаждение для процессора</param>
         <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Максимальный TDP">95W</param>
         <param name="Материал радиатора">Алюминий - медь</param>
         <param name="Гарантия">12 месяцев</param>
       </offer>
@@ -5423,6 +5424,7 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">90 мм</param>
         <param name="Назначение">Охлаждение для процессора</param>
         <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Максимальный TDP">95W</param>
         <param name="Материал радиатора">Алюминий - медь</param>
         <param name="Гарантия">12 месяцев</param>
       </offer>
