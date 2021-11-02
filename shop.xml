@@ -3480,7 +3480,7 @@ RTX 2060</strong></p>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1005083802">
+      <offer available="false" id="1005083802">
         <url>https://kozatchok.prom.ua/p1005083802-ventilyator-powerlogic-dlya.html</url>
         <price>520</price>
         <price_old>560</price_old>
@@ -3533,7 +3533,7 @@ GTX 1080Ti</strong></p>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
