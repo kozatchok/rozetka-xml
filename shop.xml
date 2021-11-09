@@ -6210,7 +6210,7 @@ RX 560</strong></h3>
         <param name="Дополнительное питание">Нет</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="true" id="1086557350">
+      <offer available="false" id="1086557350">
         <url>https://kozatchok.prom.ua/p1086557350-ventilyator-everflow-dlya.html</url>
         <price>260</price>
         <currencyId>UAH</currencyId>
@@ -6224,7 +6224,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Sapphire&nbsp;</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>R7 370<br /> R9 Fury</h2> <h2><br /> RX 470D<br /> RX 570</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - T129215SU (T129215BU)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Разъемы питания">4-pin</param>
