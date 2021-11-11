@@ -3841,7 +3841,7 @@ RX 560</strong></h3>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Подшипник качения</param>
+        <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
         <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
