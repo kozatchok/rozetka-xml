@@ -4510,9 +4510,9 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1023644291">
+      <offer available="true" id="1023644291">
         <url>https://kozatchok.prom.ua/p1023644291-turbina-delta-dlya.html</url>
-        <price>230</price>
+        <price>240</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1930300872_turbina-delta-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/1930300944_turbina-delta-dlya.jpg</picture>
@@ -4525,7 +4525,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Турбина (кулер) для систем охлаждения видеокарт</h2> <p><strong><span style="font-size:14px;"><u>Nvidia (референсные модели)</u></span><br /> GTX 1050<br /> GTX 1050 Ti<br /> GTX 1060<br /> GTX 1070<br /> GTX 1070 Ti<br /> GTX 1080<br /> GTX 1080 Ti</strong></p> <p><strong><span style="font-size:14px;"><u>Zotac</u></span><br /> GTX 460<br /> GTX 470<br /> GTX 480<br /> GTX 560<br /> GTX 570<br /> GTX 580<br /> GTX 660Ti<br /> GTX 670<br /> GTX 680<br /> GTX 1060<br /> GTX 1070<br /> GTX 1080</strong></p> <p><br /> <strong><span style="font-size:14px;"><u>EVGA</u></span><br /> GTX 460<br /> GTX 470<br /> GTX 480<br /> GTX 570<br /> GTX 580<br /> GTX 660<br /> GTX 660Ti<br /> GTX 670<br /> GTX 680<br /> GTX 760<br /> GTX 770<br /> GTX 780</strong></p> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - BFB0712HF</h3> <h3>Диаметр вентилятора:&nbsp;<strong>66 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;37 мм x 37 мм х 37 мм</strong><br /> Высота крыльчатки: <strong>23 мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>1,8 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <param name="Размер вентилятора">66 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Подшипник качения</param>
@@ -5095,7 +5095,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1025231275">
+      <offer available="false" id="1025231275">
         <url>https://kozatchok.prom.ua/p1025231275-ramka-kreplenie-kulera.html</url>
         <price>70</price>
         <currencyId>UAH</currencyId>
@@ -5108,7 +5108,7 @@ RX 560</strong></h3>
           <![CDATA[ <p>Универсальное крепление для установки кулера на процессоры AMD под сокеты AM2, AM2+, AM3, AM3+, FM1, FM2, FM2+.</p> <p>Состоит из рамки, подложки и винтов<br /> Материал: пластик</p> <p>Тип упаковки: ОЕМ (без коробки)</p> <p>&nbsp;</p> <span></span>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Совместимость">AM2+|AM3+|AM2|AM3|FM2+|AM2+/AM3+/ FM1/FM2</param>
         <param name="Назначение">Охлаждение для процессора</param>
         <param name="Вид">Установочные модули и крепления </param>
@@ -10481,7 +10481,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
       </offer>
-      <offer id="1482792862" available="false">
+      <offer id="1482792862" available="true">
         <url>https://kozatchok.prom.ua/p1482792862-ventilyator-everflow-dlya.html</url>
         <price>870</price>
         <currencyId>UAH</currencyId>
@@ -10499,7 +10499,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>&nbsp;</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт ASUS</h2> <p><span style="font-size:14px;"></span></p> <p><strong>RTX 3060 KO OC Edition<br /> RTX 3060 Megalodon<br /> RTX 3060 Ti Dual<br /> RTX 3060 Ti KO Gaming<br /> RTX 3070 Dual<br /> RTX 3070 KO Gaming</strong></p> <p><strong>RX 6600 XT Dual<br /> RX 6600 XT ROG Strix<br /> RX 6700 XT Dual</strong></p> <p><span style="font-size:14px;"></span><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <p><span style="font-size:14px;">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></p> <h3>Маркировка - FDC10U12S9-C (CF1010U12D T129215SU PLD10010S12HH)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;104 мм x 26 мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;7-pin&nbsp;</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Количество вентиляторов">2</param>
         <param name="Размер вентилятора">95 мм</param>
