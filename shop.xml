@@ -6693,7 +6693,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="false" id="1132741585">
+      <offer available="true" id="1132741585">
         <url>https://kozatchok.prom.ua/p1132741585-ventilyator-firstd-dlya.html</url>
         <price>290</price>
         <currencyId>UAH</currencyId>
@@ -6708,7 +6708,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт </span><span style="font-size:18px;"><strong>ASUS</strong></span><span style="font-size:14px;"><br /> Цена указана за комплект - 2 вентилятора<br /> &nbsp;<br /> Совместимость с видеокартами</span><br /> HD 7790 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GTX 650Ti<br /> HD 7950 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GTX 750Ti<br /> R7 250 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GTX 760<br /> R7 260 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GTX 950<br /> R7 260X &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GTX 960<br /> R7 265<br /> R9 270<br /> R9 270X</h2> <h2><span style="font-size:14px;"></span></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка -&nbsp;&nbsp;FD7010H12S (T128010SU PLD08010S12HH)</h3> <h3>Диаметр вентилятора: <strong>75&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм x 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
