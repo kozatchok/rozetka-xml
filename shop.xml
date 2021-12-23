@@ -2877,7 +2877,7 @@ RX 590</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1005052295">
+      <offer available="false" id="1005052295">
         <url>https://kozatchok.prom.ua/p1005052295-ventilyator-everflow-dlya.html</url>
         <price>180</price>
         <currencyId>UAH</currencyId>
@@ -2909,7 +2909,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>20</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
@@ -2920,7 +2920,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1005053206">
+      <offer available="false" id="1005053206">
         <url>https://kozatchok.prom.ua/p1005053206-ventilyator-everflow-dlya.html</url>
         <price>520</price>
         <currencyId>UAH</currencyId>
@@ -2955,7 +2955,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
@@ -6615,7 +6615,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1132733512">
+      <offer available="false" id="1132733512">
         <url>https://kozatchok.prom.ua/p1132733512-ventilyator-everflow-dlya.html</url>
         <price>170</price>
         <currencyId>UAH</currencyId>
@@ -6630,7 +6630,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт </span><span style="font-size:18px;"><strong>Gigabyte</strong></span></h2> <p><strong>GTX 460<br /> GTX 560<br /> GTX 560Ti<br /> GTX 660<br /> GTX 660Ti<br /> GTX 670<br /> GTX 680<br /> GTX 750Ti<br /> GTX 760<br /> GTX 770<br /> GTX 780<br /> GTX 780Ti</strong></p> <p><strong>HD 6850<br /> R7 260X<br /> R9 270<br /> R9 270X<br /> R9 280<br /> R9 290</strong></p> <h3>Маркировка -&nbsp;&nbsp;T128010SM&nbsp;(FS1280-S2135A T128010SL&nbsp;)</h3> <h3>Диаметр вентилятора: <strong>75 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм x 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,15-0,2 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
