@@ -7536,7 +7536,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1138516307">
+      <offer available="false" id="1138516307">
         <url>https://kozatchok.prom.ua/p1138516307-ventilyator-apistek-dlya.html</url>
         <price>1090</price>
         <currencyId>UAH</currencyId>
@@ -7551,7 +7551,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 3 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;AMP</strong>&nbsp;<strong>Extreme</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 980Ti<br /> GTX 1070<br /> GTX 1070Ti<br /> GTX 1080</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2U</h3> <h3>Диаметр вентилятора: <strong>87 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;71&nbsp;мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,46 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -7562,7 +7562,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1138566847">
+      <offer available="false" id="1138566847">
         <url>https://kozatchok.prom.ua/p1138566847-ventilyator-apistek-dlya.html</url>
         <price>380</price>
         <currencyId>UAH</currencyId>
@@ -7576,7 +7576,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;AMP</strong>&nbsp;<strong>Extreme</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>GTX 980Ti<br /> GTX 1070<br /> GTX 1070Ti<br /> GTX 1080</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2U</h3> <h3>Диаметр вентилятора: <strong>87 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;71&nbsp;мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,46 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
