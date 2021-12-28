@@ -9722,7 +9722,7 @@ RX 560</strong></h3>
         <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
       </offer>
-      <offer id="1413947924" available="true">
+      <offer id="1413947924" available="false">
         <url>https://kozatchok.prom.ua/p1413947924-ventilyator-everflow-dlya.html</url>
         <price>540</price>
         <currencyId>UAH</currencyId>
@@ -9742,7 +9742,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2>Цена указана за комплект - 3 вентилятора + кабель подключения к видеокарте</h2> <h2>Вентиляторы подойдут для замены оригинальных вентиляторов систем охлаждения видеокарт Gigabyte.</h2> <h2>Вентиляторы выполены&nbsp;на шариковых подшипниках, что предполагает более длительный срок службы по сравнению с вентиляторами на гидродинамических подшипниках.&nbsp;&nbsp;</h2> <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 670<br /> GTX 680<br /> GTX 760<br /> GTX 770<br /> GTX 780<br /> GTX 960<br /> GTX 980</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 Ti Aorus<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 Ti Gaming</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1660 Gaming<br /> GTX 1660 Super Gaming<br /> GTX 1660 Ti Gaming<br /> RTX 2060 Gaming<br /> RTX 2060 Super OC 3X White<br /> RTX 2060 Super Gaming</span></strong></p> <p><strong><span style="font-size:14px;">R9 290<br /> R9 290X</span></strong></p> <p>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - T128010SU</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 75 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,3-0,4 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Количество вентиляторов">3</param>
         <param name="Размер вентилятора">75 мм</param>
