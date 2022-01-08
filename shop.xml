@@ -5532,7 +5532,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1049272789">
+      <offer available="false" id="1049272789">
         <url>https://kozatchok.prom.ua/p1049272789-protsessor-amd-6300.html</url>
         <price>1340</price>
         <currencyId>UAH</currencyId>
@@ -5545,7 +5545,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2><h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <span></span>
 ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Внутренняя тактовая частота">3.5 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -10166,7 +10166,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Цена указана за комплект - 2 вентилятора</span></h2> <p><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>MSI</strong></span></p> <p><strong><span style="font-size:16px;"></span><span style="font-size:16px;"></span><span style="font-size:16px;">GTX 1050 OC<br /> GTX 1050 Ti OC<br /> GTX 1650 Ventus XS<br /> GTX 1650 SUPER Ventus XS</span><span style="font-size:16px;"></span><span style="font-size:16px;"></span><span style="font-size:16px;"></span></strong></p> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></h2> <h3>Маркировка - HA8010H12F-Z (XY-D08010SM)</h3> <h3>Диаметр вентилятора: <strong>75 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Вид">Вентиляторы</param>
         <param name="Количество вентиляторов">2</param>
