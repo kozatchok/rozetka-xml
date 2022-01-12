@@ -6239,7 +6239,7 @@ RX 560</strong></h3>
         <param name="Размер вентилятора">870</param>
         <param name="Гарантия">15 дней</param>
       </offer>
-      <offer available="true" id="1086583793">
+      <offer available="false" id="1086583793">
         <url>https://kozatchok.prom.ua/p1086583793-ventilyator-apistek-dlya.html</url>
         <price>320</price>
         <currencyId>UAH</currencyId>
@@ -6253,7 +6253,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac&nbsp;</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2><strong>GTX 1060<br /> GTX 1070Ti<br /> GTX 1080Ti<br /> GTX 1080</strong></h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - GA92S2U&nbsp;</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм х 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
