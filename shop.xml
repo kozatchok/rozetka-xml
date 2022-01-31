@@ -9642,7 +9642,7 @@ RX 560</strong></h3>
         <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
       </offer>
-      <offer id="1395381532" available="true">
+      <offer id="1395381532" available="false">
         <url>https://kozatchok.prom.ua/p1395381532-ventilyator-ong-hua.html</url>
         <price>220</price>
         <currencyId>UAH</currencyId>
@@ -9658,7 +9658,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за один вентилятор.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;<strong>MSI</strong><br /> &nbsp;</h2> <h2><strong>RX 460<br /> RX 550<br /> RX 560</strong></h2> <h2><strong>GTX 1050<br /> GTX 1050 Ti<br /> GTX 1060</strong></h2> <p>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</p> <h3>Маркировка - HA9010H12F-Z (HA9010H12SB-Z XY-D09010SH)&nbsp;</h3> <h3>Диаметр вентилятора:&nbsp;<strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;40 мм x 40 мм x 40 мм</strong></h3> <h3>Высота:&nbsp;&nbsp;<strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>0,57 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Количество вентиляторов">1</param>
         <param name="Размер вентилятора">87 мм</param>
