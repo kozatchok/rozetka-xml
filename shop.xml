@@ -10604,7 +10604,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Тип охлаждения">Активное</param>
       </offer>
-      <offer id="1287791243" available="false">
+      <offer id="1287791243" available="true">
         <url>https://kozatchok.prom.ua/p1287791243-ramka-kreplenie-kulera.html</url>
         <price>80</price>
         <currencyId>UAH</currencyId>
@@ -10618,7 +10618,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <p>Крепление для кулера на&nbsp;сокет&nbsp;AM4</p> <ul> <li>Состоит из двух крепёжных рамок, подложки и винтов</li> <li>Материал: пластик</li> </ul> <p>Тип упаковки: ОЕМ (без коробки)</p> <p>&nbsp;</p> <span></span> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Назначение">Охлаждение для процессора</param>
         <param name="Вид">Установочные модули и крепления</param>
         <param name="Сокет">Socket AM4</param>
