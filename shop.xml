@@ -8964,7 +8964,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1214281095">
+      <offer available="false" id="1214281095">
         <url>https://kozatchok.prom.ua/p1214281095-ventilyator-lixue-dlya.html</url>
         <price>140</price>
         <currencyId>UAH</currencyId>
@@ -8977,7 +8977,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;</span></h2> <p>Маркировка -&nbsp;&nbsp;4010HS (YD124510HB)</p> <h3>Диаметр вентилятора: <strong>45 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 26&nbsp;мм x 26&nbsp;мм х 26&nbsp;мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,1&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p><strong>Порядок размещения контактов в разъеме 2-пин не у всех видеокарт одинаковое. При подключении обращайте внимание на цвет проводов и правильную полярность в разъеме.</strong></p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">45 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
