@@ -2828,7 +2828,7 @@ RX 590</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1005049319">
+      <offer available="false" id="1005049319">
         <url>https://kozatchok.prom.ua/p1005049319-ventilyator-powerlogic-dlya.html</url>
         <price>540</price>
         <currencyId>UAH</currencyId>
@@ -2866,7 +2866,7 @@ RX 590</strong></h3>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
