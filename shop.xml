@@ -108,7 +108,7 @@
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="995438568">
+      <offer available="false" id="995438568">
         <url>https://kozatchok.prom.ua/p995438568-ventilyator-everflow-dlya.html</url>
         <price>540</price>
         <currencyId>UAH</currencyId>
@@ -144,7 +144,7 @@ RX 590</span></strong></h3>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
