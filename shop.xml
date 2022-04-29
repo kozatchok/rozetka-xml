@@ -12268,7 +12268,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer id="1416891312" available="true">
+      <offer id="1416891312" available="false">
         <url>https://kozatchok.prom.ua/p1416891312-termopasta-gd900-728.html</url>
         <price>120</price>
         <currencyId>UAH</currencyId>
@@ -12279,7 +12279,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>GD900-1 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 7 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 6&nbsp;Вт/МК</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-50 ~ +120&deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Термопасты и средства для их снятия</param>
         <param name="Тип охлаждения">Термоинтерфейсы</param>
         <param name="Вес">7 г</param>
