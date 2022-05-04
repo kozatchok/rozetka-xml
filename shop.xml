@@ -2966,7 +2966,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer available="true" id="1005055821">
+      <offer available="false" id="1005055821">
         <url>https://kozatchok.prom.ua/p1005055821-ventilyator-powerlogic-dlya.html</url>
         <price>180</price>
         <currencyId>UAH</currencyId>
@@ -2998,7 +2998,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
