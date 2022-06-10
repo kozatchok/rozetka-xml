@@ -11529,7 +11529,7 @@ RX 560</strong></h3>
         <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
         менее 50 грн.</param>
       </offer>
-      <offer id="1490974501" available="true">
+      <offer id="1490974501" available="false">
         <url>https://kozatchok.prom.ua/p1490974501-ventilyator-powerlogic-dlya.html</url>
         <price>290</price>
         <currencyId>UAH</currencyId>
@@ -11547,7 +11547,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за один вентилятор.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт Gigabyte&nbsp;mini itx</h2> <p><span style="font-size:14px;"><strong>GTX 950<br /> GTX 960<br /> GTX 970<br /> R7 360</strong></span></p> <p><span style="font-size:14px;"><strong>GTX 1650<br /> GTX 1660<br /> GTX 1660 SUPER<br /> GTX 1660 Ti<br /> RTX 2060<br /> RTX 2070</strong></span></p> <p>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</p> <h2>Маркировка -&nbsp; PLA09215S12H (T129215SU PLA09215B12H)</h2> <h2><span style="font-size:18px;"></span></h2> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 42 мм x 42 мм х 42 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 - 0,55 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 3-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Вид">Вентиляторы</param>
         <param name="Размер вентилятора">87 мм</param>
