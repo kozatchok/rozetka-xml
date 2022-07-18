@@ -11750,7 +11750,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн.</param>
       </offer>
-      <offer id="999726054" available="true">
+      <offer id="999726054" available="false">
         <url>https://kozatchok.prom.ua/p999726054-ventilyator-everflow-dlya.html</url>
         <price>540</price>
         <currencyId>UAH</currencyId>
@@ -11766,7 +11766,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <p><span class="ck-alert__title"></span></p> <h2>Вентиляторы на шариковых подшипниках, что предполагает более длительный срок службы по сравнению с вентиляторами на гидродинамическом подшипнике.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт ASUS</h2> <h2>Цена указана за комплект - 2 вентилятора&nbsp;</h2> <h2>Совместимость с видеокартами</h2> <p><strong>GTX 1060 Dual<br /> GTX 1060 Expedition<br /> GTX 1070 Dual<br /> GTX 1070 Expedition</strong></p> <p><strong>RX 470 Mining<br /> RX 480 Dual<br /> RX 570 Expedition<br /> RX 570 Arez Expedition</strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3>Маркировка - T129215BU (T129215SU PLD09210S12HH)</h3> <h3>Диаметр вентилятора: <strong>87&nbsp;мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм x 28&nbsp;мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <p><span style="font-size:14px;"><strong>Тип подшипника: шариковый</strong></span></p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p><strong>Обратите внимание!</strong></p> <p><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Вид">Вентиляторы</param>
         <param name="Размер вентилятора">87 мм</param>
