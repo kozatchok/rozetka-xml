@@ -6556,7 +6556,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн.</param>
       </offer>
-      <offer available="true" id="1132746923">
+      <offer available="false" id="1132746923">
         <url>https://kozatchok.prom.ua/p1132746923-protsessor-amd-phenom.html</url>
         <price>880</price>
         <currencyId>UAH</currencyId>
@@ -6570,7 +6570,7 @@ RX 560</strong></h3>
           <![CDATA[ <p style=""><span style="font-size:14px;">Все процессоры протестированы при длительной нагрузке.</span></p> <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты.&nbsp;</span></h2> <h2><span style="font-size:14px;">Присутствуют следы&nbsp;использования. Могут быть потертости и царапины, не влияющие на работу устройства.</span></h2> <p>&nbsp;</p> <span></span>
 ]]>
         </description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Внутренняя тактовая частота">3.2 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
