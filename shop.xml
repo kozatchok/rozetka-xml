@@ -12026,7 +12026,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн.</param>
       </offer>
-      <offer id="1467627601" available="false">
+      <offer id="1467627601" available="true">
         <url>https://kozatchok.prom.ua/p1467627601-ventilyator-firstd-dlya.html</url>
         <price>340</price>
         <currencyId>UAH</currencyId>
@@ -12041,7 +12041,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за один вентилятор. Логотип с лицевой стороны вентилятора - обычная наклейка.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS&nbsp;Phoenix&nbsp;</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <h2>Совместимость с видеокартами</h2> <h2>RTX 2060 Phoenix<br /> GTX1650 SUPER Phoenix<br /> GTX1660 Phoenix<br /> GTX1660 SUPER Phoenix<br /> GTX1660 Ti Phoenix</h2> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</h2> <h3>Маркировка - FDC10M12D9-C (T129215BH FDC10U12D9-C PLD10010B12HH)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм х 28 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,4 А</strong><br /> Интерфейс вентилятора: разъем 6-pin (4 контакта), длинна кабеля 5 см</h3> <h3>Тип подшипника: шариковый</h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Подшипник качения</param>
