@@ -8238,7 +8238,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн.</param>
       </offer>
-      <offer available="false" id="1188001313">
+      <offer available="true" id="1188001313">
         <url>https://kozatchok.prom.ua/p1188001313-ventilyator-everflow-dlya.html</url>
         <price>490</price>
         <currencyId>UAH</currencyId>
@@ -8254,7 +8254,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS</strong></h2> <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:16px;"></span></h2> <p><strong>GTX 570<br /> GTX 580<br /> GTX 680</strong></p> <p><strong>HD 6950<br /> HD 6970<br /> HD 7950<br /> HD 7970</strong></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3>Маркировка - T129025SU</h3> <h3>Диаметр вентилятора: <strong>95 мм</strong><br /> Винтовые отверстия:<strong>&nbsp;40 мм х 40 мм х 40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 5-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический</param>
