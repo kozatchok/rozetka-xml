@@ -10735,7 +10735,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн.</param>
       </offer>
-      <offer id="1415912116" available="true">
+      <offer id="1415912116" available="false">
         <url>https://kozatchok.prom.ua/p1415912116-ventilyator-ecotherm-dlya.html</url>
         <price>290</price>
         <currencyId>UAH</currencyId>
@@ -10749,7 +10749,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;<strong>MSI</strong><br /> &nbsp;</h2> <h2><strong>GTX 1660 AERO ITX<br /> GTX 1660 SUPER AERO ITX<br /> GTX 1660 TI AERO ITX<br /> RTX 2060 AERO ITX<br /> RTX 2060 SUPER AERO ITX<br /> RTX 2070 AERO ITX</strong></h2> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3>Маркировка - GFM10012H12SPA (XY-D10015SH)&nbsp;</h3> <h3>Диаметр вентилятора:&nbsp;<strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;42 мм x 42 мм x 42 мм</strong></h3> <h3>Высота:&nbsp;&nbsp;<strong>12 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>0,4 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
