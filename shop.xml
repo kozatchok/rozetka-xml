@@ -3235,6 +3235,7 @@ R7 360</strong></p>
         <picture>https://images.ua.prom.st/1882216200_ventilyator-firstd-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/1882216201_ventilyator-firstd-dlya.jpg</picture>
         <name>Вентилятор FirstD для видеокарты XFX FDC10H12S9-C (№72)</name>
+        <name_ua>Вентилятор FirstD для відеокарти XFX FDC10H12S9-C (№72)</name_ua>
         <vendor>FirstD</vendor>
         <categoryId>212</categoryId>
         <description>
@@ -6967,6 +6968,8 @@ RX 560</strong></h3>
         <picture>https://images.ua.prom.st/2242308906_protsessor-amd-phenom.jpg</picture>
         <name>Процессор AMD Phenom II X4 B95 (945) 3,0GHz sAM3 Tray 95w (HDXB95WFK4DGM HDXB95WFK4DGI)
           Deneb Б/У</name>
+          <name_ua>Процесор AMD Phenom II X4 B95 (945) 3,0GHz sAM3 Tray 95w (HDXB95WFK4DGM HDXB95WFK4DGI)
+          Deneb Б/У</name_ua>
         <vendor>AMD</vendor>
         <state>used</state>
         <categoryId>213</categoryId>
@@ -12225,6 +12228,8 @@ RX 560</strong></h3>
         <picture>https://images.prom.ua/3503052391_ventilyator-firstd-dlya.jpg</picture>
         <name>Вентилятор FirstD для видеокарты XFX FDC10U12S9-C (FDC10H12S9-C) LED RED
           (№72.2)</name>
+          <name_ua>Вентилятор FirstD для відеокарти XFX FDC10U12S9-C (FDC10H12S9-C) LED RED
+          (№72.2)</name_ua>
         <vendor>FirstD</vendor>
         <categoryId>212</categoryId>
         <description>
@@ -12255,6 +12260,8 @@ RX 560</strong></h3>
         <picture>https://images.prom.ua/3503052546_ventilyator-firstd-dlya.jpg</picture>
         <name>Вентилятор FirstD для видеокарты XFX FDC10U12S9-C (FDC10H12S9-C) LED BLUE
           (№72.1)</name>
+          <name_ua>Вентилятор FirstD для відеокарти XFX FDC10U12S9-C (FDC10H12S9-C) LED BLUE
+          (№72.1)</name_ua>
         <vendor>FirstD</vendor>
         <categoryId>212</categoryId>
 <description>
