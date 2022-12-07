@@ -10908,7 +10908,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer id="1446596613" available="true">
+      <offer id="1446596613" available="false">
         <url>https://kozatchok.prom.ua/p1446596613-ventilyator-firstd-dlya.html</url>
         <price>260</price>
         <currencyId>UAH</currencyId>
@@ -10922,7 +10922,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;<strong>ASUS</strong><br /> &nbsp;</h2> <p><span style="font-size:14px;"><strong>GTX 670 DirectCU Mini<br /> GTX 760 DirectCU Mini</strong></span></p> <p><span style="font-size:14px;"><strong>GTX 950 Mini<br /> GTX 960 Mini<br /> GTX 970 Mini</strong></span></p> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3>Маркировка - FD9015U12S (T129215SU)</h3> <h3>Диаметр вентилятора:&nbsp;<strong>86 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;39&nbsp;мм x 39 мм x 39 мм</strong></h3> <h3><br /> Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>0,55 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">86 мм</param>
         <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
