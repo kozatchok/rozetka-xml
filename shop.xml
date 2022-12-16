@@ -3161,7 +3161,7 @@ R9 Fury</strong></span></h2>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="true" id="1005075142">
+      <offer available="false" id="1005075142">
         <url>https://kozatchok.prom.ua/p1005075142-ventilyator-ong-hua.html</url>
         <price>240</price>
         <currencyId>UAH</currencyId>
@@ -3199,7 +3199,7 @@ R7 360</strong></p>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">83 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
