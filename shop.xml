@@ -9,6 +9,11 @@
       <currency id="UAH" rate="1" />
     </currencies>
     <categories>
+      <category id="3">Инструменты и автотовары</category>
+      <category id="31">Инструменты и оборудование</category>
+      <category id="311">Оборудование</category>
+      <category id="3111">Преобразователи</category>
+      <category id="31111">Сетевые инверторы</category>
       <category id="2">Компьютеры и ноутбуки</category>
       <category id="21" parentId="2">Компьютерные комплектующие</category>
       <category id="211" parentId="21">Видеокарты</category>
@@ -16116,7 +16121,75 @@ RX 560</strong></h3>
  <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 <param name="Дополнительно">Упаковка ОЕМ</param>
 </offer>
-
+<offer id="1716795392" available="true">
+<url>https://kozatchok.prom.ua/p1716795392-invertor-preobrazovatel-napryazheniya.html</url>
+<price>5680</price>
+<currencyId>UAH</currencyId>
+<categoryId>15713281</categoryId>
+<picture>https://images.prom.ua/4156768534_invertor-preobrazovatel-napryazheniya.jpg</picture>
+<picture>https://images.prom.ua/4103691377_invertor-preobrazovatel-napryazheniya.jpg</picture>
+<picture>https://images.prom.ua/4103754795_invertor-preobrazovatel-napryazheniya.jpg</picture>
+<name>Инвертор преобразователь напряжения Jainan 1600W 12 В - 220 В, 1600 Ватт чистая синусоида (без бренда) (№10068)</name>
+<vendor>Jainan</vendor>
+<categoryId>31111</categoryId>
+<description>
+<![CDATA[ <p><span style="font-size:16px;"><strong>Преобразователь напряжения&nbsp; 12V-220V, 1600w.</strong></span></p> <p><strong>Характеристики:</strong></p> <p>Выходная частота: 50 Гц (&plusmn;2 Гц)<br /> Диапазон входного напряжения: 12В постоянного тока<br /> Выходное напряжение: 220 В переменного тока<br /> Номинальная мощность инвертора 800 Вт.<br /> Пиковая мощность инвертора 1600 Вт<br /> Стабильность выходного напряжения: &plusmn;10%<br /> Универсальная розетка на выходе<br /> Автоматическая тепловая защита<br /> Защита от перегрузки<br /> Защита от разрядки аккумулятора<br /> Защита от неправильной полярности<br /> Встроенный вентилятор охлаждения<br /> Размер инвертора: 235 х 110 х 55 мм</p> <p><strong>Форма выходного напряжения: Чистая синусоида</strong></p> <p>&nbsp;</p> <p><strong>Комплектация:</strong></p> <p>- инвертор;</p> <p>- кабели с зажимами для подключения к аккумулятору.</p> <p>&nbsp;</p> ]]>
+</description>
+<param name="Гарантия">6 месяцев</param>
+<param name="Тип монтажа">Внешний</param>
+<param name="Подключение устройства">К аккумулятору автомобиля</param>
+<param name="Форма выходного сигнала">Чистая синусоида</param>
+<param name="Номинальная мощность" unit="Вт">800</param>
+<param name="Страна производитель">Китай</param>
+<param name="Допустимая мощность" unit="Вт">1600</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
+</offer>
+<offer id="1726311774" available="true">
+<url>https://kozatchok.prom.ua/p1726311774-invertor-preobrazovatel-napryazheniya.html</url>
+<price>5680</price>
+<currencyId>UAH</currencyId>
+<categoryId>15713281</categoryId>
+<picture>https://images.prom.ua/4163691259_invertor-preobrazovatel-napryazheniya.jpg</picture>
+<picture>https://images.prom.ua/4134143928_invertor-preobrazovatel-napryazheniya.jpg</picture>
+<picture>https://images.prom.ua/4134143849_invertor-preobrazovatel-napryazheniya.jpg</picture>
+<name>Инвертор преобразователь напряжения CJ-1600M 12 В - 220 В, 1600 Ватт чистая синусоида (без бренда) (№10069)</name>
+<vendor>CJ</vendor>
+<categoryId>31111</categoryId>
+<description>
+<![CDATA[ <p><span style="font-size:16px;"><strong>Преобразователь напряжения&nbsp;CJ-1600M 12V-220V, 1600w.</strong></span></p> <p><strong>Характеристики:</strong></p> <p>Выходная частота: 50 Гц (&plusmn;2 Гц)<br /> Диапазон входного напряжения: 12В постоянного тока<br /> Выходное напряжение: 220 В переменного тока<br /> Номинальная мощность инвертора 800 Вт.<br /> Пиковая мощность инвертора 1600 Вт<br /> Стабильность выходного напряжения: &plusmn;10%<br /> Универсальная розетка на выходе<br /> Автоматическая тепловая защита<br /> Защита от перегрузки<br /> Защита от разрядки аккумулятора<br /> Защита от неправильной полярности<br /> Встроенный вентилятор охлаждения<br /> Размер инвертора: 235 х 110 х 55 мм</p> <p><strong>Форма выходного напряжения: Чистая синусоида</strong></p> <p>&nbsp;</p> <p><strong>Комплектация:</strong></p> <p>- инвертор;</p> <p>- кабели с зажимами для подключения к аккумулятору.</p> <p>&nbsp;</p> ]]>
+</description>
+<param name="Гарантия">6 месяцев</param>
+<param name="Тип монтажа">Внешний</param>
+<param name="Подключение устройства">К аккумулятору автомобиля</param>
+<param name="Форма выходного сигнала">Чистая синусоида</param>
+<param name="Номинальная мощность" unit="Вт">800</param>
+<param name="Страна производитель">Китай</param>
+<param name="Допустимая мощность" unit="Вт">1600</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
+</offer>
+<offer id="1742764802" available="true">
+<url>https://kozatchok.prom.ua/p1742764802-invertor-preobrazovatel-napryazheniya.html</url>
+<price>5640</price>
+<currencyId>UAH</currencyId>
+<categoryId>15713281</categoryId>
+<picture>https://images.prom.ua/4184582840_invertor-preobrazovatel-napryazheniya.jpg</picture>
+<picture>https://images.prom.ua/4184582841_invertor-preobrazovatel-napryazheniya.jpg</picture>
+<picture>https://images.prom.ua/4184582842_invertor-preobrazovatel-napryazheniya.jpg</picture>
+<name>Инвертор преобразователь напряжения Jimda JMD-2000 12 В - 220 В, 2000 Ватт чистая синусоида (без бренда) (№10067)</name>
+<vendor>Jimda</vendor>
+<categoryId>31111</categoryId>
+<description>
+<![CDATA[ <p><span style="font-size:16px;"><strong>Преобразователь напряжения&nbsp; 12V-220V, 2000w.</strong></span></p> <p><strong>Характеристики:</strong></p> <p>Выходная частота: 50 Гц (&plusmn;2 Гц)<br /> Диапазон входного напряжения: 12В постоянного тока<br /> Выходное напряжение: 220 В переменного тока<br /> Номинальная мощность инвертора 800 Вт.<br /> Пиковая мощность инвертора 2000 Вт<br /> Стабильность выходного напряжения: &plusmn;10%<br /> Универсальная розетка на выходе<br /> Автоматическая тепловая защита<br /> Защита от перегрузки<br /> Защита от разрядки аккумулятора<br /> Защита от неправильной полярности<br /> Встроенный вентилятор охлаждения<br /> &nbsp;</p> <p><strong>Форма выходного напряжения: Чистая синусоида</strong></p> <p>&nbsp;</p> <p><strong>Комплектация:</strong></p> <p>- инвертор;</p> <p>- кабели с зажимами для подключения к аккумулятору.</p> <p>&nbsp;</p> ]]>
+</description>
+<param name="Гарантия">6 месяцев</param>
+<param name="Тип монтажа">Внешний</param>
+<param name="Подключение устройства">К аккумулятору автомобиля</param>
+<param name="Форма выходного сигнала">Чистая синусоида</param>
+<param name="Номинальная мощность" unit="Вт">800</param>
+<param name="Страна производитель">Китай</param>
+<param name="Допустимая мощность" unit="Вт">2000</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
+</offer>
     </offers>
   </shop>
 </yml_catalog>
