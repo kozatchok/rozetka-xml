@@ -13088,7 +13088,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer id="1589633112" available="true">
+      <offer id="1589633112" available="false">
         <url>https://kozatchok.prom.ua/p1589633112-ventilyator-firstd-dlya.html</url>
         <price>990</price>
         <currencyId>UAH</currencyId>
@@ -13103,7 +13103,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Цена указана за комплект - 3 вентилятора</span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS&nbsp;</strong><br /> Совместимость с видеокартами</span></h2> <p><strong>GTX 1660 Ti ROG Strix<br /> RTX 2060 SUPER ROG Strix<br /> RTX 2070 ROG Strix<br /> RTX 2070 SUPER ROG Strix<br /> RTX 2080 ROG Strix<br /> RTX 2080 SUPER ROG Strix<br /> RTX 2080 Ti ROG Strix</strong></p> <p><strong>RX 5600 XT ROG Strix<br /> RX 5700 ROG Strix<br /> RX 5700 XT ROG Strix</strong></p> <h2><span style="font-size:14px;"></span></h2> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></h2> <h3>Маркировка -&nbsp;FDC10H12S9-C (PLD09210S12H T129215SU CF9010U12D)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 32 мм x 32 мм х 32 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 7-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Вид">Вентиляторы</param>
         <param name="Размер вентилятора">87 мм</param>
