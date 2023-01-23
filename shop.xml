@@ -6229,7 +6229,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
-      <offer available="true" id="1092700373">
+      <offer available="false" id="1092700373">
         <url>https://kozatchok.prom.ua/p1092700373-ventilyator-everflow-dlya.html</url>
         <price>560</price>
         <currencyId>UAH</currencyId>
@@ -6244,7 +6244,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт ASUS DirectCU II</h2> <h2>Совместимость с видеокартами</h2> <p><strong>GTX780-DC2-3GD5</strong></p> <p><strong>GTX780-DC2OC-3GD5</strong></p> <p><strong>GTX780TI-DC2OC-3GD5</strong></p> <p><strong>R9 280-DC2T-3GD5</strong></p> <p><strong>R9 280X-DC2-3GD5</strong></p> <p><strong>R9 280X-DC2T-3GD5</strong></p> <p><strong>R9 290-DC2-4GD5</strong></p> <p><strong>R9 290X-DC2-4GD5</strong></p> <p><strong>R9 290-DC2OC-4GD5</strong></p> <p><strong>R9 290X-DC2OC-4GD5</strong></p> <p><strong>MATRIX-R9290X-P-4GD5</strong></p> <p><strong>MATRIX-GTX780TI-P-3GD5</strong></p> <p><strong>ROG Matrix-GTX980-P-4GD5</strong></p> <p><strong>Dragon GTX970-DC2T-4GD5</strong></p> <p>Возможно список видеокарт неполный</p> <h3>Маркировка - T129215SU (FD10015H12S</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм x 28&nbsp;мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;5-pin&nbsp;</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
@@ -9313,7 +9313,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за один вентилятор.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac</strong></h2> <h2>GTX 1060 Mini ITX</h2> <p><span style="font-size:14px;"></span></p> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></h2> <h3>Маркировка - T129215SU (T129215SH,&nbsp;GA92S2U)</h3> <h3>Диаметр вентилятора: <strong>85 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> шаг 35-40 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5&nbsp;А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin </strong></h3> <h3><strong>Тип подшипника: шариковый</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>Вентилятор&nbsp;на двух шариковых подшипниках, что предполагает более длительных срок службы по сравнению с гидродинамическими. Вентиляторы на шариковых подшипниках&nbsp;считаются самыми надёжными и долговечными.</p> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Количество вентиляторов">1</param>
         <param name="Размер вентилятора">85 мм</param>
