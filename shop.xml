@@ -4879,7 +4879,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="false" id="1025216503">
         <url>https://kozatchok.prom.ua/p1025216503-ramka-perehodnik-dlya.html</url>
-        <price>80</price>
+        <price>90</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1934443254_ramka-perehodnik-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/1934443259_ramka-perehodnik-dlya.jpg</picture>
@@ -4893,7 +4893,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2>Крепление позволяет установить кулер с креплением для сокета AMD на материнскую плату сокет Intel.</h2> <h2>Совместимость с платформами: LGA 115Х/1366/2011</h2> <h2>Винты M3&nbsp;для крепления LGA 1150/1151/1155/1156/1366&nbsp;</h2> <h2>Винты M4&nbsp;для крепления LGA 2011</h2> <h2>Тип упаковки: ОЕМ (без коробки)</h2> <h2>Внутренние размеры рамки: 70 мм х 78 мм. Некоторые боксовые кулера AMD с широким основанием могут не поместиться в рамку.</h2><span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Совместимость">LGA1150|LGA1155|LGA1156|LGA1366|LGA1151|LGA2011</param>
         <param name="Назначение">Охлаждение для процессора</param>
         <param name="Вид">Установочные модули и крепления </param>
@@ -10285,7 +10285,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Тип охлаждения">Активное</param>
       </offer>
-      <offer id="1287791243" available="false">
+      <offer id="1287791243" available="true">
         <url>https://kozatchok.prom.ua/p1287791243-ramka-kreplenie-kulera.html</url>
         <price>90</price>
         <currencyId>UAH</currencyId>
@@ -10299,7 +10299,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <p>Крепление для кулера на&nbsp;сокет&nbsp;AM4</p> <ul> <li>Состоит из двух крепёжных рамок, подложки и винтов</li> <li>Материал: пластик</li> </ul> <p>Тип упаковки: ОЕМ (без коробки)</p> <p>&nbsp;</p> <span></span> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>30</stock_quantity>
         <param name="Назначение">Охлаждение для процессора</param>
         <param name="Вид">Установочные модули и крепления</param>
         <param name="Сокет">Socket AM4</param>
