@@ -10258,7 +10258,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Тип охлаждения">Активное</param>
       </offer>
-      <offer id="1487008074" available="true">
+      <offer id="1487008074" available="false">
         <url>https://kozatchok.prom.ua/p1487008074-ventilyator-everflow-dlya.html</url>
         <price>1330</price>
         <currencyId>UAH</currencyId>
@@ -10274,7 +10274,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 3 вентилятора</h2> <h2>&nbsp;</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт ASUS</h2> <p><span style="font-size:14px;"></span></p> <p><strong>RTX 3060 Ti ROG Strix Gaming<br /> RTX 3070 ROG Strix Gaming<br /> RTX 3070 Ti ROG Strix Gaming<br /> RTX 3080 ROG Strix Gaming<br /> RTX 3080 Ti ROG Strix Gaming<br /> RTX 3090 ROG Strix Gaming<br /> RTX 3090 ROG Strix White</strong></p> <p><span style="font-size:14px;"></span><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <p><span style="font-size:14px;">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></p> <h3>Маркировка - FDC10U12S9-C (CF1010U12D T129215SU PLD10010S12HH)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;104 мм x 26 мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;7-pin&nbsp;</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Количество вентиляторов">3</param>
         <param name="Размер вентилятора">95 мм</param>
@@ -14079,7 +14079,7 @@ RX 560</strong></h3>
 <picture>https://images.prom.ua/VgUM7m7cJbDxCstE_E7OhbCVLC6P0-h-Q8My7kWJ5Zo=/3808470289_ventilyator-champion-dlya.jpg</picture>
 <picture>https://images.prom.ua/Ez35daFveqmWBo4IdnPwuEB-FwOxvz52om859dLnvJE=/3808470291_ventilyator-champion-dlya.jpg</picture>
 <vendor>Champion</vendor>
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <name>Вентилятор Champion для видеокарты ASUS CF1010U12S (CF1010U12D T129215SU FDC10U12S9-C) комплект 3 шт (№338.1)</name>
 <description>
 <![CDATA[ <div><h2><span></span></h2> <h2><span></span></h2> <h2>Цена указана за комплект - 3 вентилятора</h2> <h2> </h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт ASUS</h2> <p><span></span></p> <p><strong>RTX 3060 Ti ROG Strix Gaming<br> RTX 3070 ROG Strix Gaming<br> RTX 3070 Ti ROG Strix Gaming<br> RTX 3080 ROG Strix Gaming<br> RTX 3080 Ti ROG Strix Gaming<br> RTX 3090 ROG Strix Gaming<br> RTX 3090 ROG Strix White</strong></p> <p><span></span><span></span></p> <p> </p> <p><span>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></p> <h3>Маркировка - CF1010U12D (CF1010U12S T129215SU FDC10U12S9-C)</h3> <h3>Диаметр вентилятора: <strong>95 мм </strong><br> Винтовые отверстия:<strong> 104 мм x 26 мм</strong></h3> <h3>Напряжение: DC 12V<br> Вентилятор ток: <strong>0,45 А</strong><br> Интерфейс вентилятора: разъем подключения<strong> 7-pin </strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p> </p> <p><strong>Обратите внимание!</strong></p> <p><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3> </h3> </div> ]]>
