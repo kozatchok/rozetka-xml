@@ -7723,7 +7723,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="true" id="1144398469">
+      <offer available="false" id="1144398469">
         <url>https://kozatchok.prom.ua/p1144398469-ventilyator-powerlogic-dlya.html</url>
         <price>170</price>
         <currencyId>UAH</currencyId>
@@ -7738,7 +7738,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac</strong></span></h2> <h3><strong>8500GT<br /> 8600GT<br /> 9400GT<br /> 9500GT<br /> 9600GT<br /> GT210<br /> GT220<br /> GT240<br /> GT430<br /> GT520<br /> GT610<br /> GT620</strong></h3> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка - PLD05010S12L (PLD05010S12H FD5010U12S)</h3> <h3>Диаметр вентилятора: <strong>47 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 39 мм x 39&nbsp;мм x 39&nbsp;мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,1 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin (длинна кабеля 9 см)&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">47 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
@@ -14029,7 +14029,7 @@ RX 560</strong></h3>
 <picture>https://images.prom.ua/oT_LyDqIQwhgXJhsMNkVKoJdhG-I7Yv1OaNVWn65q8k=/3726357558_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/4P26W5z4COA5uOEClyF-7iaUUoMKu3AnqybOq8bBHDs=/3726357557_ventilyator-powerlogic-dlya.jpg</picture>
 <vendor>PowerLogic</vendor>
-<stock_quantity>9</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <name>Вентилятор PowerLogic для видеокарты Gigabyte GT 710 730 1030 3-pin PLD05010S12L (FS1250-S1033A ) №61.9</name>
 <description>
 <![CDATA[ <div><h2><span></span></h2> <h2><span>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte </strong></span></h2> <h3><strong>GT 710<br> GT 730<br> GT 1030 Low Profile<br> GTX 1050 OC Low Profile<br> GTX 1050 Ti OC Low Profile</strong></h3> <p><strong><span></span></strong></p> <h2><strong><span></span></strong></h2> <h2><span>Возможно список видеокарт неполный</span></h2> <h3>Маркировка - PLD05010S12L (FS1250-S1033A  FS1250-S2053A)</h3> <h3>Диаметр вентилятора: <strong>47 мм </strong><br> Винтовые отверстия:<strong> 39 мм x 39 мм x 39 мм</strong><br> Напряжение: DC 12V<br> Вентилятор ток: <strong>0,1 А</strong><br> Интерфейс вентилятора: разъем подключения<strong> 3-pin </strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p> </p> <p><strong>Обратите внимание!</strong></p> <p><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3> </h3> </div> ]]>
