@@ -16774,7 +16774,7 @@ RX 560</strong></h3>
         <param name="Вид">Кулеры</param>
         <param name="Размер вентилятора">120 мм</param>
         <param name="Совместимость">AM2+/AM3+/
-        FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|LGA1366|LGA1151</param>
+        FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|LGA1151</param>
         <param name="Частота вращения">1800 об/мин</param>
         <param name="Тип подшипника">Гидродинамический</param>
         <param name="Материал радиатора">Алюминий - медь</param>
