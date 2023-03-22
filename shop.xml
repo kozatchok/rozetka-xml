@@ -5160,9 +5160,9 @@ RX 560</strong></h3>
         <param name="Дополнительное питание">6 pin</param>
         <param name="Гарантия">1 месяц</param>
       </offer>
-      <offer available="false" id="1041035654">
+      <offer available="true" id="1041035654">
         <url>https://kozatchok.prom.ua/p1041035654-kuler-dlya-protsessora.html</url>
-        <price>380</price>
+        <price>460</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1976485578_kuler-dlya-protsessora.jpg</picture>
         <picture>https://images.ua.prom.st/1976485574_kuler-dlya-protsessora.jpg</picture>
@@ -5178,22 +5178,22 @@ RX 560</strong></h3>
           <![CDATA[ <h2>Активное охлаждение для процессора.&nbsp;Две тепловые медные трубки. Два вентилятора.</h2> <p>Работает тихо. Все проверены.<br /> Крепление для &nbsp;сокета&nbsp;</p> <p>Intel LGA&nbsp;<strong>775/115Х/1366&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 130 * 95 * 87 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 * 90 * 25 мм&nbsp;<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 1800&plusmn; 10% об / мин&nbsp;<br /> Максимальный объем воздуха: 60.75 CFM&nbsp;<br /> Шум: 30 dBA</p> <p>Интерфейс подключения:&nbsp;<strong>3-pin</strong></p> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
-        <param name="Вид">Кулеры</param>
-        <param name="Частота вращения">1800 об/мин</param>
-        <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|LGA1366
-        </param>
-        <param name="Разъемы питания">3-pin</param>
-        <param name="Размер вентилятора">90 мм</param>
-        <param name="Назначение">Охлаждение для процессора</param>
-        <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Максимальный TDP">95W</param>
-        <param name="Материал радиатора">Алюминий - медь</param>
-        <param name="Гарантия">12 месяцев</param>
-      </offer>
-      <offer available="false" id="1041036027">
+        <stock_quantity>4</stock_quantity>
+<param name="Назначение">Охлаждение для процессора</param>
+<param name="Вид">Кулеры</param>
+<param name="Размер вентилятора">90 мм</param>
+<param name="Совместимость">AM2+/AM3+/FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|LGA1151</param>
+<param name="Частота вращения">1800 об/мин</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Материал радиатора">Алюминий - медь</param>
+<param name="Разъемы питания">3-pin</param>
+<param name="Гарантия">12 месяцев</param>
+<param name="Максимальный TDP">95 W</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
+</offer>
+      <offer available="true" id="1041036027">
         <url>https://kozatchok.prom.ua/p1041036027-kuler-dlya-protsessora.html</url>
-        <price>420</price>
+        <price>490</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1976486996_kuler-dlya-protsessora.jpg</picture>
         <picture>https://images.ua.prom.st/1976487001_kuler-dlya-protsessora.jpg</picture>
@@ -5211,19 +5211,19 @@ RX 560</strong></h3>
           <![CDATA[ <h2>Активное охлаждение для процессора.&nbsp;Две тепловые медные трубки. Два вентилятора.</h2> <p>Все проверены.<br /> Крепление для &nbsp;сокета&nbsp;</p> <p>Intel LGA&nbsp;<strong>775/115Х/1366&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM1/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 130 * 95 * 87 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 * 90 * 25 мм&nbsp;<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 600-2000 &plusmn; 10% об / мин&nbsp;<br /> Максимальный объем воздуха: 60.75 CFM&nbsp;<br /> Шум: макс 40 dBA</p> <p>Интерфейс подключения:&nbsp;<strong>4-pin</strong></p> <span></span>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
-        <param name="Вид">Кулеры</param>
-        <param name="Частота вращения">2000 об/мин</param>
-        <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|LGA1366
-        </param>
-        <param name="Разъемы питания">4-pin</param>
-        <param name="Размер вентилятора">90 мм</param>
-        <param name="Назначение">Охлаждение для процессора</param>
-        <param name="Тип подшипника">Гидродинамический</param>
-        <param name="Максимальный TDP">95W</param>
-        <param name="Материал радиатора">Алюминий - медь</param>
-        <param name="Гарантия">12 месяцев</param>
-      </offer>
+        <stock_quantity>4</stock_quantity>
+<param name="Назначение">Охлаждение для процессора</param>
+<param name="Вид">Кулеры</param>
+<param name="Размер вентилятора">90 мм</param>
+<param name="Совместимость">AM2+/AM3+/FM1/FM2|AM2+|AM3+|FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775|LGA1151</param>
+<param name="Частота вращения">2000 об/мин</param>
+<param name="Тип подшипника">Гидродинамический</param>
+<param name="Материал радиатора">Алюминий - медь</param>
+<param name="Разъемы питания">4-pin</param>
+<param name="Гарантия">12 месяцев</param>
+<param name="Максимальный TDP">95 W</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
+</offer>
       <offer available="false" id="1041553476">
         <url>https://kozatchok.prom.ua/p1041553476-videokarta-zotac-gtx.html</url>
         <price>1560</price>
