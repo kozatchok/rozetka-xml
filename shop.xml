@@ -4876,7 +4876,7 @@ RX 560</strong></h3>
         <param name="Гарантия">12 месяцев</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="false" id="1025216503">
+      <offer available="true" id="1025216503">
         <url>https://kozatchok.prom.ua/p1025216503-ramka-perehodnik-dlya.html</url>
         <price>90</price>
         <currencyId>UAH</currencyId>
