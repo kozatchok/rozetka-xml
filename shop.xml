@@ -6179,23 +6179,24 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Гарантия">15 дней</param>
       </offer>
-      <offer available="false" id="1092638259">
+      <offer available="true" id="1092638259">
         <url>https://kozatchok.prom.ua/p1092638259-ventilyator-firstd-dlya.html</url>
-        <price>590</price>
+        <price>720</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2110216563_ventilyator-firstd-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/2110216572_ventilyator-firstd-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/2110216565_ventilyator-firstd-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/2110216597_ventilyator-firstd-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/2110216564_ventilyator-firstd-dlya.jpg</picture>
-        <name>Вентилятор FirstD для видеокарты Palit GameRock FD10010H12S (№172)</name>
+        <picture>https://images.prom.ua/4406844914_w640_h640_4406844914.jpg</picture>
+        <name>Вентилятор FirstD для видеокарты Palit GTX 1080 Ti GameRock FD10010H12S (№172)</name>
         <vendor>FirstD</vendor>
         <categoryId>212</categoryId>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за двойной вентилятор</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Palit GameRock&nbsp;</strong></h2> <h2>GTX 1080&nbsp;Ti</h2> <h2>&nbsp;</h2> <h2>Возможно список видеокарт неполный</h2> <h3>Маркировка - FD10010H12S&nbsp;</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:&nbsp;<strong>109&nbsp;мм х 11 мм</strong><br /> Напряжение: DC 12V<br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
