@@ -3033,7 +3033,7 @@ GTX 1080Ti</span></strong></p>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="true" id="1005063656">
+      <offer available="false" id="1005063656">
         <url>https://kozatchok.prom.ua/p1005063656-ventilyator-powerlogic-dlya.html</url>
         <price>540</price>
         <currencyId>UAH</currencyId>
@@ -3074,7 +3074,7 @@ RX 580</strong></p>
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
