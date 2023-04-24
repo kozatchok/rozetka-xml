@@ -13801,11 +13801,12 @@ RX 560</strong></h3>
       </offer>
       <offer id="1592111050" available="false">
         <url>https://kozatchok.prom.ua/p1592111050-ventilyator-everflow-dlya.html</url>
-        <price>720</price>
+        <price>650</price>
+        <price_old>720</price_old>
         <currencyId>UAH</currencyId>
-        <picture>https://images.prom.ua/3699717170_ventilyator-everflow-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3699717171_ventilyator-everflow-dlya.jpg</picture>
-        <picture>https://images.prom.ua/3699717172_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4464370326_w640_h640_4464370326.jpg</picture>
+        <picture>https://images.prom.ua/4464370315_w640_h640_4464370315.jpg</picture>
+        <picture>https://images.prom.ua/4464370318_w640_h640_4464370318.jpg</picture>
         <picture>https://images.prom.ua/3699718425_ventilyator-everflow-dlya.jpg</picture>
         <name>Вентилятор Everflow для видеокарты ASUS T129215SU (FDC10U12S9-C PLD10010S12HH)
           комплект 2 шт (№286)</name>
@@ -13826,9 +13827,10 @@ RX 560</strong></h3>
       </offer>
       <offer id="1592111186" available="false">
         <url>https://kozatchok.prom.ua/p1592111186-ventilyator-everflow-dlya.html</url>
-        <price>370</price>
+        <price>330</price>
+        <price_old>370</price_old>
         <currencyId>UAH</currencyId>
-        <picture>https://images.prom.ua/3699719245_ventilyator-everflow-dlya.jpg</picture>
+        <picture>https://images.prom.ua/4464367177_w640_h640_4464367177.jpg</picture>
         <picture>https://images.prom.ua/3699719243_ventilyator-everflow-dlya.jpg</picture>
         <picture>https://images.prom.ua/3699719244_ventilyator-everflow-dlya.jpg</picture>
         <picture>https://images.prom.ua/3699719014_ventilyator-everflow-dlya.jpg</picture>
