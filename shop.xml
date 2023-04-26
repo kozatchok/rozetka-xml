@@ -1841,9 +1841,9 @@ RX 560</strong></h3>
         <param name="Гарантия">1 месяц</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="false" id="1002757530">
+      <offer available="true" id="1002757530">
         <url>https://kozatchok.prom.ua/p1002757530-protsessor-amd-athlon.html</url>
-        <price>550</price>
+        <price>390</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1876241739_protsessor-amd-athlon.jpg</picture>
         <name>Процессор AMD Athlon II X4 620 2,6GHz sAM3 Tray 95w (ADX620WFK42GI) Propus
@@ -1856,7 +1856,7 @@ RX 560</strong></h3>
 <h2><span style="font-size:14px;">Все процессоры в пластиковом блистере, в комплекте&nbsp;пакетик&nbsp;термопасты. </span></h2>
 <span></span>]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <param name="Внутренняя тактовая частота">2.6 ГГц</param>
         <param name="Мощность TDP">95.0 Вт</param>
         <param name="Интегрированная графика">нет</param>
@@ -1901,7 +1901,7 @@ RX 560</strong></h3>
       </offer>
       <offer available="true" id="1002759058">
         <url>https://kozatchok.prom.ua/p1002759058-protsessor-amd-athlon.html</url>
-        <price>650</price>
+        <price>490</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/1931680719_w640_h640_635.jpg</picture>
         <name>Процессор AMD Athlon II X4 635 2,9GHz sAM3 Tray 95w (ADX635WFK42GI ADX635WFK42GM)
