@@ -6121,7 +6121,7 @@ RX 560</strong></h3>
         <stock_quantity>10</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
-        <param name="Тип подшипника">Гидродинамический</param>
+        <param name="Тип подшипника">Подшипник качения</param>
         <param name="Разъемы питания">4-pin</param>
         <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
