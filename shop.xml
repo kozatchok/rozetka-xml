@@ -7022,7 +7022,7 @@ RX 560</strong></h3>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2245648634_operativnaya-pamyat-saniter.jpg</picture>
         <name>Оперативная память Saniter DDR3 4Gb 1333MHz PC3-10600 (№758)</name>
-        <vendor>Saniter</vendor>
+        <vendor>Без бренда</vendor>
         <categoryId>214</categoryId>
         <description>
           <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <p><span style="font-size:14px;"></span></p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 4 ГБ</li> <li>Пропускная способность &mdash; 10600 МБит/с</li> <li>Частота памяти &mdash; 1333 МГц</li> <li>Тип памяти &mdash; DDR3</li> </ul> <p>&nbsp;</p>
@@ -7031,9 +7031,9 @@ RX 560</strong></h3>
         <stock_quantity>5</stock_quantity>
         <param name="Частота памяти">1333 МГц</param>
         <param name="Количество планок">1</param>
-        <param name="Назначение">Для настольного ПК</param>
-        <param name="Объем памяти">4.0 GB</param>
-        <param name="Тип памяти">DDR3</param>
+        <param name="Назначение">Для настольных ПК</param>
+        <param name="Объем памяти">4 ГБ</param>
+        <param name="Тип памяти">DDR3 SDRAM</param>
         <param name="Радиаторы на планках">нет</param>
         <param name="Эффективная пропускная способность">10600 Мб/с</param>
         <param name="Схема таймингов памяти">CL-9</param>
@@ -8725,21 +8725,22 @@ RX 560</strong></h3>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2490691617_operativnaya-pamyat-saniter.jpg</picture>
         <name>Оперативная память Saniter DDR3 8Gb 1600MHz PC3-12800 AMD (№761)</name>
-        <vendor>Saniter</vendor>
+        <vendor>Без бренда</vendor>
         <categoryId>214</categoryId>
         <description>
           <![CDATA[ <p>Память совместима только с процессорами AMD. С другими процессорами память будет работать не корректно или&nbsp;не будет работать вовсе.</p> <p>Интегрированный контроллер памяти процессоров AMD поддерживает нестандартную адресацию, поэтому позволяет использовать оперативную память более эффективно.</p> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 8 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> <li>Совместимость с процессорами&nbsp;&mdash; socket АМ3, АМ3+, FM1, FM2, FM2+</li> </ul> ]]>
         </description>
         <stock_quantity>4</stock_quantity>
-        <param name="Назначение">Для настольного ПК</param>
-        <param name="Тип памяти">DDR3</param>
-        <param name="Объем памяти">8 GB</param>
+        <param name="Назначение">Для настольных ПК</param>
+        <param name="Тип памяти">DDR3 SDRAM</param>
+        <param name="Объем памяти">8 ГБ</param>
         <param name="Количество планок">1</param>
         <param name="Частота памяти">1600 МГц</param>
         <param name="Радиаторы на планках">нет</param>
         <param name="Эффективная пропускная способность">12800 Мб/с</param>
         <param name="Схема таймингов памяти">CL-11</param>
         <param name="Гарантия">24 месяца</param>
+        <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
       <offer available="false" id="1218392765">
@@ -8771,21 +8772,22 @@ RX 560</strong></h3>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2490777059_operativnaya-pamyat-saniter.jpg</picture>
         <name>Оперативная память Saniter DDR3 16Gb 1600MHz PC3-12800 AMD (№762)</name>
-        <vendor>Saniter</vendor>
+        <vendor>Без бренда</vendor>
         <categoryId>214</categoryId>
         <description>
           <![CDATA[ <p>Память совместима только с процессорами AMD. С другими процессорами память будет работать не корректно или&nbsp;не будет работать вовсе.</p> <p>Интегрированный контроллер памяти процессоров AMD поддерживает нестандартную адресацию, поэтому позволяет использовать оперативную память более эффективно.</p> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 16 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> <li>Совместимость с процессорами&nbsp;&mdash; socket АМ3, АМ3+, FM1, FM2, FM2+</li> </ul> ]]>
         </description>
         <stock_quantity>4</stock_quantity>
-        <param name="Назначение">Для настольного ПК</param>
-        <param name="Тип памяти">DDR3</param>
-        <param name="Объем памяти">16 GB</param>
+        <param name="Назначение">Для настольных ПК</param>
+        <param name="Тип памяти">DDR3 SDRAM</param>
+        <param name="Объем памяти">16 ГБ</param>
         <param name="Количество планок">1</param>
         <param name="Частота памяти">1600 МГц</param>
         <param name="Радиаторы на планках">нет</param>
         <param name="Эффективная пропускная способность">12800 Мб/с</param>
         <param name="Схема таймингов памяти">CL-11</param>
         <param name="Гарантия">24 месяца</param>
+        <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
       <offer available="false" id="1218402478">
@@ -8794,21 +8796,22 @@ RX 560</strong></h3>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2490803911_operativnaya-pamyat-saniter.jpg</picture>
         <name>Оперативная память Saniter DDR3 8Gb 1600 MHz PC3-12800 LP (№763)</name>
-        <vendor>Saniter</vendor>
+        <vendor>Без бренда</vendor>
         <categoryId>214</categoryId>
         <description>
           <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <p><span style="font-size:14px;"></span></p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 8 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> </ul> <p>&nbsp;</p> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для настольного ПК</param>
-        <param name="Тип памяти">DDR3</param>
-        <param name="Объем памяти">8 GB</param>
+        <param name="Назначение">Для настольных ПК</param>
+        <param name="Тип памяти">DDR3 SDRAM</param>
+        <param name="Объем памяти">8 ГБ</param>
         <param name="Количество планок">1</param>
         <param name="Частота памяти">1600 МГц</param>
         <param name="Радиаторы на планках">нет</param>
         <param name="Эффективная пропускная способность">12800</param>
         <param name="Схема таймингов памяти">CL-11</param>
         <param name="Гарантия">24 месяца</param>
+        <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
       <offer available="false" id="1218406458">
@@ -8823,15 +8826,16 @@ RX 560</strong></h3>
           <![CDATA[ <p>Данная память предназначена для стационарных компьютеров.</p> <p><span style="font-size:14px;"></span></p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 8 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> </ul> <p>&nbsp;</p> ]]>
         </description>
         <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Для настольного ПК</param>
-        <param name="Тип памяти">DDR3</param>
-        <param name="Объем памяти">8 GB</param>
+        <param name="Назначение">Для настольных ПК</param>
+        <param name="Тип памяти">DDR3 SDRAM</param>
+        <param name="Объем памяти">8 ГБ</param>
         <param name="Количество планок">1</param>
         <param name="Частота памяти">1600 МГц</param>
         <param name="Радиаторы на планках">нет</param>
         <param name="Эффективная пропускная способность">12800</param>
         <param name="Схема таймингов памяти">CL-11</param>
         <param name="Гарантия">24 месяца</param>
+        <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
       <offer available="true" id="1218408495">
