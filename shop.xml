@@ -9212,7 +9212,7 @@ RX 560</strong></h3>
         <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="false" id="1224325201">
+      <offer available="true" id="1224325201">
         <url>https://kozatchok.prom.ua/p1224325201-termopasta-900-723.html</url>
         <price>40</price>
         <currencyId>UAH</currencyId>
@@ -9223,7 +9223,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>GD900 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 3 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 4.8 Вт/МК</span></p> <p><span style="font-size:14px;">Тепловое сопротивление: &gt; 0.108</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>20</stock_quantity>
         <param name="Назначение">Термопасты и средства для их снятия</param>
         <param name="Дополнительно">Теплопроводность: > 4,8 Вт/МК Упаковка ОЕМ </param>
         <param name="Тип охлаждения">Термоинтерфейсы</param>
