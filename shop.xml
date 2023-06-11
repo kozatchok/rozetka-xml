@@ -10882,7 +10882,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer id="1439533494" available="true">
+      <offer id="1439533494" available="false">
         <url>https://kozatchok.prom.ua/p1439533494-ventilyator-powerlogic-dlya.html</url>
         <price>180</price>
         <currencyId>UAH</currencyId>
@@ -10902,7 +10902,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;">Совместимость с видеокартами</span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</span></strong></p> <p><strong><span style="font-size:14px;">GTX 2060 GAMING OC<br /> GTX 2060 GAMING OC PRO<br /> GTX 2060 GAMING&nbsp;<br /> GTX 2070 WINDFORCE</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</span></strong></p> <p><strong><span style="font-size:14px;">R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</span></strong></p> <p><strong>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</strong></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - PLD08010S12HH (T128010SU FY08010H12LPA)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.35 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></span></h3> <h3><span style="font-size:14px;">Тип подшипника: гидродинамический</span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
