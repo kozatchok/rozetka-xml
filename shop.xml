@@ -2840,7 +2840,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="false" id="1005053206">
+      <offer available="true" id="1005053206">
         <url>https://kozatchok.prom.ua/p1005053206-ventilyator-everflow-dlya.html</url>
         <price>520</price>
         <currencyId>UAH</currencyId>
@@ -2875,7 +2875,7 @@ GTX 1080Ti</span><span style="font-size:14px;"></span><span style="font-size:14p
 <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
