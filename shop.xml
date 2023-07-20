@@ -7534,7 +7534,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="false" id="1148666025">
+      <offer available="true" id="1148666025">
         <url>https://kozatchok.prom.ua/p1148666025-ventilyator-powerlogic-dlya.html</url>
         <price>480</price>
         <currencyId>UAH</currencyId>
@@ -7549,7 +7549,7 @@ RX 560</strong></h3>
           <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;"></span></h3> <h3>Цена указана за комплект - 3 вентилятора + кабель подключения к видеокарте</h3> <h3>Совместимость с видеокартами</h3> <h3><span style="font-size:14px;"></span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 960 G1 Gaming<br /> GTX 970 G1 Gaming<br /> GTX 970 Windforce<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming<br /> GTX 980 Ti Windforce</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 G1 Rock<br /> GTX 1070 G1 Rock<br /> GTX 1080 G1 Rock</span></strong></p> <p><strong><span style="font-size:14px;">R9 270X Windforce<br /> R9 280 Windforce<br /> R9 280X Windforce</span></strong></p> <p><strong>Возможно список видеокарт неполный</strong></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - T128010SM (PLD08010S12H)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.25 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 3-pin</strong></span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Разъемы питания">3-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
@@ -10909,7 +10909,7 @@ RX 560</strong></h3>
         <picture>https://images.ua.prom.st/3199649132_ventilyator-powerlogic-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/3199649131_ventilyator-powerlogic-dlya.jpg</picture>
         <name>Вентилятор PowerLogic для видеокарты Gigabyte PLD08010S12HH (T128010SU
-          FY08010H12LPA GA81S2U)</name>
+          FY08010H12LPA GA81S2U) (№45.2)</name>
         <vendor>PowerLogic</vendor>
         <categoryId>212</categoryId>
         <description>
