@@ -12225,11 +12225,11 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer id="1532301179" available="false">
+      <offer id="1532301179" available="true">
         <url>https://kozatchok.prom.ua/p1532301179-ventilyator-champion-dlya.html</url>
         <price>370</price>
         <currencyId>UAH</currencyId>
-        <picture>https://images.prom.ua/4294431456_w640_h640_4294431456.jpg</picture>
+        <picture>https://images.prom.ua/4739469883_w640_h640_4739469883.jpg</picture>
         <picture>https://images.prom.ua/4294431453_w640_h640_4294431453.jpg</picture>
         <picture>https://images.prom.ua/4294431455_w640_h640_4294431455.jpg</picture>
         <picture>https://images.prom.ua/3503021861_ventilyator-champion-dlya.jpg</picture>
@@ -12243,7 +12243,7 @@ RX 560</strong></h3>
 <description_ua>
 <![CDATA[ <h2><span style="font-size:14px;">Ціна вказана за один вентилятор.</span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охолодження відеокарт <strong>ASUS&nbsp;</strong></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h2> <p><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></p> <p><strong><span style="font-size:14px;"></span><span style="font-size:14px;">RTX 3060 Phoenix</span><br /> <br /> <span style="font-size:14px;"></span></strong></p> <p><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Можливо, список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</span></h2> <h3>Маркування - CF1010U12S (CF1010U12D &nbsp;T129215SU)</h3> <h3>Діаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Гвинтові отвори:<strong> 26 мм х 104 мм</strong></h3> <h3>Висота:&nbsp; <strong>11 мм</strong><br /> Напруга: DC 12V<br /> Вентилятор струм: <strong>0,45 А</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення&nbsp;<strong>6-pin (4 контакти)</strong></h3> <p>Тип пакування: <strong>ОЕМ</strong> (без коробки)</p> <p><strong><span style="font-size:14px;">Тип підшипника: гідродинамічний</span></strong></p> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Зверніть увагу!</strong></p> <p style="text-align: center;"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти в першу чергу потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> ]]>
 </description_ua>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
