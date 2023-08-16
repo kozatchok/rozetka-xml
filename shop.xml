@@ -21510,7 +21510,7 @@ RX 560</strong></h3>
 <param name="Максимальный TDP">125 W</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 </offer>
-<offer id="532649711" available="true">
+<offer id="532649711" available="false">
 <url>https://kozatchok.prom.ua/p532649711-materinskaya-plata-taishuo.html</url>
 <price>2260</price>
 <currencyId>UAH</currencyId>
@@ -21526,7 +21526,7 @@ RX 560</strong></h3>
 <description_ua>
 <![CDATA[ <h2><span style="color:#000000;font-size:12pt"></span></h2> <ul> <li><strong>Модель</strong>: X79 PRO</li> <li><strong>Форм-фактор:</strong>&nbsp;Micro-ATX</li> <li><strong>Сокет:&nbsp;</strong>LGA2011.</li> <li><strong>Максимальна частота ОЗУ:</strong>&nbsp;1866GHz.</li> <li><strong>Кількість слотів пам&#39;яті:</strong>&nbsp;2.</li> <li><strong>Чіпсет</strong>: Intel.</li> <li><strong>Мережа</strong>: 100/1000Mbit LAN.</li> <li><strong>Звук:</strong>&nbsp;Realtek.</li> <li><strong>Внутрішні роз&#39;єми:</strong>&nbsp;&nbsp;2x PCI Expless x1; 1x PCI Express x16; 1x M.2; 4x SATA II;&nbsp;</li> <li><strong>Порти:</strong>&nbsp;8x USB 2.0; 1x PS/2 keyboard; 1x PS/2 mouse; 1x RJ-45; 3x audio inout.</li> <li><strong>Живлення</strong>: 24+8</li> <li><strong>Розміри:</strong>&nbsp;235 х 175 мм</li> </ul> <p><strong>Компектація:</strong></p> <p>1. Материнська плата.</p> <p>2. Кабель SATA.</p> <p>3. Задня планка матплати для монтажу у системний блок.</p> <p>4. Рамка перехідник для кріплення кулера AMD на сокет 2011.</p> <span></span> ]]>
 </description_ua>
-<stock_quantity>1</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Сокет">Socket 2011</param>
 <param name="Формфактор">MicroATX</param>
 <param name="Поддержка памяти">DDR3</param>
