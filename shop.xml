@@ -5197,7 +5197,7 @@ RX 560</strong></h3>
         <param name="Максимальный TDP">95 W</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="true" id="1041036027">
+      <offer available="false" id="1041036027">
         <url>https://kozatchok.prom.ua/p1041036027-kuler-dlya-protsessora.html</url>
         <price>490</price>
         <currencyId>UAH</currencyId>
@@ -5222,7 +5222,7 @@ RX 560</strong></h3>
 <![CDATA[ <h2>Активне охолодження для процесора.&nbsp;Дві теплові мідні трубки. Два вентилятори.</h2> <p>Всі перевірені.<br /> Кріплення для &nbsp;сокету&nbsp;</p> <p>Intel LGA&nbsp;<strong>775/115Х/1366&nbsp;</strong>(рамка перехідник в комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4</strong></p> <p>&nbsp;</p> <p>< u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 130 * 95 * 87 мм Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 * 90 * 25 мм Номінальна напруга: 12VDC Максимальна швидкість: 600-2000 &plusmn; 10% об / хв Максимальний об'єм повітря: 60.75 CFM Шум: макс 40 dBA</p> <p>Інтерфейс підключення:&nbsp;<strong>4-pin</strong></ <span></span>
 ]]>
 </description_ua>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Для процессоров</param>
         <param name="Вид">Кулеры</param>
         <param name="Размер вентилятора">90 мм</param>
