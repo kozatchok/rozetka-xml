@@ -10381,7 +10381,7 @@ RX 560</strong></h3>
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer id="1295245974" available="true">
+      <offer id="1295245974" available="false">
         <url>https://kozatchok.prom.ua/p1295245974-ventilyator-ecotherm-dlya.html</url>
         <price>430</price>
         <currencyId>UAH</currencyId>
@@ -10401,7 +10401,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора.</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт</h2> <p><strong>Zotac&nbsp;</strong><br /> <strong>GTX 960 AMP<br /> GTX 1050Ti X-Gaming<br /> GTX 1060 X-Gaming</strong><br /> &nbsp;</p> <p><strong>PowerColor</strong><br /> <strong>RX 470&nbsp;Red Devil<br /> RX 470&nbsp;Red Dragon<br /> RX 480&nbsp;Red Dragon<br /> RX 570&nbsp;Red Dragon<br /> RX 580&nbsp;Red Dragon<br /> RX 590&nbsp;Red Dragon</strong></p> <p><strong>Colorful</strong><br /> <strong>GTX 1050Ti iGame</strong></p> <p>&nbsp;</p> <p>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</p> <h3>Маркировка - GFY09010E12SPA (GA91S2H GA91S2U)</h3> <h3>Диаметр вентилятора:&nbsp;<strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;72 мм x 24 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>0,4 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
