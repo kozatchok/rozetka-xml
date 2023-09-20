@@ -8924,7 +8924,7 @@ RX 560</strong></h3>
 <description_ua>
 <![CDATA[ <h2>Охолодження для процесора Cold State Extreme 400</h2> <p>Активне охолодження для процесора.&nbsp;</p> <p>Чотири&nbsp;мідні&nbsp;теплові&nbsp;трубки.&nbsp;</p> <p>&nbsp;</p> <p>Кріплення для &nbsp;сокета&nbsp;<br /> Intel <strong>LGA 775/115Х/1366/1200/1700</strong>&nbsp;(рамка перехідник у комплекті)<br /> AMD <strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Розмір В х Ш х Г: 135 х 85х 95 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90&nbsp;х&nbsp;90&nbsp;х 25&nbsp;мм&nbsp;<br /> Номінальна напруга: 12V<br /> Максимальна швидкість: 1800 &plusmn; 10%&nbsp;об/хв&nbsp;<br /> Шум: ~20 dBA&nbsp;</p> <p>TDP: 125 W</p> <p>Роз&#39;єм під&#39;єднання:&nbsp;<strong>3-pin</strong></p> <p>&nbsp;</p> <span></span> ]]>
 </description_ua>
-<stock_quantity>3</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Назначение">Для процессоров</param>
 <param name="Вид">Кулеры</param>
 <param name="Размер вентилятора">90 мм</param>
@@ -9001,7 +9001,7 @@ RX 560</strong></h3>
 <description_ua>
 <![CDATA[ <h2><span style="font-size:14px">Активне охолодження для процесора.&nbsp;</span></h2> <h2><span style="font-size:14px">Чотири теплові мідні трубки.</span></h2> <p><span style="font-size:14px"></span></p> <p><span style="font-size:14px">Кріплення для &nbsp;сокета&nbsp;<br /> Intel <strong>LGA 775/115Х/1366/1200/1700</strong>&nbsp;(рамка перехідник у комплекті)<br /> AMD <strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM5/AM4</strong></span></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Розмір В х Ш х Г: 135 х 85х 95 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90&nbsp;х&nbsp;90&nbsp;х 25&nbsp;мм&nbsp;<br /> Номінальна напруга: 12V<br /> Максимальна швидкість: 800-2000 &plusmn; 10%&nbsp;об/хв&nbsp;<br /> Шум: ~20 dBA&nbsp;</p> <p>TDP: 125 W</p> <p>Роз&#39;єм підключення:&nbsp;<strong>4-pin</strong></p> <p>&nbsp;</p> <span></span> ]]>
 </description_ua>
-<stock_quantity>3</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Назначение">Для процессоров</param>
 <param name="Вид">Кулеры</param>
 <param name="Размер вентилятора">90 мм</param>
