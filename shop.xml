@@ -4938,8 +4938,8 @@ RX 560</strong></h3>
         <param name="Вид">Установочные модули и крепления </param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="false" id="1025289366">
-        <url>https://kozatchok.prom.ua/p1025289366-kuler-dlya-protsessora.html</url>
+      <offer available="false" id="1006443047">
+        <url>https://kozatchok.prom.ua/p1006443047-ohlazhdenie-kuler-dlya.html</url>
         <price>690</price>
         <currencyId>UAH</currencyId>
 <picture>https://images.prom.ua/4907318855_ohlazhdenie-kuler-dlya.jpg</picture>
@@ -4972,8 +4972,8 @@ RX 560</strong></h3>
 <param name="Максимальный TDP">135 W</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 </offer>
-      <offer available="false" id="1025290125">
-        <url>https://kozatchok.prom.ua/p1025290125-kuler-dlya-protsessora.html</url>
+      <offer available="false" id="1006439946">
+        <url>https://kozatchok.prom.ua/p1006439946-ohlazhdenie-kuler-dlya.html</url>
         <price>640</price>
         <currencyId>UAH</currencyId>
 <picture>https://images.prom.ua/4907269069_ohlazhdenie-kuler-dlya.jpg</picture>
@@ -8995,7 +8995,6 @@ RX 560</strong></h3>
 <name>Кулер для процессора Cold State Extreme 401 90 mm 4-pin (№251)</name>
 <name_ua>Кулер для процесора Cold State Extreme 401 90 mm 4-pin (№251)</name_ua>
 <vendor>Без бренда</vendor>
-<vendorCode>№251</vendorCode>
 <description>
 <![CDATA[ <h2>&nbsp;</h2> <p><span style="font-size:14px">Активное охлаждение для процессора.&nbsp;</span></p> <p><span style="font-size:14px">Четыре тепловые медные трубки.</span></p> <p>&nbsp;</p> <p><span style="font-size:14px">Крепление для &nbsp;сокета&nbsp;<br /> Intel <strong>LGA 775/115Х/1366/1200/1700</strong>&nbsp;(рамка переходник в комплекте)<br /> AMD <strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM5/AM4</strong></span></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Размер В х Ш х Г : 135 х 85х 95 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90&nbsp;х&nbsp;90&nbsp;х 25&nbsp;мм&nbsp;<br /> Номинальное напряжение: 12V<br /> Максимальная скорость: 800-2000 &plusmn; 10%&nbsp;об / мин&nbsp;<br /> Шум: ~20 dBA&nbsp;</p> <p>TDP: 125 W</p> <p>Разъем подключения:&nbsp;<strong>4-pin</strong></p> <p>&nbsp;</p> <span></span> ]]>
 </description>
