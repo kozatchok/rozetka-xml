@@ -4938,8 +4938,8 @@ RX 560</strong></h3>
         <param name="Вид">Установочные модули и крепления </param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="false" id="1006443047">
-        <url>https://kozatchok.prom.ua/p1006443047-ohlazhdenie-kuler-dlya.html</url>
+      <offer available="false" id="1025289366">
+        <url>https://kozatchok.prom.ua/ua/p1025289366-ohlazhdenie-kuler-dlya.html</url>
         <price>690</price>
         <currencyId>UAH</currencyId>
 <picture>https://images.prom.ua/4907318855_ohlazhdenie-kuler-dlya.jpg</picture>
@@ -4972,8 +4972,8 @@ RX 560</strong></h3>
 <param name="Максимальный TDP">135 W</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 </offer>
-      <offer available="false" id="1006439946">
-        <url>https://kozatchok.prom.ua/p1006439946-ohlazhdenie-kuler-dlya.html</url>
+      <offer available="false" id="1025290125">
+        <url>https://kozatchok.prom.ua/ua/p1025290125-ohlazhdenie-kuler-dlya.html</url>
         <price>640</price>
         <currencyId>UAH</currencyId>
 <picture>https://images.prom.ua/4907269069_ohlazhdenie-kuler-dlya.jpg</picture>
@@ -22839,8 +22839,8 @@ RX 560</strong></h3>
 <param name="Максимальный TDP">125 W</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 </offer>
-<offer id="1025290125" available="true">
-<url>https://kozatchok.prom.ua/p1025290125-ohlazhdenie-kuler-dlya.html</url>
+<offer id="1006439946" available="true">
+<url>https://kozatchok.prom.ua/ua/p1006439946-ohlazhdenie-kuler-dlya.html</url>
 <price>640</price>
 <currencyId>UAH</currencyId>
 <categoryId>212</categoryId>
@@ -22873,8 +22873,8 @@ RX 560</strong></h3>
 <param name="Максимальный TDP">135 W</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 </offer>
-<offer id="1025289366" available="true">
-<url>https://kozatchok.prom.ua/p1025289366-ohlazhdenie-kuler-dlya.html</url>
+<offer id="1006443047" available="true">
+<url>https://kozatchok.prom.ua/ua/p1006443047-ohlazhdenie-kuler-dlya.html</url>
 <price>690</price>
 <currencyId>UAH</currencyId>
 <categoryId>212</categoryId>
