@@ -21970,7 +21970,7 @@ RX 560</strong></h3>
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 </offer>
-<offer id="1915225508" available="true">
+<offer id="1915225508" available="false">
 <url>https://kozatchok.prom.ua/p1915225508-videokarta-taishuo-pci.html</url>
 <price>1760</price>
 <currencyId>UAH</currencyId>
@@ -21988,7 +21988,7 @@ RX 560</strong></h3>
 <description_ua>
 <![CDATA[ <h3>Графічний чіп: GeForce GT 730</h3> <h3><span style="font-size:14px;">Роз&#39;єми: DVI, HDMI, VGA<br /> Частота ядра: 700 МГц<br /> Частота пам&#39;яті: 1333 МГц<br /> Тип пам&#39;яті: DDR3<br /> Об&#39;єм пам&#39;яті: 2 ГБ<br /> Розрядність шини пам&#39;яті: 128 біт<br /> <br /> Максимальне енергоспоживання, Вт: ~ 40</span></h3> <h3>Додаткове живлення не потрібне.</h3> <h3><span style="font-size:14px;">Мінімальні вимоги до блоку живлення, Вт: 300</span></h3> <h3><span style="font-size:14px;">Тип упаковки: OEM</span></h3> <h3><span style="font-size:14px;">Комплектація: відеокарта,&nbsp;<span style="font-size:14px;"><span style="font-size:14px;">задні планки для низькопрофільного корпусу.</span></span><br /> <img alt="" /></span></h3> <h2>&nbsp;</h2> <p>&nbsp;</p> ]]>
 </description_ua>
-<stock_quantity>5</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Графический чип">GeForce GT730</param>
 <param name="Объем памяти">2 ГБ</param>
 <param name="Разрядность шины памяти">128 бит</param>
