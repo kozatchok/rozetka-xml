@@ -9589,7 +9589,7 @@ RX 560</strong></h3>
         <param name="Вид">Вентиляторы</param>
         <param name="Дополнительно">Упаковка ОЕМ</param>
       </offer>
-      <offer id="1444277569" available="true">
+      <offer id="1444277569" available="false">
         <url>https://kozatchok.prom.ua/p1444277569-ventilyator-firstd-dlya.html</url>
         <price>580</price>
         <currencyId>UAH</currencyId>
@@ -9606,7 +9606,7 @@ RX 560</strong></h3>
         <description>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Цена указана за комплект - 2 вентилятора</h2> <h2>&nbsp;</h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт ASUS</h2> <p><strong>GTX 760 ROG Striker Platinum</strong></p> <p><strong>GTX 780 DirectCU II<br /> GTX 780 Ti DirectCU II<br /> GTX 780 Ti ROG Matrix Platinum</strong></p> <p><strong>GTX 960 Black Edition<br /> GTX 970 Black Edition<br /> GTX 970 Strix<br /> GTX 980 Strix<br /> GTX 980 Matrix Platinum<br /> GTX 980 Ti ROG Matrix Platinum&nbsp;</strong></p> <p><strong>R9 280 DirectCU II<br /> R9 280X DirectCU II<br /> R9 290 DirectCU II<br /> R9 290X DirectCU II<br /> R9 290X ROG Matrix<br /> R9 380 Strix<br /> R9 390 DirectCU II</strong></p> <p>&nbsp;</p> <p><span style="font-size:14px;">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></p> <h3>Маркировка - FD10015H12S (T129215SU FD9015U12S)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;28 мм x 28&nbsp;мм</strong></h3> <h3>Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,5-0,55 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;5-pin&nbsp;</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
         </description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Количество вентиляторов">2</param>
         <param name="Размер вентилятора">95 мм</param>
