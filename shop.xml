@@ -19738,7 +19738,7 @@ RX 560</strong></h3>
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів.  Передплата 10-100%, але не менше 100 грн. В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 </offer>
-<offer id="1856408705" available="true">
+<offer id="1856408705" available="false">
 <url>https://kozatchok.prom.ua/p1856408705-ventilyator-champion-dlya.html</url>
 <price>1390</price>
 <currencyId>UAH</currencyId>
@@ -19759,7 +19759,7 @@ RX 560</strong></h3>
 <description_ua>
 <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Ціна вказана за комплект - 3 вентилятора</h2> <h2>&nbsp;</h2> <h2>Вентилятор (кулер) для систем охолодження відеокарт ASUS</h2> <p><span style="font-size:14px;"></span></p> <p><strong>RTX 3060 Ti ROG Strix Gaming<br /> RTX 3070 ROG Strix Gaming<br /> RTX 3070 ROG Strix White<br /> RTX 3070 Ti ROG Strix Gaming<br /> RTX 3080 ROG Strix Gaming<br /> RTX 3080 ROG Strix White<br /> RTX 3080 Ti ROG Strix Gaming<br /> RTX 3090 ROG Strix Gaming<br /> RTX 3090 ROG Strix White</strong></p> <p><br /> <strong>RX 6700 XT ROG Strix Gaming<br /> RX 6700 XT TUF Gaming<br /> RX 6800 XT ROG Strix Gaming<br /> RX 6800 ROG Strix Gaming<br /> RX 6800 XT TUF Gaming<br /> RX 6800 TUF Gaming<br /> RX 6900 XT TUF Gaming<br /> RX 6950 XT TUF Gaming</strong><br /> &nbsp;</p> <p><span style="font-size:14px;"></span><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <p><span style="font-size:14px;">Можливо, список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</span></p> <h3>Маркування - CF1010U12D (CF1010U12S T129215SU FDC10U12S9-C)</h3> <h3>Діаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Гвинтові отвори:<strong>&nbsp;104 мм x 26 мм</strong></h3> <h3>Напруга: DC 12V<br /> Вентилятор струм: <strong>0,45 А</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення<strong>&nbsp;7-pin&nbsp;</strong></h3> <p>Тип пакування:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <p><strong>Тип підшипника:</strong><strong>кульковий</strong></p> <p><strong>Вентилятор на кулькових підшипниках. Вони вважаються більш надійними та довговічними в порівнянні з вентиляторами на гідродинамічному підшипнику.</strong></p> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Зверніть увагу!</strong></p> <p style="text-align: center;"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти в першу чергу потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> ]]>
 </description_ua>
-<stock_quantity>5</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Размер вентилятора">95 мм</param>
 <param name="Разъемы питания">7-pin </param>
