@@ -8773,7 +8773,7 @@ RX 560</strong></h3>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2490691617_operativnaya-pamyat-saniter.jpg</picture>
         <name>Оперативная память Saniter DDR3 8Gb 1600MHz PC3-12800 AMD (№761)</name>
-        <vendor>Без updateбренда</vendor>
+        <vendor>Без бренда</vendor>
         <categoryId>214</categoryId>
         <description>
           <![CDATA[ <p>Память совместима только с процессорами AMD. С другими процессорами память будет работать не корректно или&nbsp;не будет работать вовсе.</p> <p>Интегрированный контроллер памяти процессоров AMD поддерживает нестандартную адресацию, поэтому позволяет использовать оперативную память более эффективно.</p> <p><span style="font-size:14px;"></span></p> <p>&nbsp;</p> <ul> <li>Производитель &mdash; Saniter&nbsp;</li> <li>Одна планка объемом 8 ГБ</li> <li>Пропускная способность &mdash; 12800 МБит/с</li> <li>Частота памяти &mdash; 1600 МГц</li> <li>Тип памяти &mdash; DDR3</li> <li>Совместимость с процессорами&nbsp;&mdash; socket АМ3, АМ3+, FM1, FM2, FM2+</li> </ul> ]]>
@@ -9143,17 +9143,21 @@ RX 560</strong></h3>
         <price>70</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2508204809_termopasta-gd-900.jpg</picture>
-        <name>Термопаста GD 900 7 г (№721)</name>
+<name>Термопаста GD900, 4.8 Вт/мК, 7 г (№721)</name>
+<name_ua>Термопаста GD900, 4.8 Вт/мК, 7 г (№721)</name_ua>
         <country_of_origin>Китай</country_of_origin>
         <categoryId>212</categoryId>
         <vendor>Без бренда</vendor>
-        <description>
-          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>GD900 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 7 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 4.8 Вт/МК</span></p> <p><span style="font-size:14px;">Тепловое сопротивление: &gt; 0.108</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
-        </description>
+<description>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <p><span style="font-size:14px">Термопаста <strong>GD900 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px">Цвет: Серый</span></p> <p><span style="font-size:14px">Масса: 7 грамм</span></p> <p><span style="font-size:14px">Теплопроводность: &gt; 4.8 Вт/мК</span></p> <p><span style="font-size:14px">Тепловое сопротивление: &gt; 0.108</span></p> <p><span style="font-size:14px">Диапазон рабочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px">Упаковка: шприц ОЕМ</span></p> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <p><span style="font-size:14px">Термопаста <strong>GD900 </strong>для пасивних і активних систем охолодження.<br /> Володіє доброю температурною провідністю та низькою текучістю. Стабільна при високих температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px">Колір: Сірий</span></p> <p><span style="font-size:14px">Маса: 7 грам</span></p> <p><span style="font-size:14px">Теплопровідність: &gt; 4.8 Вт/мК</span></p> <p><span style="font-size:14px">Тепловий опір: &gt; 0,108</span></p> <p><span style="font-size:14px">Діапазон робочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px">Упаковка: шприц ОЕМ</span></p> ]]>
+</description_ua>
         <stock_quantity>20</stock_quantity>
         <param name="Вид">Термопаста</param>
         <param name="Назначение">Для видеокарт/ Для процессоров</param>
-        <param name="Дополнительно">Теплопроводность: > 4.8 Вт/МК Упаковка ОЕМ </param>
+        <param name="Дополнительно">Теплопроводность: > 4.8 Вт/мК Упаковка ОЕМ </param>
         <param name="Вес">7 г</param>
         <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
@@ -9163,17 +9167,21 @@ RX 560</strong></h3>
         <price>100</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2508211674_termopasta-gd-900.jpg</picture>
-        <name>Термопаста GD 900 15 г (№720)</name>
+<name>Термопаста GD900, 4.8 Вт/мК, 15 г (№720)</name>
+<name_ua>Термопаста GD900, 4.8 Вт/мК, 15 г (№720)</name_ua>
         <country_of_origin>Китай</country_of_origin>
         <categoryId>212</categoryId>
         <vendor>Без бренда</vendor>
-        <description>
-          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>GD900 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 15 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 4.8 Вт/МК</span></p> <p><span style="font-size:14px;">Тепловое сопротивление: &gt; 0.108</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
-        </description>
+<description>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <p><span style="font-size:14px">Термопаста <strong>GD900 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px">Цвет: Серый</span></p> <p><span style="font-size:14px">Масса: 15 грамм</span></p> <p><span style="font-size:14px">Теплопроводность: &gt; 4.8 Вт/мК</span></p> <p><span style="font-size:14px">Тепловое сопротивление: &gt; 0.108</span></p> <p><span style="font-size:14px">Диапазон рабочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px">Упаковка: шприц ОЕМ</span></p> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <p><span style="font-size:14px">Термопаста <strong>GD900 </strong>для пасивних і активних систем охолодження.<br /> Володіє доброю температурною провідністю та низькою текучістю. Стабільна при високих температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px">Колір: Сірий</span></p> <p><span style="font-size:14px">Маса: 15 грам</span></p> <p><span style="font-size:14px">Теплопровідність: &gt; 4.8 Вт/мК</span></p> <p><span style="font-size:14px">Тепловий опір: &gt; 0,108</span></p> <p><span style="font-size:14px">Діапазон робочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px">Упаковка: шприц ОЕМ</span></p> ]]>
+</description_ua>
         <stock_quantity>20</stock_quantity>
         <param name="Вид">Термопаста</param>
         <param name="Назначение">Для видеокарт/ Для процессоров</param>
-        <param name="Дополнительно">Теплопроводность: > 4.8 Вт/МК Упаковка ОЕМ </param>
+        <param name="Дополнительно">Теплопроводность: > 4.8 Вт/мК Упаковка ОЕМ </param>
         <param name="Вес">15 г</param>
         <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
@@ -9183,18 +9191,47 @@ RX 560</strong></h3>
         <price>180</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2508212720_termopasta-gd900-30.jpg</picture>
-        <name>Термопаста GD900 30 г (№726)</name>
+<name>Термопаста GD900, 4.8 Вт/мК, 30 г (№726)</name>
+<name_ua>Термопаста GD900, 4.8 Вт/мК, 30 г (№726)</name_ua>
         <country_of_origin>Китай</country_of_origin>
         <categoryId>212</categoryId>
         <vendor>Без бренда</vendor>
-        <description>
-          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>GD900 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 30 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 4.8 Вт/МК</span></p> <p><span style="font-size:14px;">Тепловое сопротивление: &gt; 0.108</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
-        </description>
+<description>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <p><span style="font-size:14px">Термопаста <strong>GD900 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px">Цвет: Серый</span></p> <p><span style="font-size:14px">Масса: 30 грамм</span></p> <p><span style="font-size:14px">Теплопроводность: &gt; 4.8 Вт/мК</span></p> <p><span style="font-size:14px">Тепловое сопротивление: &gt; 0.108</span></p> <p><span style="font-size:14px">Диапазон рабочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px">Упаковка: шприц ОЕМ</span></p> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <p><span style="font-size:14px">Термопаста <strong>GD900 </strong>для пасивних і активних систем охолодження.<br /> Володіє доброю температурною провідністю та низькою текучістю. Стабільна при високих температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px">Колір: Сірий</span></p> <p><span style="font-size:14px">Маса: 30 грам</span></p> <p><span style="font-size:14px">Теплопровідність: &gt; 4.8 Вт/мК</span></p> <p><span style="font-size:14px">Тепловий опір: &gt; 0,108</span></p> <p><span style="font-size:14px">Діапазон робочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px">Упаковка: шприц ОЕМ</span></p> ]]>
+</description_ua>
         <stock_quantity>20</stock_quantity>
         <param name="Вид">Термопаста</param>
         <param name="Назначение">Для видеокарт/ Для процессоров</param>
-        <param name="Дополнительно">Теплопроводность: > 4.8 Вт/МК Упаковка ОЕМ </param>
+        <param name="Дополнительно">Теплопроводность: > 4.8 Вт/мК Упаковка ОЕМ </param>
         <param name="Вес">30 г</param>
+        <param name="Страна-производитель товара">Китай</param>
+        <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
+      </offer>
+      <offer id="1710299771" available="true">
+<url>https://kozatchok.prom.ua/p1710299771-termopasta-gd900-vtmk.html</url>
+<price>40</price>
+<currencyId>UAH</currencyId>
+<categoryId>212</categoryId>
+<picture>https://images.prom.ua/4082251839_termopasta-gd900-48.jpg</picture>
+<picture>https://images.prom.ua/4082251851_termopasta-gd900-48.jpg</picture>
+<vendor>Без бренда</vendor>
+<name>Термопаста GD900 4.8 Вт/мК 1 г (№731)</name>
+<name_ua>Термопаста GD900 4.8 Вт/мК 1 г (№731)</name_ua>
+<country_of_origin>Китай</country_of_origin>
+<description>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <p><span style="font-size:14px">Термопаста <strong>GD900 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px">Цвет: Серый</span></p> <p><span style="font-size:14px">Масса: 1 грамм</span></p> <p><span style="font-size:14px">Теплопроводность: &gt; 4.8 Вт/мК</span></p> <p><span style="font-size:14px">Тепловое сопротивление: &gt; 0.108</span></p> <p><span style="font-size:14px">Диапазон рабочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px">Упаковка: шприц ОЕМ</span></p> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <p><span style="font-size:14px">Термопаста <strong>GD900 </strong>для пасивних і активних систем охолодження.<br /> Володіє доброю температурною провідністю та низькою текучістю. Стабільна при високих температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px">Колір: Сірий</span></p> <p><span style="font-size:14px">Маса: 1 грам</span></p> <p><span style="font-size:14px">Теплопровідність: &gt; 4.8 Вт/мК</span></p> <p><span style="font-size:14px">Тепловий опір: &gt; 0,108</span></p> <p><span style="font-size:14px">Діапазон робочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px">Упаковка: шприц ОЕМ</span></p> ]]>
+</description_ua>
+        <stock_quantity>20</stock_quantity>
+        <param name="Вид">Термопаста</param>
+        <param name="Назначение">Для видеокарт/ Для процессоров</param>
+        <param name="Дополнительно">Теплопроводность: > 4.8 Вт/мК Упаковка ОЕМ </param>
+        <param name="Вес">1 г</param>
         <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
@@ -9208,12 +9245,12 @@ RX 560</strong></h3>
         <categoryId>212</categoryId>
         <vendor>Без бренда</vendor>
         <description>
-          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>HY-510 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 30 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 1,93 Вт/МК</span></p> <p><span style="font-size:14px;">Тепловое сопротивление: &gt; 0.225</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-30 ~ +150&deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>HY-510 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 30 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 1,93 Вт/мК</span></p> <p><span style="font-size:14px;">Тепловое сопротивление: &gt; 0.225</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-30 ~ +150&deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
         </description>
         <stock_quantity>10</stock_quantity>
         <param name="Вид">Термопаста</param>
         <param name="Назначение">Для видеокарт/ Для процессоров</param>
-        <param name="Дополнительно">Теплопроводность: > 1,93 Вт/МК Упаковка ОЕМ </param>
+        <param name="Дополнительно">Теплопроводность: > 1,93 Вт/мК Упаковка ОЕМ </param>
         <param name="Вес">30 г</param>
         <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
@@ -9228,12 +9265,12 @@ RX 560</strong></h3>
         <categoryId>212</categoryId>
         <vendor>Без бренда</vendor>
         <description>
-          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>HY810 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 1 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 4,63&nbsp;Вт/МК</span></p> <p><span style="font-size:14px;">Тепловое сопротивление: &gt; 0.0087</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-30 ~ +150&deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
+          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>HY810 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 1 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 4,63&nbsp;Вт/мК</span></p> <p><span style="font-size:14px;">Тепловое сопротивление: &gt; 0.0087</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-30 ~ +150&deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
         </description>
         <stock_quantity>100</stock_quantity>
         <param name="Вид">Термопаста</param>
         <param name="Назначение">Для видеокарт/ Для процессоров</param>
-        <param name="Дополнительно">Теплопроводность: > 4,63 Вт/МК Упаковка ОЕМ </param>
+        <param name="Дополнительно">Теплопроводность: > 4,63 Вт/мК Упаковка ОЕМ </param>
         <param name="Страна-производитель товара">Китай</param>
         <param name="Вес">1 г</param>
         <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
@@ -9243,17 +9280,21 @@ RX 560</strong></h3>
         <price>70</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2508233401_termopasta-gd900-1-3g.jpg</picture>
-        <name>Термопаста GD900-1 3г (№724)</name>
+        <name>Термопаста GD900-1 3г 6 Вт/мК (№724)</name>
+        <name_ua>Термопаста GD900-1 3г 6 Вт/мК (№724)</name_ua>
         <country_of_origin>Китай</country_of_origin>
         <categoryId>212</categoryId>
         <vendor>Без бренда</vendor>
-        <description>
-          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>GD900-1 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 3 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 6&nbsp;Вт/МК</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-50 ~ +120&deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
-        </description>
+<description>
+<![CDATA[ <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Термопаста <strong>GD900-1</strong>&nbsp;для пассивных и активных систем охлаждения. </span></span></h1> <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></span></h1> <p>&nbsp;</p> <p><span style="font-size:12pt">цвет: Серый </span></p> <p><span style="font-size:12pt">масса: 3 грамма</span></p> <p><span style="font-size:12pt">теплопроводность: &gt; 6 Вт/МК </span></p> <p><span style="font-size:12pt">диапазон рабочих температур:-50 ~ +120&deg;&nbsp;</span><span style="font-size:12pt"></span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <span></span> <div id="" style="left:20px; top:394.953px"><span></span></div> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Термопаста <strong>GD900-1</strong> для пасивних і активних систем охолодження. </span></span></h1> <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Володіє хорошою температурної провідністю і низькою текучістю. Стабільна при високих температурах.</span></span></h1> <p>&nbsp;</p> <p><span style="font-size:12pt">колір: Сірий </span></p> <p><span style="font-size:12pt">маса: 3 грами</span></p> <p><span style="font-size:12pt">теплопровідність: &gt; 6 Вт/МК </span></p> <p><span style="font-size:12pt">діапазон робочих температур:-50 ~ +120&deg; </span><span style="font-size:12pt"></span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <span></span> <div id="" style="left:20px; top:394.953px"><span></span></div> <div id="" style="left:20px; top:394.953px"><span></span></div> ]]>
+</description_ua>
         <stock_quantity>10</stock_quantity>
         <param name="Вид">Термопаста</param>
         <param name="Назначение">Для видеокарт/ Для процессоров</param>
-        <param name="Дополнительно">Теплопроводность: > 6 Вт/МК Упаковка ОЕМ </param>
+        <param name="Дополнительно">Теплопроводность: > 6 Вт/мК Упаковка ОЕМ </param>
         <param name="Вес">3 г</param>
         <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
@@ -9263,17 +9304,21 @@ RX 560</strong></h3>
         <price>50</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.prom.ua/4082205558_w640_h640_4082205558.jpg</picture>
-        <name>Термопаста GD900-1 1г (№725)</name>
+        <name>Термопаста GD900-1 1г 6 Вт/мК (№725)</name>
+        <name_ua>Термопаста GD900-1 1г 6 Вт/мК (№725)</name_ua>
         <country_of_origin>Китай</country_of_origin>
         <categoryId>212</categoryId>
         <vendor>Без бренда</vendor>
-        <description>
-          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>GD900-1 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 1 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 6&nbsp;Вт/МК</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-50 ~ +120&deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
-        </description>
+<description>
+<![CDATA[ <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Термопаста <strong>GD900-1</strong>&nbsp;для пассивных и активных систем охлаждения. </span></span></h1> <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></span></h1> <p>&nbsp;</p> <p><span style="font-size:12pt">цвет: Серый </span></p> <p><span style="font-size:12pt">масса: 1 грамм</span></p> <p><span style="font-size:12pt">теплопроводность: &gt; 6 Вт/МК </span></p> <p><span style="font-size:12pt">диапазон рабочих температур:-50 ~ +120&deg;&nbsp;</span><span style="font-size:12pt"></span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <span></span> <div id="" style="left:20px; top:394.953px"><span></span></div> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Термопаста <strong>GD900-1</strong> для пасивних і активних систем охолодження. </span></span></h1> <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Володіє хорошою температурної провідністю і низькою текучістю. Стабільна при високих температурах.</span></span></h1> <p>&nbsp;</p> <p><span style="font-size:12pt">колір: Сірий </span></p> <p><span style="font-size:12pt">маса: 1 грам</span></p> <p><span style="font-size:12pt">теплопровідність: &gt; 6 Вт/МК </span></p> <p><span style="font-size:12pt">діапазон робочих температур:-50 ~ +120&deg; </span><span style="font-size:12pt"></span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <span></span> <div id="" style="left:20px; top:394.953px"><span></span></div> <div id="" style="left:20px; top:394.953px"><span></span></div> ]]>
+</description_ua>
         <stock_quantity>10</stock_quantity>
         <param name="Вид">Термопаста</param>
         <param name="Назначение">Для видеокарт/ Для процессоров</param>
-        <param name="Дополнительно">Теплопроводность: > 6 Вт/МК Упаковка ОЕМ </param>
+        <param name="Дополнительно">Теплопроводность: > 6 Вт/мК Упаковка ОЕМ </param>
         <param name="Вес">1 г</param>
         <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
@@ -9283,17 +9328,21 @@ RX 560</strong></h3>
         <price>50</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/2508238697_termopasta-gd-900.jpg</picture>
-        <name>Термопаста GD 900 3 г (№723)</name>
+<name>Термопаста GD900, 4.8 Вт/мК, 3 г (№723)</name>
+<name_ua>Термопаста GD900, 4.8 Вт/мК, 3 г (№723)</name_ua>
         <country_of_origin>Китай</country_of_origin>
         <categoryId>212</categoryId>
         <vendor>Без бренда</vendor>
-        <description>
-          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>GD900 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 3 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 4.8 Вт/МК</span></p> <p><span style="font-size:14px;">Тепловое сопротивление: &gt; 0.108</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
-        </description>
+<description>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <p><span style="font-size:14px">Термопаста <strong>GD900 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px">Цвет: Серый</span></p> <p><span style="font-size:14px">Масса: 3 грамма</span></p> <p><span style="font-size:14px">Теплопроводность: &gt; 4.8 Вт/мК</span></p> <p><span style="font-size:14px">Тепловое сопротивление: &gt; 0.108</span></p> <p><span style="font-size:14px">Диапазон рабочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px">Упаковка: шприц ОЕМ</span></p> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <p><span style="font-size:14px">Термопаста <strong>GD900 </strong>для пасивних і активних систем охолодження.<br /> Володіє доброю температурною провідністю та низькою текучістю. Стабільна при високих температурах.</span><br /> &nbsp;</p> <p><span style="font-size:14px">Колір: Сірий</span></p> <p><span style="font-size:14px">Маса: 3 грами</span></p> <p><span style="font-size:14px">Теплопровідність: &gt; 4.8 Вт/мК</span></p> <p><span style="font-size:14px">Тепловий опір: &gt; 0,108</span></p> <p><span style="font-size:14px">Діапазон робочих температур:-50 ~ +200 &deg; </span></p> <p><span style="font-size:14px">Упаковка: шприц ОЕМ</span></p> ]]>
+</description_ua>
         <stock_quantity>20</stock_quantity>
         <param name="Вид">Термопаста</param>
         <param name="Назначение">Для видеокарт/ Для процессоров</param>
-        <param name="Дополнительно">Теплопроводность: > 4,8 Вт/МК Упаковка ОЕМ </param>
+        <param name="Дополнительно">Теплопроводность: > 4,8 Вт/мК Упаковка ОЕМ </param>
         <param name="Вес">3 г</param>
         <param name="Страна-производитель товара">Китай</param>
         <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
@@ -10888,17 +10937,20 @@ RX 560</strong></h3>
         <url>https://kozatchok.prom.ua/p1439079787-ventilyator-firstd-dlya.html</url>
         <price>280</price>
         <currencyId>UAH</currencyId>
-        <picture>https://images.ua.prom.st/3198277904_ventilyator-firstd-dlya.jpg</picture>
-        <picture>https://images.ua.prom.st/3198277899_ventilyator-firstd-dlya.jpg</picture>
-        <picture>https://images.ua.prom.st/3198277900_ventilyator-firstd-dlya.jpg</picture>
-        <picture>https://images.ua.prom.st/3198277808_ventilyator-firstd-dlya.jpg</picture>
-        <picture>https://images.ua.prom.st/3198277809_ventilyator-firstd-dlya.jpg</picture>
-        <name>Вентилятор FirstD для видеокарты Radeon FD8015U12S (PLD0815S12HH) №324</name>
-        <vendor>FirstD</vendor>
-        <categoryId>212</categoryId>
-        <description>
-          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;<br /> &nbsp;</h2> <h2><strong>Radeon HD 7750<br /> Radeon HD 7770<br /> Radeon RX 580 OEM</strong></h2> <p><b>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</b></p> <h3>Маркировка - FD8015U12S (PLD0815S12HH)</h3> <h3>Диаметр вентилятора:&nbsp;<strong>75 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;47 мм x 47&nbsp;мм x 47&nbsp;мм</strong></h3> <h3>Высота:&nbsp;&nbsp;<strong>15 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
-        </description>
+<picture>https://images.prom.ua/5039766800_ventilyator-everflow-dlya.jpg</picture>
+<picture>https://images.prom.ua/5039766801_ventilyator-everflow-dlya.jpg</picture>
+<picture>https://images.prom.ua/5039766802_ventilyator-everflow-dlya.jpg</picture>
+<picture>https://images.prom.ua/3198277808_ventilyator-everflow-dlya.jpg</picture>
+<picture>https://images.prom.ua/3198277809_ventilyator-everflow-dlya.jpg</picture>
+<name>Вентилятор Everflow для видеокарты Radeon T128015DU (FD8015U12S PLD0815S12HH) №324</name>
+<name_ua>Вентилятор Everflow для відеокарти Radeon T128015DU (FD8015U12S PLD0815S12HH) №324</name_ua>
+<vendor>Everflow</vendor>
+<description>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт&nbsp;<br /> &nbsp;</h2> <h2><strong>Radeon HD 7750<br /> Radeon HD 7770<br /> Radeon RX 580 OEM</strong></h2> <p><strong>Возможно список видеокарт неполный. Список видеокарт указан&nbsp;только для справки.</strong></p> <h3>Маркировка - &nbsp;T128015DU (FD8015U12S &nbsp;PLD0815S12HH)</h3> <h3>Диаметр вентилятора:&nbsp;<strong>75 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;47 мм x 47&nbsp;мм x 47&nbsp;мм</strong></h3> <h3>Высота:&nbsp;&nbsp;<strong>15 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток:&nbsp;<strong>0,5 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong>&nbsp;4-pin</strong></h3> <p>Тип упаковки:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)&nbsp;</p> <p><strong>Тип подшипника:&nbsp;</strong><strong>шариковый (комбинированный)</strong></p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Вентилятор (кулер) для систем охолодження відеокарт&nbsp;<br /> &nbsp;</h2> <h2><strong>Radeon HD 7750<br /> Radeon HD 7770<br /> Radeon RX 580 OEM</strong></h2> <p><strong>Можливе список відеокарт неповний. Список відеокарт вказаний&nbsp;тільки для довідки.</strong></p> <h3>Маркування &mdash; &nbsp;T128015DU (FD8015U12S &nbsp;PLD0815S12HH)</h3> <h3>Діаметр вентилятора:&nbsp;<strong>75 мм&nbsp;</strong><br /> Гвинтові отвори:<strong>&nbsp;47 мм x 47&nbsp;мм x 47&nbsp;мм</strong></h3> <h3>Висота:&nbsp;&nbsp;<strong>15 мм</strong><br /> Напруга: DC 12V<br /> Вентилятор струм:&nbsp;<strong>0,5 А</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення&nbsp;<strong>4-pin</strong></h3> <p>Тип паковання:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <p><strong>Тип підшипника:&nbsp;</strong><strong>кульковий (комбінований)</strong></p> <h3>Кріпильні гвинти до комплекту не входять.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі вказані детальні характеристики товару. Під час підбору вентилятора для відеокарти насамперед потрібно звертати увагу на розміри та під&#39;єднання кулера. Тому що в однієї й тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням, може бути кілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> ]]>
+</description_ua>
         <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">75 мм</param>
@@ -10992,6 +11044,7 @@ RX 560</strong></h3>
         <price>190</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/3199649135_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.prom.ua/5039849438_w640_h640_5039849438.jpg</picture>
         <picture>https://images.ua.prom.st/3199649133_ventilyator-powerlogic-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/3199649136_ventilyator-powerlogic-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/3199649128_ventilyator-powerlogic-dlya.jpg</picture>
@@ -11000,13 +11053,16 @@ RX 560</strong></h3>
         <picture>https://images.ua.prom.st/3199649130_ventilyator-powerlogic-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/3199649132_ventilyator-powerlogic-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/3199649131_ventilyator-powerlogic-dlya.jpg</picture>
-        <name>Вентилятор PowerLogic для видеокарты Gigabyte PLD08010S12HH (T128010SU
-          FY08010H12LPA GA81S2U) (№45.2)</name>
+<name>Вентилятор PowerLogic для видеокарты Gigabyte 77 мм 4-pin PLD08010S12HH (T128010SU FY08010H12LPA GA81S2U) (№45.2)</name>
+<name_ua>Вентилятор PowerLogic для відеокарти Gigabyte 77 мм 4-pin PLD08010S12HH (T128010SU FY08010H12LPA GA81S2U) (№45.2)</name_ua>
         <vendor>PowerLogic</vendor>
         <categoryId>212</categoryId>
-        <description>
-          <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;">Совместимость с видеокартами</span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</span></strong></p> <p><strong><span style="font-size:14px;">GTX 2060 GAMING OC<br /> GTX 2060 GAMING OC PRO<br /> GTX 2060 GAMING&nbsp;<br /> GTX 2070 WINDFORCE</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</span></strong></p> <p><strong><span style="font-size:14px;">R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</span></strong></p> <p><strong>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</strong></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - PLD08010S12HH (T128010SU FY08010H12LPA)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.35 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></span></h3> <h3><span style="font-size:14px;">Тип подшипника: гидродинамический</span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
-        </description>
+<description>
+<![CDATA[ <h3><span style="font-size:14px">Оригинальный вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte. </strong></span></h3> <h3><span style="font-size:14px">С лицевой стороны оригинальные логотипы <span style="font-size:14px"><strong>Gigabyte&nbsp;<span style="font-size:14px">Gaming</span></strong></span>.</span></h3> <h3><span style="font-size:14px">Совместимость с видеокартами</span></h3> <h3><strong><span style="font-size:14px"></span><span style="font-size:14px"></span><span style="font-size:14px"></span></strong></h3> <p><strong><span style="font-size:14px">GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</span></strong></p> <p><strong><span style="font-size:14px"></span><span style="font-size:14px">RTX&nbsp;</span><span style="font-size:14px">2060 GAMING OC</span><br /> <span style="font-size:14px">RTX&nbsp;</span><span style="font-size:14px">2060 GAMING OC PRO</span><br /> <span style="font-size:14px">RTX&nbsp;</span><span style="font-size:14px">2060 GAMING&nbsp;</span><br /> <span style="font-size:14px">RTX&nbsp;</span><span style="font-size:14px">2070 WINDFORCE</span></strong></p> <p><strong><span style="font-size:14px">GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</span></strong></p> <p><strong><span style="font-size:14px">R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</span></strong></p> <p><strong>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</strong></p> <h3><strong><span style="font-size:14px"></span><span style="font-size:14px"></span><span style="font-size:14px"></span></strong></h3> <h3><span style="font-size:14px">Маркировка - PLD08010S12HH (T128010SU FY08010H12LPA GA81S2U)</span></h3> <h3><span style="font-size:14px">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.35 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></span></h3> <h3><span style="font-size:14px">Тип подшипника: гидродинамический</span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h3><span style="font-size:14px">Оригінальний вентилятор вентилятор (кулер) для систем охолодження відеокарт <strong>Gigabyte.&nbsp;</strong></span></h3> <h3><span style="font-size:14px">З лицьового боку оригінальні логотипи<strong> Gigabyte Gaming.</strong></span></h3> <h3><span style="font-size:14px">Сумісність з відеокартами</span></h3> <h3><strong><span style="font-size:14px"></span><span style="font-size:14px"></span><span style="font-size:14px"></span></strong></h3> <p><strong><span style="font-size:14px">GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</span></strong></p> <p><strong><span style="font-size:14px">GTX 2060 GAMING OC<br /> GTX 2060 GAMING OC PRO<br /> GTX 2060 GAMING<br /> GTX 2070 WINDFORCE</span></strong></p> <p><strong><span style="font-size:14px">GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming </span></strong></p> <p><strong><span style="font-size:14px">R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</span></strong></p> <p><strong>Можливо неповний перелік відеокарт. Список сумісних відеокарт вказаний тільки для довідки.</strong></p> <h3><strong><span style="font-size:14px"></span><span style="font-size:14px"></span><span style="font-size:14px"></span></strong></h3> <h3><span style="font-size:14px">Маркування - PLD08010S12HH (T128010SU FY08010H12LPA GA81S2U)</span></h3> <h3><span style="font-size:14px">Діаметр вентилятора: 77 мм<br /> Гвинтові отвори: 40 мм</span></h3> <h3><span style="font-size:14px">Висота: 11 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: <strong>0.35 A</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення<strong> 4-pin </strong></span></h3> <h3><span style="font-size:14px">Тип підшипника: гідродинамічний</span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Кріпильні гвинти в комплект не входять.</h3> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі вказані детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри і підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під однією і тією ж маркуванням, може бути кілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> ]]>
+</description_ua>
         <stock_quantity>10</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">77 мм</param>
@@ -11022,6 +11078,7 @@ RX 560</strong></h3>
         <price>190</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.ua.prom.st/3199660326_ventilyator-powerlogic-dlya.jpg</picture>
+        <picture>https://images.prom.ua/5039859488_w640_h640_5039859488.jpg</picture>
         <picture>https://images.ua.prom.st/3199660324_ventilyator-powerlogic-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/3199660327_ventilyator-powerlogic-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/3199660246_ventilyator-powerlogic-dlya.jpg</picture>
@@ -11030,13 +11087,16 @@ RX 560</strong></h3>
         <picture>https://images.ua.prom.st/3199659526_ventilyator-powerlogic-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/3199659527_ventilyator-powerlogic-dlya.jpg</picture>
         <picture>https://images.ua.prom.st/3199659529_ventilyator-powerlogic-dlya.jpg</picture>
-        <name>Вентилятор PowerLogic для видеокарты Gigabyte PLD08010S12HH (T128010SU
-          FY08010H12LPA) (№45.3)</name>
+<name>Вентилятор PowerLogic для видеокарты Gigabyte 77 мм 4-pin PLD08010S12HH (T128010SU FY08010H12LPA GA81S2U) (№45.3)</name>
+<name_ua>Вентилятор PowerLogic для відеокарти Gigabyte 77 мм 4-pin PLD08010S12HH (T128010SU FY08010H12LPA GA81S2U) (№45.3)</name_ua>
         <vendor>PowerLogic</vendor>
         <categoryId>212</categoryId>
-        <description>
-          <![CDATA[ <h3><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;</strong></span></h3> <h3><span style="font-size:14px;">Совместимость с видеокартами</span></h3> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <p><strong><span style="font-size:14px;">GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</span></strong></p> <p><strong><span style="font-size:14px;">GTX 2060 GAMING OC<br /> GTX 2060 GAMING OC PRO<br /> GTX 2060 GAMING&nbsp;<br /> GTX 2070 WINDFORCE</span></strong></p> <p><strong><span style="font-size:14px;">GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</span></strong></p> <p><strong><span style="font-size:14px;">R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</span></strong></p> <p><strong>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</strong></p> <h3><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></h3> <h3><span style="font-size:14px;">Маркировка - PLD08010S12HH (T128010SU FY08010H12LPA)</span></h3> <h3><span style="font-size:14px;">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px;">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.35 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></span></h3> <h3><span style="font-size:14px;">Тип подшипника: гидродинамический</span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
-        </description>
+<description>
+<![CDATA[ <h3><span style="font-size:14px">Оригинальный вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte. </strong></span></h3> <h3><span style="font-size:14px">С лицевой стороны оригинальные логотипы <span style="font-size:14px"><strong>Gigabyte&nbsp;<span style="font-size:14px">Gaming</span></strong></span>.</span></h3> <h3><span style="font-size:14px">Совместимость с видеокартами</span></h3> <h3><strong><span style="font-size:14px"></span><span style="font-size:14px"></span><span style="font-size:14px"></span></strong></h3> <p><strong><span style="font-size:14px">GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</span></strong></p> <p><strong><span style="font-size:14px"></span><span style="font-size:14px">RTX&nbsp;</span><span style="font-size:14px">2060 GAMING OC</span><br /> <span style="font-size:14px">RTX&nbsp;</span><span style="font-size:14px">2060 GAMING OC PRO</span><br /> <span style="font-size:14px">RTX&nbsp;</span><span style="font-size:14px">2060 GAMING&nbsp;</span><br /> <span style="font-size:14px">RTX&nbsp;</span><span style="font-size:14px">2070 WINDFORCE</span></strong></p> <p><strong><span style="font-size:14px">GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</span></strong></p> <p><strong><span style="font-size:14px">R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</span></strong></p> <p><strong>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</strong></p> <h3><strong><span style="font-size:14px"></span><span style="font-size:14px"></span><span style="font-size:14px"></span></strong></h3> <h3><span style="font-size:14px">Маркировка - PLD08010S12HH (T128010SU FY08010H12LPA GA81S2U)</span></h3> <h3><span style="font-size:14px">Диаметр вентилятора: 77 мм<br /> Винтовые отверстия: 40 мм</span></h3> <h3><span style="font-size:14px">Высота: 11 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0.35 A</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></span></h3> <h3><span style="font-size:14px">Тип подшипника: гидродинамический</span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Крепежные винты в комплект не входят.</h3> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h3><span style="font-size:14px">Оригінальний вентилятор вентилятор (кулер) для систем охолодження відеокарт <strong>Gigabyte.&nbsp;</strong></span></h3> <h3><span style="font-size:14px">З лицьового боку оригінальні логотипи<strong> Gigabyte Gaming.</strong></span></h3> <h3><span style="font-size:14px">Сумісність з відеокартами</span></h3> <h3><strong><span style="font-size:14px"></span><span style="font-size:14px"></span><span style="font-size:14px"></span></strong></h3> <p><strong><span style="font-size:14px">GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</span></strong></p> <p><strong><span style="font-size:14px">GTX 2060 GAMING OC<br /> GTX 2060 GAMING OC PRO<br /> GTX 2060 GAMING<br /> GTX 2070 WINDFORCE</span></strong></p> <p><strong><span style="font-size:14px">GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming </span></strong></p> <p><strong><span style="font-size:14px">R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</span></strong></p> <p><strong>Можливо неповний перелік відеокарт. Список сумісних відеокарт вказаний тільки для довідки.</strong></p> <h3><strong><span style="font-size:14px"></span><span style="font-size:14px"></span><span style="font-size:14px"></span></strong></h3> <h3><span style="font-size:14px">Маркування - PLD08010S12HH (T128010SU FY08010H12LPA GA81S2U)</span></h3> <h3><span style="font-size:14px">Діаметр вентилятора: 77 мм<br /> Гвинтові отвори: 40 мм</span></h3> <h3><span style="font-size:14px">Висота: 11 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: <strong>0.35 A</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення<strong> 4-pin </strong></span></h3> <h3><span style="font-size:14px">Тип підшипника: гідродинамічний</span></h3> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Кріпильні гвинти в комплект не входять.</h3> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі вказані детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри і підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під однією і тією ж маркуванням, може бути кілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> ]]>
+</description_ua>
         <stock_quantity>5</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">77 мм</param>
@@ -11749,34 +11809,69 @@ RX 560</strong></h3>
       </offer>
       <offer id="1500517375" available="false">
         <url>https://kozatchok.prom.ua/p1500517375-kuler-dlya-protsessora.html</url>
-        <price>270</price>
+        <price>350</price>
         <currencyId>UAH</currencyId>
-        <picture>https://images.ua.prom.st/3405346444_kuler-dlya-protsessora.jpg</picture>
-        <picture>https://images.ua.prom.st/3405346442_kuler-dlya-protsessora.jpg</picture>
-        <picture>https://images.ua.prom.st/3405346443_kuler-dlya-protsessora.jpg</picture>
-        <picture>https://images.ua.prom.st/3405346441_kuler-dlya-protsessora.jpg</picture>
-        <picture>https://images.ua.prom.st/3405346440_kuler-dlya-protsessora.jpg</picture>
-        <name>Кулер для процессора Tianjifeng Asura Celestial wind 90 мм 3-pin (№224)</name>
+<picture>https://images.prom.ua/4973065387_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/4973065388_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/4973085807_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/4973085806_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/3405346440_ohlazhdenie-kuler-dlya.jpg</picture>
+<name>Охлаждение кулер для процессора Tianjifeng Asura A100 90 мм 3-pin (№224)</name>
+<name_ua>Охолодження кулер для процесора Tianjifeng Asura A100 90 мм 3-pin (№224)</name_ua>
         <vendor>Tianjifeng</vendor>
         <categoryId>212</categoryId>
-        <description>
-          <![CDATA[ <h2>Активное охлаждение для процессора.&nbsp;Две тепловые медные трубки диаметром 6 мм.</h2> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/1150/1155/1156&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 95 * 66 * 118 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 * 90 * 25 мм&nbsp;<br /> Вес: 330 грамм&nbsp;<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 2100 об / мин&nbsp; &plusmn; 10%<br /> Максимальный объем воздуха: 25.5 CFM&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: 3-pin</p> <p>&nbsp;</p> <span></span> ]]>
-        </description>
-        <stock_quantity>0</stock_quantity>
-        <param name="Назначение">Охлаждение для процессора</param>
-        <param name="Размер вентилятора">90 мм</param>
-        <param name="Совместимость">AM2+/AM3+/ FM1/FM2|AM2|AM3|FM2+|LGA1150|LGA1155|LGA1156|LGA775</param>
-        <param
-        name="Частота вращения">2100 об/мин</param>
-          <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
-          <param name="Материал радиатора">Алюминий - медь</param>
-          <param name="Разъемы питания">3-pin</param>
-          <param name="Максимальный TDP">95W</param>
-          <param name="Вид">Кулеры</param>
-          <param name="Гарантия">12 месяцев</param>
-          <param name="Доставка/Оплата">При оплате до 15:00 отправка в этот же день. Предоплата 10-100%, но не
-          менее 50 грн.</param>
-      </offer>
+<description>
+<![CDATA[ <h2>Активное охлаждение для процессора.</h2> <h2>Две тепловые медные трубки диаметром 6 мм.</h2> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/1150/1151/1155/1156/1200/1700/1366&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 95 * 66 * 120 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 * 90 * 25 мм&nbsp;<br /> Вес: 280 грамм&nbsp;<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 1700 об / мин&nbsp; &plusmn; 10%<br /> Максимальный объем воздуха: 37 CFM&nbsp;<br /> Шум: 24 dBA</p> <p>Интерфейс подключения: 3-pin</p> <p>Теплопакет: 95 W</p> <p>&nbsp;</p> <span></span> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2>Активне охолодження для процесора.&nbsp;</h2> <h2>Дві теплові мідні трубки діаметром 6 мм.</h2> <p>Кріплення для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/1150/1151/1155/1156/1200/1700/1366&nbsp;</strong>(рамка перехідник у комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 95 * 66 * 120 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 * 90 * 25 мм&nbsp;<br /> Вага: 280 грам&nbsp;<br /> Номінальна напруга: 12VDC&nbsp;<br /> Максимальна швидкість: 1700 об / мин&nbsp; &plusmn; 10%<br /> Максимальний об&#39;єм повітря: 37 CFM&nbsp;<br /> Шум: 24 dBA</p> <p>Роз&#39;єм підключення: 3-pin</p> <p>Теплопакет: 95 W</p> <p>&nbsp;</p> <span></span> ]]>
+</description_ua>
+<stock_quantity>0</stock_quantity>
+<param name="Назначение">Для процессоров</param>
+<param name="Вид">Кулеры</param>
+<param name="Размер вентилятора">90 мм</param>
+<param name="Совместимость">Socket 1150/Socket 1151/Socket 1155/Socket 1156/Socket 1366/Socket 775/Socket AM2/Socket AM2+/Socket AM3/Socket AM3+/Socket FM1/Socket FM2/Socket FM2+/Socket AM4/Socket AM5/Socket 1200/Socket 1700</param>
+<param name="Частота вращения">1700 об/мин</param>
+<param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
+<param name="Материал радиатора">Алюминий - медь</param>
+<param name="Разъемы питания">3-pin</param>
+<param name="Гарантия">12 месяцев</param>
+<param name="Максимальный TDP">95 W</param>
+<param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
+</offer>
+<offer id="1982838230" available="true">
+<url>https://kozatchok.prom.ua/p1982838230-ohlazhdenie-kuler-dlya.html</url>
+<price>350</price>
+<currencyId>UAH</currencyId>
+<categoryId>212</categoryId>
+<picture>https://images.prom.ua/4973147395_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/4973147396_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/4973147397_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/4973147398_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/4973147399_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/4973149825_ohlazhdenie-kuler-dlya.jpg</picture>
+<name>Охлаждение кулер для процессора Tianjifeng Asura A100 90 мм 3-pin (№224.1)</name>
+<name_ua>Охолодження кулер для процесора Tianjifeng Asura A100 90 мм 3-pin (№224.1)</name_ua>
+<vendor>Tianjifeng </vendor>
+<description>
+<![CDATA[ <h2>Активное охлаждение для процессора.</h2> <h2>Две тепловые медные трубки диаметром 6 мм.</h2> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>2011/2066&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 95 * 66 * 120 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 * 90 * 25 мм&nbsp;<br /> Вес: 280 грамм&nbsp;<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 1700 об / мин&nbsp; &plusmn; 10%<br /> Максимальный объем воздуха: 37 CFM&nbsp;<br /> Шум: 24 dBA</p> <p>Интерфейс подключения: 3-pin</p> <p>Теплопакет: 95 W</p> <p>&nbsp;</p> <span></span> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2>Активне охолодження для процесора.</h2> <h2>Дві теплові мідні трубки діаметром 6 мм.</h2> <p>Кріплення для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>2011/2066&nbsp;</strong>(рамка перехідник у комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 95 * 66 * 120 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 * 90 * 25 мм&nbsp;<br /> Вага: 280 грамів&nbsp;<br /> Номінальна напруга: 12VDC&nbsp;<br /> Максимальна швидкість: 1700 об/хв&nbsp; &plusmn; 10%<br /> Максимальний об&#39;єм повітря: 37 CFM&nbsp;<br /> Шум: 24 dBA</p> <p>Інтерфейс під&#39;єднання: 3-pin</p> <p>Теплопакет: 95 W</p> <p>&nbsp;</p> <span></span> ]]>
+</description_ua>
+<stock_quantity>0</stock_quantity>
+<param name="Назначение">Для процессоров</param>
+<param name="Вид">Кулеры</param>
+<param name="Размер вентилятора">90 мм</param>
+<param name="Совместимость">Socket 2011/Socket 2066/Socket AM2/Socket AM2+/Socket AM3/Socket AM3+/Socket FM1/Socket FM2/Socket FM2+/Socket AM4/Socket AM5</param>
+<param name="Частота вращения">1700 об/мин</param>
+<param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
+<param name="Материал радиатора">Алюминий - медь</param>
+<param name="Разъемы питания">3-pin</param>
+<param name="Гарантия">12 месяцев</param>
+<param name="Максимальный TDP">95 W</param>
+<param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
+</offer>
       <offer id="1502489660" available="false">
         <url>https://kozatchok.prom.ua/p1502489660-kuler-dlya-protsessora.html</url>
         <price>280</price>
@@ -12020,13 +12115,17 @@ RX 560</strong></h3>
         <price>90</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.prom.ua/3125343843_termopasta-gd900-1-7g.jpg</picture>
-        <name>Термопаста GD900-1 7г (№728)</name>
+        <name>Термопаста GD900-1 7г 6 Вт/мК (№728)</name>
+        <name_ua>Термопаста GD900-1 7г 6 Вт/мК (№728)</name_ua>
         <country_of_origin>Китай</country_of_origin>
         <categoryId>212</categoryId>
         <vendor>Без бренда</vendor>
-        <description>
-          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>GD900-1 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 7 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 6&nbsp;Вт/МК</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-50 ~ +120&deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
-        </description>
+<description>
+<![CDATA[ <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Термопаста <strong>GD900-1</strong>&nbsp;для пассивных и активных систем охлаждения. </span></span></h1> <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></span></h1> <p>&nbsp;</p> <p><span style="font-size:12pt">цвет: Серый </span></p> <p><span style="font-size:12pt">масса: 7 грамм</span></p> <p><span style="font-size:12pt">теплопроводность: &gt; 6 Вт/МК </span></p> <p><span style="font-size:12pt">диапазон рабочих температур:-50 ~ +120&deg;&nbsp;</span><span style="font-size:12pt"></span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <span></span> <div id="" style="left:20px; top:394.953px"><span></span></div> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Термопаста <strong>GD900-1</strong> для пасивних і активних систем охолодження. </span></span></h1> <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Володіє хорошою температурної провідністю і низькою текучістю. Стабільна при високих температурах.</span></span></h1> <p>&nbsp;</p> <p><span style="font-size:12pt">колір: Сірий </span></p> <p><span style="font-size:12pt">маса: 7 грам</span></p> <p><span style="font-size:12pt">теплопровідність: &gt; 6 Вт/МК </span></p> <p><span style="font-size:12pt">діапазон робочих температур:-50 ~ +120&deg; </span><span style="font-size:12pt"></span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <span></span> <div id="" style="left:20px; top:394.953px"><span></span></div> <div id="" style="left:20px; top:394.953px"><span></span></div> ]]>
+</description_ua>
         <stock_quantity>5</stock_quantity>
         <param name="Вид">Термопаста</param>
         <param name="Назначение">Для видеокарт/ Для процессоров</param>
@@ -12040,13 +12139,17 @@ RX 560</strong></h3>
         <price>160</price>
         <currencyId>UAH</currencyId>
         <picture>https://images.prom.ua/3125344077_termopasta-gd900-1-15.jpg</picture>
-        <name>Термопаста GD900-1 15 г (№729)</name>
+        <name>Термопаста GD900-1 15г 6 Вт/мК (№729)</name>
+        <name_ua>Термопаста GD900-1 15г 6 Вт/мК (№729)</name_ua>
         <country_of_origin>Китай</country_of_origin>
         <categoryId>212</categoryId>
         <vendor>Без бренда</vendor>
-        <description>
-          <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <p><span style="font-size:14px;">Термопаста <strong>GD900-1 </strong>для пассивных и активных систем охлаждения.<br /> Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></p> <p><span style="font-size:14px;">Цвет: Серый</span></p> <p><span style="font-size:14px;">Масса: 15 грамм</span></p> <p><span style="font-size:14px;">Теплопроводность: &gt; 6&nbsp;Вт/МК</span></p> <p><span style="font-size:14px;">Диапазон рабочих температур:-50 ~ +120&deg; </span></p> <p><span style="font-size:14px;">Упаковка: шприц ОЕМ</span></p> ]]>
-        </description>
+<description>
+<![CDATA[ <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Термопаста <strong>GD900-1</strong>&nbsp;для пассивных и активных систем охлаждения. </span></span></h1> <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Обладает хорошей температурной проводимостью и низкой текучестью. Стабильна при высоких температурах.</span></span></h1> <p>&nbsp;</p> <p><span style="font-size:12pt">цвет: Серый </span></p> <p><span style="font-size:12pt">масса: 15 грамм</span></p> <p><span style="font-size:12pt">теплопроводность: &gt; 6 Вт/МК </span></p> <p><span style="font-size:12pt">диапазон рабочих температур:-50 ~ +120&deg;&nbsp;</span><span style="font-size:12pt"></span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <span></span> <div id="" style="left:20px; top:394.953px"><span></span></div> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Термопаста <strong>GD900-1</strong> для пасивних і активних систем охолодження. </span></span></h1> <h1 style="text-align:left"><span style="color:#000000"><span style="font-size:18.6667px">Володіє хорошою температурної провідністю і низькою текучістю. Стабільна при високих температурах.</span></span></h1> <p>&nbsp;</p> <p><span style="font-size:12pt">колір: Сірий </span></p> <p><span style="font-size:12pt">маса: 15 грам</span></p> <p><span style="font-size:12pt">теплопровідність: &gt; 6 Вт/МК </span></p> <p><span style="font-size:12pt">діапазон робочих температур:-50 ~ +120&deg; </span><span style="font-size:12pt"></span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <span></span> <div id="" style="left:20px; top:394.953px"><span></span></div> <div id="" style="left:20px; top:394.953px"><span></span></div> ]]>
+</description_ua>
         <stock_quantity>5</stock_quantity>
         <param name="Вид">Термопаста</param>
         <param name="Назначение">Для видеокарт/ Для процессоров</param>
@@ -13032,7 +13135,7 @@ RX 560</strong></h3>
         <url>https://kozatchok.prom.ua/p1586558317-ventilyator-jamicon-dlya.html</url>
         <price>190</price>
         <currencyId>UAH</currencyId>
-        <picture>https://images.prom.ua/3679149420_ventilyator-jamicon-dlya.jpg</picture>
+        <picture>https://images.prom.ua/5039789168_w640_h640_5039789168.jpg</picture>
         <picture>https://images.prom.ua/3679149422_ventilyator-jamicon-dlya.jpg</picture>
         <picture>https://images.prom.ua/3679149421_ventilyator-jamicon-dlya.jpg</picture>
         <picture>https://images.prom.ua/3679171133_ventilyator-jamicon-dlya.jpg</picture>
@@ -16285,14 +16388,17 @@ RX 560</strong></h3>
 <currencyId>UAH</currencyId>
 <picture>https://images.prom.ua/4163691259_invertor-preobrazovatel-napryazheniya.jpg</picture>
 <picture>https://images.prom.ua/4134143928_invertor-preobrazovatel-napryazheniya.jpg</picture>
-<picture>https://images.prom.ua/4987119928_w640_h640_4987119928.jpg</picture>
 <picture>https://images.prom.ua/4134143849_invertor-preobrazovatel-napryazheniya.jpg</picture>
-<name>Инвертор преобразователь напряжения CJ-1600M 12 В - 220 В, 1600 Ватт чистая синусоида (№10069)</name>
+<name>Инвертор преобразователь напряжения CJ-1600M 12 В - 220 В, 1600 Вт чистая синусоида (№10069)</name>
+<name_ua>Інвертор перетворювач напруги CJ-1600M 12 В - 220 В, 1600 Вт чиста синусоїда (№10069)</name_ua>
 <vendor>Без бренду</vendor>
 <categoryId>31111</categoryId>
 <description>
-<![CDATA[ <p><span style="font-size:16px;"><strong>Преобразователь напряжения&nbsp;CJ-1600M 12V-220V, 1600w.</strong></span></p> <p><strong>Характеристики:</strong></p> <p>Выходная частота: 50 Гц (&plusmn;2 Гц)<br /> Диапазон входного напряжения: 12В постоянного тока<br /> Выходное напряжение: 220 В переменного тока<br /> Номинальная мощность инвертора 800 Вт.<br /> Пиковая мощность инвертора 1600 Вт<br /> Стабильность выходного напряжения: &plusmn;10%<br /> Универсальная розетка на выходе<br /> Автоматическая тепловая защита<br /> Защита от перегрузки<br /> Защита от разрядки аккумулятора<br /> Защита от неправильной полярности<br /> Встроенный вентилятор охлаждения<br /> Размер инвертора: 235 х 110 х 55 мм</p> <p><strong>Форма выходного напряжения: Чистая синусоида</strong></p> <p>&nbsp;</p> <p><strong>Комплектация:</strong></p> <p>- инвертор;</p> <p>- кабели с зажимами для подключения к аккумулятору.</p> <p>&nbsp;</p> ]]>
+<![CDATA[ <p><span style="font-size:16px"><strong>Преобразователь напряжения&nbsp;CJ-1600M 12V-220V, 1600 W.</strong></span></p> <p><strong>Характеристики:</strong></p> <p>Выходная частота: 50 Гц (&plusmn;2 Гц)<br /> Диапазон входного напряжения: 12В постоянного тока<br /> Выходное напряжение: 220 В переменного тока<br /> Номинальная мощность инвертора 800 Вт.<br /> Пиковая мощность инвертора 1600 Вт<br /> Стабильность выходного напряжения: &plusmn;10%<br /> Универсальная розетка на выходе<br /> Автоматическая тепловая защита<br /> Защита от перегрузки<br /> Защита от разрядки аккумулятора<br /> Защита от неправильной полярности<br /> Встроенный вентилятор охлаждения<br /> Размер инвертора: 235 х 110 х 55 мм</p> <p><strong>Форма выходного напряжения: Чистая синусоида</strong></p> <p>&nbsp;</p> <p><strong>Комплектация:</strong></p> <p>- инвертор;</p> <p>- кабели с зажимами для подключения к аккумулятору.</p> <p><img alt="" src="https://images.prom.ua/4103755174_w640_h2048_2.jpg?fresh=1&amp;PIMAGE_ID=4103755174" style="width: 640px; height: 623px;" /></p> ]]>
 </description>
+<description_ua>
+<![CDATA[ <p><strong>Перетворювач напруги&nbsp;CJ-1600M 12V-220V, 1600 W.</strong></p> <p><u><strong>Характеристики:</strong></u></p> <p>Вихідна частота: 50 Гц (&plusmn;2 Гц)<br /> Діапазон вхідної напруги: 12В постійного струму<br /> Вихідна напруга: 220 В змінного струму<br /> Номінальна потужність інвертору 800 Вт.<br /> Пікова потужність інвертора 1600 Вт<br /> Стабільність вихідної напруги: &plusmn;10%<br /> Універсальна розетка на виході<br /> Автоматичний тепловий захист<br /> Захист від перевантаження<br /> Захист від розряджання акумулятора<br /> Захист від неправильної полярності<br /> Вбудований вентилятор охолодження<br /> Розмір інвертора: 235 х 110 х 55 мм</p> <p><strong>Форма вихідної напруги: Чиста синусоїда</strong></p> <p>&nbsp;</p> <p><strong>Комплектація:</strong></p> <p>- інвертор;</p> <p>- кабелі із затискачами для підключення до акумулятора.</p> <p>&nbsp;</p> ]]>
+</description_ua>
 <stock_quantity>5</stock_quantity>
 <param name="Гарантия">4 месяца</param>
 <param name="Тип монтажа">Внешний</param>
