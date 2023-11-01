@@ -18100,7 +18100,7 @@ RX 560</strong></h3>
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 </offer>
-<offer id="1799649612" available="false">
+<offer id="1799649612" available="true">
 <url>https://kozatchok.prom.ua/p1799649612-kuler-dlya-protsessora.html</url>
 <price>660</price>
 <currencyId>UAH</currencyId>
@@ -18114,16 +18114,16 @@ RX 560</strong></h3>
 <name_ua>Кулер для процесора BingHong Ice Tower 603 90 мм 3-pin (№263)</name_ua>
 <vendor>Без бренда</vendor>
 <description>
-<![CDATA[ <h2>Активное охлаждение для процессора.</h2> <h2>Двухсекционный радиатор. Шесть тепловых медных трубок 6 мм.</h2> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/115Х 1366&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 135 х 90 х 90 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вес: брутто 490 грамм<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 1800 &plusmn; 10% об / мин&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: 3-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
+<![CDATA[ <h2>Активное охлаждение для процессора.</h2> <h2>Двухсекционный радиатор. Шесть тепловых медных трубок 6 мм.</h2> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/115Х/1366/1200/1700&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 135 х 90 х 90 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вес: брутто 490 грамм<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 1800 &plusmn; 10% об / мин&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: 3-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
 </description>
 <description_ua>
-<![CDATA[ <h2>Активне охолодження для процесора.&nbsp;</h2> <h2>Двосекційний радіатор. Шість теплових мідних трубок 6 мм.</h2> <p>Кріплення для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/115Х 1366&nbsp;</strong>(рамка перехідник у комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 135 х 90 х 90 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вага:&nbsp;брутто 490 грам<br /> Номінальна напруга: 12VDC&nbsp;<br /> Максимальна швидкість: 1800 &plusmn; 10% об/хв&nbsp;<br /> Шум: 20 dBA</p> <p>Інтерфейс під&#39;єднання: 3-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
+<![CDATA[ <h2>Активне охолодження для процесора.&nbsp;</h2> <h2>Двосекційний радіатор. Шість теплових мідних трубок 6 мм.</h2> <p>Кріплення для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/115Х/1366/1200/1700&nbsp;</strong>(рамка перехідник у комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 135 х 90 х 90 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вага:&nbsp;брутто 490 грам<br /> Номінальна напруга: 12VDC&nbsp;<br /> Максимальна швидкість: 1800 &plusmn; 10% об/хв&nbsp;<br /> Шум: 20 dBA</p> <p>Інтерфейс під&#39;єднання: 3-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
 </description_ua>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <param name="Назначение">Для процессоров</param>
 <param name="Вид">Кулеры</param>
 <param name="Размер вентилятора">90 мм</param>
-<param name="Совместимость">Socket 1150/Socket 1151/Socket 1155/Socket 1156/Socket 1366/Socket 775/Socket AM2/Socket AM2+/Socket AM3/Socket AM3+/Socket FM1/Socket FM2/Socket FM2+/Socket AM4</param>
+<param name="Совместимость">Socket 1150/Socket 1151/Socket 1155/Socket 1156/Socket 1366/Socket 775/Socket AM2/Socket AM2+/Socket AM3/Socket AM3+/Socket FM1/Socket FM2/Socket FM2+/Socket AM4/Socket 1700/Socket AM5/Socket 1200</param>
 <param name="Частота вращения">1800 об/мин</param>
 <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
 <param name="Материал радиатора">Алюминий - медь</param>
@@ -18132,7 +18132,7 @@ RX 560</strong></h3>
 <param name="Максимальный TDP">135 W</param>
 <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 </offer>
-<offer id="1799658570" available="false">
+<offer id="1799658570" available="true">
 <url>https://kozatchok.prom.ua/p1799658570-kuler-dlya-protsessora.html</url>
 <price>710</price>
 <currencyId>UAH</currencyId>
@@ -18147,16 +18147,16 @@ RX 560</strong></h3>
 <name_ua>Кулер для процесора BingHong Ice Tower 604 90 мм 4-pin (№263.1)</name_ua>
 <vendor>Без бренда</vendor>
 <description>
-<![CDATA[ <h2>Активное охлаждение для процессора.</h2> <h2>Двухсекционный радиатор. Шесть тепловых медных трубок 6 мм.</h2> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/115Х 1366&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 135 х 90 х 90 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вес: брутто 490 грамм<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 600 -1900 &plusmn; 10% об / мин&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: 4-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
+<![CDATA[ <h2>Активное охлаждение для процессора.</h2> <h2>Двухсекционный радиатор. Шесть тепловых медных трубок 6 мм.</h2> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/115Х/1366/1200/1700&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 135 х 90 х 90 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вес: брутто 490 грамм<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 600 -1900 &plusmn; 10% об / мин&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: 4-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
 </description>
 <description_ua>
-<![CDATA[ <h2>Активне охолодження для процесора.&nbsp;</h2> <h2>Двосекційний радіатор. Шість теплових мідних трубок 6 мм.</h2> <p>Кріплення для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/115Х 1366&nbsp;</strong>(рамка перехідник у комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 135 х 90 х 90 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вага:&nbsp;брутто 490 грам<br /> Номінальна напруга: 12VDC&nbsp;<br /> Максимальна швидкість: 600-1900 &plusmn; 10% об/хв&nbsp;<br /> Шум: 20 dBA</p> <p>Інтерфейс під&#39;єднання: 4-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
+<![CDATA[ <h2>Активне охолодження для процесора.&nbsp;</h2> <h2>Двосекційний радіатор. Шість теплових мідних трубок 6 мм.</h2> <p>Кріплення для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>775/115Х/1366/1200/1700&nbsp;</strong>(рамка перехідник у комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 135 х 90 х 90 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вага:&nbsp;брутто 490 грам<br /> Номінальна напруга: 12VDC&nbsp;<br /> Максимальна швидкість: 600-1900 &plusmn; 10% об/хв&nbsp;<br /> Шум: 20 dBA</p> <p>Інтерфейс під&#39;єднання: 4-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
 </description_ua>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <param name="Назначение">Для процессоров</param>
 <param name="Вид">Кулеры</param>
 <param name="Размер вентилятора">90 мм</param>
-<param name="Совместимость">Socket 1150/Socket 1151/Socket 1155/Socket 1156/Socket 1366/Socket 775/Socket AM2/Socket AM2+/Socket AM3/Socket AM3+/Socket FM1/Socket FM2/Socket FM2+/Socket AM4</param>
+<param name="Совместимость">Socket 1150/Socket 1151/Socket 1155/Socket 1156/Socket 1366/Socket 775/Socket AM2/Socket AM2+/Socket AM3/Socket AM3+/Socket FM1/Socket FM2/Socket FM2+/Socket AM4/Socket AM5/Socket 1200/Socket 1700</param>
 <param name="Частота вращения">1900 об/мин</param>
 <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
 <param name="Материал радиатора">Алюминий - медь</param>
@@ -21396,7 +21396,7 @@ RX 560</strong></h3>
         <param name="Максимальный TDP">95 W</param>
         <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer id="1894729866" available="false">
+      <offer id="1894729866" available="true">
 <url>https://kozatchok.prom.ua/p1894729866-kuler-dlya-protsessora.html</url>
 <price>710</price>
 <currencyId>UAH</currencyId>
@@ -21412,16 +21412,16 @@ RX 560</strong></h3>
 <name_ua>Кулер для процесора BingHong Ice Tower 604 90 мм 4-pin (№263.11)</name_ua>
 <vendor>Без бренда</vendor>
 <description>
-<![CDATA[ <h2>Активное охлаждение для процессора.</h2> <h2>Двухсекционный радиатор. Шесть тепловых медных трубок 6 мм.</h2> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>2011&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 135 х 90 х 90 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вес: брутто 490 грамм<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 600 -1900 &plusmn; 10% об / мин&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: 4-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
+<![CDATA[ <h2>Активное охлаждение для процессора.</h2> <h2>Двухсекционный радиатор. Шесть тепловых медных трубок 6 мм.</h2> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>2011/2066&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 135 х 90 х 90 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вес: брутто 490 грамм<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 600 -1900 &plusmn; 10% об / мин&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: 4-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
 </description>
 <description_ua>
-<![CDATA[ <h2>Активне охолодження для процесора.&nbsp;</h2> <h2>Двосекційний радіатор. Шість теплових мідних трубок 6 мм.</h2> <p>Кріплення для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>2011&nbsp;</strong>(рамка перехідник у комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 135 х 90 х 90 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вага:&nbsp;брутто 490 грам<br /> Номінальна напруга: 12VDC&nbsp;<br /> Максимальна швидкість: 600-1900 &plusmn; 10% об/хв&nbsp;<br /> Шум: 20 dBA</p> <p>Інтерфейс під&#39;єднання: 4-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
+<![CDATA[ <h2>Активне охолодження для процесора.&nbsp;</h2> <h2>Двосекційний радіатор. Шість теплових мідних трубок 6 мм.</h2> <p>Кріплення для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>2011/2066&nbsp;</strong>(рамка перехідник у комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 135 х 90 х 90 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вага:&nbsp;брутто 490 грам<br /> Номінальна напруга: 12VDC&nbsp;<br /> Максимальна швидкість: 600-1900 &plusmn; 10% об/хв&nbsp;<br /> Шум: 20 dBA</p> <p>Інтерфейс під&#39;єднання: 4-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
 </description_ua>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <param name="Назначение">Для процессоров</param>
 <param name="Вид">Кулеры</param>
 <param name="Размер вентилятора">90 мм</param>
-<param name="Совместимость">Socket 2011/Socket AM2/Socket AM2+/Socket AM3/Socket AM3+/Socket FM1/Socket FM2/Socket FM2+/Socket AM4</param>
+<param name="Совместимость">Socket 2011/Socket 2066/Socket AM2/Socket AM2+/Socket AM3/Socket AM3+/Socket FM1/Socket FM2/Socket FM2+/Socket AM4/Socket AM5</param>
 <param name="Частота вращения">1900 об/мин</param>
 <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
 <param name="Материал радиатора">Алюминий - медь</param>
@@ -21430,7 +21430,7 @@ RX 560</strong></h3>
 <param name="Максимальный TDP">135 W</param>
 <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 </offer>
-<offer id="1894731959" available="false">
+<offer id="1894731959" available="true">
 <url>https://kozatchok.prom.ua/p1894731959-kuler-dlya-protsessora.html</url>
 <price>660</price>
 <currencyId>UAH</currencyId>
@@ -21444,16 +21444,16 @@ RX 560</strong></h3>
 <name_ua>Кулер для процесора BingHong Ice Tower 603 90 мм 3-pin (№263.01)</name_ua>
 <vendor>Без бренда</vendor>
 <description>
-<![CDATA[ <h2>Активное охлаждение для процессора.</h2> <h2>Двухсекционный радиатор. Шесть тепловых медных трубок 6 мм.</h2> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>2011&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 135 х 90 х 90 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вес: брутто 490 грамм<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 1800 &plusmn; 10% об / мин&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: 3-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
+<![CDATA[ <h2>Активное охлаждение для процессора.</h2> <h2>Двухсекционный радиатор. Шесть тепловых медных трубок 6 мм.</h2> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>2011/2066&nbsp;</strong>(рамка переходник в комплекте)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технические характеристики</strong></u></p> <p>Габаритные размеры: 135 х 90 х 90 мм&nbsp;<br /> Тип подшипника: гидродинамический<br /> Размер вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вес: брутто 490 грамм<br /> Номинальное напряжение: 12VDC&nbsp;<br /> Максимальная скорость: 1800 &plusmn; 10% об / мин&nbsp;<br /> Шум: 20 dBA</p> <p>Интерфейс подключения: 3-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
 </description>
 <description_ua>
-<![CDATA[ <h2>Активне охолодження для процесора.&nbsp;</h2> <h2>Двосекційний радіатор. Шість теплових мідних трубок 6 мм.</h2> <p>Кріплення для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>2011&nbsp;</strong>(рамка перехідник у комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 135 х 90 х 90 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вага:&nbsp;брутто 490 грам<br /> Номінальна напруга: 12VDC&nbsp;<br /> Максимальна швидкість: 1800 &plusmn; 10% об/хв&nbsp;<br /> Шум: 20 dBA</p> <p>Інтерфейс під&#39;єднання: 3-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
+<![CDATA[ <h2>Активне охолодження для процесора.&nbsp;</h2> <h2>Двосекційний радіатор. Шість теплових мідних трубок 6 мм.</h2> <p>Кріплення для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>2011/2066&nbsp;</strong>(рамка перехідник у комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 135 х 90 х 90 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 &times;90 &times;25 мм&nbsp;<br /> Вага:&nbsp;брутто 490 грам<br /> Номінальна напруга: 12VDC&nbsp;<br /> Максимальна швидкість: 1800 &plusmn; 10% об/хв&nbsp;<br /> Шум: 20 dBA</p> <p>Інтерфейс під&#39;єднання: 3-pin</p> <p>Теплопакет: 135 Вт</p> <span></span> ]]>
 </description_ua>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <param name="Назначение">Для процессоров</param>
 <param name="Вид">Кулеры</param>
 <param name="Размер вентилятора">90 мм</param>
-<param name="Совместимость">Socket 2011/Socket AM2/Socket AM2+/Socket AM3/Socket AM3+/Socket FM1/Socket FM2/Socket FM2+/Socket AM4</param>
+<param name="Совместимость">Socket 2011/Socket 2066/Socket AM2/Socket AM2+/Socket AM3/Socket AM3+/Socket FM1/Socket FM2/Socket FM2+/Socket AM4/Socket AM5</param>
 <param name="Частота вращения">1800 об/мин</param>
 <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
 <param name="Материал радиатора">Алюминий - медь</param>
