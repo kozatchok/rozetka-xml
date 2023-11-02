@@ -10933,10 +10933,11 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer id="1439079787" available="false">
+      <offer id="1439079787" available="true">
         <url>https://kozatchok.prom.ua/p1439079787-ventilyator-firstd-dlya.html</url>
         <price>280</price>
         <currencyId>UAH</currencyId>
+        <categoryId>212</categoryId>
 <picture>https://images.prom.ua/5039766800_ventilyator-everflow-dlya.jpg</picture>
 <picture>https://images.prom.ua/5039766801_ventilyator-everflow-dlya.jpg</picture>
 <picture>https://images.prom.ua/5039766802_ventilyator-everflow-dlya.jpg</picture>
@@ -10951,7 +10952,7 @@ RX 560</strong></h3>
 <description_ua>
 <![CDATA[ <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Вентилятор (кулер) для систем охолодження відеокарт&nbsp;<br /> &nbsp;</h2> <h2><strong>Radeon HD 7750<br /> Radeon HD 7770<br /> Radeon RX 580 OEM</strong></h2> <p><strong>Можливе список відеокарт неповний. Список відеокарт вказаний&nbsp;тільки для довідки.</strong></p> <h3>Маркування &mdash; &nbsp;T128015DU (FD8015U12S &nbsp;PLD0815S12HH)</h3> <h3>Діаметр вентилятора:&nbsp;<strong>75 мм&nbsp;</strong><br /> Гвинтові отвори:<strong>&nbsp;47 мм x 47&nbsp;мм x 47&nbsp;мм</strong></h3> <h3>Висота:&nbsp;&nbsp;<strong>15 мм</strong><br /> Напруга: DC 12V<br /> Вентилятор струм:&nbsp;<strong>0,5 А</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення&nbsp;<strong>4-pin</strong></h3> <p>Тип паковання:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <p><strong>Тип підшипника:&nbsp;</strong><strong>кульковий (комбінований)</strong></p> <h3>Кріпильні гвинти до комплекту не входять.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі вказані детальні характеристики товару. Під час підбору вентилятора для відеокарти насамперед потрібно звертати увагу на розміри та під&#39;єднання кулера. Тому що в однієї й тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням, може бути кілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> ]]>
 </description_ua>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Размер вентилятора">75 мм</param>
         <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
