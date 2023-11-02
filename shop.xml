@@ -11859,7 +11859,7 @@ RX 560</strong></h3>
 <description_ua>
 <![CDATA[ <h2>Активне охолодження для процесора.</h2> <h2>Дві теплові мідні трубки діаметром 6 мм.</h2> <p>Кріплення для &nbsp;сокета&nbsp;</p> <p>&nbsp;Intel LGA&nbsp;<strong>2011/2066&nbsp;</strong>(рамка перехідник у комплекті)</p> <p>AMD&nbsp;<strong>AM2/AM2+/AM3/AM3+/FM1/FM2/FM2+/AM4/AM5</strong></p> <p>&nbsp;</p> <p><u><strong>Технічні характеристики</strong></u></p> <p>Габаритні розміри: 95 * 66 * 120 мм&nbsp;<br /> Тип підшипника: гідродинамічний<br /> Розмір вентилятора: 90 * 90 * 25 мм&nbsp;<br /> Вага: 280 грамів&nbsp;<br /> Номінальна напруга: 12VDC&nbsp;<br /> Максимальна швидкість: 1700 об/хв&nbsp; &plusmn; 10%<br /> Максимальний об&#39;єм повітря: 37 CFM&nbsp;<br /> Шум: 24 dBA</p> <p>Інтерфейс під&#39;єднання: 3-pin</p> <p>Теплопакет: 95 W</p> <p>&nbsp;</p> <span></span> ]]>
 </description_ua>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <param name="Назначение">Для процессоров</param>
 <param name="Вид">Кулеры</param>
 <param name="Размер вентилятора">90 мм</param>
