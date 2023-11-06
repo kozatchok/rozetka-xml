@@ -6243,7 +6243,7 @@ RX 560</strong></h3>
         <param name="Гарантия">15 дней</param>
       <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="true" id="1092685641">
+      <offer available="false" id="1092685641">
         <url>https://kozatchok.prom.ua/p1092685641-ventilyator-zunshan-dlya.html</url>
         <price>160</price>
         <currencyId>UAH</currencyId>
@@ -6258,7 +6258,7 @@ RX 560</strong></h3>
           <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;">Вентилятор (кулер) для систем охлаждения видеокарт <strong>Zotac</strong></span></h2> <h3><strong>8500GT<br /> 8600GT<br /> 9400GT<br /> 9500GT<br /> 9600GT<br /> GT210<br /> GT220<br /> GT240<br /> GT430<br /> GT520<br /> GT610<br /> GT620</strong></h3> <p><strong><span style="font-size:14px;"></span></strong></p> <h2><strong><span style="font-size:14px;"></span></strong></h2> <h2><span style="font-size:14px;">Возможно список видеокарт неполный</span></h2> <h3>Маркировка - DF0501012SEE2C (PLD05010S12H &nbsp;FD5010U12S)</h3> <h3>Диаметр вентилятора: <strong>47 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 39 мм x 39&nbsp;мм x 39&nbsp;мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,05 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 2-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Обратите внимание!</strong></p> <p style="text-align: center;"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3>
 ]]>
         </description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">47 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
