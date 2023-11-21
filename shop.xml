@@ -19447,7 +19447,7 @@ RX 560</strong></h3>
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
 </offer>
-<offer id="1670361354" available="true">
+<offer id="1670361354" available="false">
 <url>https://kozatchok.prom.ua/p1670361354-ventilyator-apistek-dlya.html</url>
 <price>230</price>
 <currencyId>UAH</currencyId>
@@ -19470,7 +19470,7 @@ RX 560</strong></h3>
 <description_ua>
 <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Ціна вказана за один вентилятор.</h2> <h2>Вентилятор (кулер) для систем охолодження відеокарт</h2> <p><strong><u>Palit&nbsp;</u><br /> GTX 1060 Dual<br /> GTX 1070 Dual<br /> GTX 1070 Ti Dual<br /> GTX 1080 Dual<br /> P106-100&nbsp;</strong></p> <p><strong>GTX 1660 Dual<br /> GTX 1660 GamingPro<br /> GTX 1660 Super Dual<br /> GTX 1660 Super GamingPro<br /> GTX 1660 Ti Dual<br /> GTX 1660 Ti GamingPro</strong></p> <p><strong>RTX 2060 Dual<br /> RTX 2060 GamingPro<br /> RTX 2060 Super Dual<br /> RTX 2060 Super GamingPro<br /> RTX 2070 Dual<br /> &nbsp;<br /> <u>Maxsun</u><br /> GTX 1060<br /> GTX 1070<br /> GTX 1070Ti</strong></p> <p><strong><u>Gainward &nbsp;</u><br /> GTX 1060<br /> GTX 1070<br /> GTX 1070Ti</strong></p> <h2>&nbsp;</h2> <h2>Можливо список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</h2> <h3>Маркування - GAA8S2U (GA91S2U, FDC10H12S9-C TH9210S2HPA01)</h3> <h3>Діаметр вентилятора: <strong>87&nbsp;мм&nbsp;</strong><br /> Гвинтові отвори:<strong>&nbsp;39&nbsp; мм</strong><br /> Напруга: DC 12V<br /> Вентилятор струм: <strong>0,4 - 0,45 А</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення<strong> 4-pin (довжина кабеля 21 см)</strong></h3> <p>Тип пакування: <strong>ОЕМ</strong> (без коробки)</p> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Зверніть увагу!</strong></p> <p style="text-align: center;"><strong>У описі вказано детальні характеристики товару. При підборі вентилятору для відеокарти, в першу чергу потрібно звертати увагу на розміри і роз&#39;єм підключення вентилятора. Тому що в однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним маркуванням може бути декілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> ]]>
 </description_ua>
-<stock_quantity>2</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Размер вентилятора">87 мм</param>
 <param name="Разъемы питания">4-pin </param>
