@@ -245,7 +245,7 @@ RX 560</strong></h3>
         <param name="Гарантия">1 месяц</param>
         <param name="Доставка/Оплата">Мінімальна вартість замовлення для доставки в точки видачі Розетки 400 грн. Оплата при отриманні Новою поштою та в точках видачі Розетки без комісії. Відправка замовлень протягом 1-3 робочих днів.  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень та інших питань.</param>
       </offer>
-      <offer available="true" id="999760539">
+      <offer available="false" id="999760539">
         <url>https://kozatchok.prom.ua/p999760539-videokarta-xfx-radeon.html</url>
         <price>1460</price>
         <currencyId>UAH</currencyId>
@@ -277,7 +277,7 @@ RX 560</strong></h3>
 <p>&nbsp;</p>
 ]]>
         </description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Графический чип">HD 7750</param>
         <param name="Тип памяти">GDDR5</param>
         <param name="Разрядность шины памяти">128 бит</param>
