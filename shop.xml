@@ -14699,7 +14699,7 @@
  <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 <param name="Дополнительно">Упаковка ОЕМ</param>
 </offer>
-<offer id="1629830302" available="true">
+<offer id="1629830302" available="false">
 <url>https://kozatchok.prom.ua/p1629830302-ventilyator-champion-dlya.html</url>
 <price>590</price>
 <currencyId>UAH</currencyId>
@@ -14709,7 +14709,7 @@
 <picture>https://images.prom.ua/T_gCQCJib0XqPxqgVApspkXPRqhgpYSFRiEZ9jOFCwg=/3824316435_ventilyator-champion-dlya.jpg</picture>
 <picture>https://images.prom.ua/xCNLDW-w4ijGWQotBQ330adywWig-l3zhsbp91m4nQE=/3824316431_ventilyator-champion-dlya.jpg</picture>
 <vendor>Champion</vendor>
-<stock_quantity>3</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Вентилятор Champion для видеокарты ASUS RTX 3050 3060 TI DUAL CF9010U12S (FDC10H12S9-C T129215SU) комплект 2 шт (№372)</name>
 <name_ua>Вентилятор Champion для відеокарти ASUS RTX 3050 3060 TI DUAL CF9010U12S (FDC10H12S9-C T129215SU) комплект 2 шт (№372)</name_ua>
 <description>
