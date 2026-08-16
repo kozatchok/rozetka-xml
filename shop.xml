@@ -35068,8 +35068,8 @@
 <picture>https://images.prom.ua/6336112518_ventilyator-colorful-dlya.jpg</picture>
 <picture>https://images.prom.ua/6336112524_ventilyator-colorful-dlya.jpg</picture>
 <picture>https://images.prom.ua/6336112517_ventilyator-colorful-dlya.jpg</picture>
-<name>Вентилятор Colorful для відеокарти Inno3D RTX 4070 4080 4090 iChill X3 CF-12915S (№519)</name>
-<name_ua>Вентилятор Colorful для відеокарти Inno3D RTX 4070 4080 4090 iChill X3 CF-12915S (№519)</name_ua>
+<name>Вентилятор кулер для видеокарты Inno3D RTX 4070 4080 4090 iChill X3 95 мм Colorful CF-12915S (CF-129420S) комплект 3 шт (№519)</name>
+<name_ua>Вентилятор кулер для відеокарти Inno3D RTX 4070 4080 4090 iChill X3 95 мм Colorful CF-12915S (CF-129420S) комплект 3 шт (№519)</name_ua>
 <vendor>Без бренда</vendor>
 <description>
 <![CDATA[ <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Inno3D&nbsp;(аналог)</strong></h2> <h2>Цена указана за&nbsp;комплект - 3 вентилятора.</h2> <h3>Совместимость с видеокартами</h3> <p>&nbsp;</p> <h2>RTX 4070 iChill X3<br /> RTX 4070 Ti iChill X3<br /> RTX 4070 Super iChill X3<br /> RTX 4080 iChill X3<br /> RTX 4080 Super iChill X3<br /> RTX 4090 iChill X3<br /> RTX 4090D iChill X3</h2> <h2><span style="font-size:16px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</h2> <h3>Маркировка - CF-12915S</h3> <h3>Диаметр вентилятора: <strong>95 мм</strong><br /> Винтовые отверстия:<strong>&nbsp; 70 мм х 93 мм х&nbsp; 111 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,35 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип подшипника: подшипник скольжения</p> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
@@ -35080,6 +35080,7 @@
 <stock_quantity>10</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Размер вентилятора">95 мм</param>
+<param name="Количество вентиляторов">3</param>
 <param name="Разъемы питания">4-pin </param>
 <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
 <param name="Гарантия">15 дней</param>
