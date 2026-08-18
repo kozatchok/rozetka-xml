@@ -20740,16 +20740,15 @@
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
-<offer id="1858215517" available="false">
+<offer id="1858215517" available="true">
 <url>https://kozatchok.prom.ua/p1858215517-ventilyator-ecotherm-dlya.html</url>
-<price>270</price>
+<price>290</price>
 <currencyId>UAH</currencyId>
 <categoryId>212</categoryId>
 <picture>https://images.prom.ua/4561229140_ventilyator-ecotherm-dlya.jpg</picture>
 <picture>https://images.prom.ua/4561229139_ventilyator-ecotherm-dlya.jpg</picture>
 <picture>https://images.prom.ua/4561229141_ventilyator-ecotherm-dlya.jpg</picture>
 <picture>https://images.prom.ua/4561229138_ventilyator-ecotherm-dlya.jpg</picture>
-
 <name>Вентилятор Ecotherm для видеокарты GALAX KFA2 RTX 2060 2070 2080 Super FY10015M12LPA (№446)</name>
 <name_ua>Вентилятор Ecotherm для відеокарти GALAX KFA2 RTX 2060 2070 2080 Super FY10015M12LPA (№446)</name_ua>
 <vendor>Ecotherm</vendor>
