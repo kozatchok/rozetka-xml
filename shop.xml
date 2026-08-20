@@ -18853,7 +18853,7 @@
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
-<offer id="1809888009" available="true">
+<offer id="1809888009" available="false">
 <url>https://kozatchok.prom.ua/p1809888009-ventilyator-apistek-dlya.html</url>
 <price>230</price>
 <currencyId>UAH</currencyId>
@@ -18872,7 +18872,7 @@
 <description_ua>
 <![CDATA[ <h2><span style="font-size:14px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Ціна вказана один вентилятор.</h2> <h2>Вентилятор (кулер) для систем охолодження відеокарт <strong>Sapphire&nbsp;</strong></h2> <p><strong><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;">RX 460<br /> RX 550<br /> RX 560</span><span style="font-size:14px;"></span><span style="font-size:14px;"></span><span style="font-size:14px;"></span></strong></p> <h2><span style="font-size:16px;"></span></h2> <h2><span style="font-size:14px;"></span></h2> <h2>Можливо список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</h2> <h3>Маркування &mdash; GA91A2H (GA91O2U GA91S2M GA91B2M)</h3> <h3>Діаметр вентилятора: <strong>87 мм</strong><br /> Гвинтові отвори:<strong>&nbsp; 40 мм х 40 мм х 40 мм</strong><br /> Напруга: DC 12V<br /> Вентилятор струм: <strong>0,35 А</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення&nbsp;<strong>4-pin (довжина кабелю 9 см)</strong></h3> <p>Тип підшипника: гідродинамічний підшипник</p> <p>Тип паковання: <strong>ОЕМ</strong> (без коробки)</p> <h3>Кріпильні гвинти до комплекту не входять.</h3> <p>&nbsp;</p> <p style="text-align: center;"><strong>Зверніть увагу!</strong></p> <p style="text-align: center;"><strong>У описі вказано детальні характеристики товару. При підборі вентилятору для відеокарти, в першу чергу потрібно звертати увагу на розміри і роз&#39;єм підключення вентилятора. Тому що в однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним маркуванням може бути декілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> ]]>
 </description_ua>
-<stock_quantity>10</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Размер вентилятора">87 мм</param>
 <param name="Разъемы питания">4-pin </param>
@@ -20740,16 +20740,15 @@
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
-<offer id="1858215517" available="false">
+<offer id="1858215517" available="true">
 <url>https://kozatchok.prom.ua/p1858215517-ventilyator-ecotherm-dlya.html</url>
-<price>270</price>
+<price>290</price>
 <currencyId>UAH</currencyId>
 <categoryId>212</categoryId>
 <picture>https://images.prom.ua/4561229140_ventilyator-ecotherm-dlya.jpg</picture>
 <picture>https://images.prom.ua/4561229139_ventilyator-ecotherm-dlya.jpg</picture>
 <picture>https://images.prom.ua/4561229141_ventilyator-ecotherm-dlya.jpg</picture>
 <picture>https://images.prom.ua/4561229138_ventilyator-ecotherm-dlya.jpg</picture>
-
 <name>Вентилятор Ecotherm для видеокарты GALAX KFA2 RTX 2060 2070 2080 Super FY10015M12LPA (№446)</name>
 <name_ua>Вентилятор Ecotherm для відеокарти GALAX KFA2 RTX 2060 2070 2080 Super FY10015M12LPA (№446)</name_ua>
 <vendor>Ecotherm</vendor>
