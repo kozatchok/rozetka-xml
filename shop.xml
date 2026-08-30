@@ -2643,7 +2643,7 @@
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
       </offer>
-      <offer available="true" id="1005048959">
+      <offer available="false" id="1005048959">
         <url>https://kozatchok.prom.ua/p1005048959-ventilyator-powerlogic-dlya.html</url>
         <price>290</price>
         <currencyId>UAH</currencyId>
@@ -2667,7 +2667,7 @@
 <description_ua>
 <![CDATA[ <h2>Оригінальний вентилятор для систем охолодження відеокарт Gigabyte.</h2> <h2>З лицьової сторони оригінальний логотип Gigabyte.</h2> <h2>Ціна вказана за один вентилятор.</h2> <h2>Обертання проти годинникової стрілки</h2> <p>Сумісність із відеокартами</p> <p><strong>GTX 1050 Windforce<br /> GTX 1050 G1 Gaming<br /> GTX 1050 Ti G1 Gaming<br /> GTX 1050 Ti Windforce<br /> GTX1060 G1 Gaming<br /> GTX 1060 WindForce<br /> GTX 1070 Windforce<br /> GTX 1070 Ti Windforce</strong></p> <p><strong>GTX 1650 Windforce<br /> GTX 1650 SUPER Windforce<br /> GTX 1660 OC<br /> GTX 1660 SUPER<br /> GTX 1660 Ti OC<br /> RTX 2060 OC</strong></p> <h3><strong>RX 470 G1 Gaming<br /> RX 480 G1 Gaming<br /> RX 570 Gaming<br /> RX 570 Aorus<br /> RX 580 Gaming<br /> RX 580 Aorus<br /> RX 590 Gaming</strong></h3> <p><strong>RX 5500XT OC<br /> RX 5500XT D6<br /> RX 5600XT WINDFORCE</strong></p> <p>Можливо, список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</p> <h2>Маркування &mdash;&nbsp;PLD09210S12HH (T129215SU)&nbsp;</h2> <h3>Діаметр вентилятора: 87&nbsp;мм&nbsp;<br /> Гвинтові отвори: 40 мм</h3> <h3>Висота:&nbsp; 11 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: 0.4A<br /> Інтерфейс вентилятора:&nbsp;<strong style="font-size:13px">роз&#39;єм підключення 4-pin</strong></h3> <h3>Тип пакування: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> <p>&nbsp;</p> ]]>
 </description_ua>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
