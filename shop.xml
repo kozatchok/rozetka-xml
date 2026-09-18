@@ -3495,7 +3495,7 @@
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
       </offer>
-      <offer available="true" id="1022437756">
+      <offer available="false" id="1022437756">
         <url>https://kozatchok.prom.ua/p1022437756-ventilyator-everflow-dlya.html</url>
         <price>890</price>
         <currencyId>UAH</currencyId>
@@ -3516,7 +3516,7 @@
 <description_ua>
 <![CDATA[ <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Оригінальні вентилятори для систем охолодження відеокарт <strong>ASUS&nbsp; STRIX.</strong></h2> <h2>З лицьової сторони оригінальні логотипи&nbsp;<strong>ASUS&nbsp; STRIX.</strong></h2> <h2>Ціна вказана за комплект &mdash; 3 вентилятори</h2> <h2>&nbsp;</h2> <h2>Сумісність із відеокартами</h2> <h2><strong>GTX 980 TI&nbsp;STRIX</strong></h2> <h2><strong>GTX 1060&nbsp;STRIX<br /> GTX 1070&nbsp;STRIX<br /> GTX 1070 TI&nbsp;STRIX<br /> GTX 1080&nbsp;STRIX<br /> GTX 1080 TI&nbsp;STRIX</strong></h2> <h2><strong>RX 480&nbsp;STRIX<br /> RX 580&nbsp;STRIX</strong></h2> <h2><strong>R9 390&nbsp;STRIX<br /> R9 Fury&nbsp;STRIX</strong></h2> <h2>Можливо, список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</h2> <h2><span style="font-size:14px"></span></h2> <h3>Маркування &mdash;&nbsp;T129215SU (T129215SM PLD09210S12HH)</h3> <h3>Діаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Гвинтові отвори:<strong> 28 мм x 28 мм</strong></h3> <h3>Висота:&nbsp; <strong>11 мм</strong><br /> Напруга: DC 12V<br /> Вентилятор струм: <strong>0,5 А (середній вентилятор 0,25 А)</strong><br /> Інтерфейс вентилятора: роз&#39;єм під&#39;єднання<strong> 6-pin&nbsp;</strong></h3> <p>Тип паковання: <strong>ОЕМ</strong> (без коробки)</p> <h3>Кріпильні гвинти до комплекту не входять.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі вказані детальні характеристики товару. Під час підбору вентилятора для відеокарти насамперед потрібно звертати увагу на розміри та під&#39;єднання кулера. Тому що в однієї й тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням, може бути кілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> ]]>
 </description_ua>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">87 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Гидродинамический</param>
