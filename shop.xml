@@ -5954,7 +5954,7 @@
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
       </offer>
-      <offer available="true" id="1092618872">
+      <offer available="false" id="1092618872">
         <url>https://kozatchok.prom.ua/p1092618872-ventilyator-champion-dlya.html</url>
         <price>300</price>
         <currencyId>UAH</currencyId>
@@ -5975,7 +5975,7 @@
 <description_ua>
 <![CDATA[ <h2>Вентилятор (кулер) для систем охолодження відеокарт&nbsp;<strong>Sapphire (оригінал на кулькових підшипниках)</strong></h2> <p><strong>Логотип з лицьової сторони неоригінальний.</strong></p> <p>Ціна вказана за один вентилятор.</p> <h2><strong>Сумісність з відеокартами</strong></h2> <h2>RX 470 Nitro+<br /> RX 470 Mining<br /> RX 480 Nitro+<br /> RX 570 Pulse<br /> RX 570 Nitro +<br /> RX 570 Mining<br /> RX 580 Nitro+<br /> RX 580 Pulse<br /> RX 580 Special Edition METAL BLUE NITRO+<br /> RX 590 Special Edition NITRO+<br /> RX 590 Nitro +</h2> <p><strong>Можливо список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</strong></p> <h2>Маркування - CF1015H12D (FD10015M12D CF1015H12S FD10015M12S)</h2> <h3>Діаметр вентилятора: <strong>95&nbsp;мм&nbsp;</strong><br /> Напруга: DC 12V<br /> Вентилятор струм: <strong>0,42 А</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення<strong>&nbsp;4-pin&nbsp;</strong></h3> <p>&nbsp;</p> <h3>Тип підшипника:<strong> кульковий</strong></h3> <p><strong>Вентилятор на кулькових підшипниках. Вони вважаються більш надійними та довговічними в порівнянні з вентиляторами на гідродинамічному підшипнику.</strong></p> <p>Тип пакування:&nbsp;<strong>ОЕМ</strong>&nbsp;(без коробки)</p> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> <p>Зовнішній вигляд деяких елементів може незначно відрізнятися від зображеного на фото (наприклад, колір проводів або роз&#39;єму, наявність термоусадки тощо).&nbsp;Ці відмінності <strong data-end="324" data-is-only-node="" data-start="264">не впливають на функціональність і працездатність виробу</strong> та залежать від постачання окремих партій</p> <div id="" style="left:20px; top:2622.3px"><span></span></div> ]]>
 </description_ua>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Размер вентилятора">95 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Тип подшипника">Подшипник качения</param>
@@ -15673,7 +15673,7 @@
  <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 <param name="Дополнительно">Упаковка ОЕМ</param>
 </offer>
-<offer id="1656402321" available="true">
+<offer id="1656402321" available="false">
 <url>https://kozatchok.prom.ua/p1656402321-ventilyator-ong-hua.html</url>
 <price>330</price>
 <currencyId>UAH</currencyId>
@@ -15686,7 +15686,7 @@
 <picture>https://images.prom.ua/waL9xsHEPPFtYLNVJmU3QRwRQDZQRWtys-SxRP4LtKE=/3910697701_ventilyator-ong-hua.jpg</picture>
 <picture>https://images.prom.ua/Kl7pUtTSqUX2Gkz4EwKRxrrH1MKnsZFGlSqB0aTY2z0=/3910697702_ventilyator-ong-hua.jpg</picture>
 <vendor>Без бренда</vendor>
-<stock_quantity>4</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Вентилятор ONG HUA для видеокарты MSI HA9010H12F-Z (PLD08010S12HH PLD08010B12HH) комплект 2 шт (№39.5)</name>
 <description>
 <![CDATA[ <div><h2><span></span></h2> <h2><span>Вентилятор (кулер) для систем охлаждения видеокарт </span><span><strong>MSI Twin Frozr</strong></span><span><br> Цена указана за комплект - 2 вентилятора<br>  <br> Совместимость с видеокартами</span></h2> <h2>GTX 560<br> GTX 560 TI<br> GTX 650 TI<br> GTX 660<br> GTX 660 TI<br> GTX 670 <br> GTX 680</h2> <h2>HD 6870<br> HD 6950<br> HD 7850<br> HD 7870<br> HD 7950<br> HD 7970</h2> <h2><span></span></h2> <p><strong><span></span></strong></p> <h2><strong><span></span></strong></h2> <h2><span>Возможно список видеокарт неполный</span></h2> <h3>Маркировка -  PLD08010S12HH</h3> <h3>Диаметр вентилятора: <strong>75 мм </strong><br> Винтовые отверстия:<strong> 52 мм x 52 мм х 52 мм</strong><br> Напряжение: DC 12V<br> Вентилятор ток: <strong>0,57 А</strong><br> Интерфейс вентилятора: разъем подключения<strong> 4-pin </strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплекте</h3> <p> </p> <p><strong>Обратите внимание!</strong></p> <p><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3> </h3> </div> ]]>
