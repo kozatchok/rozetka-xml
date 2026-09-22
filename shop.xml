@@ -9537,7 +9537,7 @@
         <param name="Дополнительно">Упаковка ОЕМ</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
       </offer>
-      <offer id="1413947924" available="true">
+      <offer id="1413947924" available="false">
         <url>https://kozatchok.prom.ua/p1413947924-ventilyator-everflow-dlya.html</url>
         <price>570</price>
         <currencyId>UAH</currencyId>
@@ -9560,7 +9560,7 @@
 <description_ua>
 <![CDATA[ <h2>Вентилятори (кулер) для систем охолодження відеокарт <strong>Gigabyte&nbsp;</strong>(аналог)</h2> <h2>Ціна вказана за комплект - 3 вентилятора + кабель підключення до відеокарти</h2> <h2>Вентилятори виконані на кулькових підшипниках, що передбачає триваліший термін служби в порівнянні з вентиляторами на гідродинамічних підшипниках.</h2> <h3>&nbsp;</h3> <h3>Сумісність з відеокартами</h3> <p><strong>GTX 670<br /> GTX 680<br /> GTX 760<br /> GTX 770<br /> GTX 780</strong></p> <p><strong>GTX 960 G1 Gaming<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming</strong></p> <p><strong>GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</strong></p> <p><strong>GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</strong></p> <p><strong>RTX 2060 GAMING OC<br /> RTX&nbsp;2060 GAMING OC PRO<br /> RTX&nbsp;2060 GAMING&nbsp;<br /> RTX&nbsp;2070 WINDFORCE</strong></p> <p><strong>RTX 3050 GAMING OC<br /> RTX 3060 GAMING OC<br /> RTX 3060 Ti GAMING OC<br /> RTX 3070 GAMING OC<br /> RTX 3070 Ti EAGLE</strong></p> <p><strong>R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</strong></p> <p><strong>RX 6500 XT Gaming OC<br /> RX 6600 XT Gaming OC Pro<br /> RX 6600 EAGLE<br /> RX 6700 XT Gaming OC<br /> RX 6700 XT EAGLE</strong></p> <p>&nbsp;</p> <p><strong>R9 290<br /> R9 290X</strong></p> <p>Можливо перелік відеокарт неповний. Список сумісних відеокарт вказаний тільки для довідки.</p> <h3>&nbsp;</h3> <h3>Маркування - T128010BH (T128010SU PLD08010S12HH)</h3> <h3>Діаметр вентилятора: 75 мм<br /> Гвинтові отвори: 40 мм</h3> <h3>Висота: 15 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: <strong>0,25 A</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення<strong> 4-pin</strong></h3> <p>&nbsp;</p> <h3>Тип підшипника:<strong> кульковий</strong></h3> <p><strong>Вентилятор на кулькових підшипниках. Вони вважаються більш надійними та довговічними в порівнянні з вентиляторами на гідродинамічному підшипнику.</strong></p> <h3>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Кріпильні гвинти в комплект не входять.</h3> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі вказані детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри і підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під однією і тією ж маркуванням, може бути кілька різних вентиляторів.</strong></p> <h3>Зовнішній вигляд деяких елементів може незначно відрізнятися від зображеного на фото (наприклад, колір проводів або роз&#39;єму, наявність термоусадки тощо).&nbsp;Ці відмінності <strong data-end="324" data-is-only-node="" data-start="264">не впливають на функціональність і працездатність виробу</strong> та залежать від постачання окремих партій.</h3> <h3>&nbsp;</h3> ]]>
 </description_ua>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Назначение">Охлаждение для видеокарт</param>
         <param name="Количество вентиляторов">3</param>
         <param name="Размер вентилятора">75 мм</param>
@@ -9711,9 +9711,9 @@
 <picture>https://images.prom.ua/5386286328_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/5386286341_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/3295790771_ventilyator-powerlogic-dlya.jpg</picture>
-<name>Вентилятор PowerLogic для видеокарты Gigabyte (original) 95 мм PLD10010S12H (T129215SH T129215SU) комплект 2 шт (№281)</name>
-<name_ua>Вентилятор PowerLogic для відеокарти Gigabyte (original) 95 мм PLD10010S12H (T129215SH T129215SU) комплект 2 шт (№281)</name_ua>
-        <vendor>Без бренда</vendor>
+<name>Вентилятор кулер для видеокарты Gigabyte GTX 1660 RTX 2060 2070 (orgnl) 95 мм PowerLogic PLD10010S12H (T129215SH T129215SU) комплект 2 шт (№281)</name>
+<name_ua>Вентилятор кулер для відеокарти Gigabyte GTX 1660 RTX 2060 2070 (orgnl) 95 мм PowerLogic PLD10010S12H (T129215SH T129215SU) комплект 2 шт (№281)</name_ua>
+        <vendor>PowerLogic</vendor>
         <categoryId>212</categoryId>
 <description>
 <![CDATA[ <h3>Оригинальные вентиляторы для систем охлаждения видеокарт <strong>Gigabyte</strong>. С лицевой стороны оригинальные логтипы&nbsp;<strong>Gigabyte</strong>.</h3> <h3>Цена указана за комплект - 2 вентилятора + кабель подключения к видеокарте&nbsp;</h3> <h3><span style="font-size:14px">Совместимость с видеокартами</span></h3> <h3><strong>GTX 1650 Gaming<br /> GTX 1660 Ti Windforce<br /> RTX 2060 Windforce<br /> RTX 2060 Super Windforce<br /> RTX 2070 Windforce</strong></h3> <p><span style="font-size:14px">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></p> <h3>Маркировка - PLD10010S12H (T129215SH T129215SU)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,3 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
@@ -12299,9 +12299,9 @@
 <picture>https://images.prom.ua/3295792493_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/3295792492_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/3295792474_ventilyator-powerlogic-dlya.jpg</picture>
-<name>Вентилятор PowerLogic для видеокарты Gigabyte (original) 95 мм PLD10010S12H (T129215SH T129215SU) (№281.1)</name>
-<name_ua>Вентилятор PowerLogic для відеокарти Gigabyte (original) 95 мм PLD10010S12H (T129215SH T129215SU) (№281.1)</name_ua>
-        <vendor>Без бренда</vendor>
+<name>Вентилятор кулер для видеокарты Gigabyte GTX 1660 RTX 2060 2070 (orgnl) 95 мм PowerLogic PLD10010S12H (T129215SH T129215SU) (№281.1)</name>
+<name_ua>Вентилятор кулер для відеокарти Gigabyte GTX 1660 RTX 2060 2070 (orgnl) 95 мм PowerLogic PLD10010S12H (T129215SH T129215SU) (№281.1)</name_ua>
+        <vendor>PowerLogic</vendor>
         <categoryId>212</categoryId>
 <description>
 <![CDATA[ <h3>Оригинальные вентиляторы для систем охлаждения видеокарт <strong>Gigabyte</strong>. С лицевой стороны оригинальные логтипы&nbsp;<strong>Gigabyte</strong>.</h3> <h3>Цена указана за один вентилятор. Вращение против часовой стрелки.</h3> <h3><span style="font-size:14px">Совместимость с видеокартами</span></h3> <h3><strong>GTX 1650 Gaming<br /> GTX 1660 Ti Windforce<br /> RTX 2060 Windforce<br /> RTX 2060 Super Windforce<br /> RTX 2070 Windforce</strong></h3> <p><span style="font-size:14px">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></p> <span style="font-size:14px"></span> <h3>Маркировка - PLD10010S12H (T129215SU)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,3 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
@@ -12328,9 +12328,9 @@
 <picture>https://images.prom.ua/3295793096_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/3295793097_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/3295793086_ventilyator-powerlogic-dlya.jpg</picture>
-<name>Вентилятор PowerLogic для видеокарты Gigabyte (original) 95 мм PLD10010S12H (T129215SH T129215SU) (№281.2)</name>
-<name_ua>Вентилятор PowerLogic для відеокарти Gigabyte (original) 95 мм PLD10010S12H (T129215SH T129215SU) (№281.2)</name_ua>
-        <vendor>Без бренда</vendor>
+<name>Вентилятор кулер для видеокарты Gigabyte GTX 1660 RTX 2060 2070 (orgnl) 95 мм PowerLogic PLD10010S12H (T129215SH T129215SU) (№281.2)</name>
+<name_ua>Вентилятор кулер для відеокарти Gigabyte GTX 1660 RTX 2060 2070 (orgnl) 95 мм PowerLogic PLD10010S12H (T129215SH T129215SU) (№281.2)</name_ua>
+        <vendor>PowerLogic</vendor>
         <categoryId>212</categoryId>
 <description>
 <![CDATA[ <h3>Оригинальные вентиляторы для систем охлаждения видеокарт <strong>Gigabyte</strong>. С лицевой стороны оригинальные логтипы&nbsp;<strong>Gigabyte</strong>.</h3> <h3>Цена указана за один вентилятор.&nbsp;Вращение за часовой стрелкой.</h3> <p><span style="font-size:14px">Совместимость с видеокартами</span></p> <h3><strong>GTX 1650 Gaming<br /> GTX 1660 Ti Windforce<br /> RTX 2060 Windforce<br /> RTX 2060 Super Windforce<br /> RTX 2070 Windforce</strong></h3> <p><span style="font-size:14px">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></p> <span style="font-size:14px"></span> <h3>Маркировка - PLD10010S12H (T129215SU)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,3 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
@@ -24680,9 +24680,9 @@
 <picture>https://images.prom.ua/5135551673_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/5135551675_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/5135551676_ventilyator-powerlogic-dlya.jpg</picture>
-<name>Вентилятор PowerLogic для видеокарты Gigabyte 95мм PLD10010S12H (T129215SH T129215SU) комплект 2 шт (№281.005)</name>
-<name_ua>Вентилятор PowerLogic для відеокарти Gigabyte 95мм PLD10010S12H (T129215SH, T129215SU) комплект 2 шт (№281.005)</name_ua>
-<vendor>Без бренда</vendor>
+<name>Вентилятор кулер для видеокарты Gigabyte GTX 1660 RTX 2060 2070 95 мм PowerLogic PLD10010S12H (T129215SH T129215SU) комплект 2 шт (№281.05)</name>
+<name_ua>Вентилятор кулер для відеокарти Gigabyte GTX 1660 RTX 2060 2070 95 мм PowerLogic PLD10010S12H (T129215SH, T129215SU) комплект 2 шт (№281.05)</name_ua>
+<vendor>PowerLogic</vendor>
 <categoryId>212</categoryId>
 <description>
 <![CDATA[ <h3>Цена указана за комплект - 2 вентилятора + кабель подключения к видеокарте&nbsp;</h3> <h3>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte (аналог).</strong></h3> <p><span style="font-size:14px">Совместимость с видеокартами</span></p> <h3><strong>GTX 1650 Gaming<br /> GTX 1660 Ti Windforce<br /> RTX 2060 Windforce<br /> RTX 2060 Super Windforce<br /> RTX 2070 Windforce</strong></h3> <p><span style="font-size:14px">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></p> <h3>Маркировка - PLD10010S12H (T129215SH T129215SU)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,3 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
@@ -24711,9 +24711,9 @@
 <picture>https://images.prom.ua/5135573973_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/5135573975_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/5135573977_ventilyator-powerlogic-dlya.jpg</picture>
-<name>Вентилятор PowerLogic для видеокарты Gigabyte 95мм PLD10010S12H (T129215SH T129215SU) (№281.0052)</name>
-<name_ua>Вентилятор PowerLogic для відеокарти Gigabyte 95мм PLD10010S12H (T129215SH T129215SU) (№281.0052)</name_ua>
-<vendor>Без бренда</vendor>
+<name>Вентилятор кулер для видеокарты Gigabyte GTX 1660 RTX 2060 2070 95 мм PowerLogic PLD10010S12H (T129215SH T129215SU) (№281.052)</name>
+<name_ua>Вентилятор кулер для відеокарти Gigabyte GTX 1660 RTX 2060 2070 95 мм PowerLogic PLD10010S12H (T129215SH T129215SU) (№281.052)</name_ua>
+<vendor>PowerLogic</vendor>
 <categoryId>212</categoryId>
 <description>
 <![CDATA[ <h3>Цена указана за один вентилятор.&nbsp;</h3> <h3>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;(аналог).</strong></h3> <p><span style="font-size:14px">Совместимость с видеокартами</span></p> <h3><strong>GTX 1650 Gaming<br /> GTX 1660 Ti Windforce<br /> RTX 2060 Windforce<br /> RTX 2060 Super Windforce<br /> RTX 2070 Windforce</strong></h3> <p><span style="font-size:14px">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></p> <span style="font-size:14px"></span> <h3>Маркировка - PLD10010S12H (T129215SH T129215SU)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,3 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
@@ -24742,9 +24742,9 @@
 <picture>https://images.prom.ua/5135577899_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/5135577901_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/5135577904_ventilyator-powerlogic-dlya.jpg</picture>
-<name>Вентилятор PowerLogic для видеокарты Gigabyte 95мм PLD10010S12H (T129215SH T129215SU) (№281.0051)</name>
-<name_ua>Вентилятор PowerLogic для відеокарти Gigabyte 95мм PLD10010S12H (T129215SH T129215SU) (№281.0051)</name_ua>
-<vendor>Без бренда</vendor>
+<name>Вентилятор кулер для видеокарты Gigabyte GTX 1660 RTX 2060 2070 95 мм PowerLogic PLD10010S12H (T129215SH T129215SU) (№281.051)</name>
+<name_ua>Вентилятор кулер для відеокарти Gigabyte GTX 1660 RTX 2060 2070 95 мм PowerLogic PLD10010S12H (T129215SH T129215SU) (№281.051)</name_ua>
+<vendor>PowerLogic</vendor>
 <categoryId>212</categoryId>
 <description>
 <![CDATA[ <h3>Цена указана за один вентилятор.&nbsp;</h3> <h3>Вентилятор (кулер) для систем охлаждения видеокарт <strong>Gigabyte&nbsp;(аналог).</strong></h3> <p><span style="font-size:14px">Совместимость с видеокартами</span></p> <h3><strong>GTX 1650 Gaming<br /> GTX 1660 Ti Windforce<br /> RTX 2060 Windforce<br /> RTX 2060 Super Windforce<br /> RTX 2070 Windforce</strong></h3> <p><span style="font-size:14px">Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</span></p> <span style="font-size:14px"></span> <h3>Маркировка - PLD10010S12H (T129215SH T129215SU)</h3> <h3>Диаметр вентилятора: <strong>95 мм&nbsp;</strong><br /> Винтовые отверстия:<strong> 40 мм</strong></h3> <h3>Высота:&nbsp; <strong>11 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,3 А</strong><br /> Интерфейс вентилятора: разъем подключения<strong> 4-pin&nbsp;</strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>&nbsp;</h3> ]]>
