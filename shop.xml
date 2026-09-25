@@ -29613,7 +29613,7 @@
 <param name="Максимальный TDP">150 W</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
-<offer id="532647555" available="true">
+<offer id="532647555" available="false">
 <url>https://kozatchok.prom.ua/p532647555-materinskaya-plata-taishuo.html</url>
 <price>3190</price>
 <currencyId>UAH</currencyId>
@@ -29630,7 +29630,7 @@
 <description_ua>
 <![CDATA[ <h2><span style="color:#000000; font-size:12pt"></span></h2> <ul> <li><strong>Модель</strong>: X79 Turbo</li> <li><strong>Форм-фактор:</strong>&nbsp;ATX</li> <li><strong>Сокет:&nbsp;</strong>LGA2011.</li> <li><strong>Підтримка процесорів:</strong>&nbsp;Intel Xeon V1, V2 TDP 150W;</li> <li><strong>Максимальна частота ОЗУ:</strong>&nbsp;1866GHz.</li> <li><strong>Кількість слотів пам&#39;яті:</strong>&nbsp;4 x DDR3, max 128 GB, 4 канали;</li> <li><strong>Чіпсет</strong>: Intel&nbsp;Q67.</li> <li><strong>Мережа</strong>: 100Mbit LAN.</li> <li><strong>Звук:</strong>&nbsp;Realtek.</li> <li><strong>Внутрішні роз&#39;єми:</strong>&nbsp;&nbsp;2x PCI Expless x1; 3x PCI Express x16 3.0; 1x M.2; 4x SATA II;&nbsp;4x SATA IІI;&nbsp;</li> <li><strong>Порти:</strong>&nbsp;6x USB 2.0; 2x USB 3.0; 1x PS/2 keyboard; 1x PS/2 mouse; 1x RJ-45; audio inout.</li> <li><strong>Живлення</strong>: 24+8</li> <li><strong>Розміри:</strong>&nbsp;220 х 280 мм</li> <li><strong>Упаковка ОЕМ</strong> (без заводської&nbsp;коробки, без диску&nbsp;с драйверами, без інструкції).</li> </ul> <p><strong>Компектація:</strong></p> <p>1. Материнська плата.</p> <p>2. Кабель SATA.</p> <p>3. Задня планка материнської плати для монтажу у системний блок.</p> <p>4. Рамка перехідник для кріплення кулера AMD на сокет 2011.</p> <p><span style="color:#000000; font-size:12pt"></span></p> <span></span> ]]>
 </description_ua>
-<stock_quantity>4</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Сокет">Socket 2011</param>
 <param name="Формфактор">ATX</param>
 <param name="Поддержка памяти">DDR3</param>
