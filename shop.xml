@@ -15205,7 +15205,7 @@
 <param name="Гарантия">15 дней</param>
 <param name="Вид">Вентиляторы</param>
 </offer>
-<offer id="1638273795" available="true">
+<offer id="1638273795" available="false">
 <url>https://kozatchok.prom.ua/p1638273795-ventilyator-everflow-dlya.html</url>
 <price>1380</price>
 <currencyId>UAH</currencyId>
@@ -15216,7 +15216,7 @@
 <picture>https://images.prom.ua/3850835504_ventilyator-dlya-videokarty.jpg</picture>
 <picture>https://images.prom.ua/3850835503_ventilyator-dlya-videokarty.jpg</picture>
 <vendor>Champion</vendor>
-<stock_quantity>2</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Вентилятор для видеокарты ASUS RTX 3060 3070 Ti 3080 Ti 3090 TUF Gaming 87 мм Champion CF9010U12D (PLD09210S12H FDC10H12S9-C T129215BU T129215SU CF9010U12S) комплект 3 шт (№392)</name>
 <name_ua>Вентилятор для відеокарти ASUS RTX 3060 3070 Ti 3080 Ti 3090 TUF Gaming 87 мм Champion CF9010U12D (PLD09210S12H FDC10H12S9-C T129215BU T129215SU CF9010U12S)(№392)</name_ua>
 <description>
