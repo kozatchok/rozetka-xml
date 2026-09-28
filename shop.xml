@@ -45709,7 +45709,7 @@
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
-<offer id="3068074072" available="true">
+<offer id="3068074072" available="false">
 <url>https://kozatchok.prom.ua/p3068074072-ventilyator-kuler-dlya.html</url>
 <price>1560</price>
 <currencyId>UAH</currencyId>
@@ -45727,7 +45727,7 @@
 <description_ua>
 <![CDATA[ <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Оригінальний вентилятор для систем охолодження відеокарт <strong>Gigabyte&nbsp;AERO</strong>.</h2> <h2>Ціна вказана за комплект 3 вентилятори.</h2> <h2>Сумісність із відеокартами</h2> <p><strong><span style="font-size:14px"></span></strong></p> <p><span style="font-size:16px"><strong>RTX 4080 AERO<br /> RTX 4080 Super AERO<br /> RTX 4090 AERO<br /> RTX 4090D AERO</strong></span></p> <p><strong><span style="font-size:14px"></span><span style="font-size:14px"></span></strong></p> <p>&nbsp;</p> <h2><span style="font-size:16px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Можливо список відеокарт неповний. Список сумісних відеокарт вказаний тільки для довідки.</h2> <h3>Маркування &mdash;&nbsp;PLD10020S12H (GAH3S2U)</h3> <h3>Діаметр вентилятора: <strong>107 мм</strong><br /> Гвинтові отвори:<strong>&nbsp; 42 мм х 42 мм х 42 мм</strong><br /> Напруга: DC 12V<br /> Вентилятор струм: <strong>0,65 А</strong><br /> Інтерфейс вентилятора: роз&#39;єм під&#39;єднання<strong>&nbsp;4-pin&nbsp;</strong></h3> <p><strong>Тип підшипника: гідродинамічний</strong></p> <p>Тип паковання: <strong>ОЕМ</strong> (без коробки)</p> <h3>Кріпильні гвинти до комплекту не входять.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі вказані детальні характеристики товару. Під час підбору вентилятора для відеокарти насамперед потрібно звертати увагу на розміри та під&#39;єднання кулера. Тому що в однієї й тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням, може бути кілька різних вентиляторів.</strong></p> <h3>Зовнішній вигляд деяких елементів може незначно відрізнятися від зображеного на фото (наприклад, колір проводів або роз&#39;єму, наявність термоусадки тощо).&nbsp;Ці відмінності <strong data-end="324" data-is-only-node="" data-start="264">не впливають на функціональність і працездатність виробу</strong> та залежать від постачання окремих партій.</h3> ]]>
 </description_ua>
-<stock_quantity>4</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Количество вентиляторов">3</param>
 <param name="Размер вентилятора">107 мм</param>
