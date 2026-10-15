@@ -14732,19 +14732,69 @@
 <price>590</price>
 <currencyId>UAH</currencyId>
  <categoryId>212</categoryId>
-<picture>https://images.prom.ua/gTh4s-hvRqX3H3oXcG5hSwlkxMX9LXx4rp8Esuv4NPI=/3824316434_ventilyator-champion-dlya.jpg</picture>
-<picture>https://images.prom.ua/M0x9JccVofT-li1QZSHZ4wQNfR54pYjCGu2LX_Qw15g=/3824316433_ventilyator-champion-dlya.jpg</picture>
-<picture>https://images.prom.ua/T_gCQCJib0XqPxqgVApspkXPRqhgpYSFRiEZ9jOFCwg=/3824316435_ventilyator-champion-dlya.jpg</picture>
-<picture>https://images.prom.ua/xCNLDW-w4ijGWQotBQ330adywWig-l3zhsbp91m4nQE=/3824316431_ventilyator-champion-dlya.jpg</picture>
-<vendor>Champion</vendor>
+<picture>https://images.prom.ua/3824316434_ventilyator-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/7783589631_ventilyator-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/7783589634_ventilyator-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/3824316431_ventilyator-kuler-dlya.jpg</picture>
+<vendor>Everflow</vendor>
 <stock_quantity>0</stock_quantity>
-<name>Вентилятор Champion для видеокарты ASUS RTX 3050 3060 TI DUAL CF9010U12S (FDC10H12S9-C T129215SU) комплект 2 шт (№372)</name>
-<name_ua>Вентилятор Champion для відеокарти ASUS RTX 3050 3060 TI DUAL CF9010U12S (FDC10H12S9-C T129215SU) комплект 2 шт (№372)</name_ua>
+<name>Вентилятор кулер для видеокарты ASUS RTX 3050 3060 TI DUAL Everflow T129215SU (FDC10H12S9-C CF9010U12S) комплект 2 шт (№372.05)</name>
+<name_ua>Вентилятор кулер для відеокарти ASUS RTX 3050 3060 TI DUAL Everflow T129215SU (FDC10H12S9-C CF9010U12S) комплект 2 шт (№372.05)</name_ua>
 <description>
-<![CDATA[ <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS (аналог).</strong></h2> <p><u><strong>Цена указана за комплект - 2 вентилятора.</strong></u><strong>&nbsp;</strong></p> <p>Совместимость с видеокартами</p> <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:16px"></span></h2> <p><strong>RTX 3050 Dual OC Edition<br /> RTX 3060 Dual OC V2<br /> RTX 3060 Ti Dual Mini OC</strong></p> <h2><span style="font-size:16px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</h2> <h3>Маркировка - CF9010U12S (FDC10H12S9-C T129215SU)</h3> <h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Винтовые отверстия:<strong>&nbsp;97 мм х 26 мм</strong><br /> Напряжение: DC 12V<br /> Вентилятор ток: <strong>0,45 А</strong><br /> Интерфейс вентилятора: <strong>разъем 6-pin</strong></h3> <p>Тип подшипника: гидродинамический</p> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <h3>Внешний вид некоторых элементов может незначительно отличаться от изображенного на фото (например цвет проводов или разъема, наличие термоусадки и т.п.).Эти отличия <strong>не влияют на функциональность и работоспособность изделия</strong> и зависят от поставки отдельных партий.</h3> ]]>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2>
+<h2><span style="font-size:14px"></span></h2>
+<h2>Вентилятор (кулер) для систем охлаждения видеокарт <strong>ASUS (аналог).</strong></h2>
+<p><u><strong>Цена указана за комплект - 2 вентилятора.</strong></u><strong>&nbsp;</strong></p>
+<p>Совместимость с видеокартами</p>
+<h2><span style="font-size:14px"></span></h2>
+<h2><span style="font-size:16px"></span></h2>
+<p><strong>RTX 3050 Dual OC Edition<br/>
+RTX 3060 Dual OC V2<br/>
+RTX 3060 Ti Dual Mini OC</strong></p>
+<h2><span style="font-size:16px"></span></h2>
+<h2><span style="font-size:14px"></span></h2>
+<h2>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</h2>
+<h3>Маркировка - T129215SU (FDC10H12S9-C CF9010U12S)</h3>
+<h3>Диаметр вентилятора: <strong>87 мм&nbsp;</strong><br/>
+Винтовые отверстия:<strong>&nbsp;97 мм х 26 мм</strong><br/>
+Напряжение: DC 12V<br/>
+Вентилятор ток: <strong>0,5 А</strong><br/>
+Интерфейс вентилятора: <strong>разъем 6-pin</strong></h3>
+<p>Тип подшипника: гидродинамический</p>
+<p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p>
+<h3>Крепежные винты в комплект не входят.</h3>
+<p>&nbsp;</p>
+<p style="text-align:center"><strong>Обратите внимание!</strong></p>
+<p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p>
+<h3>Внешний вид некоторых элементов может незначительно отличаться от изображенного на фото (например цвет проводов или разъема, наличие термоусадки и т.п.).Эти отличия <strong>не влияют на функциональность и работоспособность изделия</strong> и зависят от поставки отдельных партий.</h3> ]]>
 </description>
 <description_ua>
-<![CDATA[ <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Вентилятор (кулер) для систем охолодження відеокарт <strong>ASUS&nbsp;(аналог).&nbsp;</strong></h2> <h2><u><strong>Ціна вказана за комплект - 2 вентилятора.</strong></u><strong>&nbsp;</strong></h2> <p>Сумісність із відеокартами</p> <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:16px"></span></h2> <p><strong>RTX 3050 Dual OC Edition<br /> RTX 3060 Dual OC V2<br /> RTX 3060 Ti Dual Mini OC</strong></p> <h2><span style="font-size:16px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Можливо список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</h2> <h3>Маркування - CF9010U12S (FDC10H12S9-C T129215SU)</h3> <h3>Діаметр вентилятора: <strong>87 мм&nbsp;</strong><br /> Вінтові отвори:<strong>&nbsp;97 мм х 26 мм</strong><br /> Напруження: DC 12V<br /> Вентилятор струму: <strong>0,45 А</strong><br /> Інтерфейс вентилятора: <strong>роз&#39;єм 6-pin</strong></h3> <p>Тип підшипника: гідродинамічний</p> <p>Тип пакування: <strong>ОЕМ</strong> (без коробки)</p> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>У описі подано детальні характеристики товару. Якщо підбирати вентилятор для відеокарти, спочатку потрібно звертати увагу на розміри і роз&#39;єм підключення кулера. Тому що в однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним маркуванням може бути декілька різних вентиляторів.</strong></p> <h3>Зовнішній вигляд деяких елементів може незначно відрізнятися від зображеного на фото (наприклад, колір проводів або роз&#39;єму, наявність термоусадки тощо).&nbsp;Ці відмінності <strong data-end="324" data-is-only-node="" data-start="264">не впливають на функціональність і працездатність виробу</strong> та залежать від постачання окремих партій.</h3> ]]>
+<![CDATA[ <h2><span style="font-size:14px"></span></h2>
+<h2><span style="font-size:14px"></span></h2>
+<h2>Вентилятор (кулер) для систем охолодження відеокарт <strong>ASUS&nbsp;(аналог).&nbsp;</strong></h2>
+<h2><u><strong>Ціна вказана за комплект - 2 вентилятора.</strong></u><strong>&nbsp;</strong></h2>
+<p>Сумісність із відеокартами</p>
+<h2><span style="font-size:14px"></span></h2>
+<h2><span style="font-size:16px"></span></h2>
+<p><strong>RTX 3050 Dual OC Edition<br/>
+RTX 3060 Dual OC V2<br/>
+RTX 3060 Ti Dual Mini OC</strong></p>
+<h2><span style="font-size:16px"></span></h2>
+<h2><span style="font-size:14px"></span></h2>
+<h2>Можливо список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</h2>
+<h3>Маркування - T129215SU (FDC10H12S9-C CF9010U12S)</h3>
+<h3>Діаметр вентилятора: <strong>87 мм&nbsp;</strong><br/>
+Вінтові отвори:<strong>&nbsp;97 мм х 26 мм</strong><br/>
+Напруження: DC 12V<br/>
+Вентилятор струму: <strong>0,5 А</strong><br/>
+Інтерфейс вентилятора: <strong>роз&#39;єм 6-pin</strong></h3>
+<p>Тип підшипника: гідродинамічний</p>
+<p>Тип пакування: <strong>ОЕМ</strong> (без коробки)</p>
+<h3>Кріпильні гвинти не входять до комплекту.</h3>
+<p>&nbsp;</p>
+<p style="text-align:center"><strong>Зверніть увагу!</strong></p>
+<p style="text-align:center"><strong>У описі подано детальні характеристики товару. Якщо підбирати вентилятор для відеокарти, спочатку потрібно звертати увагу на розміри і роз&#39;єм підключення кулера. Тому що в однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним маркуванням може бути декілька різних вентиляторів.</strong></p>
+<h3>Зовнішній вигляд деяких елементів може незначно відрізнятися від зображеного на фото (наприклад, колір проводів або роз&#39;єму, наявність термоусадки тощо).&nbsp;Ці відмінності <strong data-end="324" data-is-only-node="" data-start="264">не впливають на функціональність і працездатність виробу</strong> та залежать від постачання окремих партій.</h3> ]]>
 </description_ua>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Разъемы питания">87  мм</param>
@@ -18186,7 +18236,7 @@
 <stock_quantity>5</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Размер вентилятора">87 мм</param>
-<param name="Разъемы питания">4-pin </param>
+<param name="Разъемы питания">14-pin </param>
 <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
 <param name="Гарантия">15 дней</param>
 <param name="Вид">Вентиляторы</param>
@@ -23972,7 +24022,7 @@
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
-<offer id="2037713723" available="false">
+<offer id="2037713723" available="true">
 <url>https://kozatchok.prom.ua/p2037713723-ventilyator-powerlogic-dlya.html</url>
 <price>560</price>
 <currencyId>UAH</currencyId>
@@ -23996,7 +24046,7 @@
 <description_ua>
 <![CDATA[ <h2>Оригінальні вентилятори&nbsp;для систем охолодження відеокарт Gigabyte.</h2> <h2>З лицьової сторони оригінальні логотипи&nbsp;Gigabyte.</h2> <h2>Ціна вказана за комплект - 2 вентилятора + кабель підключення до відеокарти</h2> <h3>Сумісність з відеокартами</h3> <h3>&nbsp;</h3> <p><strong>GTX 1050 Windforce<br /> GTX 1050 G1 Gaming<br /> GTX 1050 Ti G1 Gaming<br /> GTX 1050 Ti Windforce<br /> GTX 1060 G1 Gaming<br /> GTX 1060 WindForce<br /> GTX 1070 Windforce<br /> GTX 1070 Ti Windforce</strong></p> <p><strong>GTX 1650 Windforce<br /> GTX 1650 SUPER Windforce<br /> GTX 1660 OC<br /> GTX 1660 SUPER<br /> GTX 1660 Ti OC<br /> RTX 2060 OC</strong></p> <p><strong>RX 470 G1 Gaming<br /> RX 470 WINDFORCE<br /> RX 480 G1 Gaming<br /> RX 480 WINDFORCE<br /> RX 570 Gaming<br /> RX 570 AORUS<br /> RX 580 Gaming<br /> RX 580 AORUS<br /> RX 590 Gaming</strong></p> <p><br /> <strong>RX 5500XT OC<br /> RX 5500XT D6<br /> RX 5600XT WINDFORCE</strong></p> <p><strong>Можливо, список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</strong></p> <h2>Маркування -&nbsp;PLD09210S12HH /&nbsp;T129215SU</h2> <h3>Діаметр вентилятора: 87 мм<br /> Вінтові отвори: 40 мм</h3> <h3>Висота: 11 мм<br /> Напруження: DC 12V<br /> Вентилятор струму: 0.4 A<br /> Інтерфейс вентилятора: роз&#39;єм підключення <strong>4-pin&nbsp;</strong></h3> <p>&nbsp;</p> <h3>Тип пакування: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> <p>&nbsp;</p> <p>&nbsp;</p> ]]>
 </description_ua>
-<stock_quantity>0</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Размер вентилятора">87 мм</param>
 <param name="Разъемы питания">4-pin </param>
@@ -26445,10 +26495,10 @@
 <name_ua>Вентилятор кулер для відеокарти ASUS GTX 1650 1660 Ti Super RTX 2060 Phoenix (orgnl) T129215BH (PLD10010B12HH FDC10U12D9-C FDC10M12D9-C) №309</name_ua>
 <vendor>Без бренда</vendor>
 <description>
-<![CDATA[ <p><span class="ck-alert__title"></span></p> <h2>Оригинальный вентилятор для систем охлаждения видеокарт <strong>ASUS&nbsp;</strong>.</h2> <h2>С лицевой стороны оригинальный логотип <strong>ASUS&nbsp;Phoenix</strong>.&nbsp;</h2> <h2>Цена указана за один вентилятор&nbsp;</h2> <h2>Совместимость с видеокартами</h2> <h2>RTX 2060 Phoenix<br /> GTX1650 SUPER Phoenix<br /> GTX1660 Phoenix<br /> GTX1660 SUPER Phoenix<br /> GTX1660 Ti Phoenix</h2> <h3>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</h3> <h2>Маркировка -&nbsp;PLD10010B12HH (T129215BH FDC10U12D9-C FDC10M12D9-C)</h2> <h3>Производитель <strong>Everflow</strong></h3> <h3>Диаметр вентилятора: 95 мм<br /> Винтовые отверстия: 28 мм х 28 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: 0.3A<br /> Интерфейс вентилятора: разъем 6-pin (4 контакта), длинна кабеля 5 см</h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <p><strong>Тип подшипника: шариковый</strong></p> <p><strong>Вентиляторы на шариковых подшипниках. Они считаются более надежными и долговечными по сравнению с вентиляторами на гидродинамическом подшипнике.</strong></p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <div id="" style="left:20px; top:782.578px"><span></span></div> ]]>
+<![CDATA[ <p><span class="ck-alert__title"></span></p> <h2>Оригинальный вентилятор для систем охлаждения видеокарт <strong>ASUS&nbsp;</strong>.</h2> <h2>С лицевой стороны логотип неоригинальный  <strong>ASUS&nbsp;Phoenix</strong>.&nbsp;</h2> <h2>Цена указана за один вентилятор&nbsp;</h2> <h2>Совместимость с видеокартами</h2> <h2>RTX 2060 Phoenix<br /> GTX1650 SUPER Phoenix<br /> GTX1660 Phoenix<br /> GTX1660 SUPER Phoenix<br /> GTX1660 Ti Phoenix</h2> <h3>Возможно список видеокарт неполный. Список совместимых видеокарт указан только для справки.</h3> <h2>Маркировка -&nbsp;PLD10010B12HH (T129215BH FDC10U12D9-C FDC10M12D9-C)</h2> <h3>Производитель <strong>Everflow</strong></h3> <h3>Диаметр вентилятора: 95 мм<br /> Винтовые отверстия: 28 мм х 28 мм<br /> Напряжение: DC 12V<br /> Вентилятор ток: 0.3A<br /> Интерфейс вентилятора: разъем 6-pin (4 контакта), длинна кабеля 5 см</h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <p><strong>Тип подшипника: шариковый</strong></p> <p><strong>Вентиляторы на шариковых подшипниках. Они считаются более надежными и долговечными по сравнению с вентиляторами на гидродинамическом подшипнике.</strong></p> <h3>Крепежные винты в комплект не входят.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Обратите внимание!</strong></p> <p style="text-align:center"><strong>В описании указаны детальные характеристики товара. При подборе вентилятора для видеокарты, в первую очередь, нужно обращать внимание на размеры и подключение кулера. Потому что, у одной и той же видеокарты может быть несколько разных систем охлаждения. Также под одной и той же маркировкой, может быть несколько разных вентиляторов.</strong></p> <div id="" style="left:20px; top:782.578px"><span></span></div> ]]>
 </description>
 <description_ua>
-<![CDATA[ <p><span class="ck-alert__title"></span></p> <h2>Оригінальний вентилятор для систем охолодження відеокарт <strong>ASUS&nbsp;</strong>.</h2> <h2>З лицьової сторони оригінальний логотип <strong>ASUS&nbsp;Phoenix</strong>.</h2> <h2>Ціна вказана за один вентилятор.</h2> <h2>Сумісність з відеокартами</h2> <h2>RTX 2060 Phoenix<br /> GTX1650 SUPER Phoenix<br /> GTX1660 Phoenix<br /> GTX1660 SUPER Phoenix<br /> GTX1660 Ti Phoenix</h2> <h3>Можливо неповний перелік відеокарт. Список сумісних відеокарт вказаний тільки для довідки.</h3> <h2>Маркування - PLD10010B12HH (T129215BH FDC10U12D9-C FDC10M12D9-C)</h2> <h3>Виробник <strong>Everflow</strong></h3> <h3>Діаметр вентилятора: 95 мм<br /> Гвинтові отвори: 28 мм х 28 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: 0.3 A<br /> Інтерфейс вентилятора: роз&#39;єм 6-pin (4 контакти), довжина кабелю 5 см</h3> <p>Тип пакування: <strong>ОЕМ</strong> (без коробки)</p> <p><strong>Тип підшипника: кульковий</strong></p> <p><strong>Вентилятори на кулькових підшипниках. Вони вважаються більш надійними та довговічними в порівнянні з вентиляторами на гідродинамічному підшипнику.</strong></p> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> <p style="text-align:center">&nbsp;</p> <p style="text-align:center">&nbsp;</p> <div id="" style="left:20px; top:764.328px"><span></span></div> <div id="" style="left:20px; top:764.328px"><span></span></div> ]]>
+<![CDATA[ <p><span class="ck-alert__title"></span></p> <h2>Оригінальний вентилятор для систем охолодження відеокарт <strong>ASUS&nbsp;</strong>.</h2> <h2>З лицьової сторони логотип неоригінальний  <strong>ASUS&nbsp;Phoenix</strong>.</h2> <h2>Ціна вказана за один вентилятор.</h2> <h2>Сумісність з відеокартами</h2> <h2>RTX 2060 Phoenix<br /> GTX1650 SUPER Phoenix<br /> GTX1660 Phoenix<br /> GTX1660 SUPER Phoenix<br /> GTX1660 Ti Phoenix</h2> <h3>Можливо неповний перелік відеокарт. Список сумісних відеокарт вказаний тільки для довідки.</h3> <h2>Маркування - PLD10010B12HH (T129215BH FDC10U12D9-C FDC10M12D9-C)</h2> <h3>Виробник <strong>Everflow</strong></h3> <h3>Діаметр вентилятора: 95 мм<br /> Гвинтові отвори: 28 мм х 28 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: 0.3 A<br /> Інтерфейс вентилятора: роз&#39;єм 6-pin (4 контакти), довжина кабелю 5 см</h3> <p>Тип пакування: <strong>ОЕМ</strong> (без коробки)</p> <p><strong>Тип підшипника: кульковий</strong></p> <p><strong>Вентилятори на кулькових підшипниках. Вони вважаються більш надійними та довговічними в порівнянні з вентиляторами на гідродинамічному підшипнику.</strong></p> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> <p style="text-align:center">&nbsp;</p> <p style="text-align:center">&nbsp;</p> <div id="" style="left:20px; top:764.328px"><span></span></div> <div id="" style="left:20px; top:764.328px"><span></span></div> ]]>
 </description_ua>
 <stock_quantity>5</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
@@ -39834,7 +39884,7 @@
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
-<offer id="2567522171" available="true">
+<offer id="2567522171" available="false">
 <url>https://kozatchok.prom.ua/p2567522171-ventilyator-dlya-videokarty.html</url>
 <price>680</price>
 <currencyId>UAH</currencyId>
@@ -39858,7 +39908,7 @@
 <description_ua>
 <![CDATA[ <h2><strong>Оригінальні вентилятори&nbsp;для систем охолодження відеокарт Gigabyte Vision.</strong></h2> <h2>З лицьової сторони оригінальні логотипи&nbsp;Gigabyte Vision.</h2> <h2>Ціна вказана за комплект &mdash; 3 вентилятори + кабель під&#39;єднання до відеокарти</h2> <p><strong>Сумісність із відеокартами</strong></p> <p><strong>RTX 3060 Vision OC<br /> RTX 3060 Ti Vision OC</strong></p> <p><strong>GTX 960 G1 Gaming<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming</strong></p> <p><strong>GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</strong></p> <p><strong>GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</strong></p> <p><strong>RTX 2060 GAMING OC<br /> RTX&nbsp;2060 GAMING OC PRO<br /> RTX&nbsp;2060 GAMING&nbsp;<br /> RTX&nbsp;2070 WINDFORCE</strong></p> <p><strong>RTX 3050 GAMING OC<br /> RTX 3060 GAMING OC<br /> RTX 3060 Ti GAMING OC<br /> RTX 3070 GAMING OC<br /> RTX 3070 EAGLE<br /> RTX 3070 Ti EAGLE</strong></p> <p><strong>R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</strong></p> <p><strong>RX 6500 XT Gaming OC<br /> RX 6600 XT Gaming OC Pro<br /> RX 6600 EAGLE<br /> RX 6700 XT Gaming OC<br /> RX 6700 XT EAGLE</strong></p> <p><strong>Arc A380 GAMING&nbsp;</strong></p> <p><strong>Можливо список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</strong></p> <h3>&nbsp;</h3> <h3>Маркування - PLD08010S12HH&nbsp; (T128010SU&nbsp; FY08010HH12LPA GA81S2U)&nbsp;</h3> <h3>Діаметр вентилятора: 77 мм<br /> Гвинтові отвори: 40 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: 0.35 A</h3> <h3>Інтерфейс вентилятора: роз&#39;єм підключення<strong> 4-pin&nbsp;</strong></h3> <h3>Тип підшипника: гідродинамічний</h3> <h3>Тип пакування: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> ]]>
 </description_ua>
-<stock_quantity>10</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Количество вентиляторов">3</param>
 <param name="Размер вентилятора">77 мм</param>
@@ -39893,7 +39943,7 @@
 <description_ua>
 <![CDATA[ <h2><strong>Оригінальний вентилятор для систем охолодження відеокарт Gigabyte Vision.</strong></h2> <h2>З лицьової сторони оригінальний логотип Gigabyte Vision.</h2> <h2>Ціна вказана за один вентилятор. Обертання проти годинникової стрілки.</h2> <p><strong>Сумісність із відеокартами</strong></p> <p><strong>RTX 3060 Vision OC<br /> RTX 3060 Ti Vision OC</strong></p> <p><strong>GTX 960 G1 Gaming<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming</strong></p> <p><strong>GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</strong></p> <p><strong>GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</strong></p> <p><strong>RTX 2060 GAMING OC<br /> RTX&nbsp;2060 GAMING OC PRO<br /> RTX&nbsp;2060 GAMING&nbsp;<br /> RTX&nbsp;2070 WINDFORCE</strong></p> <p><strong>RTX 3050 GAMING OC<br /> RTX 3060 GAMING OC<br /> RTX 3060 Ti GAMING OC<br /> RTX 3070 GAMING OC<br /> RTX 3070 EAGLE<br /> RTX 3070 Ti EAGLE</strong></p> <p><strong>R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</strong></p> <p><strong>RX 6500 XT Gaming OC<br /> RX 6600 XT Gaming OC Pro<br /> RX 6600 EAGLE<br /> RX 6700 XT Gaming OC<br /> RX 6700 XT EAGLE</strong></p> <p><strong>Arc A380 GAMING&nbsp;</strong></p> <p><strong>Можливо список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</strong></p> <h3>&nbsp;</h3> <h3>Маркування - PLD08010S12HH&nbsp; (T128010SU&nbsp; FY08010HH12LPA GA81S2U)&nbsp;</h3> <h3>Діаметр вентилятора: 77 мм<br /> Гвинтові отвори: 40 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: 0.35 A</h3> <h3>Інтерфейс вентилятора: роз&#39;єм підключення<strong> 4-pin&nbsp;</strong></h3> <h3>Тип підшипника: гідродинамічний</h3> <h3>Тип пакування: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> ]]>
 </description_ua>
-<stock_quantity>10</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Количество вентиляторов">1</param>
 <param name="Размер вентилятора">77 мм</param>
@@ -39923,7 +39973,7 @@
 <description_ua>
 <![CDATA[ <h2><strong>Оригінальний вентилятор для систем охолодження відеокарт Gigabyte Vision.</strong></h2> <h2>З лицьової сторони оригінальний логотип Gigabyte Vision.</h2> <h2>Ціна вказана за один вентилятор. Обертання проти годинникової стрілки.</h2> <p><strong>Сумісність із відеокартами</strong></p> <p><strong>RTX 3060 Vision OC<br /> RTX 3060 Ti Vision OC</strong></p> <p><strong>GTX 960 G1 Gaming<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming</strong></p> <p><strong>GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</strong></p> <p><strong>GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</strong></p> <p><strong>RTX 2060 GAMING OC<br /> RTX&nbsp;2060 GAMING OC PRO<br /> RTX&nbsp;2060 GAMING&nbsp;<br /> RTX&nbsp;2070 WINDFORCE</strong></p> <p><strong>RTX 3050 GAMING OC<br /> RTX 3060 GAMING OC<br /> RTX 3060 Ti GAMING OC<br /> RTX 3070 GAMING OC<br /> RTX 3070 EAGLE<br /> RTX 3070 Ti EAGLE</strong></p> <p><strong>R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</strong></p> <p><strong>RX 6500 XT Gaming OC<br /> RX 6600 XT Gaming OC Pro<br /> RX 6600 EAGLE<br /> RX 6700 XT Gaming OC<br /> RX 6700 XT EAGLE</strong></p> <p><strong>Arc A380 GAMING&nbsp;</strong></p> <p><strong>Можливо список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</strong></p> <h3>&nbsp;</h3> <h3>Маркування - PLD08010S12HH&nbsp; (T128010SU&nbsp; FY08010HH12LPA GA81S2U)&nbsp;</h3> <h3>Діаметр вентилятора: 77 мм<br /> Гвинтові отвори: 40 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: 0.35 A</h3> <h3>Інтерфейс вентилятора: роз&#39;єм підключення<strong> 4-pin&nbsp;</strong></h3> <h3>Тип підшипника: гідродинамічний</h3> <h3>Тип пакування: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> ]]>
 </description_ua>
-<stock_quantity>10</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Количество вентиляторов">1</param>
 <param name="Размер вентилятора">77 мм</param>
@@ -39953,7 +40003,7 @@
 <description_ua>
 <![CDATA[ <h2><strong>Оригінальний вентилятор для систем охолодження відеокарт Gigabyte Vision.</strong></h2> <h2>З лицьової сторони оригінальний логотип Gigabyte Vision.</h2> <h2>Ціна вказана за один вентилятор. Обертання за годинниковою стрілкою.</h2> <p><strong>Сумісність із відеокартами</strong></p> <p><strong>RTX 3060 Vision OC<br /> RTX 3060 Ti Vision OC</strong></p> <p><strong>GTX 960 G1 Gaming<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming</strong></p> <p><strong>GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</strong></p> <p><strong>GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</strong></p> <p><strong>RTX 2060 GAMING OC<br /> RTX&nbsp;2060 GAMING OC PRO<br /> RTX&nbsp;2060 GAMING&nbsp;<br /> RTX&nbsp;2070 WINDFORCE</strong></p> <p><strong>RTX 3050 GAMING OC<br /> RTX 3060 GAMING OC<br /> RTX 3060 Ti GAMING OC<br /> RTX 3070 GAMING OC<br /> RTX 3070 EAGLE<br /> RTX 3070 Ti EAGLE</strong></p> <p><strong>R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</strong></p> <p><strong>RX 6500 XT Gaming OC<br /> RX 6600 XT Gaming OC Pro<br /> RX 6600 EAGLE<br /> RX 6700 XT Gaming OC<br /> RX 6700 XT EAGLE</strong></p> <p><strong>Arc A380 GAMING&nbsp;</strong></p> <p><strong>Можливо список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</strong></p> <h3>&nbsp;</h3> <h3>Маркування - PLD08010S12HH&nbsp; (T128010SU&nbsp; FY08010HH12LPA GA81S2U)&nbsp;</h3> <h3>Діаметр вентилятора: 77 мм<br /> Гвинтові отвори: 40 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: 0.35 A</h3> <h3>Інтерфейс вентилятора: роз&#39;єм підключення<strong> 4-pin&nbsp;</strong></h3> <h3>Тип підшипника: гідродинамічний</h3> <h3>Тип пакування: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> ]]>
 </description_ua>
-<stock_quantity>10</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Количество вентиляторов">1</param>
 <param name="Размер вентилятора">77 мм</param>
