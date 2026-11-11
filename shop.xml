@@ -27948,7 +27948,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Гарантия">15 дней</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
-<offer id="1806140787" available="true">
+<offer id="1806140787" available="false">
 <url>https://kozatchok.prom.ua/p1806140787-ventilyator-everflow-dlya.html</url>
 <price>560</price>
 <currencyId>UAH</currencyId>
@@ -27967,7 +27967,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <description_ua>
 <![CDATA[ <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Вентилятори для систем охолодження відеокарт <strong>ASUS DUAL (аналог).</strong></h2> <h2>Ціна вказана&nbsp;за комплект - 2 вентилятора.</h2> <h2>Сумісність із відеокартами</h2> <h2><strong>GTX 1660 Dual EVO<br /> GTX 1660 Super Dual EVO<br /> GTX 1660 Ti Dual EVO<br /> RTX 2060 Dual EVO<br /> RTX 2060 Super Dual EVO<br /> RTX 2070 Dual EVO</strong></h2> <p>Часткова сумісність (немає роз&#39;єму для підсвітки, відрізняється довжина кабелів)<br /> <strong>GTX 1650 Dual Mini<br /> GTX 1660 Super Dual Mini<br /> RTX 2060 Dual Mini<br /> RTX 2070 Dual Mini</strong></p> <p><br /> &nbsp;</p> <h2><span style="font-size:16px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Можливо перелік відеокарт неповний . Список сумісних відеокарт вказаний тільки для довідки.</h2> <h3>Маркування - T129215SU (PLD09210S12H T129215BU FDC10H12S9-C)</h3> <h3>Діаметр вентилятора: <strong>87 мм </strong><br /> Гвинтові отвори:<strong> 97 мм х 26 мм</strong><br /> Напруга: DC 12V<br /> Вентилятор струм: <strong>0,5 А</strong><br /> Інтерфейс вентилятора: <strong>роз&#39;єм підключення 6-pin</strong></h3> <p><strong>Тип підшипника: гідродинамічний</strong></p> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <h3>Кріпильні гвинти в комплект не входять.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі вказані детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри і підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під однією і тією ж маркуванням, може бути кілька різних вентиляторів.</strong></p> <h3>&nbsp;</h3> ]]>
 </description_ua>
-<stock_quantity>5</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Размер вентилятора">87 мм</param>
 <param name="Разъемы питания">6-pin </param>
