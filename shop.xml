@@ -2779,7 +2779,7 @@
         <param name="Гарантия">15 дней</param>
         <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
       </offer>
-      <offer available="true" id="1005055821">
+      <offer available="false" id="1005055821">
         <url>https://kozatchok.prom.ua/p1005055821-ventilyator-powerlogic-dlya.html</url>
         <price>230</price>
         <currencyId>UAH</currencyId>
@@ -2803,7 +2803,7 @@
 <description_ua>
 <![CDATA[ <h2><strong>Оригінальний вентилятор для систем охолодження відеокарт Gigabyte.</strong></h2> <h2>З лицьової сторони оригінальний логотип Gigabyte.</h2> <h2>Ціна вказана за один вентилятор</h2> <h3>Сумісність з відеокартами</h3> <h3><strong style="font-size:13px">GTX 960 G1 Gaming</strong></h3> <p><strong>GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming</strong></p> <p><strong>GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</strong></p> <p><strong>GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</strong></p> <p><strong>RTX 2060 GAMING OC<br /> RTX&nbsp;2060 GAMING OC PRO<br /> RTX&nbsp;2060 GAMING&nbsp;<br /> RTX&nbsp;2070 WINDFORCE</strong></p> <p><strong>RTX 3050 GAMING OC<br /> RTX 3060 GAMING OC<br /> RTX 3060 Ti GAMING OC<br /> RTX 3070 GAMING OC<br /> RTX 3070 Ti EAGLE</strong></p> <p><strong>R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</strong></p> <p><strong>RX 6500 XT Gaming OC<br /> RX 6600 XT Gaming OC Pro<br /> RX 6600 EAGLE<br /> RX 6700 XT Gaming OC<br /> RX 6700 XT EAGLE</strong></p> <p><strong>Можливо список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</strong></p> <h3>&nbsp;</h3> <h3>Маркування - T128010SU (PLD08010S12HH FY08010HH12LPA GA81S2U)&nbsp;</h3> <h3>Діаметр вентилятора: 77 мм<br /> Гвинтові отвори: 40 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: 0.35A</h3> <h3>Інтерфейс вентилятора: роз&#39;єм підключення<strong> 4-pin&nbsp;</strong></h3> <h3>Тип підшипника: гідродинамічний</h3> <h3>Тип пакування: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> ]]>
 </description_ua>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <param name="Разъемы питания">4-pin</param>
         <param name="Размер вентилятора">77 мм</param>
         <param name="Назначение">Охлаждение для видеокарт</param>
@@ -24438,7 +24438,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
-<offer id="2038594394" available="true">
+<offer id="2038594394" available="false">
 <url>https://kozatchok.prom.ua/p2038594394-ventilyator-powerlogic-dlya.html</url>
 <price>580</price>
 <currencyId>UAH</currencyId>
@@ -24462,7 +24462,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <description_ua>
 <![CDATA[ <h2><strong>Оригінальні вентилятори&nbsp;для систем охолодження відеокарт Gigabyte.</strong></h2> <h2>З лицьової сторони оригінальні логотипи&nbsp;Gigabyte.</h2> <h2>Ціна вказана за комплект &mdash; 3 вентилятори + кабель під&#39;єднання до відеокарти</h2> <p><strong>Сумісність із відеокартами</strong></p> <p><strong>GTX 960 G1 Gaming<br /> GTX 980 G1 Gaming<br /> GTX 980 Ti G1 Gaming</strong></p> <p><strong>GTX 1060 AORUS<br /> GTX 1060 WINDFORCE<br /> GTX 1060 G1 Gaming<br /> GTX 1070 G1 Gaming<br /> GTX 1070 WINDFORCE<br /> GTX 1070Ti AORUS<br /> GTX 1070 Ti Gaming<br /> GTX 1080 G1 Gaming<br /> GTX 1080 WINDFORCE<br /> GTX 1080 Ti Gaming OC BLACK<br /> GTX 1080 Ti Gaming OC<br /> GTX 1080 Ti Gaming&nbsp;</strong></p> <p><strong>GTX 1660 GAMING<br /> GTX 1660 SUPER GAMING<br /> GTX 1660 SUPER AORUS<br /> GTX 1660 Ti GAMING<br /> GTX 1660 Ti AORUS</strong></p> <p><strong>RTX 2060 GAMING OC<br /> RTX&nbsp;2060 GAMING OC PRO<br /> RTX&nbsp;2060 GAMING&nbsp;<br /> RTX&nbsp;2070 WINDFORCE</strong></p> <p><strong>RTX 3050 GAMING OC<br /> RTX 3060 GAMING OC<br /> RTX 3060 Ti GAMING OC<br /> RTX 3070 GAMING OC<br /> RTX 3070 Ti EAGLE</strong></p> <p><strong>R9 FURY<br /> RX 5500 XT GAMING<br /> RX 5600 XT GAMING<br /> RX 5700 GAMING<br /> RX 5700 XT GAMING</strong></p> <p><strong>RX 6500 XT Gaming OC<br /> RX 6600 XT Gaming OC Pro<br /> RX 6600 EAGLE<br /> RX 6700 XT Gaming OC<br /> RX 6700 XT EAGLE</strong></p> <p><strong>Можливо список відеокарт неповний. Список сумісних відеокарт вказано лише для довідки.</strong></p> <h3>&nbsp;</h3> <h3>Маркування - PLD08010S12HH (T128010SU FY08010H12LPA GA81S2U)</h3> <h3>Діаметр вентилятора: 77 мм<br /> Гвинтові отвори: 40 мм<br /> Напруга: DC 12V<br /> Вентилятор струм: 0.35 A</h3> <h3>Інтерфейс вентилятора: роз&#39;єм підключення<strong> 4-pin&nbsp;</strong></h3> <h3>Тип підшипника: гідродинамічний</h3> <h3>Тип пакування: <strong>ОЕМ</strong> (без коробки)</h3> <h3>Кріпильні гвинти не входять до комплекту.</h3> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі наведено детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри та підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під одним і тим же маркуванням може бути кілька різних вентиляторів.</strong></p> ]]>
 </description_ua>
-<stock_quantity>5</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Размер вентилятора">77 мм</param>
 <param name="Количество вентиляторов">3</param>
@@ -29584,8 +29584,8 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <picture>https://images.prom.ua/5359064263_ohlazhdenie-kuler-dlya.jpg</picture>
 <picture>https://images.prom.ua/5359064262_ohlazhdenie-kuler-dlya.jpg</picture>
 <picture>https://images.prom.ua/5359065256_ohlazhdenie-kuler-dlya.jpg</picture>
-<name>Охлаждение кулер для процессора ZERO-30 LX-403 3-pin 120 мм (№233) LGA 1200/1366/1700 AM2/AM2+/AM3/AM3+/AM4/AM5  FM1/FM2/FM2+</name>
-<name_ua>Охолодження кулер для процесора ZERO-30 LX-403 3-pin 120 мм (№233) LGA 1200/1366/1700 AM2/AM2+/AM3/AM3+/AM4/AM5  FM1/FM2/FM2+</name_ua>
+<name>Охлаждение кулер для процессора QiuZhi Tech QZ-850 3-pin 120 мм (№10850) сокет AM2+/AM3/AM3+/AM4/AM5 FM1/FM2/FM2+ LGA 1200/1366/1700/115Х</name>
+<name_ua>Охолодження кулер для процесора QiuZhi Tech QZ-850 3-pin 120 мм (№10850) сокет AM2+/AM3/AM3+/AM4/AM5 FM1/FM2/FM2+ LGA 1200/1366/1700/115Х</name_ua>
 <vendor>Без бренда</vendor>
 <description>
 <![CDATA[ <h2><span style="font-size:12pt"></span></h2> <h2>Охлаждение для процессора ZERO-30 LX-403</h2> <p>Активное охлаждение для процессора.&nbsp;</p> <p>Четыре медных&nbsp;тепловых&nbsp;трубки 6 мм.</p> <p>Крепление для &nbsp;сокета&nbsp;</p> <p>Intel <strong>LGA 115Х/1200/1366/1700</strong> - через рамку переходник (в комплекте)</p> <p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4/AM5&nbsp;&nbsp;FM1/FM2/FM2+</strong></p> <p>&nbsp;</p> <p><font><font>Размер В х Ш х Г : 90 х 125 х 125 мм&nbsp;</font></font><br /> <font><font>Тип подшипника: гидродинамический</font></font><br /> <font><font>Размер вентилятора: 120 х&nbsp;120 х 25&nbsp;мм&nbsp;</font></font><br /> <font><font>Номинальное напряжение: 12V</font></font><br /> <font><font>Максимальная скорость: </font></font><font><font>1600</font></font><font><font>&nbsp;&plusmn; 10% об / мин&nbsp;</font></font><br /> <font><font>Шум: 25 dBA&nbsp;</font></font></p> <p><font><font>Теплопакет: 100 W </font></font></p> <p><font><font>Вес: 300 грамм</font></font></p> <p>Разъем подключения: <strong>3-pin</strong></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <span></span> ]]>
@@ -29597,13 +29597,13 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Назначение">Для процессоров</param>
 <param name="Вид">Кулеры</param>
 <param name="Размер вентилятора">120 мм</param>
-<param name="Совместимость">Socket 1150;Socket 1151;Socket 1155;Socket 1156;Socket 1366;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 1200;Socket 1700</param>
-<param name="Частота вращения">800-1400 об/мин</param>
+<param name="Совместимость">Socket 1150;Socket 1151;Socket 1155;Socket 1156;Socket 1366;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 1200;Socket 1700;Socket 775;Socket 1851;Socket 1356</param>
+<param name="Частота вращения">1400 об/мин</param>
 <param name="Тип подшипника">Гидродинамический подшипник (FDB)</param>
 <param name="Материал радиатора">Алюминий - медь</param>
 <param name="Разъемы питания">3-pin</param>
 <param name="Гарантия">12 месяцев</param>
-<param name="Максимальный TDP">100 W</param>
+<param name="Максимальный TDP">125 W</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
 <offer id="2087702708" available="true">
@@ -44920,7 +44920,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
-<offer id="3000175705" available="true">
+<offer id="3000175705" available="false">
 <url>https://kozatchok.prom.ua/p3000175705-ventilyator-dlya-videokarty.html</url>
 <price>560</price>
 <currencyId>UAH</currencyId>
@@ -44941,7 +44941,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <description_ua>
 <![CDATA[ <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Вентилятори для систем охолодження відеокарт <strong>ASUS (аналог)</strong></h2> <h2>Ціна вказана&nbsp;за комплект - 2 вентилятори.</h2> <h2>Сумісність із відеокартами</h2> <p><span style="font-size:14px"></span></p> <p><strong>RTX 3060 KO OC Edition<br /> RTX 3060 Megalodon<br /> RTX 3060 Ti Dual<br /> RTX 3060 Ti KO Gaming<br /> RTX 3070 Dual<br /> RTX 3070 KO Gaming</strong></p> <p><span style="font-size:14px"></span><span style="font-size:14px"></span></p> <p>&nbsp;</p> <p><span style="font-size:14px">Можливо перелік відеокарт <span style="font-size:14px">неповний</span>. Список сумісних відеокарт вказаний тільки для довідки.</span></p> <h3>Маркування - CF1010U12S (T129215SU FDC10U12S9-C CF1010U12D FDC10U12D9-C)</h3> <h3>Діаметр вентилятора: <strong>95 мм </strong><br /> Гвинтові отвори:<strong> 104 мм x 26 мм</strong></h3> <h3>Напруга: DC 12V<br /> Вентилятор струм: <strong>0,45 А</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення<strong> 7-pin </strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <p><strong>Тип підшипника: гідродинамічний</strong></p> <h3>Кріпильні гвинти в комплект не входять.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі вказані детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри і підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під однією і тією ж маркуванням, може бути кілька різних вентиляторів.</strong></p> <h3>Зовнішній вигляд деяких елементів може незначно відрізнятися від зображеного на фото (наприклад, колір проводів або роз&#39;єму, наявність термоусадки тощо).&nbsp;Ці відмінності <strong data-end="324" data-is-only-node="" data-start="264">не впливають на функціональність і працездатність виробу</strong> та залежать від постачання окремих партій.</h3> ]]>
 </description_ua>
-<stock_quantity>4</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Количество вентиляторов">2</param>
 <param name="Размер вентилятора">95 мм</param>
@@ -44952,7 +44952,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Дополнительно" unit="">Упаковка ОЕМ</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
-<offer id="3000179665" available="true">
+<offer id="3000179665" available="false">
 <url>https://kozatchok.prom.ua/p3000179665-ventilyator-dlya-videokarty.html</url>
 <price>290</price>
 <currencyId>UAH</currencyId>
@@ -44973,7 +44973,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <description_ua>
 <![CDATA[ <h2><span style="font-size:14px"></span></h2> <h2><span style="font-size:14px"></span></h2> <h2>Вентилятори для систем охолодження відеокарт <strong>ASUS (аналог)</strong></h2> <h2>Ціна вказана&nbsp;за один вентилятор.</h2> <h2>Сумісність із відеокартами</h2> <p><span style="font-size:14px"></span></p> <p><strong>RTX 3060 KO OC Edition<br /> RTX 3060 Megalodon<br /> RTX 3060 Ti Dual<br /> RTX 3060 Ti KO Gaming<br /> RTX 3070 Dual<br /> RTX 3070 KO Gaming</strong></p> <p><span style="font-size:14px"></span><span style="font-size:14px"></span></p> <p>&nbsp;</p> <p><span style="font-size:14px">Можливо перелік відеокарт <span style="font-size:14px">неповний</span>. Список сумісних відеокарт вказаний тільки для довідки.</span></p> <h3>Маркування - CF1010U12S (T129215SU FDC10U12S9-C CF1010U12D FDC10U12D9-C)</h3> <h3>Діаметр вентилятора: <strong>95 мм </strong><br /> Гвинтові отвори:<strong> 104 мм x 26 мм</strong></h3> <h3>Напруга: DC 12V<br /> Вентилятор струм: <strong>0,45 А</strong><br /> Інтерфейс вентилятора: роз&#39;єм підключення<strong> 7-pin </strong></h3> <p>Тип упаковки: <strong>ОЕМ</strong> (без коробки)</p> <p><strong>Тип підшипника: гідродинамічний</strong></p> <h3>Кріпильні гвинти в комплект не входять.</h3> <p>&nbsp;</p> <p style="text-align:center"><strong>Зверніть увагу!</strong></p> <p style="text-align:center"><strong>В описі вказані детальні характеристики товару. При підборі вентилятора для відеокарти, в першу чергу, потрібно звертати увагу на розміри і підключення кулера. Тому що, у однієї і тієї ж відеокарти може бути кілька різних систем охолодження. Також під однією і тією ж маркуванням, може бути кілька різних вентиляторів.</strong></p> <h3>Зовнішній вигляд деяких елементів може незначно відрізнятися від зображеного на фото (наприклад, колір проводів або роз&#39;єму, наявність термоусадки тощо).&nbsp;Ці відмінності <strong data-end="324" data-is-only-node="" data-start="264">не впливають на функціональність і працездатність виробу</strong> та залежать від постачання окремих партій.</h3> ]]>
 </description_ua>
-<stock_quantity>4</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <param name="Назначение">Охлаждение для видеокарт</param>
 <param name="Количество вентиляторов">1</param>
 <param name="Размер вентилятора">95 мм</param>
