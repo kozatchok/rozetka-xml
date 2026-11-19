@@ -9024,7 +9024,7 @@ GTX 1060&nbsp;</h2>
 <param name="Вид">Кулери</param>
 <param name="Розмір вентилятора">90 мм</param>
 <param name="Сокет">Socket 1150;Socket 1151;Socket 1155;Socket 1156;Socket 1366;Socket 1356;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 1200;Socket 1700;Socket 1851</param>
-<param name="Частота обертів">600-2000 об/мин</param>
+<param name="Частота обертів">600-2000 об/хв</param>
 <param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
 <param name="Матеріал радіатора">Алюміній - мідь</param>
 <param name="Роз'єми живлення">4-pin</param>
@@ -9097,7 +9097,7 @@ GTX 1060&nbsp;</h2>
 <param name="Вид">Кулери</param>
 <param name="Розмір вентилятора">90 мм</param>
 <param name="Сокет">Socket 1150;Socket 1151;Socket 1155;Socket 1156;Socket 1366;Socket 1356;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 1200;Socket 1700;Socket 1851</param>
-<param name="Частота обертів">1800 об/мин</param>
+<param name="Частота обертів">1800 об/хв</param>
 <param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
 <param name="Матеріал радіатора">Алюміній - мідь</param>
 <param name="Роз'єми живлення">3-pin</param>
@@ -21725,7 +21725,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Вид">Кулери</param>
 <param name="Розмір вентилятора">90 мм</param>
 <param name="Сокет">Socket 2011;Socket 2066;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 2011-3</param>
-<param name="Частота обертів">600-2000 об/мин</param>
+<param name="Частота обертів">600-2000 об/хв</param>
 <param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
 <param name="Матеріал радіатора">Алюміній - мідь</param>
 <param name="Роз'єми живлення">4-pin</param>
@@ -23698,7 +23698,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Вид">Кулери</param>
 <param name="Розмір вентилятора">90 мм</param>
 <param name="Сокет">Socket 1150;Socket 1151;Socket 1155;Socket 1156;Socket 1366;Socket 1356;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 1200;Socket 1700;Socket 1851</param>
-<param name="Частота обертів">600-2000 об/мин</param>
+<param name="Частота обертів">600-2000 об/хв</param>
 <param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
 <param name="Матеріал радіатора">Алюміній - мідь</param>
 <param name="Роз'єми живлення">4-pin</param>
@@ -23800,7 +23800,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Вид">Кулери</param>
 <param name="Розмір вентилятора">90 мм</param>
 <param name="Сокет">Socket 2011;Socket 2066;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 2011-3</param>
-<param name="Частота обертів">600-2000 об/мин</param>
+<param name="Частота обертів">600-2000 об/хв</param>
 <param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
 <param name="Матеріал радіатора">Алюміній - мідь</param>
 <param name="Роз'єми живлення">4-pin</param>
@@ -29491,7 +29491,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Вид">Кулери</param>
 <param name="Розмір вентилятора">90 мм</param>
 <param name="Сокет">Socket 2011;Socket 2066;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 2011-3</param>
-<param name="Частота обертів">1800 об/мин</param>
+<param name="Частота обертів">1800 об/хв</param>
 <param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
 <param name="Матеріал радіатора">Алюміній - мідь</param>
 <param name="Роз'єми живлення">3-pin</param>
@@ -47124,7 +47124,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Вид">Кулери</param>
 <param name="Розмір вентилятора">90 мм</param>
 <param name="Сокет">Socket 2011;Socket 2066;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 2011-3</param>
-<param name="Частота обертів">600-2000 об/мин</param>
+<param name="Частота обертів">600-2000 об/хв</param>
 <param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
 <param name="Матеріал радіатора">Алюміній - мідь</param>
 <param name="Роз'єми живлення">4-pin</param>
@@ -47162,7 +47162,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Вид">Кулери</param>
 <param name="Розмір вентилятора">90 мм</param>
 <param name="Сокет">Socket 1150;Socket 1151;Socket 1155;Socket 1156;Socket 1366;Socket 1356;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 1200;Socket 1700;Socket 1851</param>
-<param name="Частота обертів">600-2000 об/мин</param>
+<param name="Частота обертів">600-2000 об/хв</param>
 <param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
 <param name="Матеріал радіатора">Алюміній - мідь</param>
 <param name="Роз'єми живлення">4-pin</param>
@@ -47170,6 +47170,307 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <param name="Гарантія">12 месяців</param>
 <param name="Максимальний TDP">160 Вт</param>
 <param name="Конструкція">Баштова</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
+</offer>
+<offer id="2666623124" available="true">
+<url>https://kozatchok.prom.ua/p2666623124-ohlazhdenie-kuler-dlya.html</url>
+<price>590</price>
+<currencyId>UAH</currencyId>
+<categoryId>212</categoryId>
+<picture>https://images.prom.ua/6730810107_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064263_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064262_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810095_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810094_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/2125424823_ohlazhdenie-kuler-dlya.jpg</picture>
+<name>Охлаждение кулер для процессора QiuZhi Tech QZ-850 4-pin 120 мм TDP 125 Вт (№10851.1) сокет LGA 2011/2066 AM2/AM2+/AM3/AM3+/AM4/AM5  FM1/FM2/FM2+</name>
+<name_ua>Охолодження кулер для процесора QiuZhi Tech QZ-850 4-pin 120 мм TDP 125 Вт (№10851.1) сокет LGA 2011/2066 AM2/AM2+/AM3/AM3+/AM4/AM5  FM1/FM2/FM2+</name_ua>
+<vendor>Без бренда</vendor>
+<description>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охлаждение для процессора QZ-850</h2><p>Компактный процессорный кулер с 4 медными тепловыми трубками и 120 мм вентилятором горизонтального типа. Обеспечивает эффективное охлаждение не только процессора, но и окружающих компонентов, включая VRM (системы питания). Подходит для сборок в корпусах с ограниченным пространством (HTPC, Mini-ITX), совместим с популярными сокетами Intel и AMD. Идеальный выбор для систем с TDP до 100&ndash;125 Вт.</p><p>Крепление для &nbsp;сокета&nbsp;</p><p>Intel <strong>LGA 2011 (2011-3) /2066</strong>&nbsp;- через рамку переходник (в комплекте)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4</strong><strong>/AM5</strong><strong>&nbsp;&nbsp;FM1/FM2/FM2+&nbsp;</strong><br/><strong>(AM4</strong><strong>/AM5 - крепление к рамке сокета)</strong></p><p>&nbsp;</p><p><font><font>Размер В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип подшипника: гидродинамический</font></font><br/><font><font>Размер вентилятора: 120 х&nbsp;120 х 25&nbsp;мм&nbsp;</font></font><br/><font><font>Номинальное напряжение: 12V</font></font><br/><font><font>Максимальная скорость: 800-1600&nbsp;&plusmn; 10% об / мин&nbsp;</font></font><br/><font><font>Шум: 25 dBA&nbsp;</font></font></p><p><font><font>Вес: 300 грамм</font></font></p><p>Разъем подключения: <strong>4-pin</strong></p><p><strong>Теплопакет (TDP): 125 Вт</strong></p><p><strong>Обратите внимание! Показатель TDP кулера (теплопакет) означает, какое количество тепла он может рассеивать в стабильном режиме. Для старых процессоров (приблизительно к 2017-2019 годам) заявленный TDP почти совпадал с реальным тепловыделением, поэтому кулера на 125 Вт хватало для процессора на 125 Вт. В современных процессорах TDP указывают по базовой частоте, без учета Turbo Boost, автоматического разгона и пиков нагрузки, поэтому реальное потребление и тепловыделение может быть в 1,5&ndash;2 раза выше заявленного. К примеру, процессор с заявленным TDP 65 Вт в режиме турбо может потреблять 100 Вт и более. Поэтому во избежание перегрева процессора желательно выбирать кулер с запасом мощности не менее 30&ndash;50 %, а для процессоров с разблокированным множителем (K, X) и топовых моделей запас должен быть еще больше.</strong></p><p>&nbsp;</p><p>Комплектация:<br/>- кулер;<br/>- рамка для крепления на сокеты Intel;<br/>- пакетик (тюбик) термопасти.</p><p>В различных партиях поставки товара возможны незначительные внешние различия от фото, которые не влияют на производительность и технические характеристики кулера. Общий внешний вид товара и технические характеристики не меняются.</p><span></span> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охолодження для процесора QZ-850</h2><p>Компактний процесорний кулер з 4 мідними тепловими трубками та 120 мм вентилятором горизонтального типу. Забезпечує ефективне охолодження не лише процесора, а й навколишніх компонентів, зокрема VRM (системи живлення). Підходить для збірок у корпусах з обмеженим простором (HTPC, Mini-ITX), сумісний із популярними сокетами Intel та AMD. Ідеальний вибір для систем із TDP до 100&ndash;125 Вт.</p><p>Кріплення для сокета</p><p>Intel<strong> LGA 2011 (2011-3) /2066</strong> - через рамку перехідник (в комплекті)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4</strong><strong>/AM5</strong><strong>&nbsp;&nbsp;FM1/FM2/FM2+&nbsp;</strong><br/><strong>(AM4</strong><strong>/AM5 - кріплення до рамки сокету)</strong></p><p>&nbsp;</p><p><font><font>Розмір В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип підшипника: гідродинамічний</font></font><br/><font><font>Розмір вентилятора: 120 х 120 х 25 мм </font></font><br/><font><font>Номінальна напруга: 12V</font></font><br/><font><font>Максимальна швидкість: 800-1600 &plusmn; 10% об / хв </font></font><br/><font><font>Шум: 25 dBA </font></font></p><p><font><font>Вага: 300 грам</font></font></p><p>Роз&#39;єм підключення: <strong>4-pin</strong></p><p><font><font><strong>Теплопакет (</strong></font></font><strong>TDP)</strong><font><font><strong>&nbsp;: 125 Вт</strong></font></font></p><p><strong>Зверніть увагу! Показник TDP кулера (теплопакет) означає, яку кількість тепла він здатен розсіювати в стабільному режимі. Для старих процесорів (приблизно до 2017&ndash;2019 років) заявлений TDP майже збігався з реальним тепловиділенням, тому кулера на 125 Вт вистачало для процесора на 125 Вт. У сучасних процесорах TDP вказують за базовою частотою, без урахування Turbo Boost, автоматичного розгону та піків навантаження, тому реальне споживання і тепловиділення може бути в 1,5&ndash;2 рази вищим за заявлене. Наприклад, процесор із заявленим TDP 65 Вт у режимі турбо може споживати 100 Вт і більше. Тому, щоб уникнути перегріву процесора, бажано обирати кулер із запасом потужності не менше 30&ndash;50 %, а для процесорів із розблокованим множником (K, X) і топових моделей запас має бути ще більшим.</strong></p><p>&nbsp;</p><p>Комплектація:<br/>- кулер;<br/>- рамка для кріплення на сокети Intel;<br/>- пакетик (тюбик) термопасти.</p><p>У різних партіях поставки товару можливі незначні зовнішні відмінності від фото, які не впливають на продуктивність та технічні характеристики кулера. Загальний зовнішній вигляд товару та технічні характеристики не змінюються.</p><span></span> ]]>
+</description_ua>
+<stock_quantity>5</stock_quantity>
+<param name="Тип охолодження">Активне</param>
+<param name="Кількість вентиляторів">1</param>
+<param name="Призначення">Для процесорів</param>
+<param name="Вид">Кулери</param>
+<param name="Розмір вентилятора">120 мм</param>
+<param name="Сокет">Socket 2011;Socket 2066;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 2011-3</param>
+<param name="Частота обертів">600-1600 об/хв</param>
+<param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
+<param name="Матеріал радіатора">Алюміній - мідь</param>
+<param name="Роз'єми живлення">4-pin</param>
+<param name="Підсвічування">Без підсвітки</param>
+<param name="Гарантія">12 месяців</param>
+<param name="Максимальний TDP">125 Вт</param>
+<param name="Конструкція">Top Flow (горизонтальна)</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
+</offer>
+<offer id="2666623149" available="true">
+<url>https://kozatchok.prom.ua/p2666623149-ohlazhdenie-kuler-dlya.html</url>
+<price>590</price>
+<currencyId>UAH</currencyId>
+<categoryId>212</categoryId>
+<picture>https://images.prom.ua/6730810107_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064263_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810095_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810094_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064262_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810097_ohlazhdenie-kuler-dlya.jpg</picture>
+<name>Охлаждение кулер для процессора QiuZhi Tech QZ-850 4-pin 120 мм TDP 125 Вт (№10851) сокет LGA 1200/1366/1700 AM2+/AM3/AM3+/AM4/AM5  FM1/FM2/FM2+</name>
+<name_ua>Охолодження кулер для процесора QiuZhi Tech QZ-850 4-pin 120 мм TDP 125 Вт (№10851) сокет LGA 1200/1366/1700 AM2+/AM3/AM3+/AM4/AM5  FM1/FM2/FM2+</name_ua>
+<vendor>Без бренда</vendor>
+<description>
+<![CDATA[ <p><strong><span style="font-size:12pt"></span></strong></p><h2>Охлаждение для процессора QZ-850</h2><p>Компактный процессорный кулер с 4 медными тепловыми трубками и 120 мм вентилятором горизонтального типа. Обеспечивает эффективное охлаждение не только процессора, но и окружающих компонентов, включая VRM (системы питания). Подходит для сборок в корпусах с ограниченным пространством (HTPC, Mini-ITX), совместим с популярными сокетами Intel и AMD. Идеальный выбор для систем&nbsp; с TDP до 100&ndash;125 Вт.</p><p>Крепление для &nbsp;сокета&nbsp;</p><p>Intel <strong>LGA 775/1356/1366/1200/115x/1200/1700/1851</strong> - через рамку переходник (в комплекте)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4</strong><strong>/AM5</strong><strong>&nbsp;&nbsp;FM1/FM2/FM2+&nbsp;</strong><br/><strong>(AM4</strong><strong>/AM5 - крепление к рамке сокета)</strong></p><p>&nbsp;</p><p><font><font>Размер В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип подшипника: гидродинамический</font></font><br/><font><font>Размер вентилятора: 120 х&nbsp;120 х 25&nbsp;мм&nbsp;</font></font><br/><font><font>Номинальное напряжение: 12V</font></font><br/><font><font>Максимальная скорость: </font></font><font><font>800-1600</font></font><font><font>&nbsp;&plusmn; 10% об / мин&nbsp;</font></font><br/><font><font>Шум: 25 dBA&nbsp;</font></font></p><p><font><font>Вес: 300 грамм</font></font></p><p>Разъем подключения: <strong>4-pin</strong></p><p><strong>Теплопакет (TDP): 125 Вт</strong></p><p><strong>Обратите внимание! Показатель TDP кулера (теплопакет) означает, какое количество тепла он может рассеивать в стабильном режиме. Для старых процессоров (приблизительно к 2017-2019 годам) заявленный TDP почти совпадал с реальным тепловыделением, поэтому кулера на 125 Вт хватало для процессора на 125 Вт. В современных процессорах TDP указывают по базовой частоте, без учета Turbo Boost, автоматического разгона и пиков нагрузки, поэтому реальное потребление и тепловыделение может быть в 1,5&ndash;2 раза выше заявленного. К примеру, процессор с заявленным TDP 65 Вт в режиме турбо может потреблять 100 Вт и более. Поэтому во избежание перегрева процессора желательно выбирать кулер с запасом мощности не менее 30&ndash;50 %, а для процессоров с разблокированным множителем (K, X) и топовых моделей запас должен быть еще больше.</strong></p><p>&nbsp;</p><p>Комплектация:<br/>- кулер;<br/>- рамка для крепления на сокеты Intel;<br/>- пакетик (тюбик) термопасти.</p><p>В различных партиях поставки товара возможны незначительные внешние различия от фото, которые не влияют на производительность и технические характеристики кулера. Общий внешний вид товара и технические характеристики не меняются.</p><span></span> ]]>
+</description>
+<description_ua>
+<![CDATA[ <p><strong><span style="font-size:12pt"></span></strong></p><h2>Охолодження для процесора QZ-850</h2><p>Компактний процесорний кулер з 4 мідними тепловими трубками та 120 мм вентилятором горизонтального типу. Забезпечує ефективне охолодження не лише процесора, а й навколишніх компонентів, зокрема VRM (системи живлення). Підходить для збірок у корпусах з обмеженим простором (HTPC, Mini-ITX), сумісний із популярними сокетами Intel та AMD. Ідеальний вибір для систем із TDP до 100&ndash;125 Вт.</p><p>Чотири мідних теплових трубки 6 мм.</p><p>Кріплення для сокета</p><p>Intel&nbsp;<strong>LGA 775/1356/1366/1200/115x/1200/1700/1851</strong> - через рамку перехідник (в комплекті)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4</strong><strong>/AM5</strong><strong>&nbsp;&nbsp;FM1/FM2/FM2+&nbsp;</strong><br/><strong>(AM4</strong><strong>/AM5 - кріплення до рамки сокету)</strong></p><p>&nbsp;</p><p><font><font>Розмір В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип підшипника: гідродинамічний</font></font><br/><font><font>Розмір вентилятора: 120 х 120 х 25 мм </font></font><br/><font><font>Номінальна напруга: 12V</font></font><br/><font><font>Максимальна швидкість: 800-1600 &plusmn; 10% об / хв </font></font><br/><font><font>Шум: 25 dBA </font></font></p><p><font><font>Вага: 300 грам</font></font></p><p>Роз&#39;єм підключення: <strong>4-pin</strong></p><p><font><font><strong>Теплопакет (</strong></font></font><strong>TDP)</strong><font><font><strong>&nbsp;: 125 Вт</strong></font></font></p><p><strong>Зверніть увагу! Показник TDP кулера (теплопакет) означає, яку кількість тепла він здатен розсіювати в стабільному режимі. Для старих процесорів (приблизно до 2017&ndash;2019 років) заявлений TDP майже збігався з реальним тепловиділенням, тому кулера на 125 Вт вистачало для процесора на 125 Вт. У сучасних процесорах TDP вказують за базовою частотою, без урахування Turbo Boost, автоматичного розгону та піків навантаження, тому реальне споживання і тепловиділення може бути в 1,5&ndash;2 рази вищим за заявлене. Наприклад, процесор із заявленим TDP 65 Вт у режимі турбо може споживати 100 Вт і більше. Тому, щоб уникнути перегріву процесора, бажано обирати кулер із запасом потужності не менше 30&ndash;50 %, а для процесорів із розблокованим множником (K, X) і топових моделей запас має бути ще більшим.</strong></p><p>&nbsp;</p><p>Комплектація:<br/>- кулер;<br/>- рамка для кріплення на сокети Intel;<br/>- пакетик (тюбик) термопасти.</p><p>У різних партіях поставки товару можливі незначні зовнішні відмінності від фото, які не впливають на продуктивність та технічні характеристики кулера. Загальний зовнішній вигляд товару та технічні характеристики не змінюються.</p><span></span> ]]>
+</description_ua>
+<stock_quantity>5</stock_quantity>
+<param name="Тип охолодження">Активне</param>
+<param name="Кількість вентиляторів">1</param>
+<param name="Призначення">Для процесорів</param>
+<param name="Вид">Кулери</param>
+<param name="Розмір вентилятора">120 мм</param>
+<param name="Сокет">Socket 1150;Socket 1151;Socket 1155;Socket 1156;Socket 1366;Socket 1356;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 1200;Socket 1700;Socket 1851</param>
+<param name="Частота обертів">600-1600 об/хв</param>
+<param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
+<param name="Матеріал радіатора">Алюміній - мідь</param>
+<param name="Роз'єми живлення">4-pin</param>
+<param name="Підсвічування">Без підсвітки</param>
+<param name="Гарантія">12 месяців</param>
+<param name="Максимальний TDP">125 Вт</param>
+<param name="Конструкція">Top Flow (горизонтальна)</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
+</offer>
+<offer id="2666623120" available="true">
+<url>https://kozatchok.prom.ua/p2666623120-ohlazhdenie-kuler-dlya.html</url>
+<price>560</price>
+<currencyId>UAH</currencyId>
+<categoryId>212</categoryId>
+<picture>https://images.prom.ua/6730810107_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064263_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064262_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810095_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810094_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/2125424823_ohlazhdenie-kuler-dlya.jpg</picture>
+<name>Охлаждение кулер для процессора QiuZhi Tech QZ-850 3-pin 120 мм TDP 125 Вт (№10850.1) сокет LGA 2011/2066 AM2/AM2+/AM3/AM3+/AM4/AM5  FM1/FM2/FM2+</name>
+<name_ua>Охолодження кулер для процесора QiuZhi Tech QZ-850 3-pin 120 мм TDP 125 Вт (№10850.1) сокет LGA 2011/2066 AM2/AM2+/AM3/AM3+/AM4/AM5  FM1/FM2/FM2+</name_ua>
+<vendor>Без бренда</vendor>
+<description>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охлаждение для процессора QZ-850</h2><p>Компактный процессорный кулер с 4 медными тепловыми трубками и 120 мм вентилятором горизонтального типа. Обеспечивает эффективное охлаждение не только процессора, но и окружающих компонентов, включая VRM (системы питания). Подходит для сборок в корпусах с ограниченным пространством (HTPC, Mini-ITX), совместим с популярными сокетами Intel и AMD. Идеальный выбор для систем с TDP до 100&ndash;125 Вт.</p><p>Крепление для &nbsp;сокета&nbsp;</p><p>Intel <strong>LGA 2011 (2011-3) /2066</strong>&nbsp;- через рамку переходник (в комплекте)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4/AM5&nbsp;&nbsp;FM1/FM2/FM2+</strong></p><p>&nbsp;</p><p><font><font>Размер В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br /><font><font>Тип подшипника: гидродинамический</font></font><br /><font><font>Размер вентилятора: 120 х&nbsp;120 х 25&nbsp;мм&nbsp;</font></font><br /><font><font>Номинальное напряжение: 12V</font></font><br /><font><font>Максимальная скорость: </font></font><font><font>1600</font></font><font><font>&nbsp;&plusmn; 10% об / мин&nbsp;</font></font><br /><font><font>Шум: 25 dBA&nbsp;</font></font></p><p><font><font>Теплопакет: 125 W </font></font></p><p><font><font>Вес: 300 грамм</font></font></p><p>Разъем подключения: <strong>3-pin</strong></p><p>&nbsp;</p><p>Комплектация:</p><p>- кулер;</p><p>- рамка для кремления на сокеты Intel;</p><p>- пакетик (тюбик) термопасты.</p><p>В разных партиях поставки товара возможны <strong data-end="687" data-start="653">незначительные внешние отличия от фото</strong>, которые <strong data-end="772" data-start="697">не влияют на производительность и технические характеристики кулера</strong>. Общий внешний вид товара и технические характеристики не изменяются.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><span></span> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охолодження для процесора QZ-850</h2><p>Компактний процесорний кулер з 4 мідними тепловими трубками та 120 мм вентилятором горизонтального типу. Забезпечує ефективне охолодження не лише процесора, а й навколишніх компонентів, зокрема VRM (системи живлення). Підходить для збірок у корпусах з обмеженим простором (HTPC, Mini-ITX), сумісний із популярними сокетами Intel та AMD. Ідеальний вибір для систем із TDP до 100&ndash;125 Вт.</p><p>Чотири мідних теплових трубки 6 мм.</p><p>Кріплення для сокета</p><p>Intel<strong> LGA 2011 (2011-3) /2066</strong>&nbsp;- через рамку перехідник (в комплекті)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4/AM5&nbsp;FM1/FM2/FM2+</strong></p><p>&nbsp;</p><p><font><font>Розмір В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br /><font><font>Тип підшипника: гідродинамічний</font></font><br /><font><font>Розмір вентилятора: 120 х 120 х 25 мм </font></font><br /><font><font>Номінальна напруга: 12V</font></font><br /><font><font>Максимальна швидкість: 1600 &plusmn; 10% об / хв </font></font><br /><font><font>Шум: 25 dBA </font></font></p><p><font><font>Теплопакет: 125 W</font></font></p><p><font><font>Вага: 300 грам</font></font></p><p>Роз&#39;єм підключення: <strong>3-pin</strong></p><p>&nbsp;</p><p>Комплектація:<br />- кулер;<br />- рамка для кріплення на сокети Intel;<br />- пакетик (тюбик) термопасти.</p><p>У різних партіях поставки товару можливі незначні зовнішні відмінності від фото, які не впливають на продуктивність та технічні характеристики кулера. Загальний зовнішній вигляд товару та технічні характеристики не змінюються.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><span></span> ]]>
+</description_ua>
+<stock_quantity>5</stock_quantity>
+<param name="Тип охолодження">Активне</param>
+<param name="Кількість вентиляторів">1</param>
+<param name="Призначення">Для процесорів</param>
+<param name="Вид">Кулери</param>
+<param name="Розмір вентилятора">120 мм</param>
+<param name="Сокет">Socket 2011;Socket 2066;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 2011-3</param>
+<param name="Частота обертів">1600 об/хв</param>
+<param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
+<param name="Матеріал радіатора">Алюміній - мідь</param>
+<param name="Роз'єми живлення">3-pin</param>
+<param name="Підсвічування">Без підсвітки</param>
+<param name="Гарантія">12 месяців</param>
+<param name="Максимальний TDP">125 Вт</param>
+<param name="Конструкція">Top Flow (горизонтальна)</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
+</offer>
+<offer id="2666623151" available="true">
+<url>https://kozatchok.prom.ua/p2666623151-ohlazhdenie-kuler-dlya.html</url>
+<price>560</price>
+<currencyId>UAH</currencyId>
+<categoryId>212</categoryId>
+<picture>https://images.prom.ua/6730810107_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810094_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810095_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064263_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064262_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810097_ohlazhdenie-kuler-dlya.jpg</picture>
+<name>Охлаждение кулер для процессора QiuZhi Tech QZ-850 3-pin 120 мм TDP 125 Вт (№10850) сокет LGA 1200/1366/1700 AM2+/AM3/AM3+/AM4/AM5  FM1/FM2/FM2+</name>
+<name_ua>Охолодження кулер для процесора QiuZhi Tech QZ-850 3-pin 120 мм TDP 125 Вт (№10850) сокет LGA 1200/1366/1700 AM2+/AM3/AM3+/AM4/AM5  FM1/FM2/FM2+</name_ua>
+<vendor>Без бренда</vendor>
+<description>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охлаждение для процессора QZ-850</h2><p>Компактный процессорный кулер с 4 медными тепловыми трубками и 120 мм вентилятором горизонтального типа. Обеспечивает эффективное охлаждение не только процессора, но и окружающих компонентов, включая VRM (системы питания). Подходит для сборок в корпусах с ограниченным пространством (HTPC, Mini-ITX), совместим с популярными сокетами Intel и AMD. Идеальный выбор для систем&nbsp; с TDP до 100&ndash;125 Вт.</p><p>Крепление для &nbsp;сокета&nbsp;</p><p>Intel <strong>LGA 775/1356/1366/1200/115x/1700/1851</strong> - через рамку переходник (в комплекте)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4</strong><strong>/AM5</strong><strong>&nbsp;&nbsp;FM1/FM2/FM2+&nbsp;</strong><br/><strong>(AM4</strong><strong>/AM5 - крепление к рамке сокета)</strong></p><p>&nbsp;</p><p><font><font>Размер В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип подшипника: гидродинамический</font></font><br/><font><font>Размер вентилятора: 120 х&nbsp;120 х 25&nbsp;мм&nbsp;</font></font><br/><font><font>Номинальное напряжение: 12V</font></font><br/><font><font>Максимальная скорость: </font></font><font><font>1600</font></font><font><font>&nbsp;&plusmn; 10% об / мин&nbsp;</font></font><br/><font><font>Шум: 25 dBA&nbsp;</font></font></p><p><font><font>Вес: 300 грамм</font></font></p><p>Разъем подключения: <strong>3-pin</strong></p><p><strong>Теплопакет (TDP): 125 Вт</strong></p><p><strong>Обратите внимание! Показатель TDP кулера (теплопакет) означает, какое количество тепла он может рассеивать в стабильном режиме. Для старых процессоров (приблизительно к 2017-2019 годам) заявленный TDP почти совпадал с реальным тепловыделением, поэтому кулера на 125 Вт хватало для процессора на 125 Вт. В современных процессорах TDP указывают по базовой частоте, без учета Turbo Boost, автоматического разгона и пиков нагрузки, поэтому реальное потребление и тепловыделение может быть в 1,5&ndash;2 раза выше заявленного. К примеру, процессор с заявленным TDP 65 Вт в режиме турбо может потреблять 100 Вт и более. Поэтому во избежание перегрева процессора желательно выбирать кулер с запасом мощности не менее 30&ndash;50 %, а для процессоров с разблокированным множителем (K, X) и топовых моделей запас должен быть еще больше.</strong></p><p>&nbsp;</p><p>Комплектация:<br/>- кулер;<br/>- рамка для крепления на сокеты Intel;<br/>- пакетик (тюбик) термопасти.</p><p>В различных партиях поставки товара возможны незначительные внешние различия от фото, которые не влияют на производительность и технические характеристики кулера. Общий внешний вид товара и технические характеристики не меняются.</p><span></span> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охолодження для процесора QZ-850</h2><p>Компактний процесорний кулер з 4 мідними тепловими трубками та 120 мм вентилятором горизонтального типу. Забезпечує ефективне охолодження не лише процесора, а й навколишніх компонентів, зокрема VRM (системи живлення). Підходить для збірок у корпусах з обмеженим простором (HTPC, Mini-ITX), сумісний із популярними сокетами Intel та AMD. Ідеальний вибір для систем із TDP до 100&ndash;125 Вт.</p><p>Кріплення для сокета</p><p>Intel<strong> LGA 775/1356/1366/1200/115x/1700/1851&nbsp;</strong>- через рамку перехідник (в комплекті)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4</strong><strong>/AM5</strong><strong>&nbsp;&nbsp;FM1/FM2/FM2+&nbsp;</strong><br/><strong>(AM4</strong><strong>/AM5 - кріплення до рамки сокету)</strong></p><p>&nbsp;</p><p><font><font>Розмір В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип підшипника: гідродинамічний</font></font><br/><font><font>Розмір вентилятора: 120 х 120 х 25 мм </font></font><br/><font><font>Номінальна напруга: 12V</font></font><br/><font><font>Максимальна швидкість: 1600 &plusmn; 10% об / хв </font></font><br/><font><font>Шум: 25 dBA </font></font></p><p><font><font>Вага: 300 грам</font></font></p><p>Роз&#39;єм підключення: <strong>3-pin</strong></p><p><font><font><strong>Теплопакет (</strong></font></font><strong>TDP)</strong><font><font><strong>&nbsp;: 125 Вт</strong></font></font></p><p><strong>Зверніть увагу! Показник TDP кулера (теплопакет) означає, яку кількість тепла він здатен розсіювати в стабільному режимі. Для старих процесорів (приблизно до 2017&ndash;2019 років) заявлений TDP майже збігався з реальним тепловиділенням, тому кулера на 125 Вт вистачало для процесора на 125 Вт. У сучасних процесорах TDP вказують за базовою частотою, без урахування Turbo Boost, автоматичного розгону та піків навантаження, тому реальне споживання і тепловиділення може бути в 1,5&ndash;2 рази вищим за заявлене. Наприклад, процесор із заявленим TDP 65 Вт у режимі турбо може споживати 100 Вт і більше. Тому, щоб уникнути перегріву процесора, бажано обирати кулер із запасом потужності не менше 30&ndash;50 %, а для процесорів із розблокованим множником (K, X) і топових моделей запас має бути ще більшим.</strong></p><p>&nbsp;</p><p>Комплектація:<br/>- кулер;<br/>- рамка для кріплення на сокети Intel;<br/>- пакетик (тюбик) термопасти.</p><p>У різних партіях поставки товару можливі незначні зовнішні відмінності від фото, які не впливають на продуктивність та технічні характеристики кулера. Загальний зовнішній вигляд товару та технічні характеристики не змінюються.</p><span></span> ]]>
+</description_ua>
+<stock_quantity>5</stock_quantity>
+<param name="Тип охолодження">Активне</param>
+<param name="Кількість вентиляторів">1</param>
+<param name="Призначення">Для процесорів</param>
+<param name="Вид">Кулери</param>
+<param name="Розмір вентилятора">120 мм</param>
+<param name="Сокет">Socket 1150;Socket 1151;Socket 1155;Socket 1156;Socket 1366;Socket 1356;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 1200;Socket 1700;Socket 1851</param>
+<param name="Частота обертів">1600 об/хв</param>
+<param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
+<param name="Матеріал радіатора">Алюміній - мідь</param>
+<param name="Роз'єми живлення">3-pin</param>
+<param name="Підсвічування">Без підсвітки</param>
+<param name="Гарантія">12 месяців</param>
+<param name="Максимальний TDP">125 Вт</param>
+<param name="Конструкція">Top Flow (горизонтальна)</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
+</offer>
+<offer id="2953241352" available="true">
+<url>https://kozatchok.prom.ua/p2953241352-ohlazhdenie-kuler-dlya.html</url>
+<price>620</price>
+<currencyId>UAH</currencyId>
+<categoryId>212</categoryId>
+<picture>https://images.prom.ua/7135099833_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810095_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810094_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/7135101469_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064263_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064262_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/7135117713_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810097_ohlazhdenie-kuler-dlya.jpg</picture>
+<name>Охлаждение кулер для процессора QiuZhi Tech QZ-850 4-pin 120 мм LED подсветка TDP 125 Вт (№10855) сокет LGA 1200/1366/1700 AM3/AM3+/AM4/AM5</name>
+<name_ua>Охолодження кулер для процесора QiuZhi Tech QZ-850 4-pin 120 мм LED підсвітка TDP 125 Вт (№10855) сокет LGA 1200/1366/1700 AM2+/AM3/AM3+/AM4/AM5</name_ua>
+<vendor>Без бренда</vendor>
+<description>
+<![CDATA[ <p><strong><span style="font-size:12pt"></span></strong></p><h2>Охлаждение для процессора QZ-850</h2><p>Компактный процессорный кулер с 4 медными тепловыми трубками и 120 мм вентилятором горизонтального типа. Обеспечивает эффективное охлаждение не только процессора, но и окружающих компонентов, включая VRM (системы питания). Подходит для сборок в корпусах с ограниченным пространством (HTPC, Mini-ITX), совместим с популярными сокетами Intel и AMD. Идеальный выбор для систем&nbsp; с TDP до 100&ndash;125 Вт.</p><p>Крепление для &nbsp;сокета&nbsp;</p><p>Intel <strong>LGA 775/1356/1366/1200/115x/1200/1700/1851</strong> - через рамку переходник (в комплекте)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4/AM5&nbsp;&nbsp;FM1/FM2/FM2+</strong></p><p>&nbsp;</p><p><font><font>Размер В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип подшипника: гидродинамический</font></font><br/><font><font>Размер вентилятора: 120 х&nbsp;120 х 25&nbsp;мм&nbsp;</font></font><br/><font><font>Номинальное напряжение: 12V</font></font><br/><font><font>Максимальная скорость: </font></font><font><font>800-1600</font></font><font><font>&nbsp;&plusmn; 10% об / мин&nbsp;</font></font><br/><font><font>Шум: 25 dBA&nbsp;</font></font></p><p><font><font>Вес: 300 грамм</font></font></p><p>Разъем подключения: <strong>4-pin</strong></p><p><strong>Разноцветная LED подсветка.</strong><br/><strong>Подсветка по окружности корпуса вентилятора (вокруг крыльчатки)</strong> &ndash; светодиоды расположены в виде кольца внутри рамки вентилятора. Светящийся ободок вокруг лопастей, образуя четкое световое кольцо.</p><p><strong>Теплопакет (TDP): 125 Вт</strong></p><p><strong>Обратите внимание! Показатель TDP кулера (теплопакет) означает, какое количество тепла он может рассеивать в стабильном режиме. Для старых процессоров (приблизительно к 2017-2019 годам) заявленный TDP почти совпадал с реальным тепловыделением, поэтому кулера на 125 Вт хватало для процессора на 125 Вт. В современных процессорах TDP указывают по базовой частоте, без учета Turbo Boost, автоматического разгона и пиков нагрузки, поэтому реальное потребление и тепловыделение может быть в 1,5&ndash;2 раза выше заявленного. К примеру, процессор с заявленным TDP 65 Вт в режиме турбо может потреблять 100 Вт и более. Поэтому во избежание перегрева процессора желательно выбирать кулер с запасом мощности не менее 30&ndash;50 %, а для процессоров с разблокированным множителем (K, X) и топовых моделей запас должен быть еще больше.</strong></p><p>&nbsp;</p><p>Комплектация:<br/>- кулер;<br/>- рамка для крепления на сокеты Intel;<br/>- пакетик (тюбик) термопасти.</p><p>В различных партиях поставки товара возможны незначительные внешние различия от фото, которые не влияют на производительность и технические характеристики кулера. Общий внешний вид товара и технические характеристики не меняются.</p><span></span> ]]>
+</description>
+<description_ua>
+<![CDATA[ <p><strong><span style="font-size:12pt"></span></strong></p><h2>Охолодження для процесора QZ-850</h2><p>Компактний процесорний кулер з 4 мідними тепловими трубками та 120 мм вентилятором горизонтального типу. Забезпечує ефективне охолодження не лише процесора, а й навколишніх компонентів, зокрема VRM (системи живлення). Підходить для збірок у корпусах з обмеженим простором (HTPC, Mini-ITX), сумісний із популярними сокетами Intel та AMD. Ідеальний вибір для систем із TDP до 100&ndash;125 Вт.</p><p>Чотири мідних теплових трубки 6 мм.</p><p>Кріплення для сокета</p><p>Intel&nbsp;<strong>LGA 775/1356/1366/1200/115x/1200/1700/1851</strong> - через рамку перехідник (в комплекті)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4/AM5&nbsp;FM1/FM2/FM2+</strong></p><p>&nbsp;</p><p><font><font>Розмір В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип підшипника: гідродинамічний</font></font><br/><font><font>Розмір вентилятора: 120 х 120 х 25 мм </font></font><br/><font><font>Номінальна напруга: 12V</font></font><br/><font><font>Максимальна швидкість: 800-1600 &plusmn; 10% об / хв </font></font><br/><font><font>Шум: 25 dBA </font></font></p><p><font><font>Вага: 300 грам</font></font></p><p>Роз&#39;єм підключення: <strong>4-pin</strong></p><p><strong>Різнокольорова&nbsp;LED підсвітка.&nbsp;</strong><br/><strong>Підсвітка по колу корпусу вентилятора (навколо крильчатки)</strong> &ndash; світлодіоди розташовані у вигляді кільця всередині рамки вентилятора. Світиться обідок навколо лопатей, утворюючи чітке світлове кільце.</p><p><font><font><strong>Теплопакет (</strong></font></font><strong>TDP)</strong><font><font><strong>&nbsp;: 125 Вт</strong></font></font></p><p><strong>Зверніть увагу! Показник TDP кулера (теплопакет) означає, яку кількість тепла він здатен розсіювати в стабільному режимі. Для старих процесорів (приблизно до 2017&ndash;2019 років) заявлений TDP майже збігався з реальним тепловиділенням, тому кулера на 125 Вт вистачало для процесора на 125 Вт. У сучасних процесорах TDP вказують за базовою частотою, без урахування Turbo Boost, автоматичного розгону та піків навантаження, тому реальне споживання і тепловиділення може бути в 1,5&ndash;2 рази вищим за заявлене. Наприклад, процесор із заявленим TDP 65 Вт у режимі турбо може споживати 100 Вт і більше. Тому, щоб уникнути перегріву процесора, бажано обирати кулер із запасом потужності не менше 30&ndash;50 %, а для процесорів із розблокованим множником (K, X) і топових моделей запас має бути ще більшим.</strong></p><p>&nbsp;</p><p>Комплектація:<br/>- кулер;<br/>- рамка для кріплення на сокети Intel;<br/>- пакетик (тюбик) термопасти.</p><p>У різних партіях поставки товару можливі незначні зовнішні відмінності від фото, які не впливають на продуктивність та технічні характеристики кулера. Загальний зовнішній вигляд товару та технічні характеристики не змінюються.</p><span></span> ]]>
+</description_ua>
+<stock_quantity>5</stock_quantity>
+<param name="Тип охолодження">Активне</param>
+<param name="Кількість вентиляторів">1</param>
+<param name="Призначення">Для процесорів</param>
+<param name="Вид">Кулери</param>
+<param name="Розмір вентилятора">120 мм</param>
+<param name="Сокет">Socket 1150;Socket 1151;Socket 1155;Socket 1156;Socket 1366;Socket 1356;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 1200;Socket 1700;Socket 1851</param>
+<param name="Частота обертів">1600 об/хв</param>
+<param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
+<param name="Матеріал радіатора">Алюміній - мідь</param>
+<param name="Роз'єми живлення">4-pin</param>
+<param name="Підсвічування">FRGB</param>
+<param name="Гарантія">12 месяців</param>
+<param name="Максимальний TDP">125 Вт</param>
+<param name="Конструкція">Top Flow (горизонтальна)</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
+</offer>
+<offer id="2953241384" available="true">
+<url>https://kozatchok.prom.ua/p2953241384-ohlazhdenie-kuler-dlya.html</url>
+<price>620</price>
+<currencyId>UAH</currencyId>
+<categoryId>212</categoryId>
+<picture>https://images.prom.ua/7135099833_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810094_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810095_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064263_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064262_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/7135101469_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/7135117713_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/2125424823_ohlazhdenie-kuler-dlya.jpg</picture>
+<name>Охлаждение кулер для процессора QiuZhi Tech QZ-850 4-pin 120 мм LED подсветка TDP 125 Вт (№10855.1) сокет LGA 2011/2066 AM2/AM2+/AM3/AM3+/AM4/AM5</name>
+<name_ua>Охолодження кулер для процесора QiuZhi Tech QZ-850 4-pin 120 мм LED підсвітка TDP 125 Вт (№10855.1) сокет LGA 2011/2066 AM2/AM2+/AM3/AM3+/AM4/AM5</name_ua>
+<vendor>Без бренда</vendor>
+<description>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охлаждение для процессора QZ-850</h2><p>Компактный процессорный кулер с 4 медными тепловыми трубками и 120 мм вентилятором горизонтального типа. Обеспечивает эффективное охлаждение не только процессора, но и окружающих компонентов, включая VRM (системы питания). Подходит для сборок в корпусах с ограниченным пространством (HTPC, Mini-ITX), совместим с популярными сокетами Intel и AMD. Идеальный выбор для систем с TDP до 100&ndash;125 Вт.</p><p>Крепление для &nbsp;сокета&nbsp;</p><p>Intel <strong>LGA 2011 (2011-3) /2066</strong>&nbsp;- через рамку переходник (в комплекте)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4/AM5&nbsp;&nbsp;FM1/FM2/FM2+</strong></p><p>&nbsp;</p><p><font><font>Размер В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип подшипника: гидродинамический</font></font><br/><font><font>Размер вентилятора: 120 х&nbsp;120 х 25&nbsp;мм&nbsp;</font></font><br/><font><font>Номинальное напряжение: 12V</font></font><br/><font><font>Максимальная скорость: 800-1600&nbsp;&plusmn; 10% об / мин&nbsp;</font></font><br/><font><font>Шум: 25 dBA&nbsp;</font></font></p><p><font><font>Вес: 300 грамм</font></font></p><p>Разъем подключения: <strong>4-pin</strong></p><p><strong>Разноцветная LED подсветка.</strong><br/><strong>Подсветка по окружности корпуса вентилятора (вокруг крыльчатки)</strong> &ndash; светодиоды расположены в виде кольца внутри рамки вентилятора. Светящийся ободок вокруг лопастей, образуя четкое световое кольцо.</p><p><strong>Теплопакет (TDP): 125 Вт</strong></p><p><strong>Обратите внимание! Показатель TDP кулера (теплопакет) означает, какое количество тепла он может рассеивать в стабильном режиме. Для старых процессоров (приблизительно к 2017-2019 годам) заявленный TDP почти совпадал с реальным тепловыделением, поэтому кулера на 125 Вт хватало для процессора на 125 Вт. В современных процессорах TDP указывают по базовой частоте, без учета Turbo Boost, автоматического разгона и пиков нагрузки, поэтому реальное потребление и тепловыделение может быть в 1,5&ndash;2 раза выше заявленного. К примеру, процессор с заявленным TDP 65 Вт в режиме турбо может потреблять 100 Вт и более. Поэтому во избежание перегрева процессора желательно выбирать кулер с запасом мощности не менее 30&ndash;50 %, а для процессоров с разблокированным множителем (K, X) и топовых моделей запас должен быть еще больше.</strong></p><p>&nbsp;</p><p>Комплектация:<br/>- кулер;<br/>- рамка для крепления на сокеты Intel;<br/>- пакетик (тюбик) термопасти.</p><p>В различных партиях поставки товара возможны незначительные внешние различия от фото, которые не влияют на производительность и технические характеристики кулера. Общий внешний вид товара и технические характеристики не меняются.</p><span></span> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охолодження для процесора QZ-850</h2><p>Компактний процесорний кулер з 4 мідними тепловими трубками та 120 мм вентилятором горизонтального типу. Забезпечує ефективне охолодження не лише процесора, а й навколишніх компонентів, зокрема VRM (системи живлення). Підходить для збірок у корпусах з обмеженим простором (HTPC, Mini-ITX), сумісний із популярними сокетами Intel та AMD. Ідеальний вибір для систем із TDP до 100&ndash;125 Вт.</p><p>Кріплення для сокета</p><p>Intel<strong> LGA 2011 (2011-3) /2066</strong> - через рамку перехідник (в комплекті)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4/AM5&nbsp;FM1/FM2/FM2+</strong></p><p>&nbsp;</p><p><font><font>Розмір В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип підшипника: гідродинамічний</font></font><br/><font><font>Розмір вентилятора: 120 х 120 х 25 мм </font></font><br/><font><font>Номінальна напруга: 12V</font></font><br/><font><font>Максимальна швидкість: 800-1600 &plusmn; 10% об / хв </font></font><br/><font><font>Шум: 25 dBA </font></font></p><p><font><font>Вага: 300 грам</font></font></p><p>Роз&#39;єм підключення: <strong>4-pin</strong></p><p><strong>Різнокольорова&nbsp;LED підсвітка.&nbsp;</strong><br/><strong>Підсвітка по колу корпусу вентилятора (навколо крильчатки)</strong> &ndash; світлодіоди розташовані у вигляді кільця всередині рамки вентилятора. Світиться обідок навколо лопатей, утворюючи чітке світлове кільце.</p><p><font><font><strong>Теплопакет (</strong></font></font><strong>TDP)</strong><font><font><strong>&nbsp;: 125 Вт</strong></font></font></p><p><strong>Зверніть увагу! Показник TDP кулера (теплопакет) означає, яку кількість тепла він здатен розсіювати в стабільному режимі. Для старих процесорів (приблизно до 2017&ndash;2019 років) заявлений TDP майже збігався з реальним тепловиділенням, тому кулера на 125 Вт вистачало для процесора на 125 Вт. У сучасних процесорах TDP вказують за базовою частотою, без урахування Turbo Boost, автоматичного розгону та піків навантаження, тому реальне споживання і тепловиділення може бути в 1,5&ndash;2 рази вищим за заявлене. Наприклад, процесор із заявленим TDP 65 Вт у режимі турбо може споживати 100 Вт і більше. Тому, щоб уникнути перегріву процесора, бажано обирати кулер із запасом потужності не менше 30&ndash;50 %, а для процесорів із розблокованим множником (K, X) і топових моделей запас має бути ще більшим.</strong></p><p>&nbsp;</p><p>Комплектація:<br/>- кулер;<br/>- рамка для кріплення на сокети Intel;<br/>- пакетик (тюбик) термопасти.</p><p>У різних партіях поставки товару можливі незначні зовнішні відмінності від фото, які не впливають на продуктивність та технічні характеристики кулера. Загальний зовнішній вигляд товару та технічні характеристики не змінюються.</p><span></span> ]]>
+</description_ua>
+<stock_quantity>5</stock_quantity>
+<param name="Тип охолодження">Активне</param>
+<param name="Кількість вентиляторів">1</param>
+<param name="Призначення">Для процесорів</param>
+<param name="Вид">Кулери</param>
+<param name="Розмір вентилятора">120 мм</param>
+<param name="Сокет">Socket 2011;Socket 2066;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 2011-3</param>
+<param name="Частота обертів">1600 об/хв</param>
+<param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
+<param name="Матеріал радіатора">Алюміній - мідь</param>
+<param name="Роз'єми живлення">4-pin</param>
+<param name="Підсвічування">FRGB</param>
+<param name="Гарантія">12 месяців</param>
+<param name="Максимальний TDP">125 Вт</param>
+<param name="Конструкція">Top Flow (горизонтальна)</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
+</offer>
+<offer id="2953233074" available="true">
+<url>https://kozatchok.prom.ua/p2953233074-ohlazhdenie-kuler-dlya.html</url>
+<price>590</price>
+<currencyId>UAH</currencyId>
+<categoryId>212</categoryId>
+<picture>https://images.prom.ua/7135099833_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810094_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810095_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064263_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064262_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810097_ohlazhdenie-kuler-dlya.jpg</picture>
+<name>Охлаждение кулер для процессора QiuZhi Tech QZ-850 3-pin 120 мм LED подсветка TDP 125 Вт (№10854) сокет LGA 1200/1366/1700 AM2+/AM3/AM3+/AM4/AM5</name>
+<name_ua>Охолодження кулер для процесора QiuZhi Tech QZ-850 3-pin 120 мм LED підсвітка TDP 125 Вт (№10854) сокет LGA 1200/1366/1700 AM2+/AM3/AM3+/AM4/AM5</name_ua>
+<vendor>Без бренда</vendor>
+<description>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охлаждение для процессора QZ-850</h2><p>Компактный процессорный кулер с 4 медными тепловыми трубками и 120 мм вентилятором горизонтального типа. Обеспечивает эффективное охлаждение не только процессора, но и окружающих компонентов, включая VRM (системы питания). Подходит для сборок в корпусах с ограниченным пространством (HTPC, Mini-ITX), совместим с популярными сокетами Intel и AMD. Идеальный выбор для систем&nbsp; с TDP до 100&ndash;125 Вт.</p><p>Крепление для &nbsp;сокета&nbsp;</p><p>Intel <strong>LGA 775/1356/1366/1200/115x/1200/1700/1851</strong> - через рамку переходник (в комплекте)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4/AM5&nbsp;&nbsp;FM1/FM2/FM2+</strong></p><p>&nbsp;</p><p><font><font>Размер В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип подшипника: гидродинамический</font></font><br/><font><font>Размер вентилятора: 120 х&nbsp;120 х 25&nbsp;мм&nbsp;</font></font><br/><font><font>Номинальное напряжение: 12V</font></font><br/><font><font>Максимальная скорость: </font></font><font><font>1600</font></font><font><font>&nbsp;&plusmn; 10% об / мин&nbsp;</font></font><br/><font><font>Шум: 25 dBA&nbsp;</font></font></p><p><font><font>Вес: 300 грамм</font></font></p><p>Разъем подключения: <strong>3-pin</strong></p><p><strong>Разноцветная LED подсветка.</strong><br/><strong>Подсветка по окружности корпуса вентилятора (вокруг крыльчатки)</strong> &ndash; светодиоды расположены в виде кольца внутри рамки вентилятора. Светящийся ободок вокруг лопастей, образуя четкое световое кольцо.</p><p><strong>Теплопакет (TDP): 125 Вт</strong></p><p><strong>Обратите внимание! Показатель TDP кулера (теплопакет) означает, какое количество тепла он может рассеивать в стабильном режиме. Для старых процессоров (приблизительно к 2017-2019 годам) заявленный TDP почти совпадал с реальным тепловыделением, поэтому кулера на 125 Вт хватало для процессора на 125 Вт. В современных процессорах TDP указывают по базовой частоте, без учета Turbo Boost, автоматического разгона и пиков нагрузки, поэтому реальное потребление и тепловыделение может быть в 1,5&ndash;2 раза выше заявленного. К примеру, процессор с заявленным TDP 65 Вт в режиме турбо может потреблять 100 Вт и более. Поэтому во избежание перегрева процессора желательно выбирать кулер с запасом мощности не менее 30&ndash;50 %, а для процессоров с разблокированным множителем (K, X) и топовых моделей запас должен быть еще больше.</strong></p><p>&nbsp;</p><p>Комплектация:<br/>- кулер;<br/>- рамка для крепления на сокеты Intel;<br/>- пакетик (тюбик) термопасти.</p><p>В различных партиях поставки товара возможны незначительные внешние различия от фото, которые не влияют на производительность и технические характеристики кулера. Общий внешний вид товара и технические характеристики не меняются.</p><p>&nbsp;</p><p>&nbsp;</p><span></span> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охолодження для процесора QZ-850</h2><p>Компактний процесорний кулер з 4 мідними тепловими трубками та 120 мм вентилятором горизонтального типу. Забезпечує ефективне охолодження не лише процесора, а й навколишніх компонентів, зокрема VRM (системи живлення). Підходить для збірок у корпусах з обмеженим простором (HTPC, Mini-ITX), сумісний із популярними сокетами Intel та AMD. Ідеальний вибір для систем із TDP до 100&ndash;125 Вт.</p><p>Кріплення для сокета</p><p>Intel<strong> LGA 775/1356/1366/1200/115x/1200/1700/1851&nbsp;</strong>- через рамку перехідник (в комплекті)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4/AM5&nbsp;FM1/FM2/FM2+</strong></p><p>&nbsp;</p><p><font><font>Розмір В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип підшипника: гідродинамічний</font></font><br/><font><font>Розмір вентилятора: 120 х 120 х 25 мм </font></font><br/><font><font>Номінальна напруга: 12V</font></font><br/><font><font>Максимальна швидкість: 1600 &plusmn; 10% об / хв </font></font><br/><font><font>Шум: 25 dBA </font></font></p><p><font><font>Вага: 300 грам</font></font></p><p>Роз&#39;єм підключення: <strong>3-pin</strong></p><p><strong>Різнокольорова&nbsp;LED підсвітка.&nbsp;</strong><br/><strong>Підсвітка по колу корпусу вентилятора (навколо крильчатки)</strong> &ndash; світлодіоди розташовані у вигляді кільця всередині рамки вентилятора. Світиться обідок навколо лопатей, утворюючи чітке світлове кільце.</p><p><font><font><strong>Теплопакет (</strong></font></font><strong>TDP)</strong><font><font><strong>&nbsp;: 125 Вт</strong></font></font></p><p><strong>Зверніть увагу! Показник TDP кулера (теплопакет) означає, яку кількість тепла він здатен розсіювати в стабільному режимі. Для старих процесорів (приблизно до 2017&ndash;2019 років) заявлений TDP майже збігався з реальним тепловиділенням, тому кулера на 125 Вт вистачало для процесора на 125 Вт. У сучасних процесорах TDP вказують за базовою частотою, без урахування Turbo Boost, автоматичного розгону та піків навантаження, тому реальне споживання і тепловиділення може бути в 1,5&ndash;2 рази вищим за заявлене. Наприклад, процесор із заявленим TDP 65 Вт у режимі турбо може споживати 100 Вт і більше. Тому, щоб уникнути перегріву процесора, бажано обирати кулер із запасом потужності не менше 30&ndash;50 %, а для процесорів із розблокованим множником (K, X) і топових моделей запас має бути ще більшим.</strong></p><p>&nbsp;</p><p>Комплектація:<br/>- кулер;<br/>- рамка для кріплення на сокети Intel;<br/>- пакетик (тюбик) термопасти.</p><p>У різних партіях поставки товару можливі незначні зовнішні відмінності від фото, які не впливають на продуктивність та технічні характеристики кулера. Загальний зовнішній вигляд товару та технічні характеристики не змінюються.</p><span></span> ]]>
+</description_ua>
+<stock_quantity>5</stock_quantity>
+<param name="Тип охолодження">Активне</param>
+<param name="Кількість вентиляторів">1</param>
+<param name="Призначення">Для процесорів</param>
+<param name="Вид">Кулери</param>
+<param name="Розмір вентилятора">120 мм</param>
+<param name="Сокет">Socket 1150;Socket 1151;Socket 1155;Socket 1156;Socket 1366;Socket 1356;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 1200;Socket 1700;Socket 1851</param>
+<param name="Частота обертів">1600 об/хв</param>
+<param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
+<param name="Матеріал радіатора">Алюміній - мідь</param>
+<param name="Роз'єми живлення">3-pin</param>
+<param name="Підсвічування">FRGB</param>
+<param name="Гарантія">12 месяців</param>
+<param name="Максимальний TDP">125 Вт</param>
+<param name="Конструкція">Top Flow (горизонтальна)</param>
+<param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
+</offer>
+<offer id="2953233172" available="true">
+<url>https://kozatchok.prom.ua/p2953233172-ohlazhdenie-kuler-dlya.html</url>
+<price>590</price>
+<currencyId>UAH</currencyId>
+<categoryId>212</categoryId>
+<picture>https://images.prom.ua/7135099833_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810094_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/6730810095_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/7135101469_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064263_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/5359064262_ohlazhdenie-kuler-dlya.jpg</picture>
+<picture>https://images.prom.ua/2125424823_ohlazhdenie-kuler-dlya.jpg</picture>
+<name>Охлаждение кулер для процессора QiuZhi Tech QZ-850 3-pin 120 мм LED подсветка TDP 125 Вт (№10854.1) сокет LGA 2011/2066 AM2/AM2+/AM3/AM3+/AM4/AM5</name>
+<name_ua>Охолодження кулер для процесора QiuZhi Tech QZ-850 3-pin 120 мм LED підсвітка TDP 125 Вт (№10854.1) сокет LGA 2011/2066 AM2/AM2+/AM3/AM3+/AM4/AM5</name_ua>
+<vendor>Без бренда</vendor>
+<description>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охлаждение для процессора QZ-850</h2><p>Компактный процессорный кулер с 4 медными тепловыми трубками и 120 мм вентилятором горизонтального типа. Обеспечивает эффективное охлаждение не только процессора, но и окружающих компонентов, включая VRM (системы питания). Подходит для сборок в корпусах с ограниченным пространством (HTPC, Mini-ITX), совместим с популярными сокетами Intel и AMD. Идеальный выбор для систем с TDP до 100&ndash;125 Вт.</p><p>Крепление для &nbsp;сокета&nbsp;</p><p>Intel <strong>LGA 2011 (2011-3) /2066</strong>&nbsp;- через рамку переходник (в комплекте)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4/AM5&nbsp;&nbsp;FM1/FM2/FM2+</strong></p><p>&nbsp;</p><p><font><font>Размер В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип подшипника: гидродинамический</font></font><br/><font><font>Размер вентилятора: 120 х&nbsp;120 х 25&nbsp;мм&nbsp;</font></font><br/><font><font>Номинальное напряжение: 12V</font></font><br/><font><font>Максимальная скорость: </font></font><font><font>1600</font></font><font><font>&nbsp;&plusmn; 10% об / мин&nbsp;</font></font><br/><font><font>Шум: 25 dBA&nbsp;</font></font></p><p><font><font>Вес: 300 грамм</font></font></p><p>Разъем подключения: <strong>3-pin</strong></p><p><strong>Разноцветная LED подсветка.</strong><br/><strong>Подсветка по окружности корпуса вентилятора (вокруг крыльчатки)</strong> &ndash; светодиоды расположены в виде кольца внутри рамки вентилятора. Светящийся ободок вокруг лопастей, образуя четкое световое кольцо.</p><p><strong>Теплопакет (TDP): 125 Вт</strong></p><p><strong>Обратите внимание! Показатель TDP кулера (теплопакет) означает, какое количество тепла он может рассеивать в стабильном режиме. Для старых процессоров (приблизительно к 2017-2019 годам) заявленный TDP почти совпадал с реальным тепловыделением, поэтому кулера на 125 Вт хватало для процессора на 125 Вт. В современных процессорах TDP указывают по базовой частоте, без учета Turbo Boost, автоматического разгона и пиков нагрузки, поэтому реальное потребление и тепловыделение может быть в 1,5&ndash;2 раза выше заявленного. К примеру, процессор с заявленным TDP 65 Вт в режиме турбо может потреблять 100 Вт и более. Поэтому во избежание перегрева процессора желательно выбирать кулер с запасом мощности не менее 30&ndash;50 %, а для процессоров с разблокированным множителем (K, X) и топовых моделей запас должен быть еще больше.</strong></p><p>&nbsp;</p><p>Комплектация:<br/>- кулер;<br/>- рамка для крепления на сокеты Intel;<br/>- пакетик (тюбик) термопасти.</p><p>В различных партиях поставки товара возможны незначительные внешние различия от фото, которые не влияют на производительность и технические характеристики кулера. Общий внешний вид товара и технические характеристики не меняются.</p><span></span> ]]>
+</description>
+<description_ua>
+<![CDATA[ <h2><span style="font-size:12pt"></span></h2><h2>Охолодження для процесора QZ-850</h2><p>Компактний процесорний кулер з 4 мідними тепловими трубками та 120 мм вентилятором горизонтального типу. Забезпечує ефективне охолодження не лише процесора, а й навколишніх компонентів, зокрема VRM (системи живлення). Підходить для збірок у корпусах з обмеженим простором (HTPC, Mini-ITX), сумісний із популярними сокетами Intel та AMD. Ідеальний вибір для систем із TDP до 100&ndash;125 Вт.</p><p>Чотири мідних теплових трубки 6 мм.</p><p>Кріплення для сокета</p><p>Intel<strong> LGA 2011 (2011-3) /2066</strong>&nbsp;- через рамку перехідник (в комплекті)</p><p>AMD <strong>AM2/AM2+/AM3/AM3+/AM4/AM5&nbsp;FM1/FM2/FM2+</strong></p><p>&nbsp;</p><p><font><font>Розмір В х Ш х Г : 80 х 125 х 125 мм&nbsp;</font></font><br/><font><font>Тип підшипника: гідродинамічний</font></font><br/><font><font>Розмір вентилятора: 120 х 120 х 25 мм </font></font><br/><font><font>Номінальна напруга: 12V</font></font><br/><font><font>Максимальна швидкість: 1600 &plusmn; 10% об / хв </font></font><br/><font><font>Шум: 25 dBA </font></font></p><p><font><font>Вага: 300 грам</font></font></p><p>Роз&#39;єм підключення: <strong>3-pin</strong></p><p><strong>Різнокольорова&nbsp;LED підсвітка.&nbsp;</strong><br/><strong>Підсвітка по колу корпусу вентилятора (навколо крильчатки)</strong> &ndash; світлодіоди розташовані у вигляді кільця всередині рамки вентилятора. Світиться обідок навколо лопатей, утворюючи чітке світлове кільце.</p><p><font><font><strong>Теплопакет (</strong></font></font><strong>TDP)</strong><font><font><strong>&nbsp;: 125 Вт</strong></font></font></p><p><strong>Зверніть увагу! Показник TDP кулера (теплопакет) означає, яку кількість тепла він здатен розсіювати в стабільному режимі. Для старих процесорів (приблизно до 2017&ndash;2019 років) заявлений TDP майже збігався з реальним тепловиділенням, тому кулера на 125 Вт вистачало для процесора на 125 Вт. У сучасних процесорах TDP вказують за базовою частотою, без урахування Turbo Boost, автоматичного розгону та піків навантаження, тому реальне споживання і тепловиділення може бути в 1,5&ndash;2 рази вищим за заявлене. Наприклад, процесор із заявленим TDP 65 Вт у режимі турбо може споживати 100 Вт і більше. Тому, щоб уникнути перегріву процесора, бажано обирати кулер із запасом потужності не менше 30&ndash;50 %, а для процесорів із розблокованим множником (K, X) і топових моделей запас має бути ще більшим.</strong></p><p>&nbsp;</p><p>Комплектація:<br/>- кулер;<br/>- рамка для кріплення на сокети Intel;<br/>- пакетик (тюбик) термопасти.</p><p>У різних партіях поставки товару можливі незначні зовнішні відмінності від фото, які не впливають на продуктивність та технічні характеристики кулера. Загальний зовнішній вигляд товару та технічні характеристики не змінюються.</p><p>&nbsp;</p><span></span> ]]>
+</description_ua>
+<stock_quantity>5</stock_quantity>
+<param name="Тип охолодження">Активне</param>
+<param name="Кількість вентиляторів">1</param>
+<param name="Призначення">Для процесорів</param>
+<param name="Вид">Кулери</param>
+<param name="Розмір вентилятора">120 мм</param>
+<param name="Сокет">Socket 2011;Socket 2066;Socket AM2;Socket AM2+;Socket AM3;Socket AM3+;Socket FM1;Socket FM2;Socket FM2+;Socket AM4;Socket AM5;Socket 2011-3</param>
+<param name="Частота обертів">1600 об/хв</param>
+<param name="Тип підшипника">Гідродинамічний підшипник (FDB)</param>
+<param name="Матеріал радіатора">Алюміній - мідь</param>
+<param name="Роз'єми живлення">3-pin</param>
+<param name="Підсвічування">FRGB</param>
+<param name="Гарантія">12 месяців</param>
+<param name="Максимальний TDP">125 Вт</param>
+<param name="Конструкція">Top Flow (горизонтальна)</param>
 <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 </offer>
     </offers>
