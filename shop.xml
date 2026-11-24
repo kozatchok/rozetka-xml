@@ -15313,7 +15313,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
  <param name="Доставка/Оплата">Відправка замовлень протягом 1-3 робочих днів (переважно відправка в понеділок, середу, п'ятницю).  В зв'язку з перебоями електропостачання та інтернету можливі затримки в опрацюванні замовлень. В деяких індивідуальних випадках необхідна передплата.</param>
 <param name="Дополнительно">Упаковка ОЕМ</param>
 </offer>
-<offer id="1637012839" available="true">
+<offer id="1637012839" available="false">
 <url>https://kozatchok.prom.ua/p1637012839-ventilyator-powerlogic-dlya.html</url>
 <price>640</price>
 <currencyId>UAH</currencyId>
@@ -15327,7 +15327,7 @@ RTX 3060 Ti Dual Mini OC</strong></p>
 <picture>https://images.prom.ua/fVWsePfrUjK4rm4FPVppUxtf7QAqR2rlvjBER5DPiG4=/3846859094_ventilyator-powerlogic-dlya.jpg</picture>
 <picture>https://images.prom.ua/HKn1SgQ41QkuVuKaH3EJwT3nwHDe6YEudWv5zNrdRxE=/3846859095_ventilyator-powerlogic-dlya.jpg</picture>
 <vendor>PowerLogic</vendor>
-<stock_quantity>2</stock_quantity>
+<stock_quantity>0</stock_quantity>
 <name>Вентилятор PowerLogic для видеокарты MSI RX 5600 XT 5700 XT Gaming 95 мм PLD10010S12HH (PLD10010B12HH) комплект 2 шт (№386.005)</name>
 <name_ua>Вентилятор PowerLogic для відеокарти MSI RX 5600 XT 5700 XT Gaming 95 мм PLD10010S12HH (PLD10010B12HH) комплект 2 шт (№386.005)</name_ua>
 <description>
